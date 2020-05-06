@@ -302,7 +302,7 @@
         <item>Never</item>
     </string-array>
     <string-array name="prefValues_alerts_popup">
-        <item>none</item>
+        <item>هیچ یک</item>
         <item>all</item>
         <item>smart</item>
     </string-array>

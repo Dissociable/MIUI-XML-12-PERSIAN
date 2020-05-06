@@ -19,15 +19,15 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="activity_title_ad">Ads</string>
   <string name="activity_title_apk">Packages</string>
   <string name="activity_title_brightness_image">Under and overexposed</string>
@@ -144,7 +144,7 @@
   <string name="btn_text_quick_cleanup_video">Delete selected videos %1$s</string>
   <string name="btn_text_quick_scan">Scan</string>
   <string name="btn_text_stop">توقف</string>
-  <string name="button_agree">Agree</string>
+  <string name="button_agree">موافق</string>
   <string name="button_deny">"Don't agree"</string>
   <string name="button_text_add_to_white_list">Exception</string>
   <string name="button_text_backup_uninstall">Back up first</string>
@@ -164,7 +164,7 @@
   <string name="button_text_photo_selected">Selected</string>
   <string name="button_text_restore_ignore">Undo</string>
   <string name="button_text_select_all">Select</string>
-  <string name="button_text_select_all_photos">Select all</string>
+  <string name="button_text_select_all_photos">انتخاب همه</string>
   <string name="button_text_select_pic">Select</string>
   <string name="button_text_uninstall">Uninstall</string>
   <string name="button_text_uninstall_only">Uninstall %s</string>
@@ -195,7 +195,7 @@
   <string name="clean_content_one">1 item</string>
   <string name="clean_content_three">3 items</string>
   <string name="clean_content_two">2 items</string>
-  <string name="clean_content_zero">None</string>
+  <string name="clean_content_zero">هیچ یک</string>
   <string name="clean_summary">Cleared %1$s</string>
   <string name="clear_bigfiles">Delete big files, duplicate photos, and other obsolete items</string>
   <string name="clear_immediately">Clean now</string>
@@ -228,7 +228,7 @@
   <string name="deep_clean_uninstall_completed_tips">Uninstalled successfully</string>
   <string name="deepclean_1_k_clean">Clear memory</string>
   <string name="deepclean_apk_content">Delete APKs or unnecessary apps</string>
-  <string name="deepclean_apk_group_hint_checked">Select all</string>
+  <string name="deepclean_apk_group_hint_checked">انتخاب همه</string>
   <string name="deepclean_apk_group_hint_unchecked">لغو انتخاب همه</string>
   <string name="deepclean_apk_summary_empty">Everything looks good, no APKs to delete</string>
   <string name="deepclean_apk_version_error">ناشناخته</string>
@@ -279,14 +279,14 @@
   <string name="dialog_ok_add_white_list_error">فهمیدم</string>
   <string name="dialog_title_add_white_list_error">Attention</string>
   <string name="dialog_title_backup_and_uninstall_apps">Backup and uninstall</string>
-  <string name="dialog_title_check_all">Select all</string>
+  <string name="dialog_title_check_all">انتخاب همه</string>
   <string name="dialog_title_delete_image">Delete selected images</string>
   <string name="dialog_title_esc_cleanmaster">Exit Cleaner</string>
   <string name="dialog_title_load_cleanup_engine_error">Something went wrong</string>
   <string name="dialog_title_stop_scan">Stop scanning</string>
   <string name="dialog_title_uninstall_apps">Uninstall</string>
-  <string name="download">Download</string>
-  <string name="downloading">Downloading</string>
+  <string name="download">دریافت</string>
+  <string name="downloading">درحال دریافت</string>
   <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Empty</string>
   <string name="empty_content_no_privacy">Empty</string>
@@ -455,7 +455,7 @@
   <string name="information_setting">Recommendations</string>
   <string name="install_sucess">Installed %s successfully</string>
   <string name="installed">Installed</string>
-  <string name="installing">Installing</string>
+  <string name="installing">درحال نصب</string>
   <string name="item_title_process_mode">Choose an action</string>
   <string name="junk_syscache_alert_desc">我们不建议清理这个缓存,&lt;font color=#d64438&gt;清理后会影响APP正常运行&lt;/font&gt;</string>
   <string name="junk_tag_RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
@@ -529,12 +529,12 @@
   <string name="junk_tag_system_fixed_cache_item_sd_pushLog_title">GDC推送日志</string>
   <string name="just_now">Just now</string>
   <string name="kilobyteShort">KB</string>
-  <string name="label_image_list_none">None</string>
+  <string name="label_image_list_none">هیچ یک</string>
   <string name="label_preserve_the_best_image">Save the sharpest photos</string>
   <string name="last_check_canceled">Previous scan was canceled</string>
   <string name="load_only_under_wlan">Load using only Wi-Fi</string>
   <string name="location_not_found">"Couldn't find file"</string>
-  <string name="login_immediately">Sign in</string>
+  <string name="login_immediately">ورود به حساب</string>
   <string name="long_click_dialog_summary">Long press to add to exceptions.</string>
   <string name="long_click_dialog_title">Notice</string>
   <string name="low_memory_clean_dialog_msg">Clear at least 100MB files first</string>
@@ -546,7 +546,7 @@
   <string name="low_memory_warning_dialog_title">Not enough free space</string>
   <string name="main_title_filesize">%1$s trash</string>
   <string name="main_total_garbage">Trash size</string>
-  <string name="mainbtn_text_no_trash">Skip</string>
+  <string name="mainbtn_text_no_trash">پرش</string>
   <string name="mainbtn_text_quick_cleanup">Clean up %s</string>
   <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
   <string name="megabyteShort">MB</string>
@@ -615,7 +615,7 @@
   <string name="pref_category_title_engine_settings">Scan definition settings</string>
   <string name="pref_category_title_garbage_cleanup_check">Notifications</string>
   <string name="pref_category_title_other_clean_settings">Additional settings</string>
-  <string name="pref_content_cleanup_white_list_none">None</string>
+  <string name="pref_content_cleanup_white_list_none">هیچ یک</string>
   <string name="pref_summary_auto_clean_and_alert">Schedule cleaner to run automatically</string>
   <string name="pref_summary_auto_update_cleanup_db">Last updated %s</string>
   <string name="pref_summary_cleanup_white_list">Prevent selected files from being cleaned up</string>
@@ -705,15 +705,15 @@
   <string name="resutl_function_deep_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; more files can be cleared. Free up more space.&lt;/Data&gt;</string>
   <string name="resutl_function_qq_clean_summary">&lt;Data&gt;You can clear &amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; of cache generated by QQ&lt;/Data&gt;</string>
   <string name="resutl_function_wechat_clean_summary">&lt;Data&gt;&amp;lt;font color=#ff0000 &amp;gt;%1$s&amp;lt;/font&amp;gt; of WeChat cache. Free up more space.&lt;/Data&gt;</string>
-  <string name="sc_allow_network_dialog_button">Allow</string>
+  <string name="sc_allow_network_dialog_button">مجاز</string>
   <string name="sc_allow_network_dialog_message">Allow this app to connect to the internet to receive updates?</string>
   <string name="scanning">Scanning…</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="security_center_slogan">Keep your device fast and secure</string>
-  <string name="see_more">More</string>
+  <string name="see_more">بیشتر</string>
   <string name="set_immediately">Set</string>
   <string name="seton_immediately">روشن</string>
-  <string name="share">Share</string>
+  <string name="share">اشتراک</string>
   <string name="similar_image_desc">Delete similar photos</string>
   <string name="similar_image_empty">No duplicates found</string>
   <string name="similar_image_scaning">Checking…</string>
@@ -773,7 +773,7 @@
   <string name="storage_item_other_name">Other</string>
   <string name="storage_item_picture_name">Images</string>
   <string name="storage_item_system_name">سیستم</string>
-  <string name="storage_item_video_name">Video</string>
+  <string name="storage_item_video_name">ویدئو</string>
   <string name="storage_space_release_hint">Need more storage space?</string>
   <string name="summary_auto_cleaner">Receive notifications every time trash size reaches 100MB?</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>

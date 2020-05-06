@@ -31,18 +31,18 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
   <string name="abc_slice_error">"Couldn't connect"</string>
-  <string name="abc_slice_more">More</string>
+  <string name="abc_slice_more">بیشتر</string>
   <string name="abc_slice_more_content">+ %1$d</string>
-  <string name="abc_slice_permission_allow">Allow</string>
+  <string name="abc_slice_permission_allow">مجاز</string>
   <string name="abc_slice_permission_checkbox">Allow %1$s to show slices from any app</string>
   <string name="abc_slice_permission_deny">Deny</string>
   <string name="abc_slice_permission_text_1">- It can read information from %1$s</string>
@@ -51,7 +51,7 @@
   <string name="abc_slice_show_more">Show more</string>
   <string name="abc_slice_updated">Updated %1$s</string>
   <string name="abc_slices_permission_request">%1$s wants to show %2$s slices</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="about_ad_service_instructions">About ad services and privacy​</string>
   <string name="about_phone_device_name_warning">Your device name is visible to apps on your phone. It may also be seen by other people when you connect to Bluetooth devices or set up a WLAN hotspot.</string>
   <string name="about_phone_enter_xiaomi_net">Learn more</string>
@@ -89,7 +89,7 @@ Not all apps support this setting."</string>
   <string name="accessibility_control_timeout_preference_title">Time to take action</string>
   <string name="accessibility_daltonizer_master_switch_title">Use color correction</string>
   <string name="accessibility_description_state_stopped">This service is malfunctioning.</string>
-  <string name="accessibility_dialog_button_allow">Allow</string>
+  <string name="accessibility_dialog_button_allow">مجاز</string>
   <string name="accessibility_dialog_button_cancel">لغو</string>
   <string name="accessibility_dialog_button_deny">Deny</string>
   <string name="accessibility_dialog_button_stop">توقف</string>
@@ -234,7 +234,7 @@ To switch between services, swipe up with two fingers and hold."</string>
   <string name="accessibility_wifi_three_bars">Wifi three bars.</string>
   <string name="accessibility_wifi_two_bars">Wifi two bars.</string>
   <string name="accessibility_work_account_title">Work account - %s</string>
-  <string name="account_add">Add</string>
+  <string name="account_add">افزودن</string>
   <string name="account_autostar_label">Autostart</string>
   <string name="account_confirmation_class" />
   <string name="account_confirmation_package" />
@@ -275,7 +275,7 @@ To switch between services, swipe up with two fingers and hold."</string>
   <string name="adb_keys_warning_message">Revoke access to USB debugging from all computers you’ve previously authorized?</string>
   <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification, and read log data.</string>
   <string name="adb_warning_title">Allow USB debugging?</string>
-  <string name="add">Add</string>
+  <string name="add">افزودن</string>
   <string name="add_a_language">Add a language</string>
   <string name="add_account_label">Add account</string>
   <string name="add_auto_startup_application">Add autostart apps</string>
@@ -304,7 +304,7 @@ To switch between services, swipe up with two fingers and hold."</string>
   <string name="add_fingerprint_text">Add fingerprint</string>
   <string name="add_fingerprint_toast_text">Put your finger on the sensor</string>
   <string name="add_front_fingerprint_instruction_msg">Fingerprint sensor is on the Home button of your device.</string>
-  <string name="add_new">Add</string>
+  <string name="add_new">افزودن</string>
   <string name="add_rule">Add rules</string>
   <string name="add_virtual_keyboard">Manage keyboards</string>
   <string name="adding_profile_owner_warning">"By proceeding, your user will be managed by your admin which may also be able to store associated data, in addition to your personal data.
@@ -358,7 +358,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="alarm_volume_option_title">Alarm volume</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Volumes</string>
-  <string name="allow">Allow</string>
+  <string name="allow">مجاز</string>
   <string name="allow_bind_app_widget_activity_allow_bind">After you create the widget, %1$s can access all data it displays.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Create widget and allow access?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">Always allow %1$s to create widgets and access their data</string>
@@ -427,7 +427,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Authentication type</string>
   <string name="apn_auth_type_chap">CHAP</string>
-  <string name="apn_auth_type_none">None</string>
+  <string name="apn_auth_type_none">هیچ یک</string>
   <string name="apn_auth_type_pap">PAP</string>
   <string name="apn_auth_type_pap_chap">PAP or CHAP</string>
   <string name="apn_chinaunicom_3gnet_general">沃3G连接互联网</string>
@@ -489,7 +489,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="app_link_open_never">"Don't open"</string>
   <string name="app_link_title">Additional settings in the app</string>
   <string name="app_list_memory_use">App usage</string>
-  <string name="app_list_preference_none">None</string>
+  <string name="app_list_preference_none">هیچ یک</string>
   <string name="app_memory_use">Memory use</string>
   <string name="app_mobile">Mobile data</string>
   <string name="app_name">Preference</string>
@@ -536,7 +536,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="application_info_label">App info</string>
   <string name="application_item_already_permission">Allowed</string>
   <string name="application_item_disable">Deny</string>
-  <string name="application_item_permission">Allow</string>
+  <string name="application_item_permission">مجاز</string>
   <string name="application_lock_name">App lock</string>
   <string name="application_manager_section_title">برنامه ها</string>
   <string name="application_permission_manager">App permissions</string>
@@ -552,7 +552,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="apply_fingerprint_to_category_title">Apply fingerprint to…</string>
   <string name="apply_now_button_text">بروزرسانی</string>
   <string name="apply_password_to_category_title">Require unlock</string>
-  <string name="apply_update_fail">"Couldn't update"</string>
+  <string name="apply_update_fail">"مشکل در بروز کردن"</string>
   <string name="approve_title">Certification</string>
   <string name="apps_storage">Apps storage</string>
   <string name="apps_summary">%1$d apps installed</string>
@@ -573,7 +573,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="assist_footer">Assist apps can help you based on information from the screen you’re viewing. Some apps support both launcher and voice input services to give you integrated assistance.</string>
   <string name="assist_gesture_title">Assist gesture</string>
   <string name="assistant_security_warning">The assistant will be able to read information about apps in use on your system, including information visible on your screen or accessible within the apps.</string>
-  <string name="assistant_security_warning_agree">Agree</string>
+  <string name="assistant_security_warning_agree">موافق</string>
   <string name="assistant_security_warning_disagree">Disagree</string>
   <string name="assistant_security_warning_title">Make %s your assistant?</string>
   <string name="assisted_gps">Use assisted GPS</string>
@@ -922,7 +922,7 @@ Apps:
   <string name="billing_cycle_fragment_summary">Monthly on day %1$s</string>
   <string name="billing_cycle_less_than_one_day_left">Less than 1 day left</string>
   <string name="billing_cycle_none_left">No time remaining</string>
-  <string name="bind_xiaomi_account_confirm">Add</string>
+  <string name="bind_xiaomi_account_confirm">افزودن</string>
   <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it."</string>
   <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
   <string name="biometric_weak_improve_matching_title">Improve face matching</string>
@@ -1160,7 +1160,7 @@ Here's what might be wrong:
   <string name="bluetooth_scanning_on_info_message">"When Bluetooth is turned on, your device can communicate with other nearby Bluetooth devices.
 
 To improve device experience, apps and services can still scan for nearby devices at any time, even when Bluetooth is off. This can be used, for example, to improve location-based features and services. you can change this in "&lt;annotation id="link"&gt;scanning settings&lt;/annotation&gt;.</string>
-  <string name="bluetooth_search_for_devices">Refresh</string>
+  <string name="bluetooth_search_for_devices">تازه سازی</string>
   <string name="bluetooth_searching_for_devices">Searching…</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth audio aptX adaptive mode</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Trigger Bluetooth audio
@@ -1281,7 +1281,7 @@ Selection"</string>
   <string name="bootloader_status_privacy_dialog_no">لغو</string>
   <string name="bootloader_status_privacy_dialog_title">Permissions required</string>
   <string name="bootloader_status_privacy_dialog_url_text">Privacy Policy</string>
-  <string name="bootloader_status_privacy_dialog_yes">Agree</string>
+  <string name="bootloader_status_privacy_dialog_yes">موافق</string>
   <string name="bootloader_status_summary">Check if the device is locked</string>
   <string name="bootloader_status_unlocked">Unlocked</string>
   <string name="bootloader_status_unlocked_info">This device is unlocked</string>
@@ -1354,7 +1354,7 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="button_text_accept">قبول</string>
   <string name="button_text_accept_timer">Accept (%d)</string>
   <string name="button_text_cancel">لغو</string>
-  <string name="button_text_login">Sign in</string>
+  <string name="button_text_login">ورود به حساب</string>
   <string name="button_text_next_step">بعد</string>
   <string name="button_text_next_step_timer">Next step (%d)</string>
   <string name="button_text_ok">باشه</string>
@@ -1399,7 +1399,7 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="camera_key_action_shortcut_call">Call</string>
   <string name="camera_key_action_shortcut_home">Home screen</string>
   <string name="camera_key_action_shortcut_screenshot">Screenshot</string>
-  <string name="camera_key_action_shortcut_search">Search</string>
+  <string name="camera_key_action_shortcut_search">جستجو</string>
   <string name="camera_key_action_shortcut_title">Shortcut</string>
   <string name="camera_key_action_shortcut_wake">Lock device</string>
   <string name="camera_key_action_title">Mi Button</string>
@@ -1582,7 +1582,7 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="color_mode_summary_automatic">Adjust between vivid and accurate colors</string>
   <string name="color_mode_summary_natural">Use accurate colors only</string>
   <string name="color_mode_title">Colors</string>
-  <string name="color_none">None</string>
+  <string name="color_none">هیچ یک</string>
   <string name="color_orange">Orange</string>
   <string name="color_purple">Purple</string>
   <string name="color_red">Red</string>
@@ -1605,7 +1605,7 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="condition_battery_summary">Features restricted</string>
   <string name="condition_battery_title">Battery Saver is on</string>
   <string name="condition_bg_data_summary">Features restricted</string>
-  <string name="condition_bg_data_title">Data Saver</string>
+  <string name="condition_bg_data_title">بهینه سازی داده مصرفی</string>
   <string name="condition_cellular_summary">Internet only available via WLAN</string>
   <string name="condition_cellular_title">Mobile data is off</string>
   <string name="condition_device_muted_action_turn_on_sound">Turn on sound</string>
@@ -1658,7 +1658,7 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="configure_notification_settings">Notifications</string>
   <string name="configure_section_header">Configure</string>
   <string name="confirm_action">باشه</string>
-  <string name="confirm_bind_xiaomi_account_dialog_title">Add</string>
+  <string name="confirm_bind_xiaomi_account_dialog_title">افزودن</string>
   <string name="confirm_convert_to_fbe_warning">Really wipe user data and convert to file encryption?</string>
   <string name="confirm_device_credential_password">Use password</string>
   <string name="confirm_device_credential_pattern">Use pattern</string>
@@ -1850,7 +1850,7 @@ To resume using your phone, you need to perform a factory reset. When you set up
   <string name="data_saver_off">Off</string>
   <string name="data_saver_on">On</string>
   <string name="data_saver_switch_title">Use Data Saver</string>
-  <string name="data_saver_title">Data Saver</string>
+  <string name="data_saver_title">بهینه سازی داده مصرفی</string>
   <string name="data_size_label">User data</string>
   <string name="data_summary_format">%1$s used since %2$s</string>
   <string name="data_switch_started">Switching data SIM, this may take up to a minute...</string>
@@ -1902,7 +1902,7 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="data_usage_limit_dialog_title">Limiting data usage</string>
   <string name="data_usage_limit_editor_title">Set data usage limit</string>
   <string name="data_usage_list_mobile">Mobile</string>
-  <string name="data_usage_list_none">None</string>
+  <string name="data_usage_list_none">هیچ یک</string>
   <string name="data_usage_menu_allow_background">Allow background data</string>
   <string name="data_usage_menu_auto_sync">Auto-sync data</string>
   <string name="data_usage_menu_hide_ethernet">Hide Ethernet usage</string>
@@ -2246,7 +2246,7 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
   <string name="dndm_auto_time_turn_on_title">Automatically turn on do not disturb</string>
   <string name="dndm_dlg_remove_ok">Remove</string>
   <string name="dndm_dlg_remove_vip">Calls from this person will be silenced when do not disturb is on.</string>
-  <string name="dndm_menu_add_vip_custom">Add</string>
+  <string name="dndm_menu_add_vip_custom">افزودن</string>
   <string name="dndm_mute_all">Calls and messages are being silenced.</string>
   <string name="dndm_notification">Do not disturb is on</string>
   <string name="dndm_open">Do not disturb</string>
@@ -2494,7 +2494,7 @@ For more details, contact your organization's admin."</string>
   <string name="enterprise_privacy_lock_device">Admin can lock the device and reset password</string>
   <string name="enterprise_privacy_microphone_access">Microphone permissions</string>
   <string name="enterprise_privacy_network_logs">Most recent network traffic log</string>
-  <string name="enterprise_privacy_none">None</string>
+  <string name="enterprise_privacy_none">هیچ یک</string>
   <string name="enterprise_privacy_security_logs">Most recent security log</string>
   <string name="enterprise_privacy_settings">Managed device info</string>
   <string name="enterprise_privacy_settings_summary_generic">Changes &amp; settings managed by your organization</string>
@@ -2599,7 +2599,7 @@ For more details, contact your organization's admin."</string>
   <string name="face_unlock_stay_away_screen">Stay 25 to 40cm away from the screen</string>
   <string name="face_unlock_success_show_message_dialog_msg">Allow Lock screen notifications to be able to view them on your Lock screen.</string>
   <string name="face_unlock_success_show_message_dialog_negative_btn">No thanks</string>
-  <string name="face_unlock_success_show_message_dialog_positive_btn">Allow</string>
+  <string name="face_unlock_success_show_message_dialog_positive_btn">مجاز</string>
   <string name="face_unlock_success_show_message_dialog_title">Lock screen notifications</string>
   <string name="face_unlock_success_show_message_msg">Show only notification source when device is locked and add notification details after face data is verified</string>
   <string name="face_unlock_success_show_message_title">Show notification details after verifying face data</string>
@@ -2629,7 +2629,7 @@ For more details, contact your organization's admin."</string>
   <string name="filter_apps_disabled">Disabled apps</string>
   <string name="filter_apps_onsdcard">USB storage</string>
   <string name="filter_apps_running">Running</string>
-  <string name="filter_apps_third_party">Downloaded</string>
+  <string name="filter_apps_third_party">دانلود شده</string>
   <string name="filter_dlg_title">Choose filter options</string>
   <string name="filter_enabled_apps">Installed apps</string>
   <string name="filter_install_sources_apps">Can install other apps</string>
@@ -2698,7 +2698,7 @@ For more details, contact your organization's admin."</string>
   <string name="finish_button">پایان</string>
   <string name="firewall_allow_all">Allow all apps to connect using the following method</string>
   <string name="firewall_allow_data">Allow mobile data usage</string>
-  <string name="firewall_allow_network">Allow</string>
+  <string name="firewall_allow_network">مجاز</string>
   <string name="firewall_allow_wlan">Allow using WLAN connection</string>
   <string name="firewall_applist">برنامه ها</string>
   <string name="firewall_mobile">Mobile data</string>
@@ -2806,7 +2806,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="free_wifi_speed_title">Slow connection?</string>
   <string name="free_wifi_summary">Tap to connect to %1$s.</string>
   <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
-  <string name="free_wifi_user_agreement_allow">Allow</string>
+  <string name="free_wifi_user_agreement_allow">مجاز</string>
   <string name="free_wifi_user_agreement_title">Privacy warning</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
   <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s.</string>
@@ -3083,7 +3083,7 @@ You can change this later from Settings &gt; Apps &amp; notifications."</string>
   <string name="home_title">Home screen</string>
   <string name="home_work_profile_not_supported">"Doesn't support work profiles"</string>
   <string name="homepage_all_settings">All Settings</string>
-  <string name="homepage_condition_footer_content_description">Collapse</string>
+  <string name="homepage_condition_footer_content_description">جمع کردن</string>
   <string name="homepage_personal_settings">Suggestions</string>
   <string name="how_backup_content">"You can save backups locally or to the cloud. Local backups can be stored on your mobile device, computer, or USB drive.
 
@@ -3158,7 +3158,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="infinity_display_title">Full screen display</string>
   <string name="information_dialog_button_text">فهمیدم</string>
   <string name="information_label">Information</string>
-  <string name="input_assistance">Tools</string>
+  <string name="input_assistance">ابزار</string>
   <string name="input_method">Keyboard</string>
   <string name="input_method_bottom_close">Off</string>
   <string name="input_method_bottom_open">On</string>
@@ -3167,12 +3167,12 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="input_method_cloud_paste_mode_bubble_des">"You'll see a bubble pop up whenever new content appears in the cloud clipboard. Tap the bubble to enter copied text."</string>
   <string name="input_method_cloud_paste_mode_bubble_title">Bubble</string>
   <string name="input_method_cloud_paste_mode_no_des">"You won't see notifications when new content appears in the cloud clipboard. However, you'll still be able to use your clipboard by tapping the icon."</string>
-  <string name="input_method_cloud_paste_mode_no_title">None</string>
+  <string name="input_method_cloud_paste_mode_no_title">هیچ یک</string>
   <string name="input_method_cloud_paste_mode_red_point_des">"You'll see a red dot at the bottom of the keyboard whenever new content appears in the cloud clipboard. Tap the icon to open the clipboard and use the copied content."</string>
   <string name="input_method_cloud_paste_mode_red_point_title">Red dot</string>
   <string name="input_method_function_clipboard">Clipboard and frequent phrases</string>
   <string name="input_method_function_clipboard_des">Tap to view clipboard contents and frequent phrases</string>
-  <string name="input_method_function_no_function">None</string>
+  <string name="input_method_function_no_function">هیچ یک</string>
   <string name="input_method_function_no_function_des">"Don't show any shortcuts"</string>
   <string name="input_method_function_switch">Switch between keyboards</string>
   <string name="input_method_function_switch_des">Tap to switch to a different keyboard</string>
@@ -3223,7 +3223,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="instruction_privacy_password">This password protects the following items</string>
   <string name="instruction_title">Important safety information</string>
   <string name="insufficient_storage">Not enough storage space.</string>
-  <string name="intent_sender_account_label">Account:</string>
+  <string name="intent_sender_account_label">حساب:</string>
   <string name="intent_sender_action_label">Action:</string>
   <string name="intent_sender_data_label">Data:</string>
   <string name="intent_sender_resource_label">Resource:</string>
@@ -3255,7 +3255,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="key_gesture_function_optional">Optional gestures and buttons</string>
   <string name="key_gesture_function_preview">Button and gesture previews</string>
   <string name="key_gesture_function_shortcut">Functional shortcuts</string>
-  <string name="key_none">None</string>
+  <string name="key_none">هیچ یک</string>
   <string name="key_operation_diagram">Operation diagram</string>
   <string name="key_position_cat">Button positions</string>
   <string name="key_settings">Button and gesture shortcuts</string>
@@ -3361,7 +3361,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="keywords_sounds_and_notifications_interruptions">dont don’t disturb, interrupt, interruption, break</string>
   <string name="keywords_spell_checker">spelling, dictionary, spellcheck, auto-correct</string>
   <string name="keywords_storage">space, disk, hard drive, device usage</string>
-  <string name="keywords_storage_files">Download</string>
+  <string name="keywords_storage_files">دریافت</string>
   <string name="keywords_storage_settings">memory, cache, data, delete, clear, free, space</string>
   <string name="keywords_sync">Sync;Synchronization;Cloud</string>
   <string name="keywords_system_alert_window">system alert window dialog display on top other apps</string>
@@ -3739,7 +3739,7 @@ as your First space PIN."</string>
   <string name="lockpattern_tutorial_continue_label">بعد</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
-  <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="lockscreen_glogin_submit_button">ورود به حساب</string>
   <string name="lockscreen_label">Lock screen</string>
   <string name="lockscreen_magazine">Wallpaper Carousel</string>
   <string name="lockscreen_magazine_india">Glance for Mi</string>
@@ -3753,7 +3753,7 @@ as your First space PIN."</string>
   <string name="login_account_dialog_message">Sign in with your Mi Account and turn on sync with the cloud.</string>
   <string name="login_account_dialog_title">Sign in with Mi Account</string>
   <string name="login_account_summary">Manage accounts, cloud services, payments, and more</string>
-  <string name="login_action">Sign in</string>
+  <string name="login_action">ورود به حساب</string>
   <string name="long_press_back_key">Long press the Back button</string>
   <string name="long_press_buttom_key">Long press Home on the Lock screen</string>
   <string name="long_press_home_key">Long press the Home button</string>
@@ -3790,7 +3790,7 @@ as your First space PIN."</string>
   <string name="manage_password_summary">Autofill saved accounts and passwords</string>
   <string name="manage_space_text">Manage space</string>
   <string name="manage_trust_agents">Trust agents</string>
-  <string name="manage_trust_agents_summary">None</string>
+  <string name="manage_trust_agents_summary">هیچ یک</string>
   <string name="manage_xiaomi_router">Mi Router settings</string>
   <string name="manage_zen_access_title">Do Not Disturb access</string>
   <string name="manageapplications_settings_summary">Manage and remove installed apps</string>
@@ -3928,11 +3928,11 @@ There are other users present on this device.
   <string name="menu_proc_stats_type_foreground">Foreground</string>
   <string name="menu_restore">Reset</string>
   <string name="menu_save">ذخیره</string>
-  <string name="menu_share">Share</string>
+  <string name="menu_share">اشتراک</string>
   <string name="menu_show_percentage">Show percentages</string>
   <string name="menu_show_system">Show system</string>
   <string name="menu_stats_last_unplugged">While last unplugged for %1$s</string>
-  <string name="menu_stats_refresh">Refresh</string>
+  <string name="menu_stats_refresh">تازه سازی</string>
   <string name="menu_stats_total">Usage totals</string>
   <string name="menu_stats_unplugged">%1$s since unplugged</string>
   <string name="menu_use_uss">Use Uss</string>
@@ -4016,11 +4016,11 @@ Continue to access additional settings."</string>
   <string name="miui_sos_launch_error_message">"Can't connect to the mobile network. Can't use Emergency SOS."</string>
   <string name="miui_sos_launching_summary">Activating Emergency SOS in %ds</string>
   <string name="miui_sos_launching_title">SOS</string>
-  <string name="miui_sos_menu_add">Add</string>
+  <string name="miui_sos_menu_add">افزودن</string>
   <string name="miui_sos_menu_edit">Edit</string>
   <string name="miui_sos_msg_call_log_prefix">"Here's my call history for the last hour:"</string>
   <string name="miui_sos_play_voice">Play SOS message</string>
-  <string name="miui_sos_remind_add">Add</string>
+  <string name="miui_sos_remind_add">افزودن</string>
   <string name="miui_sos_remind_infocontent">"I added you as my emergency contact. You'll receive a message with my location info in case I'm in danger. [Mi Emergency SOS]"</string>
   <string name="miui_sos_remind_open">Emergency SOS needs at least 1 emergency contact to work normally.</string>
   <string name="miui_sos_remind_sendinfo">"Don't forget to tell these people that they are your emergency contacts now. Thus, they will be able to help you faster in case of emergency."</string>
@@ -4124,7 +4124,7 @@ Switching to %1$s won't cancel your %2$s service."</string>
   <string name="mqs_privacy_dialog_cancel">لغو</string>
   <string name="mqs_privacy_dialog_confirm">Upload</string>
   <string name="mqs_privacy_dialog_content">Upload logs to help us locate and solve this problem? Logs may contain your personal info, including the info about your location.</string>
-  <string name="mqs_privacy_dialog_title">An error occurred</string>
+  <string name="mqs_privacy_dialog_title">خطایی رخ داده است</string>
   <string name="mr_button_content_description">Cast button</string>
   <string name="mr_cast_button_connected">Cast button. Connected</string>
   <string name="mr_cast_button_connecting">Cast button. Connecting</string>
@@ -4135,7 +4135,7 @@ Switching to %1$s won't cancel your %2$s service."</string>
   <string name="mr_controller_album_art">Album art</string>
   <string name="mr_controller_casting_screen">Casting screen</string>
   <string name="mr_controller_close_description">بستن</string>
-  <string name="mr_controller_collapse_group">Collapse</string>
+  <string name="mr_controller_collapse_group">جمع کردن</string>
   <string name="mr_controller_disconnect">قطع اتصال</string>
   <string name="mr_controller_expand_group">Expand</string>
   <string name="mr_controller_no_info_available">No info available</string>
@@ -4283,7 +4283,7 @@ Select your operating system:"</string>
   <string name="network_scorer_change_active_dialog_text">Use %1$s instead of %2$s to manage your network connections?</string>
   <string name="network_scorer_change_active_dialog_title">Change WLAN assistant?</string>
   <string name="network_scorer_change_active_no_previous_dialog_text">Use %s to manage your network connections?</string>
-  <string name="network_scorer_picker_none_preference">None</string>
+  <string name="network_scorer_picker_none_preference">هیچ یک</string>
   <string name="network_scorer_picker_title">Network rating provider</string>
   <string name="network_select_title">Network</string>
   <string name="network_settings_title">Mobile networks</string>
@@ -4301,7 +4301,7 @@ Select your operating system:"</string>
   <string name="new_backup_pw_prompt">Type a new password for full backups here</string>
   <string name="new_password_to_new_fingerprint_dialog_msg">Add your fingerprint to unlock your device with it.</string>
   <string name="new_password_to_new_fingerprint_dialog_negative_msg">لغو</string>
-  <string name="new_password_to_new_fingerprint_dialog_positive_msg">Add</string>
+  <string name="new_password_to_new_fingerprint_dialog_positive_msg">افزودن</string>
   <string name="new_password_to_new_fingerprint_dialog_tittle">Add fingerprint</string>
   <string name="next_button_label">بعد</string>
   <string name="next_label">بعد</string>
@@ -4357,7 +4357,7 @@ Select your operating system:"</string>
   <string name="night_display_activation_on_manual">Turn on now</string>
   <string name="night_display_activation_on_twilight">Turn on until sunrise</string>
   <string name="night_display_auto_mode_custom">Turns on at custom time</string>
-  <string name="night_display_auto_mode_never">None</string>
+  <string name="night_display_auto_mode_never">هیچ یک</string>
   <string name="night_display_auto_mode_title">Schedule</string>
   <string name="night_display_auto_mode_twilight">Turns on from sunset to sunrise</string>
   <string name="night_display_end_time_title">End time</string>
@@ -4377,7 +4377,7 @@ Select your operating system:"</string>
   <string name="night_display_temperature_title">Intensity</string>
   <string name="night_display_text">Night Light tints your screen amber. This makes it easier to look at your screen or read in dim light, and may help you fall asleep more easily.</string>
   <string name="night_display_title">Night Light</string>
-  <string name="night_light">Night mode</string>
+  <string name="night_light">حالت شب</string>
   <string name="night_light_brightness">Night mode brightness</string>
   <string name="night_light_color">Night mode color temperature</string>
   <string name="night_light_color_tip">Changes will take effect when Reading mode is off</string>
@@ -4401,7 +4401,7 @@ Select your operating system:"</string>
   <string name="no_media_button_receiver">No</string>
   <string name="no_memory_use_summary">No memory used in last 3 hours</string>
   <string name="no_nearby_wifi">No networks detected</string>
-  <string name="no_notification_assistant">None</string>
+  <string name="no_notification_assistant">هیچ یک</string>
   <string name="no_notification_listeners">No installed apps have requested notification access.</string>
   <string name="no_running_services">Nothing running.</string>
   <string name="no_services">No active services</string>
@@ -4414,7 +4414,7 @@ Select your operating system:"</string>
   <string name="no_updates_warning2">"We'll let you know when an update becomes available."</string>
   <string name="no_vr_listeners">No installed apps have requested to be run as VR helper services.</string>
   <string name="noise_suppression">Ambient noise suppression</string>
-  <string name="none">None</string>
+  <string name="none">هیچ یک</string>
   <string name="normal">Regular</string>
   <string name="normal_info">All sounds will work normally</string>
   <string name="normal_smartcover_title">Opaque front cover</string>
@@ -4452,7 +4452,7 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="notification_assistant_title">Adaptive Notifications</string>
   <string name="notification_badge_title">Allow notification dot</string>
   <string name="notification_badging_title">Allow notification dots</string>
-  <string name="notification_block_title">Block</string>
+  <string name="notification_block_title">مسدود کردن</string>
   <string name="notification_breathing_light_color_title">Notifications light color</string>
   <string name="notification_breathing_light_freq_title">Notifications pulse frequency</string>
   <string name="notification_bubbles_developer_setting_summary">Some notifications can appear as bubbles on the screen</string>
@@ -4510,12 +4510,12 @@ This will also give the app the ability to turn Do Not Disturb on or off and cha
   <string name="notification_log_details_explanation">explanation</string>
   <string name="notification_log_details_extras">extras</string>
   <string name="notification_log_details_full_screen_intent">full screen intent</string>
-  <string name="notification_log_details_group">group</string>
+  <string name="notification_log_details_group">گروه</string>
   <string name="notification_log_details_group_summary">(summary)</string>
   <string name="notification_log_details_icon">icon</string>
   <string name="notification_log_details_importance">importance</string>
   <string name="notification_log_details_key">key</string>
-  <string name="notification_log_details_none">none</string>
+  <string name="notification_log_details_none">هیچ یک</string>
   <string name="notification_log_details_package">pkg</string>
   <string name="notification_log_details_parcel">parcel size</string>
   <string name="notification_log_details_priority">priority</string>
@@ -4650,7 +4650,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="overlay_toast_failed_to_apply">Failed to apply overlay</string>
   <string name="owner_info_settings_edit_text_hint">E.g., Joe’s Android.</string>
   <string name="owner_info_settings_status">%1$d / %2$d</string>
-  <string name="owner_info_settings_summary">None</string>
+  <string name="owner_info_settings_summary">هیچ یک</string>
   <string name="owner_info_settings_title">Lock screen signature</string>
   <string name="owner_space">First space</string>
   <string name="packages_subtitle">Included packages</string>
@@ -4658,7 +4658,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="page_layout_10">تنظیمات</string>
   <string name="page_layout_11">Weather</string>
   <string name="page_layout_12">Security</string>
-  <string name="page_layout_13">Tools</string>
+  <string name="page_layout_13">ابزار</string>
   <string name="page_layout_18">Recents</string>
   <string name="page_layout_19">مخاطبین</string>
   <string name="page_layout_2">Camera</string>
@@ -4680,7 +4680,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="page_layout_34">تلفن</string>
   <string name="page_layout_35">Notes</string>
   <string name="page_layout_4">Music</string>
-  <string name="page_layout_5">Video</string>
+  <string name="page_layout_5">ویدئو</string>
   <string name="page_layout_6">برنامه ها</string>
   <string name="page_layout_7">Games</string>
   <string name="page_layout_8">Mi Life</string>
@@ -4969,7 +4969,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="print_menu_item_add_printer">Add printer</string>
   <string name="print_menu_item_add_printers">Add printers</string>
   <string name="print_menu_item_add_service">Add service</string>
-  <string name="print_menu_item_search">Search</string>
+  <string name="print_menu_item_search">جستجو</string>
   <string name="print_menu_item_settings">تنظیمات</string>
   <string name="print_no_printers_found">No printers found</string>
   <string name="print_no_services_installed">No services installed</string>
@@ -4992,7 +4992,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="priority_summary">Show notifications at the top of the list</string>
   <string name="priority_title">Priority</string>
   <string name="privacy_authorize_cloud_msg">"To ensure your account's security, sign in to i.mi.com if you want to revoke authorization for Xiaomi Cloud services (including sync and backups)."</string>
-  <string name="privacy_authorize_dialog_agree">Agree</string>
+  <string name="privacy_authorize_dialog_agree">موافق</string>
   <string name="privacy_authorize_dialog_exit">خروج</string>
   <string name="privacy_authorize_dialog_message">&lt;Data&gt;"In order to use the basic features of this service, you must agree that Xiaomi will collect, process, and use your personal data. Refer to our Privacy Policy to learn how we collect and process personal data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="privacy_authorize_network_error">Connect to the network and try again.</string>
@@ -5028,11 +5028,11 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="privacy_mode_enable_title">Guest mode</string>
   <string name="privacy_notes">Notes</string>
   <string name="privacy_password">Privacy protection password</string>
-  <string name="privacy_password_add_account">Add</string>
+  <string name="privacy_password_add_account">افزودن</string>
   <string name="privacy_password_add_account_info">Add Mi Account to be able to reset your password in case you forget it</string>
   <string name="privacy_password_add_account_setting">Account &amp; privacy</string>
   <string name="privacy_password_bind_account">Add Mi Account</string>
-  <string name="privacy_password_bind_account_immediate">Add</string>
+  <string name="privacy_password_bind_account_immediate">افزودن</string>
   <string name="privacy_password_confirm_SecondSpace_Password">Confirm Second space password</string>
   <string name="privacy_password_confirm_use_finger">Unlock with fingerprint</string>
   <string name="privacy_password_enter_privacy">Enter Privacy protection password</string>
@@ -5114,7 +5114,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="provision_back">برگشت</string>
   <string name="provision_next">بعد</string>
   <string name="provision_page_layout_confirm_message">Your device needs to reboot to apply these changes. This takes about 1 minute.</string>
-  <string name="provision_skip">Skip</string>
+  <string name="provision_skip">پرش</string>
   <string name="proxy_action_text">Done</string>
   <string name="proxy_clear_text">پاک کردن</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
@@ -5176,7 +5176,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="radioInfo_service_out">Out of Service</string>
   <string name="radioInfo_unknown">ناشناخته</string>
   <string name="radio_controls_summary">Manage WLAN, Bluetooth, Airplane mode, Mobile networks, &amp; VPNs</string>
-  <string name="radio_controls_title">More</string>
+  <string name="radio_controls_title">بیشتر</string>
   <string name="radio_info_asdiv_switch_label">ASDiv Status:</string>
   <string name="radio_info_band_mode_label">Select Radio Band</string>
   <string name="radio_info_call_redirect_label">Call Redirect:</string>
@@ -5218,7 +5218,7 @@ UT Interface: %5$s"</string>
   <string name="radio_info_signal_location_label">Cell Location Info (deprecated):</string>
   <string name="radio_info_signal_strength_label">Signal Strength:</string>
   <string name="radio_info_smsc_label">SMSC:</string>
-  <string name="radio_info_smsc_refresh_label">Refresh</string>
+  <string name="radio_info_smsc_refresh_label">تازه سازی</string>
   <string name="radio_info_smsc_update_label">بروزرسانی</string>
   <string name="radio_info_subid">Current subId:</string>
   <string name="radio_info_toggle_dns_check_label">Toggle DNS Check</string>
@@ -5483,11 +5483,11 @@ This setting affects all users on this phone."</string>
   <string name="screen_paper_mode_summary">Reading mode makes the colors of your display warmer allowing your eyes to relax</string>
   <string name="screen_paper_mode_time_summary">Schedule time to turn Reading mode on and off</string>
   <string name="screen_paper_mode_time_title">Schedule</string>
-  <string name="screen_paper_mode_title">Reading mode</string>
+  <string name="screen_paper_mode_title">حالت خواندن</string>
   <string name="screen_paper_mode_turn_off">Off</string>
   <string name="screen_paper_mode_turn_on">On</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">"Don't show again"</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Allow</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">مجاز</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">To update the list of apps which use Reading mode, you need to connect to the internet.</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internet connection</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Update the list of apps which automatically use Reading mode</string>
@@ -5696,7 +5696,7 @@ To use screen pinning:
   <string name="search_manage_notification_access_title">Notification access;Notifications;Notification permissions</string>
   <string name="search_master_clear_title">Factory data reset</string>
   <string name="search_menu">Search settings</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="search_micloud">Sync;Mi Cloud;Xiaomi Cloud;Cloud sync;Sync with the cloud;Sync with Xiaomi Cloud</string>
   <string name="search_music_audio_effect_optimize">Audio settings;Sound settings</string>
   <string name="search_music_equalizer">Equalizer</string>
@@ -5745,7 +5745,7 @@ To use screen pinning:
   <string name="search_security_passwords_title">Password;Screen lock;PIN;Pattern</string>
   <string name="search_security_privacy_settings_title">Privacy;Security;Unknown sources;Show password;App signature;App signatures;Clear credentials;Clear credential</string>
   <string name="search_security_settings">Privacy settings;Security;Privacy</string>
-  <string name="search_settings">Search</string>
+  <string name="search_settings">جستجو</string>
   <string name="search_silent_mode_title">Silent mode;silence;silent;mute</string>
   <string name="search_sim_management_title">Mobile Networks;Mobile data;Cellular data;Data;Overseas roaming;Roaming;Receive MMS;Cellular networks;</string>
   <string name="search_sim_status_title">SIM status;SIM</string>
@@ -5851,7 +5851,7 @@ To use screen pinning:
   <string name="security_settings_face_enroll_education_title">How to set up Face unlock</string>
   <string name="security_settings_face_enroll_education_title_accessibility">Set up Face unlock</string>
   <string name="security_settings_face_enroll_education_title_unlock_disabled">Use your face to authenticate</string>
-  <string name="security_settings_face_enroll_enrolling_skip">Skip</string>
+  <string name="security_settings_face_enroll_enrolling_skip">پرش</string>
   <string name="security_settings_face_enroll_error_dialog_title">Enrollment was not completed</string>
   <string name="security_settings_face_enroll_error_generic_dialog_message">"Face enrollment didn't work."</string>
   <string name="security_settings_face_enroll_error_timeout_dialog_message">Face enrollment time limit reached. Try again.</string>
@@ -5913,7 +5913,7 @@ You can still use your fingerprint to authorize purchases and app access. "&lt;a
   <string name="security_settings_fingerprint_enroll_finish_message">When you see this icon, use your fingerprint for identification or to approve purchases</string>
   <string name="security_settings_fingerprint_enroll_finish_title">Fingerprint added</string>
   <string name="security_settings_fingerprint_enroll_introduction_cancel">لغو</string>
-  <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">Skip</string>
+  <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">پرش</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue">ادامه</string>
   <string name="security_settings_fingerprint_enroll_introduction_continue_setup">بعد</string>
   <string name="security_settings_fingerprint_enroll_introduction_message">"Just touch the fingerprint sensor to unlock your phone, authorize purchases, or sign in to apps. Be careful whose fingerprints you add. Even one added print can do any of these things.
@@ -5946,7 +5946,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
   <string name="see_less">See less</string>
   <string name="see_more">See more</string>
   <string name="seek_bar_info">Adjust size</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">انتخاب همه</string>
   <string name="select_application">Select application</string>
   <string name="select_automatically">Automatically select network</string>
   <string name="select_device_admin_msg">Device admin apps</string>
@@ -6031,8 +6031,8 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
   <string name="setup_password_confirm">باشه</string>
   <string name="severe_threats_summary">Receive alerts for severe threats to life and property</string>
   <string name="severe_threats_title">Severe threats</string>
-  <string name="share">Share</string>
-  <string name="share_remote_bugreport_action">Share</string>
+  <string name="share">اشتراک</string>
+  <string name="share_remote_bugreport_action">اشتراک</string>
   <string name="share_remote_bugreport_dialog_message">Your IT admin requested a bug report to help troubleshoot this device. Apps and data may be shared, and your device may temporarily slow down.</string>
   <string name="share_remote_bugreport_dialog_message_finished">Your IT admin requested a bug report to help troubleshoot this device. Apps and data may be shared.</string>
   <string name="share_remote_bugreport_dialog_title">Share bug report?</string>
@@ -6174,13 +6174,13 @@ Possibly incorrect PIN."</string>
   <string name="size_suffix">%1$s%2$s</string>
   <string name="size_tera_byte">TB</string>
   <string name="skip_anyway_button_label">Skip anyway</string>
-  <string name="skip_label">Skip</string>
+  <string name="skip_label">پرش</string>
   <string name="skip_lock_screen_confirm_msg">"Notifications, music player controls, and shortcuts won't be displayed on the Lock screen."</string>
-  <string name="skip_lock_screen_dialog_button_label">Skip</string>
-  <string name="skip_step">Skip</string>
+  <string name="skip_lock_screen_dialog_button_label">پرش</string>
+  <string name="skip_step">پرش</string>
   <string name="slider_app_open">Open app</string>
   <string name="slider_app_open_name">Open %1$s</string>
-  <string name="slider_app_open_none">None</string>
+  <string name="slider_app_open_none">هیچ یک</string>
   <string name="slider_button_title">Change</string>
   <string name="slider_choose_app">Select app</string>
   <string name="slider_game_page_code">00008</string>
@@ -6200,13 +6200,13 @@ Possibly incorrect PIN."</string>
   <string name="slider_title_lingdong">Intellect</string>
   <string name="slider_title_zippo">Lighter</string>
   <string name="slider_tool_drawer">Open tools</string>
-  <string name="slider_tool_none">None</string>
+  <string name="slider_tool_none">هیچ یک</string>
   <string name="slider_tool_none_summary">No slider shortcut assigned</string>
   <string name="slider_video_tool_summary">Push the screen down to view available shortcuts while watching a video</string>
   <string name="slider_video_tool_title">Video shortcuts</string>
   <string name="slider_vocie_click_too_often">Too fast! Wait a minute or two and try again.</string>
   <string name="slider_vocie_online_close">Slide up</string>
-  <string name="slider_vocie_online_default">None</string>
+  <string name="slider_vocie_online_default">هیچ یک</string>
   <string name="slider_vocie_online_open">Slide down</string>
   <string name="slider_vocie_online_title">Online sounds</string>
   <string name="slider_voice_online_theme">Online sounds</string>
@@ -6251,12 +6251,12 @@ For making calls to your emergency contacts
 • Monitoring device status
 For playing SOS recording when your emergency contacts pick up
 If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
-  <string name="sos_phone_call_privacy_dialog_message_confirm">Allow</string>
+  <string name="sos_phone_call_privacy_dialog_message_confirm">مجاز</string>
   <string name="sos_phone_log_privacy_dialog_message">"This app needs permission to access your call history to be able to share it with your emergency contacts.
 If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
   <string name="sos_privacy_and_content_policy">User Agreement and Privacy Policy</string>
   <string name="sos_privacy_dialog_button_cancel">لغو</string>
-  <string name="sos_privacy_dialog_button_ok">Agree</string>
+  <string name="sos_privacy_dialog_button_ok">موافق</string>
   <string name="sos_privacy_dialog_message">"Read and agree to our %s before using this feature.
 This feature needs permissions to access your location, use mobile networks, and read your contacts. Agree?"</string>
   <string name="sos_privacy_dialog_message_new_version">"Emergency SOS allows you to share your location in real time and send text messages to your emergency contacts.
@@ -6616,7 +6616,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
   <string name="sudFontSecondary">google-sans</string>
   <string name="sudFontSecondaryMedium">google-sans-medium</string>
   <string name="sud_back_button_label">برگشت</string>
-  <string name="sud_more_button_label">More</string>
+  <string name="sud_more_button_label">بیشتر</string>
   <string name="sud_next_button_label">بعد</string>
   <string name="suggest_unrestrict_max_aspect_ratio_title">These apps work best in fullscreen mode</string>
   <string name="suggested_fingerprint_lock_settings_summary" />
@@ -6651,7 +6651,7 @@ Try using a faster ^3, or use this ^4 for portable storage instead."</string>
   <string name="suwFontSecondary">google-sans</string>
   <string name="suwFontSecondaryMedium">google-sans-medium</string>
   <string name="suw_back_button_label">برگشت</string>
-  <string name="suw_more_button_label">More</string>
+  <string name="suw_more_button_label">بیشتر</string>
   <string name="suw_next_button_label">بعد</string>
   <string name="swipe_direction_ltr">Swipe right to dismiss, left to show menu</string>
   <string name="swipe_direction_rtl">Swipe left to dismiss, right to show menu</string>
@@ -6815,7 +6815,7 @@ A Google approach to syncing data to allow access to your contacts, appointments
   <string name="track_frame_time">Profile HWUI rendering</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball wake</string>
-  <string name="traffic_none">None</string>
+  <string name="traffic_none">هیچ یک</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
   <string name="trigger_carrier_provisioning">Trigger Carrier Provisioning</string>
   <string name="trust_agents_extend_unlock_summary">If enabled, trust agents will keep your device unlocked for longer, but can no longer unlock a locked device.</string>
@@ -6974,15 +6974,15 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="unlock_set_unlock_launch_picker_title">Lock screen</string>
   <string name="unlock_set_unlock_launch_picker_title_profile">Work profile lock</string>
   <string name="unlock_set_unlock_mode_none">Swipe</string>
-  <string name="unlock_set_unlock_mode_off">None</string>
+  <string name="unlock_set_unlock_mode_off">هیچ یک</string>
   <string name="unlock_set_unlock_mode_password">Password</string>
   <string name="unlock_set_unlock_mode_pattern">Pattern</string>
   <string name="unlock_set_unlock_mode_pin">PIN</string>
   <string name="unlock_set_unlock_none_summary">No security</string>
-  <string name="unlock_set_unlock_none_title">None</string>
+  <string name="unlock_set_unlock_none_title">هیچ یک</string>
   <string name="unlock_set_unlock_off_summary" />
-  <string name="unlock_set_unlock_off_title">None</string>
-  <string name="unlock_set_unlock_password_none">None</string>
+  <string name="unlock_set_unlock_off_title">هیچ یک</string>
+  <string name="unlock_set_unlock_password_none">هیچ یک</string>
   <string name="unlock_set_unlock_password_summary">Enter 4 or more letters or numbers to unlock device</string>
   <string name="unlock_set_unlock_password_title">Password</string>
   <string name="unlock_set_unlock_pattern_summary">Draw a simple pattern with your finger to unlock device</string>
@@ -7086,7 +7086,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="usage_type_phone">تلفن</string>
   <string name="usage_type_radio_active">Mobile radio active</string>
   <string name="usage_type_total_battery_capacity">Total battery capacity</string>
-  <string name="usage_type_video">Video</string>
+  <string name="usage_type_video">ویدئو</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">WLAN running</string>
   <string name="usagestats_app_category_miui_financial">Finance</string>
@@ -7097,7 +7097,7 @@ Your saved fingerprints will also be removed from this profile and you won't be 
   <string name="usagestats_app_category_miui_shopping">Shopping</string>
   <string name="usagestats_app_category_miui_social">Social networks</string>
   <string name="usagestats_app_category_miui_system">System apps</string>
-  <string name="usagestats_app_category_miui_tools">Tools</string>
+  <string name="usagestats_app_category_miui_tools">ابزار</string>
   <string name="usagestats_app_category_miui_undefined">Other</string>
   <string name="usagestats_app_category_miui_video_etc">Music and video</string>
   <string name="usagestats_device_notification_des">Screen time limit for today: %s</string>
@@ -7213,7 +7213,7 @@ Any user can accept updated app permissions on behalf of all users."</string>
 Any user can update apps for all other users."</string>
   <string name="user_add_user_or_profile_menu">Add user or profile</string>
   <string name="user_add_user_title">Add new user?</string>
-  <string name="user_add_user_type_title">Add</string>
+  <string name="user_add_user_type_title">افزودن</string>
   <string name="user_adding_new_user">Adding new user…</string>
   <string name="user_admin">Admin</string>
   <string name="user_cannot_add_accounts_message">Restricted profiles cannot add accounts</string>
@@ -7234,7 +7234,7 @@ Any user can update apps for all other users."</string>
   <string name="user_dict_settings_add_dialog_more_options">More options</string>
   <string name="user_dict_settings_add_dialog_title">Add to dictionary</string>
   <string name="user_dict_settings_add_locale_option_name">Language:</string>
-  <string name="user_dict_settings_add_menu_title">Add</string>
+  <string name="user_dict_settings_add_menu_title">افزودن</string>
   <string name="user_dict_settings_add_screen_title">Phrase</string>
   <string name="user_dict_settings_add_shortcut_hint">Optional shortcut</string>
   <string name="user_dict_settings_add_shortcut_option_name">Shortcut:</string>
@@ -7341,7 +7341,7 @@ Tap the plus to add words."</string>
   <string name="virus_scanner_auto_update">Update automatically</string>
   <string name="virus_scanner_date_formater">MMM d, yyyy</string>
   <string name="virus_scanner_lib_already_latest">Definitions are already up to date</string>
-  <string name="virus_scanner_lib_update_failed">"Couldn't update"</string>
+  <string name="virus_scanner_lib_update_failed">"مشکل در بروز کردن"</string>
   <string name="virus_scanner_lib_updating">Updating definitions…</string>
   <string name="virus_scanner_manual_update">Updated on %s</string>
   <string name="virus_scanner_provider">Powered by %s</string>
@@ -7369,7 +7369,7 @@ Tap the plus to add words."</string>
   <string name="voice_interaction_security_warning">This voice input service will be able to perform always-on voice monitoring and control voice enabled applications on your behalf. It comes from the %s application. Enable the use of this service?</string>
   <string name="voice_interactor_preference_summary">Full hotword and interaction</string>
   <string name="voice_recognizer_preference_summary">Simple speech to text</string>
-  <string name="voice_search_settings_title">Voice search</string>
+  <string name="voice_search_settings_title">جستجوی صوتی</string>
   <string name="voice_service_preference_section_title">Voice input services</string>
   <string name="volte_provisioned_switch_string">VoLTE Provisioned</string>
   <string name="volume_alarm_description">Alarm</string>
@@ -7408,7 +7408,7 @@ Tap the plus to add words."</string>
   <string name="vpn_disconnect">قطع اتصال</string>
   <string name="vpn_disconnect_confirm">Disconnect this VPN?</string>
   <string name="vpn_disconnected">Disconnected from VPN</string>
-  <string name="vpn_disconnected_summary">None</string>
+  <string name="vpn_disconnected_summary">هیچ یک</string>
   <string name="vpn_dns_servers">DNS servers</string>
   <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
   <string name="vpn_done">Dismiss</string>
@@ -7424,7 +7424,7 @@ Tap the plus to add words."</string>
   <string name="vpn_ipsec_user_cert">IPSec user certificate</string>
   <string name="vpn_l2tp_secret">L2TP secret</string>
   <string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
-  <string name="vpn_lockdown_none">None</string>
+  <string name="vpn_lockdown_none">هیچ یک</string>
   <string name="vpn_lockdown_summary">Select a VPN profile to always remain connected to. Network traffic will only be allowed when connected to this VPN.</string>
   <string name="vpn_menu_delete">Delete profile</string>
   <string name="vpn_menu_edit">Edit profile</string>
@@ -7703,7 +7703,7 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_display_options_name">Name</string>
   <string name="wifi_display_options_title">Wireless display options</string>
   <string name="wifi_display_pause">Pause</string>
-  <string name="wifi_display_resume">Resume</string>
+  <string name="wifi_display_resume">ادامه</string>
   <string name="wifi_display_session_info">Session info</string>
   <string name="wifi_display_settings_empty_list_wifi_display_disabled">"Can't use wireless display when WLAN is off"</string>
   <string name="wifi_display_settings_title">Cast</string>
@@ -7847,7 +7847,7 @@ Setting the network as hidden will not change your router settings."</string>
   <string name="wifi_metered_label">Metered</string>
   <string name="wifi_metered_title">Network usage</string>
   <string name="wifi_modify">Modify</string>
-  <string name="wifi_more">More</string>
+  <string name="wifi_more">بیشتر</string>
   <string name="wifi_multi_network_acceleration">Smart network acceleration</string>
   <string name="wifi_multiple_cert_added">(Multiple certificates added)</string>
   <string name="wifi_network_optimization">Network intelligent connection</string>
@@ -7913,7 +7913,7 @@ Setting the network as hidden will not change your router settings."</string>
   <string name="wifi_saved_access_points_tab">@string/wifi_access_points</string>
   <string name="wifi_scan_always_available">Scanning always available</string>
   <string name="wifi_scan_always_available_summary">"Let Google's location service and other apps scan for networks, even when WLAN is off"</string>
-  <string name="wifi_scan_always_confirm_allow">Allow</string>
+  <string name="wifi_scan_always_confirm_allow">مجاز</string>
   <string name="wifi_scan_always_confirm_deny">Deny</string>
   <string name="wifi_scan_always_turn_on_message_unknown">"To improve location accuracy and for other purposes, an unknown app wants to turn on network scanning, even when WLAN is off.
 
@@ -7935,7 +7935,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_security_eap_suiteb">WPA3-Enterprise</string>
   <string name="wifi_security_eap_wpa">WPA-Enterprise</string>
   <string name="wifi_security_eap_wpa2_wpa3">WPA2/WPA3-Enterprise</string>
-  <string name="wifi_security_none">None</string>
+  <string name="wifi_security_none">هیچ یک</string>
   <string name="wifi_security_none_owe">None/Enhanced Open</string>
   <string name="wifi_security_owe">Enhanced Open</string>
   <string name="wifi_security_passpoint">Passpoint</string>
@@ -8022,13 +8022,13 @@ Tap "&lt;b&gt;Back&lt;/b&gt; to connect to a different WLAN network.</string>
   <string name="wifi_share_summary3">You can also share your public WLAN networks with other MIUI users.</string>
   <string name="wifi_share_turn_off">Off</string>
   <string name="wifi_share_turn_on">On</string>
-  <string name="wifi_share_upload">Share</string>
+  <string name="wifi_share_upload">اشتراک</string>
   <string name="wifi_share_upload_finish">Shared</string>
   <string name="wifi_share_uploading">Sharing…</string>
   <string name="wifi_shared">Share with other device users</string>
   <string name="wifi_show_advanced">Advanced options</string>
   <string name="wifi_show_password">Show password</string>
-  <string name="wifi_sign_in_button_text">Sign in</string>
+  <string name="wifi_sign_in_button_text">ورود به حساب</string>
   <string name="wifi_signal">Signal strength</string>
   <string name="wifi_signal_found_msg">Connect to WLAN AP?</string>
   <string name="wifi_speed">Link speed</string>
@@ -8213,7 +8213,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="zen_event_rule_enabled_toast">Automatic rule set to turn on Do Not Disturb during specified events</string>
   <string name="zen_event_rule_type_name">Event</string>
   <string name="zen_interruption_level_priority">Priority only</string>
-  <string name="zen_mode_add">Add</string>
+  <string name="zen_mode_add">افزودن</string>
   <string name="zen_mode_add_event_rule">Add event schedule</string>
   <string name="zen_mode_add_rule">Add more</string>
   <string name="zen_mode_add_time_rule">Add time schedule</string>
@@ -8296,7 +8296,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="zen_mode_from_anyone">From anyone</string>
   <string name="zen_mode_from_call">"Calls from "</string>
   <string name="zen_mode_from_contacts">From contacts only</string>
-  <string name="zen_mode_from_none">None</string>
+  <string name="zen_mode_from_none">هیچ یک</string>
   <string name="zen_mode_from_none_calls">Don’t allow any calls</string>
   <string name="zen_mode_from_none_messages">Don’t allow any messages</string>
   <string name="zen_mode_from_sms">"Messages from "</string>
@@ -8307,8 +8307,8 @@ Looks like credential storage isn't enabled."</string>
   <string name="zen_mode_messages">Messages</string>
   <string name="zen_mode_messages_footer">To be sure allowed messages make sound, check whether your device is set to ring, vibrate, or silent.</string>
   <string name="zen_mode_messages_title">SMS, MMS, and messaging apps</string>
-  <string name="zen_mode_miui_silent_category">Allow</string>
-  <string name="zen_mode_no_exceptions">None</string>
+  <string name="zen_mode_miui_silent_category">مجاز</string>
+  <string name="zen_mode_no_exceptions">هیچ یک</string>
   <string name="zen_mode_option_alarms">Alarms only</string>
   <string name="zen_mode_option_important_interruptions">Priority only</string>
   <string name="zen_mode_option_miui_silent">Silent mode</string>
@@ -8355,7 +8355,7 @@ When you turn off Do Not Disturb, find missed notifications by swiping down from
   <string name="zen_mode_schedule_delete">حذف</string>
   <string name="zen_mode_schedule_rule_days">روز</string>
   <string name="zen_mode_schedule_rule_days_all">Every day</string>
-  <string name="zen_mode_schedule_rule_days_none">None</string>
+  <string name="zen_mode_schedule_rule_days_none">هیچ یک</string>
   <string name="zen_mode_schedule_title">Schedule</string>
   <string name="zen_mode_screen_off">When the screen is off</string>
   <string name="zen_mode_screen_off_summary">Let notifications silenced by Do Not Disturb turn on the screen and blink the light</string>

@@ -1126,8 +1126,8 @@
     </string-array>
     <string-array name="pref_fling_gesture_entries">
         <item>Page back forward</item>
-        <item>Switch tabs</item>
-        <item>None</item>
+        <item>تغییر برگه</item>
+        <item>هیچ یک</item>
     </string-array>
     <string-array name="pref_fling_gesture_values">
         <item>back_forward</item>
@@ -1152,8 +1152,8 @@
     </string-array>
     <string-array name="pref_navscreen_layoutstate_choices">
         <item>Tile view</item>
-        <item>Vertical view</item>
-        <item>Horizontal view</item>
+        <item>نمایش عمودی</item>
+        <item>نمایش افقی</item>
     </string-array>
     <string-array name="pref_navscreen_layoutstate_values">
         <item>0</item>
@@ -1167,15 +1167,15 @@
     </string-array>
     <string-array name="pref_tab_restore_array">
         <item>Always asking</item>
-        <item>Open</item>
-        <item>Close</item>
+        <item>باز کردن</item>
+        <item>بستن</item>
     </string-array>
     <string-array name="pref_text_zoom_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>ریز</item>
+        <item>کوچک</item>
+        <item>معمولی</item>
+        <item>بزرگ</item>
+        <item>حجیم</item>
     </string-array>
     <string-array name="pref_text_zoom_values">
         <item>70</item>
@@ -1197,8 +1197,8 @@
         <item>3</item>
     </string-array>
     <string-array name="quick_link_tabs">
-        <item>Bookmarks</item>
-        <item>History</item>
+        <item>نشانک ها</item>
+        <item>تاریخچه</item>
     </string-array>
     <string-array name="readmode_theme_background_color">
         <item>white</item>
@@ -1295,12 +1295,12 @@
         <item>shipin</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
-        <item>Delete</item>
-        <item>No thanks</item>
+        <item>حذف</item>
+        <item>نه ممنون</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>باشه</item>
-        <item>Follow</item>
+        <item>دنبال کن</item>
     </string-array>
     <string-array name="shortcut_dialog_title">
         <item>Message from Browser</item>

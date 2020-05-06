@@ -42,15 +42,15 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="about_autostart">About autostart</string>
   <string name="ac_enter_applock">Enter App lock</string>
   <string name="ac_firstUseApplock_subTitle">Use better system-level security tools</string>
@@ -174,11 +174,11 @@
   <string name="antivirus_sec_network_unavailable">"Security can't update because you've restricted the internet connection. Allow Security to connect to the internet?"</string>
   <string name="antivirus_toast_already_update">Up to date</string>
   <string name="antivirus_toast_network_unavailable">"Couldn't connect to the network"</string>
-  <string name="antivirus_toast_update_failed">"Couldn't update"</string>
-  <string name="antivirus_toast_update_success">Updated successfully</string>
+  <string name="antivirus_toast_update_failed">"مشکل در بروز کردن"</string>
+  <string name="antivirus_toast_update_success">با موفقیت بروز شد</string>
   <string name="antivirus_toast_updating">Updating…</string>
   <string name="antivirus_update_btn_contiue">ادامه</string>
-  <string name="antivirus_update_btn_open">Allow</string>
+  <string name="antivirus_update_btn_open">مجاز</string>
   <string name="antivirus_update_btn_update">بروزرسانی</string>
   <string name="apn_exception_modify_summary">"Default carrier access point isn't used or modified"</string>
   <string name="apn_exception_summary">"Test carrier's Access Point Name configurations"</string>
@@ -187,7 +187,7 @@
   <string name="app_behavior_about_content_no_link">"MIUI can show when apps launched other apps, autostarted, used permissions, and performed sensitive actions. Due to Android version compatibility issues, some of these records might not be accurate. If you find an app behavior record that isn't accurate, report it to us using the \"Services &amp; feedback\" app."</string>
   <string name="app_behavior_about_negative">Report inaccuracies</string>
   <string name="app_behavior_about_positive">فهمیدم</string>
-  <string name="app_behavior_allowed">Allow</string>
+  <string name="app_behavior_allowed">مجاز</string>
   <string name="app_behavior_audio">%1s recorded audio</string>
   <string name="app_behavior_audio_bg">%1s recorded audio in the background</string>
   <string name="app_behavior_audio_bg_single">This app recorded audio in the background</string>
@@ -275,7 +275,7 @@
   <string name="app_behavior_privacy_manager">Notifications about sensitive actions</string>
   <string name="app_behavior_recognition">%1s accessed your activity info</string>
   <string name="app_behavior_recognition_single">This app accessed your activity info</string>
-  <string name="app_behavior_search">Search</string>
+  <string name="app_behavior_search">جستجو</string>
   <string name="app_behavior_sensor">%1s accessed sensor data</string>
   <string name="app_behavior_sensor_single">This app accessed sensor data</string>
   <string name="app_behavior_settings_category_perm">Notify about sensitive actions</string>
@@ -375,7 +375,7 @@
   <string name="app_manager_globel_perm_summary">Manage permissions related to location, storage, phone, messages, and contacts.</string>
   <string name="app_manager_globel_perm_title">App permissions</string>
   <string name="app_manager_has_not_data">No data</string>
-  <string name="app_manager_have_not_consume">None</string>
+  <string name="app_manager_have_not_consume">هیچ یک</string>
   <string name="app_manager_hide_system_server">Hide system services</string>
   <string name="app_manager_install_other_app">Install apps from unknown sources</string>
   <string name="app_manager_manage_space">Manage space</string>
@@ -477,7 +477,7 @@ You will not lose any app data."</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Don't forget to clear cache"</string>
   <string name="application_item_already_permission">Allowed</string>
   <string name="application_item_disable">Restricted</string>
-  <string name="applock_add_account">Add</string>
+  <string name="applock_add_account">افزودن</string>
   <string name="applock_add_account_info">Add your Mi Account to be able to reset your password in case you forget it.</string>
   <string name="applock_add_account_setting">Account &amp; privacy</string>
   <string name="applock_app_recommend_lock_title">You can lock the following apps</string>
@@ -592,7 +592,7 @@ You will not lose any app data."</string>
   <string name="auto_task_operation_mobile_data">Mobile data</string>
   <string name="auto_task_operation_modify_string">Edit %s</string>
   <string name="auto_task_operation_mute">Silent mode</string>
-  <string name="auto_task_operation_no_op">None</string>
+  <string name="auto_task_operation_no_op">هیچ یک</string>
   <string name="auto_task_operation_open">On</string>
   <string name="auto_task_operation_open_string">Turn on %s</string>
   <string name="auto_task_operation_string_comma">,</string>
@@ -670,7 +670,7 @@ You will not lose any app data."</string>
   <string name="bill_limit_notification_text_format">Card: %1$s | Balance: %2$s CNY</string>
   <string name="bill_limit_notification_title">Insufficient balance</string>
   <string name="bind_xiaomi_account_cancel">لغو</string>
-  <string name="bind_xiaomi_account_confirm">Add</string>
+  <string name="bind_xiaomi_account_confirm">افزودن</string>
   <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it. Account will be removed automatically if you sign out."</string>
   <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
   <string name="bind_xiaomi_account_summary">Use Mi Account to reset your password</string>
@@ -711,14 +711,14 @@ You will not lose any app data."</string>
   <string name="btn_text_stop">توقف</string>
   <string name="business_have_hongbao">来自%1$s的一个红包</string>
   <string name="business_lucky_warning">企业红包</string>
-  <string name="button_background_connection">Allow</string>
+  <string name="button_background_connection">مجاز</string>
   <string name="button_block_calls_from_cantacts">Unblock</string>
   <string name="button_block_calls_from_strangers">Unblock</string>
   <string name="button_dark_mode">Fix</string>
   <string name="button_do_not_disturb">Turn off</string>
   <string name="button_eye_shield">Turn off</string>
   <string name="button_first_aid_kit">Fix now</string>
-  <string name="button_restrict_data_usage">Allow</string>
+  <string name="button_restrict_data_usage">مجاز</string>
   <string name="button_text_accept">قبول</string>
   <string name="button_text_accept_timer">Accept (%d)</string>
   <string name="button_text_clear">پاک کردن</string>
@@ -785,7 +785,7 @@ You will not lose any app data."</string>
   <string name="card_main_private_space_action">Create</string>
   <string name="card_main_private_space_summary">Using Second space is like having 2 devices</string>
   <string name="card_main_private_space_title">Second space</string>
-  <string name="card_main_sectool_title">Tools</string>
+  <string name="card_main_sectool_title">ابزار</string>
   <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
   <string name="card_main_xspace_action">Create</string>
   <string name="card_main_xspace_summary">Create dual accounts for any app</string>
@@ -848,7 +848,7 @@ You will not lose any app data."</string>
   <string name="cta_close_dialog_ok">Restrict</string>
   <string name="cta_close_dialog_title">Restricting access</string>
   <string name="cta_dialog_negative">خروج</string>
-  <string name="cta_dialog_positive">Agree</string>
+  <string name="cta_dialog_positive">موافق</string>
   <string name="cta_dialog_title">Internet connection</string>
   <string name="cta_main_purpose">Welcome to Security! You can use this app to free up storage space, scan your device for viruses, control battery usage, optimize your device for gaming, manage apps, receive earthquake early warnings, and more.</string>
   <string name="cta_settings">Allow to connect to the internet and access location</string>
@@ -991,7 +991,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
   <string name="dlg_summary_title">Background activity will be restricted when you leave an app or go back to the Home screen. Add the apps to the Battery saver exceptions to allow them to run in the background.</string>
   <string name="dlg_title_not_open_stranger_identify">Caller ID</string>
   <string name="dlg_update_btn_contiue">ادامه</string>
-  <string name="dlg_update_btn_open">Allow</string>
+  <string name="dlg_update_btn_open">مجاز</string>
   <string name="dlg_update_data_content">"You aren't connected to Wi-Fi. Using mobile data may generate additional fees. Continue anyway?"</string>
   <string name="dlg_update_date_title">Warning</string>
   <string name="dlg_update_updating">Updating…</string>
@@ -1006,8 +1006,8 @@ It will be added to exceptions, but previously blocked items won't appear in cal
   <string name="do_clean">Clearing…</string>
   <string name="domestic_roaming_setting">National roaming</string>
   <string name="dont_bore">"Don't let buttons and notifications distract you"</string>
-  <string name="download">Download</string>
-  <string name="downloading">Downloading</string>
+  <string name="download">دریافت</string>
+  <string name="downloading">درحال دریافت</string>
   <string name="doze_optimization_summary">Increase touch response and sensitivity</string>
   <string name="doze_optimization_title">Optimized touch controls</string>
   <string name="dual_setting_simcard1">SIM 1</string>
@@ -1056,7 +1056,7 @@ medical card"</string>
   <string name="ew_app_name_test">Earthquake warning (Beta)</string>
   <string name="ew_app_name_test_run">Earthquake warning (Trial)</string>
   <string name="ew_arrive_text_tips">Seismic wave arrived: %s</string>
-  <string name="ew_button_confirm">Agree</string>
+  <string name="ew_button_confirm">موافق</string>
   <string name="ew_button_exit">"Don't agree"</string>
   <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"This feature provides you with earthquake warning functionality. It will notify you about upcoming earthquakes and play warning sound. You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required. &amp;lt;br&amp;gt;We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. &amp;lt;br&amp;gt;To be able to work normally, this feature requires the following permissions in order to collect your personal information: &amp;lt;br&amp;gt;&amp;#8226; Location info: &amp;lt;br&amp;gt;For accessing your location and providing accurate earthquake warnings. &amp;lt;br&amp;gt;If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this feature. You can choose to turn this feature off or not turn it on in such cases. &amp;lt;br&amp;gt;You must read and agree to our &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature."&lt;/Data&gt;</string>
   <string name="ew_close">Turn off alert</string>
@@ -1084,7 +1084,7 @@ medical card"</string>
   <string name="ew_emergency_recent_medicine">Recent active medication</string>
   <string name="ew_emergency_title">Medical card</string>
   <string name="ew_first_start_network_title">Terms and conditions</string>
-  <string name="ew_guide_law_agree">Agree</string>
+  <string name="ew_guide_law_agree">موافق</string>
   <string name="ew_guide_law_done">فهمیدم</string>
   <string name="ew_guide_law_exit">"Don't agree"</string>
   <string name="ew_guide_law_text">"This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by a third party early warning agency. Xiaomi doesn't oversee third party agencies and doesn't have any control over them. Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs. You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature."</string>
@@ -1145,7 +1145,7 @@ medical card"</string>
   <string name="exception_dialog_message">"Data usage stats couldn't be calculated due to an error. Without accurate stats Security won't be able to monitor data usage. Reboot to restore this feature?"</string>
   <string name="exception_dialog_ok_button">Reboot</string>
   <string name="exception_notify_message">"Couldn't calculate data stats due to an error. Reboot to restore."</string>
-  <string name="exception_titile">An error occurred</string>
+  <string name="exception_titile">خطایی رخ داده است</string>
   <string name="exit">خروج</string>
   <string name="exit_dialog_garbage_clean_message">The amount of trash on your device is more than %s. Clean up trash?</string>
   <string name="exit_dialog_garbage_clean_positive_button">Clean up</string>
@@ -1170,8 +1170,8 @@ medical card"</string>
   <string name="exo_controls_shuffle_description">Shuffle</string>
   <string name="exo_controls_stop_description">توقف</string>
   <string name="exo_download_completed">Download completed</string>
-  <string name="exo_download_description">Download</string>
-  <string name="exo_download_downloading">Downloading</string>
+  <string name="exo_download_description">دریافت</string>
+  <string name="exo_download_downloading">درحال دریافت</string>
   <string name="exo_download_failed">Download failed</string>
   <string name="exo_download_notification_channel_name">Downloads</string>
   <string name="exo_download_removing">Removing downloads</string>
@@ -1180,10 +1180,10 @@ medical card"</string>
   <string name="exo_track_mono">Mono</string>
   <string name="exo_track_resolution">%1$d × %2$d</string>
   <string name="exo_track_selection_auto">Auto</string>
-  <string name="exo_track_selection_none">None</string>
+  <string name="exo_track_selection_none">هیچ یک</string>
   <string name="exo_track_selection_title_audio">Audio</string>
   <string name="exo_track_selection_title_text">Text</string>
-  <string name="exo_track_selection_title_video">Video</string>
+  <string name="exo_track_selection_title_video">ویدئو</string>
   <string name="exo_track_stereo">Stereo</string>
   <string name="exo_track_surround">Surround sound</string>
   <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
@@ -1228,7 +1228,7 @@ medical card"</string>
   <string name="firewall_activity_lable">Restrict data usage by app</string>
   <string name="firewall_allow_all">Allow all apps to connect using the following method</string>
   <string name="firewall_allow_data">Allow mobile data usage</string>
-  <string name="firewall_allow_network">Allow</string>
+  <string name="firewall_allow_network">مجاز</string>
   <string name="firewall_allow_wlan">Allow using Wi-Fi connection</string>
   <string name="firewall_applist">برنامه ها</string>
   <string name="firewall_fragment_nonesys_listempty">Empty</string>
@@ -1366,7 +1366,7 @@ medical card"</string>
   <string name="gamebooster_network_dialog_title">"Some features aren't available"</string>
   <string name="gamebox_app_not_find">Install the app first.</string>
   <string name="gamebox_browser_not_find">Install Mi Browser first</string>
-  <string name="gamebox_display_1">None</string>
+  <string name="gamebox_display_1">هیچ یک</string>
   <string name="gamebox_display_2">Saturated</string>
   <string name="gamebox_display_3">Bright</string>
   <string name="gamebox_display_4">Bright &amp; saturated</string>
@@ -1407,7 +1407,7 @@ medical card"</string>
   <string name="gb_ad_game_size">MB</string>
   <string name="gb_add_game_hint">Add items from the list of apps</string>
   <string name="gb_add_game_loading_tips">Just a sec…</string>
-  <string name="gb_advance_settings_edge_gear1">None</string>
+  <string name="gb_advance_settings_edge_gear1">هیچ یک</string>
   <string name="gb_advance_settings_edge_gear2">Small</string>
   <string name="gb_advance_settings_edge_gear3">Medium</string>
   <string name="gb_advance_settings_edge_gear4">Large</string>
@@ -1491,7 +1491,7 @@ medical card"</string>
   <string name="gb_sound_audition">Try</string>
   <string name="gb_voice_change_settinged">Voice changer is on</string>
   <string name="gb_voice_changer_cartoon">Cartoon</string>
-  <string name="gb_voice_changer_dlg_button_agree">Allow</string>
+  <string name="gb_voice_changer_dlg_button_agree">مجاز</string>
   <string name="gb_voice_changer_dlg_button_refuse">Restrict</string>
   <string name="gb_voice_changer_dlg_title">Voice changer</string>
   <string name="gb_voice_changer_lady">Woman</string>
@@ -1502,7 +1502,7 @@ medical card"</string>
   <string name="gb_voice_changer_permission_dlg_title">Permissions required</string>
   <string name="gb_voice_changer_robot">Robot</string>
   <string name="gb_wonderful_video_cancel">لغو</string>
-  <string name="gb_wonderful_video_checkall">Select all</string>
+  <string name="gb_wonderful_video_checkall">انتخاب همه</string>
   <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
   <string name="gb_wonderful_video_delete">حذف</string>
   <string name="gb_wonderful_video_header_title">Today</string>
@@ -1634,7 +1634,7 @@ Videos will be saved to Game Turbo &gt; Key moments."</string>
   <string name="install">Install</string>
   <string name="install_sucess">Installed %s successfully</string>
   <string name="install_title">Install via USB</string>
-  <string name="installing">Installing</string>
+  <string name="installing">درحال نصب</string>
   <string name="international_Ad">Ad</string>
   <string name="international_roaming_setting">Overseas roaming</string>
   <string name="intl_perm_intro_message">Tap to adjust permission settings in order to avoid data leaks</string>
@@ -1705,7 +1705,7 @@ Carrier may charge you additional fees if you use mobile data connection again."
   <string name="lockscreen_access_pattern_start">Pattern started</string>
   <string name="lockscreen_glogin_checking_password">Checking…</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
-  <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="lockscreen_glogin_submit_button">ورود به حساب</string>
   <string name="loding">Loading data</string>
   <string name="log_count">(%d)</string>
   <string name="long_click_dialog_summary">Hold the results in the list to add them to exceptions</string>
@@ -1824,7 +1824,7 @@ to respond"</string>
   <string name="memory_clean_no_need_clean">Everything looks good</string>
   <string name="memory_clear_unused">Clear cache (%s)</string>
   <string name="memory_title">Available: %1$s\u0009\u0009Total: %2$s</string>
-  <string name="menu_add">Add</string>
+  <string name="menu_add">افزودن</string>
   <string name="menu_bl_call_log">View blocked calls</string>
   <string name="menu_bl_remove">Unblock</string>
   <string name="menu_bl_sms_log">View blocked SMS</string>
@@ -1917,13 +1917,13 @@ to respond"</string>
   <string name="mixed_settings_help_how_to_record">How to set password</string>
   <string name="modify_password_mode">&lt;u&gt;Change password type&lt;/u&gt;</string>
   <string name="modifypassword">Change password type</string>
-  <string name="monitor_app_add">Add</string>
-  <string name="monitor_app_more">More</string>
+  <string name="monitor_app_add">افزودن</string>
+  <string name="monitor_app_more">بیشتر</string>
   <string name="monitor_requests_from_pc">Manage installation of the apps via USB</string>
   <string name="more_game">More games</string>
-  <string name="more_lock">More</string>
+  <string name="more_lock">بیشتر</string>
   <string name="more_setting_summary">支持红包提醒种类、桌面悬浮窗、勿扰时段等功能</string>
-  <string name="more_settings">More</string>
+  <string name="more_settings">بیشتر</string>
   <string name="mtp_ptp_mode_summary">MTP or PTP is active</string>
   <string name="na_main_card_ad_subtitle">Lots of data, free calls, low rates</string>
   <string name="na_main_card_ad_text">Find a plan that suits you</string>
@@ -2150,7 +2150,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="password_forget_pattern_reset">Reset</string>
   <string name="password_forget_pattern_title">Attention</string>
   <string name="password_promotion_not_login_xiaomi_account_message">Add your Mi Account to be able to reset your password in case you forget it.</string>
-  <string name="password_promotion_postbutton_text">Add</string>
+  <string name="password_promotion_postbutton_text">افزودن</string>
   <string name="password_promotion_title">Add Mi Account</string>
   <string name="password_type">Change password</string>
   <string name="password_type_underline">&lt;u&gt;Change password&lt;/u&gt;</string>
@@ -2262,7 +2262,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="phone_manage_special_summary">Explore our additional functionality</string>
   <string name="phone_manage_special_title">Special features</string>
   <string name="phone_manage_system_tool_summary">Useful system-level tools</string>
-  <string name="phone_manage_system_tool_title">Tools</string>
+  <string name="phone_manage_system_tool_title">ابزار</string>
   <string name="pkg_traffic">Set data usage limit</string>
   <string name="pm_auto_start_by_other">Triggered start</string>
   <string name="pm_auto_start_by_other_app">Allow the app to be started by other apps</string>
@@ -2354,7 +2354,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="power_off_warning_notification_title">About to shut down</string>
   <string name="power_optimize_auto_catagory_title">Battery issues</string>
   <string name="power_optimize_battery_save_idea">Optimize battery</string>
-  <string name="power_optimize_battery_save_more">More</string>
+  <string name="power_optimize_battery_save_more">بیشتر</string>
   <string name="power_optimize_brightness">Screen brightness</string>
   <string name="power_optimize_btn_text_fixed">Optimized</string>
   <string name="power_optimize_catagory_fixed_title">Optimized</string>
@@ -2797,7 +2797,7 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="sd_mount">Mount SD card</string>
   <string name="sd_mount_summary" />
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="search_result_text">"Couldn't find any apps"</string>
   <string name="secondart_setting_title">红包提醒设置</string>
   <string name="section_clear_acc_item_title">"%s. If there's still not enough storage, try using Cleaner."</string>
@@ -2926,9 +2926,9 @@ While calibrating, MIUI will send a text message to your carrier to receive the 
   <string name="st_antispam_bw_man_add">Add phone number</string>
   <string name="st_antispam_bw_pick_add">Add contacts</string>
   <string name="st_antispam_delete">حذف</string>
-  <string name="st_antispam_des_anti">Block</string>
-  <string name="st_antispam_des_permit">Allow</string>
-  <string name="st_antispam_des_permit_nokeyword">Allow</string>
+  <string name="st_antispam_des_anti">مسدود کردن</string>
+  <string name="st_antispam_des_permit">مجاز</string>
+  <string name="st_antispam_des_permit_nokeyword">مجاز</string>
   <string name="st_antispam_des_smart_anti">Filter</string>
   <string name="st_antispam_des_uesless">Off</string>
   <string name="st_antispam_mode_add_new">Add rules</string>
@@ -3111,7 +3111,7 @@ To use this ^1 with this device, you have to set it up first."</string>
   <string name="storage_item_other_name">Other</string>
   <string name="storage_item_picture_name">Images</string>
   <string name="storage_item_system_name">سیستم</string>
-  <string name="storage_item_video_name">Video</string>
+  <string name="storage_item_video_name">ویدئو</string>
   <string name="storage_menu_mount">Mount</string>
   <string name="storage_mount_failure">"Couldn't mount %1$s"</string>
   <string name="storage_mount_success">Mounted %1$s successfully</string>
@@ -3209,7 +3209,7 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="sys_title_gamebooster_unit_mb">MB</string>
   <string name="system_app">System apps</string>
   <string name="system_application">System apps</string>
-  <string name="system_permission_declare_agree">Agree</string>
+  <string name="system_permission_declare_agree">موافق</string>
   <string name="system_permission_declare_analytics_declare">"We invite you to enroll in our User Experience Program. This app needs to connect to the Internet and use the following permissions or features to collect stats in order to improve the services we provide to you. We collect data here only for statistical purposes, and we can't identify you personally based on the data we collect."</string>
   <string name="system_permission_declare_disagree">Disagree</string>
   <string name="system_permission_declare_double_link">&lt;Data&gt;To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
@@ -3405,10 +3405,10 @@ Formatting will erase existing content on the ^2. To avoid losing content, back 
   <string name="toast_root_apply_reject">Denied root access for %s</string>
   <string name="toast_set_success">Turned on successfully</string>
   <string name="toast_show_notification">Pinned to notification shade</string>
-  <string name="toast_update_fail">"Couldn't update"</string>
+  <string name="toast_update_fail">"مشکل در بروز کردن"</string>
   <string name="toast_update_nonetwork">"Couldn't connect to the network"</string>
   <string name="toast_update_notneed">Up to date</string>
-  <string name="toast_update_success">Updated successfully</string>
+  <string name="toast_update_success">با موفقیت بروز شد</string>
   <string name="top_game">Top games</string>
   <string name="top_load_fail_detail">"Couldn't load, tap to try again"</string>
   <string name="top_no_network_detial">"Couldn't load, check network connection and try again"</string>
@@ -3443,7 +3443,7 @@ Rolled over extra data"</string>
 
 Remaining data includes data that has been rolled over from the previous month."</string>
   <string name="traffic_limit_error_alert_title">Data limit reminder %s</string>
-  <string name="traffic_none">None</string>
+  <string name="traffic_none">هیچ یک</string>
   <string name="traffic_over_purchase_link">"You've reached your mobile plan's data usage limit.&lt;br/&gt;If you go over your plan’s data usage limit, your carrier may charge you additional fees.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;Tap to top up your balance.&lt;/U&gt;&lt;/font&gt;"</string>
   <string name="traffic_provider_no_sim">"SIM card isn't installed"</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
@@ -3513,7 +3513,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Time without a signal</string>
   <string name="usage_type_on_time">Time on</string>
-  <string name="usage_type_video">Video</string>
+  <string name="usage_type_video">ویدئو</string>
   <string name="usage_type_wake_lock">Keep awake</string>
   <string name="usage_type_wifi_running">Wi-Fi running</string>
   <string name="usb_adb_input_apply_step_1">"This might lead to leaks and loss of private information. We don't recommend doing this unless you're a developer."</string>

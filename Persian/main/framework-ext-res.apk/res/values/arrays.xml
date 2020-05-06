@@ -1534,8 +1534,8 @@
     </string-array>
     <string-array name="screen_key_long_press_default_action">
         <item>voice_assistant</item>
-        <item>none</item>
-        <item>none</item>
+        <item>هیچ یک</item>
+        <item>هیچ یک</item>
         <item>show_menu</item>
     </string-array>
     <array name="screen_resolution_supported" />

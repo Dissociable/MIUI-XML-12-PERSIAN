@@ -27,5 +27,5 @@
   <string name="switch_to_official">Switch to official server</string>
   <string name="switch_to_staging">Switch to staging server</string>
   <string name="unknown_error">Unknown error</string>
-  <string name="update_success">Updated successfully</string>
+  <string name="update_success">با موفقیت بروز شد</string>
 </resources>

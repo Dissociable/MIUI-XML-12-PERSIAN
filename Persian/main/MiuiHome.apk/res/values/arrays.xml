@@ -196,7 +196,7 @@
         <item>home_edit_box_area_4_4</item>
     </string-array>
     <string-array name="global_search_mode_entries">
-        <item>None</item>
+        <item>هیچ یک</item>
         <item>Swipe up</item>
         <item>Search bar</item>
     </string-array>

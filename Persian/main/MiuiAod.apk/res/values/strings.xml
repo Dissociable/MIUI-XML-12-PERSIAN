@@ -18,15 +18,15 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="above_image">Up</string>
   <string name="accessibility_battery_level">Battery %d percent.</string>
   <string name="accessibility_battery_level_charging">Battery charging, %d percent.</string>
@@ -155,7 +155,7 @@ MM/dd"</string>
   <string name="notification_anim_pulse">Pulse</string>
   <string name="notification_anim_rhythm">Rhythm</string>
   <string name="notification_anim_star">Starlight</string>
-  <string name="notification_nothing">None</string>
+  <string name="notification_nothing">هیچ یک</string>
   <string name="notification_screen_on">Light up screen</string>
   <string name="only_show_bg_description">"Don't show time, date, and other items"</string>
   <string name="only_show_bg_title">Only show background</string>
@@ -187,7 +187,7 @@ MM/dd"</string>
   <string name="scope_h">[{x:260.03,y:-36.69,w:661.74,h:661.74,r:-130.56},{x:515.61,y:-85.13,w:661.74,h:661.74,r:-114.37},{x:177.65,y:36.26,w:558.7,h:558.7,r:-131.51},{x:404.42,y:232,w:558.7,h:558.7,r:-157.29},{x:177.65,y:33.21,w:509.68,h:509.68,r:-129.65},{x:418.21,y:129.31,w:509.68,h:509.68,r:-144.52},{x:-241.57,y:-377.47,w:509.68,h:509.68,r:-31.98},{x:178.2,y:-382,w:509.68,h:509.68,r:-53.59},{x:182.44,y:63.77,w:483.6,h:483.6,r:-157.81},{x:385.9,y:184.32,w:483.6,h:483.6,r:-165.05}]</string>
   <string name="scope_icon">Kaleidoscope style</string>
   <string name="scope_time">Kaleidoscope</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="select_notification_animation_style">Select special effect</string>
   <string name="select_notification_notify_style">Select notification effect</string>
   <string name="show_battery">Show battery status</string>
@@ -196,7 +196,7 @@ MM/dd"</string>
   <string name="show_lunar_desc">"Dual clock doesn't support Traditional Chinese calendar"</string>
   <string name="show_notification">Show notifications</string>
   <string name="show_notificaton">Show notifications</string>
-  <string name="shownone_arround_image">None</string>
+  <string name="shownone_arround_image">هیچ یک</string>
   <string name="signature">Signature</string>
   <string name="signature_default_content">"Always believe that something
 wonderful is about to happen"</string>

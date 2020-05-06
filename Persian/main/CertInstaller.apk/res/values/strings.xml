@@ -52,8 +52,8 @@ Auth method: EAP-%5$s
   <string name="wifi_installer_fail_no_wifi">Turn on WLAN and try again.</string>
   <string name="wifi_installer_fail_no_wifi_title">Installation canceled</string>
   <string name="wifi_installer_fail_title">"Can't install"</string>
-  <string name="wifi_installing_label">Installing</string>
-  <string name="wifi_no_config">None</string>
+  <string name="wifi_installing_label">درحال نصب</string>
+  <string name="wifi_no_config">هیچ یک</string>
   <string name="wifi_sim_config_text">"SIM: %s
 "</string>
   <string name="wifi_title">WLAN Profile</string>

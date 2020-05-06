@@ -18,20 +18,20 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="add_alarm">Add alarm</string>
   <string name="add_clock">Add clock</string>
   <string name="add_timer">Frequent timer</string>
   <string name="add_timezone_title">Add timezone</string>
-  <string name="agree">Agree</string>
+  <string name="agree">موافق</string>
   <string name="alarm_alert_alert_silenced">Alarm silenced after %1$s.</string>
   <string name="alarm_alert_disabled">Off</string>
   <string name="alarm_ascending_mode_summary">Alarm volume rises gradually</string>
@@ -136,7 +136,7 @@
   <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Looks like you're using weekday and holiday alarms. This feature needs to connect to the internet to work normally. Before using this feature, you must agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?"&lt;/Data&gt;</string>
   <string name="dialog_legal_workday_and_off_day_desc">"Clock isn't allowed to connect to the internet to update the info about holidays. Weekday alarms will go off from Monday to Friday. Holiday alarms will go off on Saturday and Sunday."</string>
   <string name="dialog_legal_workday_desc">"Clock isn't allowed to connect to the internet to update the info about working days. Weekday alarms will go off from Monday to Friday."</string>
-  <string name="dialog_message_agree">Agree</string>
+  <string name="dialog_message_agree">موافق</string>
   <string name="dialog_message_for_contact_permission">In order to make birthday alarms available, Clock needs to access your contacts. Agree?</string>
   <string name="dialog_message_negative">"Don't agree"</string>
   <string name="dialog_message_not_remind">"Don't show again"</string>
@@ -163,7 +163,7 @@
   <string name="full_wday_month_day_no_year">EEEE, MMMM d</string>
   <string name="go_back">برگشت</string>
   <string name="holiday_update">An update for public holidays is available</string>
-  <string name="holiday_update_fail">"Couldn't update"</string>
+  <string name="holiday_update_fail">"مشکل در بروز کردن"</string>
   <string name="holiday_update_loading">Updating…</string>
   <string name="holiday_update_success">All items are up to date</string>
   <string name="holiday_update_title">Update info about public holidays</string>
@@ -235,7 +235,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="module_dialog_negative">"Don't agree"</string>
   <string name="module_dialog_neutral">فهمیدم</string>
-  <string name="module_dialog_positive">Agree</string>
+  <string name="module_dialog_positive">موافق</string>
   <string name="module_download_cancel">No thanks</string>
   <string name="module_download_data_msg">To make MIUI smart alarms available, Clock needs to download audio files. Smart alarms contain audio features that allow including current weather info into the alarms. ≈20MB of your mobile data will be required for this download. Download now?</string>
   <string name="module_download_data_msg_golbal">Clock needs to download audio files for MIUI smart alarms. ≈20MB of your mobile data will be required for this download. Download now?</string>
@@ -248,7 +248,7 @@
   <string name="module_download_msg_replace">Updated audio for MIUI smart alarms is available. Download now?</string>
   <string name="module_download_msg_timer">Clock needs to download audio files for ambient noise timers. Download now?</string>
   <string name="module_download_no_network">Clock needs to connect to the internet to download audio. Check your network settings and try again.</string>
-  <string name="module_download_ok">Allow</string>
+  <string name="module_download_ok">مجاز</string>
   <string name="module_download_success">Downloaded audio successfully</string>
   <string name="module_download_title">Additional audio required</string>
   <string name="module_downloading">Downloading audio…</string>
@@ -279,7 +279,7 @@
   <string name="more_setting">More settings</string>
   <string name="more_settings">تنظیمات</string>
   <string name="net_permission_cancel">"Don't agree"</string>
-  <string name="net_permission_ok">Agree</string>
+  <string name="net_permission_ok">موافق</string>
   <string name="network_privacy">&lt;Data&gt;In order to get relevant info about local public holidays and adjust alarms, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="network_privacy_global">&lt;Data&gt;In order to provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. Agree?&lt;/Data&gt;</string>
   <string name="never">Once</string>
@@ -321,7 +321,7 @@
   <string name="ringtone_week">Nature alarm</string>
   <string name="search_alarm_clock">@string/alarm_list_title</string>
   <string name="search_alarm_clock_keywords">Alarm;Alarm Clock;</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="search_stopwatch">@string/stopwatch_title</string>
   <string name="search_stopwatch_keywords">Stopwatch</string>
   <string name="search_timer">@string/timer_title</string>

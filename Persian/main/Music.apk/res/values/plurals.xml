@@ -176,7 +176,7 @@ Note: File will be deleted from this device as well."</item>
     </plurals>
     <plurals name="video_count">
         <item quantity="other">Videos</item>
-        <item quantity="one">Video</item>
+        <item quantity="one">ویدئو</item>
     </plurals>
     <plurals name="video_play_count">
         <item quantity="other">%1$s views</item>

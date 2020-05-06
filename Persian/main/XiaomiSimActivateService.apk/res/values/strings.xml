@@ -105,7 +105,7 @@ Enter the phone number associated with your new SIM card to reactivate %s."</str
   <string name="activate_status_desc_wait_for_sms_success">Received activation SMS from server</string>
   <string name="activate_status_title_activating">Activating SIM card…</string>
   <string name="activate_status_title_activating_msim">Activating SIM card %d…</string>
-  <string name="agree">Allow</string>
+  <string name="agree">مجاز</string>
   <string name="app_name">Xiaomi SIM Activation Service</string>
   <string name="checking_client">Checking activation environment</string>
   <string name="error_checking_client">An error occurred during activation</string>

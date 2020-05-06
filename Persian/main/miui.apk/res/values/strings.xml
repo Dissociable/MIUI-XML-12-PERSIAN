@@ -3,10 +3,10 @@
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
   <string name="action_mode_deselect_all">Deselect</string>
-  <string name="action_mode_select_all">Select all</string>
+  <string name="action_mode_select_all">انتخاب همه</string>
   <string name="action_mode_title_empty">Select items</string>
   <string name="actionbar_button_up_description">برگشت</string>
-  <string name="actionbar_immersion_button_more_description">More</string>
+  <string name="actionbar_immersion_button_more_description">بیشتر</string>
   <string name="activate">Activate</string>
   <string name="activate_fail_notification_title">Reactivate sync</string>
   <string name="activating">Activating…</string>
@@ -463,7 +463,7 @@
   <string name="month_september">September</string>
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">S</string>
-  <string name="more">More</string>
+  <string name="more">بیشتر</string>
   <string name="morning">AM</string>
   <string name="name">Name</string>
   <string name="nickname">Nickname</string>
@@ -485,10 +485,10 @@
   <string name="saturday_short">Sat</string>
   <string name="saturday_shortest">S</string>
   <string name="search_action_mode_cancel">لغو</string>
-  <string name="search_input_description">Search</string>
+  <string name="search_input_description">جستجو</string>
   <string name="search_mode_button_back_description">برگشت</string>
-  <string name="select_all">Select all</string>
-  <string name="select_all_description">Select all</string>
+  <string name="select_all">انتخاب همه</string>
+  <string name="select_all_description">انتخاب همه</string>
   <string name="select_item">Select items</string>
   <string name="send">ارسال</string>
   <string name="send_sms_for_sync_notice">An outgoing SMS message may be required to activate this service. Your carrier will charge you for this message.</string>

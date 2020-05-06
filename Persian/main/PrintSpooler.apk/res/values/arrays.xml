@@ -5,7 +5,7 @@
         <item>Color</item>
     </string-array>
     <string-array name="duplex_mode_labels">
-        <item>None</item>
+        <item>هیچ یک</item>
         <item>Long edge</item>
         <item>Short edge</item>
     </string-array>

@@ -302,7 +302,7 @@ you should create an iCloud backup first."</string>
   <string name="local_select_sysdata">سیستم</string>
   <string name="local_select_userapp">برنامه ها</string>
   <string name="local_select_video">Videos</string>
-  <string name="login">Sign in</string>
+  <string name="login">ورود به حساب</string>
   <string name="login_failed">"Couldn't sign in. Try again."</string>
   <string name="logining">Signing in…</string>
   <string name="miliao_account_guide">Use your Mi Account to sign in to Xiaomi Cloud, MIUI Themes, and other Mi services, from anywhere.</string>
@@ -432,7 +432,7 @@ you should create an iCloud backup first."</string>
   <string name="read_encrypt_fail">"Couldn't read encrypted backup"</string>
   <string name="reconnect">Connect again</string>
   <string name="recreate_soft_ap_tips">Tap the button below to try again.</string>
-  <string name="refresh">Refresh</string>
+  <string name="refresh">تازه سازی</string>
   <string name="remote_receive">Receive</string>
   <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="restore">Restore</string>
@@ -462,7 +462,7 @@ Free up at least %s."</string>
   <string name="sc_bad_request">Invalid request</string>
   <string name="sc_internal_server_error">Internal server error</string>
   <string name="sc_network_unavailable">Check your connection and try again.</string>
-  <string name="sc_others">An error occurred</string>
+  <string name="sc_others">خطایی رخ داده است</string>
   <string name="sc_precondition_failed">You need to add an email address to your Mi Account first.</string>
   <string name="sc_request_timeout">Request timed out</string>
   <string name="sc_service_unavailable">"Xiaomi Cloud isn't available"</string>
@@ -474,9 +474,9 @@ Free up at least %s."</string>
   <string name="sdcard_no_enough_space">Not enough space</string>
   <string name="sdcard_no_enough_space_message">"There's not enough storage space on your SD card."</string>
   <string name="sdcard_unmounted">Insert SD card now</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="see_backup_files_on_router">View backups on Mi Router %s</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">انتخاب همه</string>
   <string name="select_backup_item">Choose items</string>
   <string name="select_empty">Select items to import</string>
   <string name="select_item_calendar">Calendar</string>
@@ -505,7 +505,7 @@ Free up at least %s."</string>
   <string name="storage_sd_card">SD card</string>
   <string name="storage_usb">USB drive</string>
   <string name="succ_description">Successfully</string>
-  <string name="succeed">Complete</string>
+  <string name="succeed">کامل شده</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="summary_err_backup_encrypting">Sign in to your Mi Account.</string>
   <string name="summary_err_backup_no_network">"Couldn't connect to the network"</string>

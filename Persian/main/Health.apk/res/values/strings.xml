@@ -18,15 +18,15 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="abnormal">Abnormal</string>
   <string name="achieve_goals">Reached goal</string>
   <string name="achieve_stand_goals">Reached goal</string>
@@ -40,7 +40,7 @@
   <string name="activity_title_sleep_detection">Analyze sleep cycle</string>
   <string name="activity_title_sleep_detection_question">FAQ</string>
   <string name="activity_title_statistic">Stats</string>
-  <string name="add">Add</string>
+  <string name="add">افزودن</string>
   <string name="add_body_weight_button">Add weight data</string>
   <string name="add_body_weight_record_button">Add weight data</string>
   <string name="add_data_source">Adding data sources</string>
@@ -51,7 +51,7 @@ Xiaomi Health supports devices you've previously added in the Mi Home app. If yo
   <string name="add_data_source_support_step">"This device doesn't generate step count data. You can try switching to other data sources."</string>
   <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
-  <string name="add_record">Add</string>
+  <string name="add_record">افزودن</string>
   <string name="added_data_source">Added sources</string>
   <string name="afternoon">PM</string>
   <string name="all_records">All records</string>
@@ -307,9 +307,9 @@ Please send this code to the technician."</string>
   <string name="dialog_abandon">Discard</string>
   <string name="dialog_abandon_sleep_edit">Discard changes?</string>
   <string name="dialog_account_perm_desc">For accessing and signing in the system account</string>
-  <string name="dialog_agree">Agree</string>
-  <string name="dialog_agree_and_continue">Agree</string>
-  <string name="dialog_allow">Allow</string>
+  <string name="dialog_agree">موافق</string>
+  <string name="dialog_agree_and_continue">موافق</string>
+  <string name="dialog_allow">مجاز</string>
   <string name="dialog_auto_start_detail">"Allow Xiaomi Health to autostart to be able to receive notifications.
 Xiaomi Health will only notify you about important items."</string>
   <string name="dialog_auto_start_title">Allow Xiaomi Health to autostart</string>
@@ -335,7 +335,7 @@ Xiaomi Health will only notify you about important items."</string>
   <string name="dialog_menstruation_purpose">Welcome to Xiaomi Health! \"Menstruation\" allows you to record periods, determine estimated dates of upcoming periods, and receive reminders. All the related data will be stored locally on your device, which allows you to manage it easily.</string>
   <string name="dialog_no_more_prompt">"Don't show again"</string>
   <string name="dialog_ok">باشه</string>
-  <string name="dialog_open">Allow</string>
+  <string name="dialog_open">مجاز</string>
   <string name="dialog_permission_loading_msg">Checking…</string>
   <string name="dialog_privacy_policy_statement">Privacy Policy statement</string>
   <string name="dialog_privacy_title">Terms and conditions</string>
@@ -570,7 +570,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="input_body_weight">Enter weight data to get health advice</string>
   <string name="instructions_provider">Instructions provided by Miao Health</string>
   <string name="insufficient">Not enough</string>
-  <string name="jump_over">Skip</string>
+  <string name="jump_over">پرش</string>
   <string name="just_recently">Just now</string>
   <string name="key_sedentary_toggle">sedentary_toggle</string>
   <string name="label_average_daily_sleep_duration">Avg sleep duration</string>
@@ -797,7 +797,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="predict_menstruation">Expected period</string>
   <string name="preference_about">About</string>
   <string name="preference_basic_info">Basic info</string>
-  <string name="preference_click_login">Sign in</string>
+  <string name="preference_click_login">ورود به حساب</string>
   <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="preference_feedback">Feedback</string>
   <string name="preference_health_info_proposal_title">Get accurate stats and helpful tips</string>
@@ -851,7 +851,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="saturday">Saturday</string>
   <string name="saturday_short">Sat</string>
   <string name="saturday_shortest">S</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="sedentary_detail_title">Sitting for too long is harmful</string>
   <string name="sedentary_enhance_remind">Vibrate as well</string>
   <string name="sedentary_enhance_remind_content">This feature works when DND is off</string>
@@ -873,8 +873,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="setting_sedentary_off">OFF</string>
   <string name="setting_sedentary_on">ON</string>
   <string name="setting_sedentary_title">Remind to move</string>
-  <string name="share">Share</string>
-  <string name="skip">Skip</string>
+  <string name="share">اشتراک</string>
+  <string name="skip">پرش</string>
   <string name="sleep">Sleep</string>
   <string name="sleep_and_get_up_time">Bedtime schedule</string>
   <string name="sleep_auto_start_perm_grant">Permissions granted</string>
@@ -980,7 +980,7 @@ sleep data"</string>
   <string name="sleep_turn_over_times_title">Turned</string>
   <string name="sleep_week">Week</string>
   <string name="snore">Snoring</string>
-  <string name="snore_detection_abnormal_notification_button">Resume</string>
+  <string name="snore_detection_abnormal_notification_button">ادامه</string>
   <string name="snore_detection_abnormal_notification_content">"Can't use microphone"</string>
   <string name="snore_detection_abnormal_notification_title">Sleep tracking error</string>
   <string name="snore_detection_abnormal_state">Session was interrupted</string>
@@ -1053,7 +1053,7 @@ sleep data"</string>
   <string name="stand_setting">تنظیمات</string>
   <string name="standard_format">(standard: %1s)</string>
   <string name="standing_already">" You stood up"</string>
-  <string name="state_agree">Agree</string>
+  <string name="state_agree">موافق</string>
   <string name="state_auto_run_disenable">Off</string>
   <string name="state_auto_run_enable">On</string>
   <string name="state_disagree">Restricted</string>
@@ -1146,7 +1146,7 @@ sleep data"</string>
   <string name="tb_go_next_30_day">Go back thirty days</string>
   <string name="tb_go_next_7_day">Go back seven days</string>
   <string name="tb_go_next_a_day">Previous day</string>
-  <string name="tb_go_on_detection">Resume</string>
+  <string name="tb_go_on_detection">ادامه</string>
   <string name="tb_has_snore_dream_talk">Talking and snoring detected</string>
   <string name="tb_home_exercise_card_finish">Exercise. %1$s. Completed: %2$s. Goal: %3$s. Completed: %4$s.</string>
   <string name="tb_home_exercise_card_not_set_goal">Exercise. %1$s. Completed: %2$s. Open goal.</string>

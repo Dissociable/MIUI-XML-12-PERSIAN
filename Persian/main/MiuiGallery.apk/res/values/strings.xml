@@ -18,15 +18,15 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="accept">قبول</string>
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
   <string name="actionbar_button_up_description">برگشت</string>
@@ -213,7 +213,7 @@
   <string name="backup_cloud_space_low_btn_text">Get more</string>
   <string name="backup_cloud_space_low_desc">%1$s in Xiaomi Cloud | Available %2$s</string>
   <string name="backup_cloud_space_low_title">Not enough Xiaomi Cloud storage</string>
-  <string name="backup_cta_not_allow_btn_text">Allow</string>
+  <string name="backup_cta_not_allow_btn_text">مجاز</string>
   <string name="backup_cta_not_allow_desc">Agree to back up automatically</string>
   <string name="backup_cta_not_allow_title">"Can't access network"</string>
   <string name="backup_detail_page_empty">No photos or videos waiting for backup</string>
@@ -258,7 +258,7 @@
   <string name="backuping_title_gprs">Backing up using mobile data…</string>
   <string name="backuping_title_normal">درحال پشتیبان گیری...</string>
   <string name="base_btn_cancel">لغو</string>
-  <string name="base_btn_download">Download</string>
+  <string name="base_btn_download">دریافت</string>
   <string name="begin_share">Created Baby album \"%s\", you can share it now</string>
   <string name="begin_share_toast">Create a separate album for this kid before sharing?</string>
   <string name="blank_app_name" />
@@ -920,8 +920,8 @@
   <string name="creating_baby_album">Creating album…</string>
   <string name="crop_label">Cropped photos</string>
   <string name="custom_select_title_deselect_all">Deselect</string>
-  <string name="custom_select_title_quickly_share">Share</string>
-  <string name="custom_select_title_select_all">Select all</string>
+  <string name="custom_select_title_quickly_share">اشتراک</string>
+  <string name="custom_select_title_select_all">انتخاب همه</string>
   <string name="custom_select_title_select_item">Select items</string>
   <string name="date_picker_label_day" />
   <string name="date_picker_label_month" />
@@ -982,7 +982,7 @@
   <string name="download_retry_message">"Couldn't download files, check network connection and try again"</string>
   <string name="download_retry_text">تلاش دوباره</string>
   <string name="download_retry_title">"Couldn't download files"</string>
-  <string name="download_tip">Download</string>
+  <string name="download_tip">دریافت</string>
   <string name="download_title">Preparing files…</string>
   <string name="download_type_origin">Original files</string>
   <string name="download_type_origin_desc">Original files</string>
@@ -1059,7 +1059,7 @@
   <string name="error_connect_timeout_msg">Connect to a different network and try again.</string>
   <string name="error_connect_timeout_tip">Connection timed out.</string>
   <string name="error_decode_tip">"File format isn't supported or files are corrupted."</string>
-  <string name="error_download_tip">"Couldn't download"</string>
+  <string name="error_download_tip">"خطا در دریافت"</string>
   <string name="error_external_sdcard_write_action">Switch storage</string>
   <string name="error_external_sdcard_write_msg">Go to Settings &gt; Storage, switch storage there, and try again.</string>
   <string name="error_external_sdcard_write_tip">"Can't save items to SD card."</string>
@@ -1073,10 +1073,10 @@
   <string name="error_network_restrict_action">مشاهده جزئیات</string>
   <string name="error_network_restrict_msg">Allow Gallery to connect to the network.</string>
   <string name="error_network_restrict_tip">"Can't connect to the network."</string>
-  <string name="error_no_account_action">Sign in</string>
+  <string name="error_no_account_action">ورود به حساب</string>
   <string name="error_no_account_msg">Sign in to your Mi Account and try again.</string>
   <string name="error_no_account_tip">Sign in to Mi Account</string>
-  <string name="error_no_cta_permission_action">Allow</string>
+  <string name="error_no_cta_permission_action">مجاز</string>
   <string name="error_no_cta_permission_msg">Network access is restricted.</string>
   <string name="error_no_cta_permission_tip">Network access is restricted</string>
   <string name="error_no_network_action">Network settings</string>
@@ -1118,7 +1118,7 @@
   <string name="exit_share_successfully">Exited %1$s</string>
   <string name="exit_video_play">خروج</string>
   <string name="expand_button_title">Advanced</string>
-  <string name="expand_desc">More</string>
+  <string name="expand_desc">بیشتر</string>
   <string name="expand_people">Show more people</string>
   <string name="ext_sdcard_first_entrance_request_failed_text">Gallery will save items to internal storage instead. You can change this in Settings &gt; Storage &gt; Storage settings.</string>
   <string name="ext_sdcard_first_entrance_request_failed_title">"Couldn't give permissions."</string>
@@ -1234,7 +1234,7 @@ are available"</string>
   <string name="filter_movie_summer">Summer</string>
   <string name="filter_movie_travel">Travel</string>
   <string name="filter_movie_wonderful">Wonder</string>
-  <string name="filter_original">None</string>
+  <string name="filter_original">هیچ یک</string>
   <string name="filter_people_bw">B&amp;W</string>
   <string name="filter_people_fairytale">Kids</string>
   <string name="filter_people_japanese">Fresh</string>
@@ -1398,7 +1398,7 @@ are available"</string>
   <string name="how_to_set_relation">Press &amp; hold an album to create a group</string>
   <string name="hr_preview_108m">Switched to 108MP preview</string>
   <string name="hybrid_check_network">Network settings</string>
-  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_data_error">خطایی رخ داده است</string>
   <string name="hybrid_locating_fail">"Couldn't find your location"</string>
   <string name="hybrid_network_access_denied">Network access denied</string>
   <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
@@ -1452,7 +1452,7 @@ are available"</string>
   <string name="loading">Just a sec</string>
   <string name="loading_dots">Just a sec…</string>
   <string name="loading_dual_tip">Loading dual photo…</string>
-  <string name="loading_fail">"Couldn't download"</string>
+  <string name="loading_fail">"خطا در دریافت"</string>
   <string name="loading_fail_sync_off">Turn on sync with the cloud to download</string>
   <string name="loading_fail_sync_off_message">"Couldn't load photos, sync with the cloud is off."</string>
   <string name="loading_fail_sync_without_network">Connect to the network to download metadata</string>
@@ -1474,7 +1474,7 @@ are available"</string>
   <string name="macarons_download_dialog_confirm">باشه</string>
   <string name="macarons_download_dialog_message">Download magic vignette plug-in now?</string>
   <string name="macarons_download_dialog_title">Download plug-in</string>
-  <string name="macarons_download_dialog_without_wifi_confirm">Download</string>
+  <string name="macarons_download_dialog_without_wifi_confirm">دریافت</string>
   <string name="macarons_download_dialog_without_wifi_message">"Couldn't connect to Wi-Fi. You can use mobile data to download magic vignette plug-in."</string>
   <string name="macarons_download_fail">"Couldn't download plug-in. Check your network settings and try again."</string>
   <string name="macarons_download_success">Downloaded plug-in successfully</string>
@@ -1570,7 +1570,7 @@ to personalize Gallery"</string>
   <string name="month_view_tip_button_text">فهمیدم</string>
   <string name="month_view_tip_sub_title">Pinch the screen to switch to month view</string>
   <string name="month_view_tip_title">Month view</string>
-  <string name="more">More</string>
+  <string name="more">بیشتر</string>
   <string name="more_album_hint">, etc.</string>
   <string name="more_album_tip">More albums</string>
   <string name="more_face">More people who look alike</string>
@@ -1585,7 +1585,7 @@ to personalize Gallery"</string>
   <string name="movie_audio_custom">Local</string>
   <string name="movie_audio_dream">Dream</string>
   <string name="movie_audio_electronics">Electro</string>
-  <string name="movie_audio_none">None</string>
+  <string name="movie_audio_none">هیچ یک</string>
   <string name="movie_audio_point1">Neon</string>
   <string name="movie_audio_point2">Sunset</string>
   <string name="movie_audio_point3">Memories</string>
@@ -1603,8 +1603,8 @@ to personalize Gallery"</string>
   <string name="movie_content_describe_play">Play</string>
   <string name="movie_customer_unsupport_audio_file">Unsupport audio file</string>
   <string name="movie_delete_disable">You need at least 3 photos to create a clip.</string>
-  <string name="movie_download">Download</string>
-  <string name="movie_download_failed">"Couldn't download"</string>
+  <string name="movie_download">دریافت</string>
+  <string name="movie_download_failed">"خطا در دریافت"</string>
   <string name="movie_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
   <string name="movie_download_sdk_without_wifi_msg">"Looks like your device isn't connected to Wi-Fi. Download the required plug-in (3MB) using mobile data?"</string>
   <string name="movie_download_sdk_without_wifi_title">Download using mobile data</string>
@@ -1613,7 +1613,7 @@ to personalize Gallery"</string>
   <string name="movie_edit">Edit</string>
   <string name="movie_item_name">Clip</string>
   <string name="movie_preview_btn">Preview</string>
-  <string name="movie_preview_share_title">Share</string>
+  <string name="movie_preview_share_title">اشتراک</string>
   <string name="movie_return">برگشت</string>
   <string name="movie_save">ذخیره</string>
   <string name="movie_save_failed">"Couldn't save"</string>
@@ -1679,7 +1679,7 @@ to personalize Gallery"</string>
   <string name="onekey_scene">Landscape</string>
   <string name="open">روشن</string>
   <string name="open_public_message">Create URL to share with your friends</string>
-  <string name="open_public_title">Share</string>
+  <string name="open_public_title">اشتراک</string>
   <string name="operate_processing_file_error">Wait until all photos are processed.</string>
   <string name="operation_add_album">Add to album</string>
   <string name="operation_add_picture">Add items</string>
@@ -1719,7 +1719,7 @@ to personalize Gallery"</string>
   <string name="operation_set_slide_wallpaper">Set as slideshow wallpaper</string>
   <string name="operation_set_video_wallpaper">Set video wallpaper</string>
   <string name="operation_set_wallpaper">Set as wallpaper</string>
-  <string name="operation_share">Share</string>
+  <string name="operation_share">اشتراک</string>
   <string name="operation_share_manage">Manage shared items</string>
   <string name="operation_show_in_photos_tab">Show in Photos</string>
   <string name="operation_show_on_map">Show on map</string>
@@ -1735,7 +1735,7 @@ to personalize Gallery"</string>
   <string name="orientation_unlock_tip">Auto-rotate on</string>
   <string name="origin_gif_name">original file</string>
   <string name="origin_image_name">original file</string>
-  <string name="origin_video_name">video</string>
+  <string name="origin_video_name">ویدئو</string>
   <string name="other_album">Other albums</string>
   <string name="other_album_operation_move_to_rubbish_albums">Move to redundant albums</string>
   <string name="other_album_operation_remove_from_other_albums">Remove from redundant albums</string>
@@ -1799,7 +1799,7 @@ to personalize Gallery"</string>
   <string name="photo_editor_navigator_download_network_metered_title">Data usage warning</string>
   <string name="photo_editor_navigator_export">ذخیره</string>
   <string name="photo_editor_navigator_module_download_failed">"Couldn't download %s"</string>
-  <string name="photo_editor_navigator_module_download_now">Download</string>
+  <string name="photo_editor_navigator_module_download_now">دریافت</string>
   <string name="photo_editor_navigator_module_download_success">Downloaded successfully</string>
   <string name="photo_editor_navigator_module_download_wait_wlan">Wait for Wi-Fi</string>
   <string name="photo_editor_navigator_module_downloading">Downloading %s…</string>
@@ -1838,7 +1838,7 @@ to personalize Gallery"</string>
   <string name="photo_editor_text">Text</string>
   <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_font_cancel_download">لغو</string>
-  <string name="photo_font_download">Download</string>
+  <string name="photo_font_download">دریافت</string>
   <string name="photo_font_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
   <string name="photo_font_download_without_wifi_msg">"Using mobile data connection to download files will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="photo_font_download_without_wifi_title">Data usage warning</string>
@@ -1873,7 +1873,7 @@ to personalize Gallery"</string>
   <string name="picker_cancel_download">Cancel downloading</string>
   <string name="picker_continue_download">Continue downloading</string>
   <string name="picker_continue_with_exists">Continue with local photos</string>
-  <string name="picker_download">Download</string>
+  <string name="picker_download">دریافت</string>
   <string name="picker_download_progress_file_message">Downloading files… (%1$d/%2$d)</string>
   <string name="picker_download_progress_message">Downloading %1$d/%2$d</string>
   <string name="picker_full_format">You can select up to %d photos</string>
@@ -1899,7 +1899,7 @@ to personalize Gallery"</string>
   <string name="print_log">Print log</string>
   <string name="privacy_permission_request_message">Gallery needs access to %3$s. The information we collect will be used in accordance with our %1$s and %2$s. Allow?</string>
   <string name="privacy_permission_request_negative">Restrict</string>
-  <string name="privacy_permission_request_positive">Allow</string>
+  <string name="privacy_permission_request_positive">مجاز</string>
   <string name="privacy_permission_request_title">Permissions required</string>
   <string name="private_entry_lock_state_activated_text">Release to open private folder</string>
   <string name="private_entry_lock_state_enterd_text">Pull down to open private folder</string>
@@ -2037,7 +2037,7 @@ to personalize Gallery"</string>
   <string name="search_connection_error">"Couldn't connect to the network"</string>
   <string name="search_connection_error_and_set">Tap to check network settings</string>
   <string name="search_empty_title">Find photos with specific people, places, and objects in your Gallery</string>
-  <string name="search_error">An error occurred</string>
+  <string name="search_error">خطایی رخ داده است</string>
   <string name="search_error_and_retry">An error occurred, tap to try again</string>
   <string name="search_failed_mark_feedback_false_negative">"Couldn't add"</string>
   <string name="search_failed_mark_feedback_false_positive">"Couldn't remove"</string>
@@ -2056,13 +2056,13 @@ to personalize Gallery"</string>
   <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
   <string name="search_hint">Tap to search​</string>
   <string name="search_image_result_title">Search results</string>
-  <string name="search_login_now">Sign in</string>
+  <string name="search_login_now">ورود به حساب</string>
   <string name="search_login_sub_title">Sign in to find more photos</string>
   <string name="search_login_title">Mi Account</string>
   <string name="search_login_title_full_screen">Sign in with your Mi Account to find more objects and people</string>
   <string name="search_mark_feedback_false_negative_title">باشه</string>
   <string name="search_mark_feedback_false_positive_title">Fix</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="search_net_error">A network error occurred. Connect to a different network and try again.</string>
   <string name="search_request_applied">Applied</string>
   <string name="search_request_open">Join testing team</string>
@@ -2078,7 +2078,7 @@ to personalize Gallery"</string>
   <string name="search_title_app_screenshot">App screenshots</string>
   <string name="search_title_history">Search history</string>
   <string name="search_title_location">Locations</string>
-  <string name="search_title_more">More</string>
+  <string name="search_title_more">بیشتر</string>
   <string name="search_title_others">All results</string>
   <string name="search_title_people">People</string>
   <string name="search_title_recommend">Recommended</string>
@@ -2109,7 +2109,7 @@ to personalize Gallery"</string>
   <string name="security_share_subtitle_hide">Location info was removed</string>
   <string name="security_share_subtitle_no_hide">Contains location info</string>
   <string name="see_ignore_faces">"View people you've ignored"</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">انتخاب همه</string>
   <string name="select_image_operation">Adding photos</string>
   <string name="select_item_face">"Is this '%s'?"</string>
   <string name="select_origin_tip">Original file (%s)</string>
@@ -2139,7 +2139,7 @@ to personalize Gallery"</string>
   <string name="set_video_wallpaper_failed">"Can't use this item as a video wallpaper"</string>
   <string name="set_wallpaper_get_image_failed">"Couldn't download image, try again later"</string>
   <string name="setup_network_connection">Network settings</string>
-  <string name="share">Share</string>
+  <string name="share">اشتراک</string>
   <string name="share_album">Share album</string>
   <string name="share_album_needs_auto_upload_tip">"Can't turn off sync with the cloud for shared albums"</string>
   <string name="share_album_qr_code">"Album's QR code"</string>
@@ -2236,10 +2236,10 @@ to personalize Gallery"</string>
   <string name="storage_description_xspace">Dual apps data</string>
   <string name="storage_no_space">Not enough space</string>
   <string name="story_action_remove">Remove</string>
-  <string name="story_action_share">Share</string>
+  <string name="story_action_share">اشتراک</string>
   <string name="story_back_stop_download">Tap again to stop downloading</string>
   <string name="story_cancel_download">لغو</string>
-  <string name="story_download">Download</string>
+  <string name="story_download">دریافت</string>
   <string name="story_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
   <string name="story_option_menu_delete">Delete memory</string>
   <string name="story_option_menu_rename">Rename</string>
@@ -2375,7 +2375,7 @@ to personalize Gallery"</string>
   <string name="trash_purge_positive_button">حذف</string>
   <string name="trash_vip_button_login">Extend</string>
   <string name="trash_vip_button_login_top_level">Renew</string>
-  <string name="trash_vip_button_unlogin">Sign in</string>
+  <string name="trash_vip_button_unlogin">ورود به حساب</string>
   <string name="try_again_later">Try again later.</string>
   <string name="try_to_send">ارسال</string>
   <string name="tuesday">Tuesday</string>
@@ -2398,7 +2398,7 @@ to personalize Gallery"</string>
   <string name="unsupported_media_downloading_tip_format">"Viewing original %s images isn't supported in this version of Android. Download anyway?"</string>
   <string name="unsupported_media_scanned_tip">"%1$s images were detected. Viewing %2$s images isn't supported in this version of Android."</string>
   <string name="unsupported_media_view_tip">"Viewing original %s images isn't supported in this version of Android"</string>
-  <string name="user_agree">Agree</string>
+  <string name="user_agree">موافق</string>
   <string name="user_agreement2">Terms of Service</string>
   <string name="user_agreement4">Privacy Policy</string>
   <string name="user_alias_self">Self</string>
@@ -2407,7 +2407,7 @@ to personalize Gallery"</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
   <string name="video_analytic_cancel">لغو</string>
-  <string name="video_analytic_download">Download</string>
+  <string name="video_analytic_download">دریافت</string>
   <string name="video_analytic_download_failed_for_notwork">"Couldn't download. Check your network settings and try again."</string>
   <string name="video_analytic_download_sdk_without_wifi_msg">"Couldn't connect to Wi-Fi. You can also download plug-in using mobile data."</string>
   <string name="video_analytic_download_sdk_without_wifi_title">Downloading plug-in…</string>
@@ -2430,7 +2430,7 @@ to personalize Gallery"</string>
   <string name="video_editor_audio_custom">Select</string>
   <string name="video_editor_audio_dream">Dream</string>
   <string name="video_editor_audio_electronics">Electro</string>
-  <string name="video_editor_audio_none">None</string>
+  <string name="video_editor_audio_none">هیچ یک</string>
   <string name="video_editor_audio_quiet">Zen</string>
   <string name="video_editor_audio_summertime">Summer</string>
   <string name="video_editor_audio_vitality">Vigor</string>
@@ -2441,8 +2441,8 @@ to personalize Gallery"</string>
   <string name="video_editor_done">Done</string>
   <string name="video_editor_down_load_later">Later</string>
   <string name="video_editor_down_load_no_wifi_tips">Connect to Wi-Fi to download</string>
-  <string name="video_editor_down_load_now">Download</string>
-  <string name="video_editor_download">Download</string>
+  <string name="video_editor_down_load_now">دریافت</string>
+  <string name="video_editor_download">دریافت</string>
   <string name="video_editor_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
   <string name="video_editor_download_with_metered_network_msg">Downloading original files may generate additional carrier fees. Download anyway?</string>
   <string name="video_editor_download_with_metered_network_title">"You're connected to a paid network"</string>
@@ -2460,7 +2460,7 @@ to personalize Gallery"</string>
   <string name="video_editor_filter_jiaopian">Film</string>
   <string name="video_editor_filter_jingmi">Calm</string>
   <string name="video_editor_filter_moon">Moon</string>
-  <string name="video_editor_filter_none">None</string>
+  <string name="video_editor_filter_none">هیچ یک</string>
   <string name="video_editor_filter_nuancha">Tea</string>
   <string name="video_editor_filter_old">Sepia</string>
   <string name="video_editor_filter_origin">Original</string>
@@ -2496,7 +2496,7 @@ to personalize Gallery"</string>
   <string name="video_editor_smart_effect_halo">Halo</string>
   <string name="video_editor_smart_effect_high_iframes_text">This effect works best for 120 fps videos.</string>
   <string name="video_editor_smart_effect_movie">Movie</string>
-  <string name="video_editor_smart_effect_none">None</string>
+  <string name="video_editor_smart_effect_none">هیچ یک</string>
   <string name="video_editor_smart_effect_radical">Upbeat</string>
   <string name="video_editor_smart_effect_rhythm">Pulse</string>
   <string name="video_editor_smart_effect_street">Metropolis</string>
@@ -2569,7 +2569,7 @@ to personalize Gallery"</string>
   <string name="vlog_bottom_view_save">ذخیره</string>
   <string name="vlog_cancel_download">لغو</string>
   <string name="vlog_caption">Text</string>
-  <string name="vlog_caption_add">Add</string>
+  <string name="vlog_caption_add">افزودن</string>
   <string name="vlog_caption_ai_cancel">لغو</string>
   <string name="vlog_caption_ai_conform">باشه</string>
   <string name="vlog_caption_ai_connecting">Downloading plug-in for auto captions…</string>
@@ -2597,8 +2597,8 @@ to personalize Gallery"</string>
   <string name="vlog_clip_select_trans">Select transition</string>
   <string name="vlog_clip_sort">Rearrange videos</string>
   <string name="vlog_cloud_file_download">Items from the cloud</string>
-  <string name="vlog_download">Download</string>
-  <string name="vlog_download_btn">Download</string>
+  <string name="vlog_download">دریافت</string>
+  <string name="vlog_download_btn">دریافت</string>
   <string name="vlog_download_cloud_file_retry">"Couldn't download items from the cloud. Try again."</string>
   <string name="vlog_download_cloud_file_without_wifi_msg">"Couldn't connect to Wi-Fi. You can also download items from the cloud (%s) using mobile data."</string>
   <string name="vlog_download_fail">"Couldn't download. Check your network settings and try again."</string>
@@ -2620,7 +2620,7 @@ to personalize Gallery"</string>
   <string name="vlog_filter_liulan">Mist</string>
   <string name="vlog_filter_no_support_nums">"Skipped videos that don't support editing (%1$d)"</string>
   <string name="vlog_filter_nuanyang">Sunshine</string>
-  <string name="vlog_filter_origin">None</string>
+  <string name="vlog_filter_origin">هیچ یک</string>
   <string name="vlog_filter_qianyin">Tender</string>
   <string name="vlog_filter_rixi">Pastel</string>
   <string name="vlog_filter_xiayang">Midsummer</string>
@@ -2636,7 +2636,7 @@ to personalize Gallery"</string>
   <string name="vlog_nav_title_filter">Filters</string>
   <string name="vlog_nav_title_ratio">Aspect ratio</string>
   <string name="vlog_nav_title_template">Templates</string>
-  <string name="vlog_none">None</string>
+  <string name="vlog_none">هیچ یک</string>
   <string name="vlog_photo_not_support">"Can't edit images"</string>
   <string name="vlog_ratio_choose">Select aspect ratio</string>
   <string name="vlog_ratio_fullsize">Fullscreen</string>
@@ -2672,7 +2672,7 @@ to personalize Gallery"</string>
   <string name="vlog_trans_heichang">Fade</string>
   <string name="vlog_trans_left">Left</string>
   <string name="vlog_trans_mohu">Blur</string>
-  <string name="vlog_trans_none">None</string>
+  <string name="vlog_trans_none">هیچ یک</string>
   <string name="vlog_trans_right">Right</string>
   <string name="vlog_trans_suoxiao">Zoom out</string>
   <string name="vlog_trans_suoxiao_rotate">Swirl out</string>

@@ -18,22 +18,22 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="action_firewall_setting">Blocklist</string>
   <string name="action_get_otp">Get code</string>
-  <string name="action_sign_in">Sign in</string>
-  <string name="action_sign_in_short">Sign in</string>
+  <string name="action_sign_in">ورود به حساب</string>
+  <string name="action_sign_in_short">ورود به حساب</string>
   <string name="activity_not_found">No app was found to handle this action</string>
   <string name="activity_not_found_uri">No app was found to handle this action</string>
-  <string name="addBlackList">Block</string>
+  <string name="addBlackList">مسدود کردن</string>
   <string name="add_attachment">Add attachments</string>
   <string name="add_contact">vCard</string>
   <string name="add_miui_contact">Contact</string>
@@ -72,7 +72,7 @@
   <string name="attach_subject">Subject</string>
   <string name="attach_take_photo">Take photo</string>
   <string name="attach_transaction">Transfer money</string>
-  <string name="attach_video">Video</string>
+  <string name="attach_video">ویدئو</string>
   <string name="attach_video_call">Video call</string>
   <string name="audio_download_failed">"Couldn't download audio"</string>
   <string name="audio_message_expired">This voice message has expired.</string>
@@ -121,7 +121,7 @@
   <string name="change_duration_activity">Change duration</string>
   <string name="chatbox_list_title">My mini apps</string>
   <string name="chatbox_main_title">Mini apps</string>
-  <string name="check_all">Select all</string>
+  <string name="check_all">انتخاب همه</string>
   <string name="class_0_message_activity">Class 0 message</string>
   <string name="classifing">Grouping messages…</string>
   <string name="click_to_update">Tap to check for updates</string>
@@ -131,7 +131,7 @@
   <string name="cloud_state_disabled">Turn on sync with the cloud to sync messages</string>
   <string name="cloud_state_sync_finished">Synced with Xiaomi Cloud</string>
   <string name="cloud_state_syncing">Syncing with Xiaomi Cloud…</string>
-  <string name="cm_privacy_dialog_allow">Agree</string>
+  <string name="cm_privacy_dialog_allow">موافق</string>
   <string name="cm_privacy_dialog_cancel">لغو</string>
   <string name="cm_privacy_dialog_spannable_tips">Privacy Policy</string>
   <string name="cm_privacy_dialog_tips">"Smart messaging services are provided by your carrier. Messaging needs to connect to the Internet and access your location in order to provide these services. You must agree to your carrier's %1s before you start using these services. Agree?"</string>
@@ -230,9 +230,9 @@
   <string name="discard_slideshow">Discard slideshow</string>
   <string name="dl_failure_notification">"Couldn't download message %1$s from %2$s."</string>
   <string name="done">Done</string>
-  <string name="download">Download</string>
+  <string name="download">دریافت</string>
   <string name="download_later">"Can't download right now. Try again later."</string>
-  <string name="downloading">Downloading</string>
+  <string name="downloading">درحال دریافت</string>
   <string name="downloading_file_can_not_play">Wait until recording has finished downloading</string>
   <string name="draft">Draft</string>
   <string name="duration_not_a_number">Duration must be a number</string>
@@ -329,7 +329,7 @@
   <string name="home_tab_ad">Promotional</string>
   <string name="home_tab_common">Regular</string>
   <string name="hybrid_check_network">Network settings</string>
-  <string name="hybrid_data_error">An error occurred</string>
+  <string name="hybrid_data_error">خطایی رخ داده است</string>
   <string name="hybrid_locating_fail">"Couldn't find your location"</string>
   <string name="hybrid_network_access_denied">Network access denied</string>
   <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
@@ -367,10 +367,10 @@
   <string name="menu_delete_messages">Delete messages</string>
   <string name="menu_edit">Edit</string>
   <string name="menu_forward">Forward</string>
-  <string name="menu_lock">Add to favorites</string>
+  <string name="menu_lock">افزودن به مورد علاقه ها</string>
   <string name="menu_make_call">Call</string>
   <string name="menu_mark">Mark</string>
-  <string name="menu_more">More</string>
+  <string name="menu_more">بیشتر</string>
   <string name="menu_new_contact">New contact</string>
   <string name="menu_new_manual">Enter phone number</string>
   <string name="menu_pick_from_contact">Select from contacts</string>
@@ -417,14 +417,14 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">All MMS except the messages sent from authorized senders will be blocked. Authorized senders include network carriers, national railway booking systems, etc.</string>
-  <string name="mms_block_alert_ok">Block</string>
+  <string name="mms_block_alert_ok">مسدود کردن</string>
   <string name="mms_block_alert_title">Block MMS</string>
   <string name="mms_block_hint">"This sender isn't in your contacts.
 This message might be unsolicited."</string>
   <string name="mms_block_hint_highlight">Block MMS</string>
   <string name="mms_main_purpose">"To get access to Messaging's full functionality, turn on Mi Message and Smart Messaging."</string>
   <string name="mms_title">Messaging</string>
-  <string name="more">More</string>
+  <string name="more">بیشتر</string>
   <string name="move_down">Move down</string>
   <string name="move_up">Move up</string>
   <string name="msg_no_member_selected">Select at least 1 contact</string>
@@ -501,7 +501,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="net_sms_subscribed">Subscribed successfully</string>
   <string name="net_sms_unsubscribe">Unsubscribed successfully</string>
   <string name="network_error_description">A network error occurred. Wait a minute or two and try again.</string>
-  <string name="networking_allow_continue">Allow</string>
+  <string name="networking_allow_continue">مجاز</string>
   <string name="networking_allow_desc">Mi Message needs to connect to the internet to work normally. In order to provide free text and voice services, recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
   <string name="networking_allow_desc_without_mx">Mi Message needs to connect to the internet to work normally. In order to recognize unknown numbers, filter spam, and enable other features, Mi Message needs to use Yellow pages. Allow Yellow pages to connect to the internet, get your location info, and read your contacts?</string>
   <string name="networking_allow_title">Attention</string>
@@ -714,7 +714,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_chatbot_video_message">You received a video. Tap to view details.</string>
   <string name="rcs_chatdetail_apecial">" | Emergency"</string>
   <string name="rcs_chatdetail_check_chatbot">My apps</string>
-  <string name="rcs_chatdetail_menu_add_black">Block</string>
+  <string name="rcs_chatdetail_menu_add_black">مسدود کردن</string>
   <string name="rcs_chatdetail_menu_black_tip">Block this mini app?</string>
   <string name="rcs_chatdetail_menu_delete">Remove from device</string>
   <string name="rcs_chatdetail_menu_delete_content">Remove this mini app from your device?</string>
@@ -761,7 +761,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_not_online">"Can't use China Mobile Messaging. Check your network settings and try again."</string>
   <string name="rcs_offline">Not signed in to UC. Wait a minute or two and try again.</string>
   <string name="rcs_offline_hint">"China Mobile Messaging is offline. Can't forward this message."</string>
-  <string name="rcs_pref_button_login">Sign in</string>
+  <string name="rcs_pref_button_login">ورود به حساب</string>
   <string name="rcs_pref_button_logout">Sign out</string>
   <string name="rcs_pref_category_rcs">RCS messaging</string>
   <string name="rcs_pref_category_rcs_message">RCS messaging</string>
@@ -883,7 +883,7 @@ Take a look at the recommended ones!"</string>
   <string name="search_hint">Search messaging</string>
   <string name="search_keyword_mms">Messaging;SMS;MMS;Text;Texting;Message;Messages</string>
   <string name="search_label">Messaging</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="search_path_mms">Settings/System apps/Messaging</string>
   <string name="search_setting_description">Text in your messages</string>
   <string name="search_show_more_results">Show more</string>
@@ -931,8 +931,8 @@ Take a look at the recommended ones!"</string>
   <string name="service_network_problem">"Couldn't send due to network problem"</string>
   <string name="service_not_activated">Service not activated on network</string>
   <string name="set">Set</string>
-  <string name="share">Share</string>
-  <string name="share_img">Share</string>
+  <string name="share">اشتراک</string>
+  <string name="share_img">اشتراک</string>
   <string name="shortcut_new_msg">New message</string>
   <string name="shortcut_setting">تنظیمات</string>
   <string name="show_all_messages">Show all messages</string>
@@ -1014,7 +1014,7 @@ Take a look at the recommended ones!"</string>
   <string name="summary_pref_cm_smart_sms">Card templates, SMS service numbers, and more.</string>
   <string name="switch_to_editor">Editor mode</string>
   <string name="switch_to_menu">Menu mode</string>
-  <string name="system_permission_declare_agree">Agree</string>
+  <string name="system_permission_declare_agree">موافق</string>
   <string name="system_permission_declare_disagree">لغو</string>
   <string name="system_permission_declare_double_link" formatted="false">Read and agree to our %1s and %2s before using this feature.</string>
   <string name="system_permission_declare_main_purpose" formatted="false">Welcome to %1s! %2s</string>
@@ -1037,7 +1037,7 @@ If you don't agree to grant such permissions or share and upload your personal i
   <string name="text_message">Text message</string>
   <string name="timed_message_expired_title_2">Send them now?</string>
   <string name="timed_message_to">to</string>
-  <string name="title_activity_rcs_login">Sign in</string>
+  <string name="title_activity_rcs_login">ورود به حساب</string>
   <string name="title_activity_rcs_maps">Location</string>
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
@@ -1067,7 +1067,7 @@ If you don't agree to grant such permissions or share and upload your personal i
   <string name="type_to_compose_text_enter_to_send">Type message</string>
   <string name="type_to_compose_text_or_leave_blank">Type message, or leave blank</string>
   <string name="type_vcard">vCard</string>
-  <string name="type_video">video</string>
+  <string name="type_video">ویدئو</string>
   <string name="undelivered_msg_dialog_body">"Couldn't send this message.
 Attempt made: %s."</string>
   <string name="undelivered_msg_dialog_title">Undelivered message</string>

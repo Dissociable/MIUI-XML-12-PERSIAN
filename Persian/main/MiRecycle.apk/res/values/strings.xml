@@ -22,15 +22,15 @@
   <string name="abc_font_family_menu_material">sans-serif</string>
   <string name="abc_font_family_subhead_material">sans-serif</string>
   <string name="abc_font_family_title_material">sans-serif-medium</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="app_name">Mi Recycle</string>
   <string name="btn_check_back">برگشت</string>
   <string name="buy_insurance_desc">Powered by OneAssist</string>
@@ -63,7 +63,7 @@
   <string name="oa_go_check_order">View in OneAssist</string>
   <string name="overall_test">Overall Test</string>
   <string name="result_no_fail">Everything is great</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="stop_test">توقف</string>
 </resources>

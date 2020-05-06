@@ -18,15 +18,15 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="actionbar_button_up_description">برگشت</string>
   <string name="afternoon">Afternoon</string>
   <string name="am">AM</string>
@@ -258,7 +258,7 @@
   <string name="miui_feedback_edit_select_upload_log_select_desc">Selected \"Add logs\"</string>
   <string name="miui_feedback_edit_storage_permission_name">Access device storage</string>
   <string name="miui_feedback_edit_submit_dialog_cancel">"Don't agree"</string>
-  <string name="miui_feedback_edit_submit_dialog_confirm">Agree</string>
+  <string name="miui_feedback_edit_submit_dialog_confirm">موافق</string>
   <string name="miui_feedback_edit_submit_dialog_content">&lt;Data&gt;"You must agree to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; to be able to use Feedback. The issues you report along with the items you attach (might contain personal information, as well as the information about your device and network) will be uploaded to MIUI's servers. This will help us locate and solve the problems you report."&lt;/Data&gt;</string>
   <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="miui_feedback_edit_submit_dialog_not_show_again">"Don't show again"</string>
@@ -287,7 +287,7 @@
   <string name="miui_guide_clear_db_service">\"Services &amp; feedback\" is clearing language cache…</string>
   <string name="miui_guide_footer_desc">"Beginner's guide is designed to help you learn more about your device and MIUI. Some images and videos in the guide were created for reference purposes only and may differ from the actual product. The features described in this guide may vary depending on your device model, MIUI version, and usage environment."</string>
   <string name="miui_guide_item_complete">Completed</string>
-  <string name="miui_guide_item_new">New</string>
+  <string name="miui_guide_item_new">جدید</string>
   <string name="miui_guide_item_progress">Completed %1$d/%2$d</string>
   <string name="miui_guide_top_bar_sub_title">Learn what MIUI can do</string>
   <string name="miui_guide_top_bar_title">"Beginner's guide"</string>
@@ -364,11 +364,11 @@
   <string name="month_september">September</string>
   <string name="month_september_short">Sep</string>
   <string name="month_september_shortest">Sep</string>
-  <string name="more">More</string>
+  <string name="more">بیشتر</string>
   <string name="morning">Morning</string>
   <string name="night">Evening</string>
   <string name="noon">Midday</string>
-  <string name="permission_agree">Agree</string>
+  <string name="permission_agree">موافق</string>
   <string name="permission_china_version_msg">&lt;Data&gt;Before using \"Services &amp;amp;amp; feedback\", you must read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. This app also needs to connect to the internet to work normally.&lt;/Data&gt;</string>
   <string name="permission_complete">Done</string>
   <string name="permission_contacts_info">Access account info</string>
@@ -384,7 +384,7 @@
   <string name="permission_main_purpose">Displaying MIUI feature demos, submitting feedback, and applying for after-sales services.</string>
   <string name="permission_privacy">Privacy Policy (mandatory)</string>
   <string name="permission_region_version_msg">&lt;Data&gt;Before using \"Services &amp;amp;amp; feedback\", you must read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
-  <string name="permission_select_all">Select all</string>
+  <string name="permission_select_all">انتخاب همه</string>
   <string name="permission_storage">Storage</string>
   <string name="permission_storage_introduce">For saving items on your device</string>
   <string name="permission_user_protocol">User Agreement (mandatory)</string>
@@ -399,14 +399,14 @@
   <string name="saturday">Saturday</string>
   <string name="saturday_short">Sat</string>
   <string name="saturday_shortest">Sat</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="share_cancel">Canceled sharing</string>
   <string name="share_failed">"Couldn't share"</string>
   <string name="share_no_network">"Couldn't connect to the network"</string>
   <string name="share_not_install_wechat">Install WeChat first</string>
   <string name="share_not_install_weibo">Install Weibo first</string>
   <string name="share_success">Shared successfully</string>
-  <string name="share_title">Share</string>
+  <string name="share_title">اشتراک</string>
   <string name="share_wechat_timeline_title">WeChat Moments</string>
   <string name="share_wechat_title">WeChat</string>
   <string name="share_weibo_title">Weibo</string>

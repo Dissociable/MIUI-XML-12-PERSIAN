@@ -18,15 +18,15 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="access_sd_fail">"Couldn't access SD card."</string>
   <string name="accessibility_ai_scene_off">AI camera is off</string>
   <string name="accessibility_ai_scene_on">AI camera is on</string>
@@ -84,7 +84,7 @@
   <string name="accessibility_lighting_panel_on">Showing studio lighting bar</string>
   <string name="accessibility_mimovie_off">Not using movie frame</string>
   <string name="accessibility_mimovie_on">Using movie frame</string>
-  <string name="accessibility_more">More</string>
+  <string name="accessibility_more">بیشتر</string>
   <string name="accessibility_open">Turned on</string>
   <string name="accessibility_peak">Focus peak button</string>
   <string name="accessibility_portrait_button">Portrait mode</string>
@@ -366,7 +366,7 @@ in Portrait mode"</string>
   <string name="lighting_pattern_leaf">Leaves</string>
   <string name="lighting_pattern_movie">Movie</string>
   <string name="lighting_pattern_nature">Natural</string>
-  <string name="lighting_pattern_null">None</string>
+  <string name="lighting_pattern_null">هیچ یک</string>
   <string name="lighting_pattern_rainbow">Rainbow</string>
   <string name="lighting_pattern_shutter">Blinds</string>
   <string name="lighting_pattern_stage">Stage</string>
@@ -376,7 +376,7 @@ in Portrait mode"</string>
   <string name="live_activation_license" />
   <string name="live_edit_exit_confirm">توقف</string>
   <string name="live_edit_exit_message">Stop shooting now?</string>
-  <string name="live_edit_share_title">Share</string>
+  <string name="live_edit_share_title">اشتراک</string>
   <string name="live_error_confirm">Adjust time</string>
   <string name="live_error_message">Some features might not work properly when system time is incorrect.</string>
   <string name="live_error_title">"System time isn't correct"</string>
@@ -408,10 +408,10 @@ in Portrait mode"</string>
   <string name="live_sticker_network_error_hint">Network error</string>
   <string name="live_sticker_tab_name">TikTok Magic Sticker</string>
   <string name="live_sticker_updating">Updating…</string>
-  <string name="location_access_allow">Allow</string>
+  <string name="location_access_allow">مجاز</string>
   <string name="location_permission_des">Remember locations for photos and videos</string>
   <string name="location_permission_not_ask_again">Allow Camera to access your location in the Settings.</string>
-  <string name="location_permission_not_ask_again_go_to_settings">Allow</string>
+  <string name="location_permission_not_ask_again_go_to_settings">مجاز</string>
   <string name="log_format">LOG</string>
   <string name="lying_direct_hint">Current orientation</string>
   <string name="macro_mode">Macro</string>
@@ -511,11 +511,11 @@ look larger on photos"</string>
   <string name="module_name_portrait">Portrait</string>
   <string name="module_name_professional">Pro</string>
   <string name="module_name_square">Square</string>
-  <string name="module_name_video">Video</string>
+  <string name="module_name_video">ویدئو</string>
   <string name="moive_frame">Movie frame</string>
   <string name="multi_window_mode_not_supported">"Camera can't be used in multi-window mode"</string>
   <string name="music_hint_tt">服务来源爱听卓乐</string>
-  <string name="network_access_user_notice_agree">Agree</string>
+  <string name="network_access_user_notice_agree">موافق</string>
   <string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Camera needs to connect to the internet to provide effects, music, and other features for short videos.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
   <string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Welcome to short videos! Our service needs to connect to the network to provide you with music and other features. &amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Before using our service, you need to read and agree to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, as well as allow the app to connect to the internet.&lt;/Data&gt;</string>
   <string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Camera needs to connect to the internet to provide stickers for this feature.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;By tapping \"Agree\" below, you're agreeing to our &amp;lt;a href =%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href =%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;, and allowing Camera to connect to the internet."&lt;/Data&gt;</string>
@@ -629,7 +629,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_audio_focus_entry_rear">Rear</string>
   <string name="pref_audio_focus_title">Audio focus</string>
   <string name="pref_burst_shoot_title">Burst shoot</string>
-  <string name="pref_camcorder_settings">Video</string>
+  <string name="pref_camcorder_settings">ویدئو</string>
   <string name="pref_camcorder_settings_category">تنظیمات دوربین</string>
   <string name="pref_camera_ai_scene_title">AI camera</string>
   <string name="pref_camera_antibanding_default">1</string>
@@ -666,7 +666,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_beautify_entry_normal">Medium</string>
   <string name="pref_camera_beauty">Beautify</string>
   <string name="pref_camera_beauty_deep">Beautify Pro</string>
-  <string name="pref_camera_coloreffect_default">none</string>
+  <string name="pref_camera_coloreffect_default">هیچ یک</string>
   <string name="pref_camera_coloreffect_entry_big_face">Spread</string>
   <string name="pref_camera_coloreffect_entry_blackwhite">B&amp;W</string>
   <string name="pref_camera_coloreffect_entry_fisheye">Fisheye</string>
@@ -890,7 +890,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_picturesize_entry_1_1">1:1</string>
   <string name="pref_camera_picturesize_entry_3_4">3:4</string>
   <string name="pref_camera_picturesize_entry_9_16">9:16</string>
-  <string name="pref_camera_picturesize_entry_fullscreen">Full screen</string>
+  <string name="pref_camera_picturesize_entry_fullscreen">تمام صفحه</string>
   <string name="pref_camera_picturesize_entry_standard">Standard 4:3</string>
   <string name="pref_camera_picturesize_title_simple_mode">Camera frame</string>
   <string name="pref_camera_portrait_mode_entry_off">Portrait mode is off</string>
@@ -941,7 +941,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_snap_entry_summary">Press and hold the Volume down button when the screen is off to take a photo</string>
   <string name="pref_camera_snap_entry_take_movie">Quick snap mode (video)</string>
   <string name="pref_camera_snap_entry_take_picture">Quick snap mode (photo)</string>
-  <string name="pref_camera_snap_label_take_movie">Video</string>
+  <string name="pref_camera_snap_label_take_movie">ویدئو</string>
   <string name="pref_camera_snap_label_take_picture">Photo</string>
   <string name="pref_camera_snap_value_off">Off</string>
   <string name="pref_camera_snap_value_take_movie">Movie</string>
@@ -1147,10 +1147,10 @@ Keep the subject sharp while blurring the background."</string>
   <string name="reset_manually_parameter_hint">Reset</string>
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the earphone area"</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="search_settings">Camera settings;Quality;Image quality;Image location;Picture location;Face detection;Camera sound</string>
   <string name="see_qrcode_detals">View QR code details</string>
-  <string name="share">Share</string>
+  <string name="share">اشتراک</string>
   <string name="simple_mode_button_asd_flash">Turn off Flash capture</string>
   <string name="simple_mode_button_asd_hdr">Turn off HDR capture</string>
   <string name="simple_mode_button_text_audio_capture">Turn off voice trigger</string>
@@ -1186,7 +1186,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="super_eis_pro">Steady video Pro</string>
   <string name="super_eis_pro_disabled_hint">Steady video Pro is off</string>
   <string name="super_night_hint">Optimizing image… Keep your device stable.</string>
-  <string name="super_night_se_tip">Night mode</string>
+  <string name="super_night_se_tip">حالت شب</string>
   <string name="super_night_toast">Keep your phone steady while taking a photo</string>
   <string name="tap_to_exposure">Tap to adjust exposure manually</string>
   <string name="tap_to_focus">Tap to focus</string>
@@ -1230,7 +1230,7 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="ultra_wide_recommend_tip_hint">Try Ultra wide angle mode</string>
   <string name="ultra_wide_recommend_tip_hint_sat">Switch to 0.6X ultra wide angle</string>
   <string name="unknow_error">Unknown error</string>
-  <string name="user_agree">Agree</string>
+  <string name="user_agree">موافق</string>
   <string name="user_define_watermark_cancel">لغو</string>
   <string name="user_define_watermark_save">ذخیره</string>
   <string name="user_notice_identify_summary_format">Before using Camera, you must agree to our &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;User Agreement&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Privacy Policy&lt;/a&gt;. Camera also needs to connect to the internet to work normally. Agree?</string>

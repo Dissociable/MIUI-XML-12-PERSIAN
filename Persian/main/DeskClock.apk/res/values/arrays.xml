@@ -1283,7 +1283,7 @@
         <item>15 minutes in advance</item>
         <item>30 minutes in advance</item>
         <item>1 hour in advance</item>
-        <item>None</item>
+        <item>هیچ یک</item>
     </string-array>
     <string-array name="notification_adv_time_values">
         <item>0</item>

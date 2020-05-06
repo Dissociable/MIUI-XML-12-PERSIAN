@@ -98,7 +98,7 @@
   <string name="cmas_response_execute">Execute</string>
   <string name="cmas_response_heading">Response Type:</string>
   <string name="cmas_response_monitor">Monitor</string>
-  <string name="cmas_response_none">None</string>
+  <string name="cmas_response_none">هیچ یک</string>
   <string name="cmas_response_prepare">Prepare</string>
   <string name="cmas_response_shelter">Shelter</string>
   <string name="cmas_severe_alert">Emergency alert: Severe</string>

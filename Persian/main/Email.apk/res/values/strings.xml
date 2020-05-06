@@ -39,7 +39,7 @@
   <string name="account_settings_edit_quick_responses_label">Quick reply</string>
   <string name="account_settings_edit_quick_responses_summary">Edit brief messages to paste into emails</string>
   <string name="account_settings_enforced_label">Policies</string>
-  <string name="account_settings_enforced_summary">None</string>
+  <string name="account_settings_enforced_summary">هیچ یک</string>
   <string name="account_settings_incoming_summary">Username, password, and other server settings</string>
   <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
  Update them now?"</string>
@@ -71,7 +71,7 @@
   <string name="account_settings_sync_email_enable">Sync email</string>
   <string name="account_settings_sync_email_summary">Sync email for this account</string>
   <string name="account_settings_unsupported_label">Unsupported policies</string>
-  <string name="account_settings_unsupported_summary">None</string>
+  <string name="account_settings_unsupported_summary">هیچ یک</string>
   <string name="account_settings_user_usage">Account settings</string>
   <string name="account_settings_using_ringtone">Ringtone</string>
   <string name="account_settings_vibrate_when_label">Vibrate</string>
@@ -95,7 +95,7 @@
   <string name="account_setup_deleting_account_msg">"    Removing account…"</string>
   <string name="account_setup_exchange_certificate_title">Client certificate</string>
   <string name="account_setup_exchange_device_id_label">Mobile Device ID</string>
-  <string name="account_setup_exchange_no_certificate">None</string>
+  <string name="account_setup_exchange_no_certificate">هیچ یک</string>
   <string name="account_setup_failed_auth_required">"This authentication method isn't supported by the server."</string>
   <string name="account_setup_failed_certificate_inaccessible">The certificate is invalid or inaccessible.</string>
   <string name="account_setup_failed_certificate_required">A client certificate is required. Do you want to connect to the server with a client certificate?</string>
@@ -128,7 +128,7 @@
   <string name="account_setup_incoming_password_label">Password</string>
   <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Security type</string>
-  <string name="account_setup_incoming_security_none_label">None</string>
+  <string name="account_setup_incoming_security_none_label">هیچ یک</string>
   <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (Accept all certificates)</string>
   <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
@@ -185,7 +185,7 @@
   <string name="add_label">Add folder</string>
   <string name="add_pre_message_attachments">Add the attachments of pre-message?</string>
   <string name="add_pre_message_attachments_no">"Don't add"</string>
-  <string name="add_pre_message_attachments_yes">Add</string>
+  <string name="add_pre_message_attachments_yes">افزودن</string>
   <string name="add_star">Star</string>
   <string name="agreement_url" formatted="false">http://www.miui.com/res/doc/eula.html?region=%1s&amp;lang=%2s</string>
   <string name="all_purpose">Welcome to Mail! This email client was created by Kingsoft for Xiaomi. You can use this app to send and receive emails.</string>
@@ -232,7 +232,7 @@
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
   <string name="attachment_unknown">%s file</string>
-  <string name="attachment_video">Video</string>
+  <string name="attachment_video">ویدئو</string>
   <string name="attachments_header">Attachments</string>
   <string name="authority_email_provider">com.android.email.provider</string>
   <string name="auto_advance_help_title">After deleting a message, view…</string>
@@ -245,7 +245,7 @@
   <string name="auto_mail_title_note">Find the option \"139 Mailbox Automatical Configuring\", click it to start.</string>
   <string name="auto_mail_window_description">139 Email Service Automatical Configuring</string>
   <string name="auto_mail_window_label">139 Mailbox Automatical Configuring</string>
-  <string name="auto_remind_bind">Add</string>
+  <string name="auto_remind_bind">افزودن</string>
   <string name="auto_remind_discribe_text">Turn on to receive automatic reminders</string>
   <string name="auto_remind_text">Automatic reminders</string>
   <string name="auto_remind_unbind">توقف</string>
@@ -270,7 +270,7 @@
   <string name="body_hint">Compose email</string>
   <string name="body_inline_pic_text">[Picture]</string>
   <string name="bottom_bar_more_quickreply">Quick reply</string>
-  <string name="bottom_bar_more_share">Share</string>
+  <string name="bottom_bar_more_share">اشتراک</string>
   <string name="bottom_bar_no_quickreply_toast">No quick reply</string>
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Remind later</string>
@@ -346,7 +346,7 @@
   <string name="contact_in_filter_title">Sender</string>
   <string name="contact_info_string">Show contact information for %1$s</string>
   <string name="contact_info_string_default">Show contact information</string>
-  <string name="contact_list_add_btn">Add</string>
+  <string name="contact_list_add_btn">افزودن</string>
   <string name="contact_list_search_hint">Search contacts</string>
   <string name="contact_list_title">مخاطبین</string>
   <string name="contact_permission_error">"Access to phone's contacts restricted"</string>
@@ -357,7 +357,7 @@
   <string name="contextmenu_add_contact">Add contact</string>
   <string name="contextmenu_call">Call</string>
   <string name="contextmenu_copy">کپی</string>
-  <string name="contextmenu_copylink">Copy URL</string>
+  <string name="contextmenu_copylink">کپی آدرس</string>
   <string name="contextmenu_create">Create a new contact</string>
   <string name="contextmenu_dial_dot">Dial…</string>
   <string name="contextmenu_edit">Edit contact</string>
@@ -391,7 +391,7 @@
   <string name="copied">Copied</string>
   <string name="copy_email">Copy email address</string>
   <string name="copy_number">Copy phone number</string>
-  <string name="create_action">New</string>
+  <string name="create_action">جدید</string>
   <string name="credit_limit_text">Credit limit</string>
   <string name="cur_debt">Account balance</string>
   <string name="custom_from_account_label">Send mail as:</string>
@@ -423,7 +423,7 @@
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">You chose to sync emails manually. Refresh to sync.</string>
-  <string name="dialog_agree">Agree</string>
+  <string name="dialog_agree">موافق</string>
   <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
   <string name="dialog_disagree">"Don't agree"</string>
   <string name="dialog_insufficient_space_on_external">"Can't download attachment. Not enough space on external storage."</string>
@@ -443,7 +443,7 @@
   <string name="donot_disturb_title">Do not disturb</string>
   <string name="downlaod_cancel_confirm_download">توقف</string>
   <string name="downlaod_cancel_continue_download">"Don't stop"</string>
-  <string name="downlaod_confirm_download">Download</string>
+  <string name="downlaod_confirm_download">دریافت</string>
   <string name="downlaod_nonWifi_confirm_message">Use mobile data connection to download this attachment?</string>
   <string name="downlaod_nonWifi_confirm_title">Download this attachment?</string>
   <string name="download_again">Download again</string>
@@ -637,14 +637,14 @@
   <string name="loading_from_remote">Loading…</string>
   <string name="local_search">Local search</string>
   <string name="log_save_path">Log path</string>
-  <string name="login">Sign in</string>
+  <string name="login">ورود به حساب</string>
   <string name="login139">Sign in with China Mobile</string>
   <string name="login_err_message">Use authorized passcodes to sign in to %1$s if you selected this option previously. Go to https://email.163.com/ to reset your password or passcode.</string>
   <string name="login_err_sina_message">Use authorized passcodes to sign in to %1$s if you selected this option previously. Go to https://mail.sina.com.cn/ to reset your password or passcode.</string>
   <string name="login_failed_ticker">%s signin unsuccessful.</string>
   <string name="login_failed_tip">"Contact us in WeChat to get help: "</string>
   <string name="login_failed_title">"Can't sign in"</string>
-  <string name="login_mail">Sign in</string>
+  <string name="login_mail">ورود به حساب</string>
   <string name="login_qq_psw">Sign in using authorization code</string>
   <string name="login_support_tip_text">Supports all major email accounts</string>
   <string name="long_press_to_select_tip">Touch &amp; hold to select one conversation, then touch to select more.</string>
@@ -757,13 +757,13 @@
   <string name="menu_contact_edit">Edit</string>
   <string name="menu_discovery">Promotion</string>
   <string name="menu_folder_options">Sync options</string>
-  <string name="menu_move_to">Move to</string>
+  <string name="menu_move_to">انتقال به</string>
   <string name="menu_move_to_inbox">Move to Inbox</string>
   <string name="menu_photo_save_all">Save all</string>
-  <string name="menu_photo_share">Share</string>
+  <string name="menu_photo_share">اشتراک</string>
   <string name="menu_photo_share_all">Share all</string>
   <string name="menu_resend_all">Resend all</string>
-  <string name="menu_search">Search</string>
+  <string name="menu_search">جستجو</string>
   <string name="menu_settings">تنظیمات</string>
   <string name="merged_mailbox_compose_select_account">Select Account</string>
   <string name="message_body_load_set_description">Load emails when using mobile data</string>
@@ -783,13 +783,13 @@
   <string name="mi_sync_erroe_toast_other">"A server error occurred: "</string>
   <string name="mi_sync_erroe_toast_other_details">-ERR:unknown_error</string>
   <string name="mibill_privacy_policy_button1">Later</string>
-  <string name="mibill_privacy_policy_button2">Agree</string>
+  <string name="mibill_privacy_policy_button2">موافق</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;</string>
   <string name="mibill_privacy_policy_title">Manage bills automatically</string>
   <string name="min_payment_text">Minimum payment</string>
   <string name="modify_contact_address">Modify contact email address</string>
-  <string name="more_context">More</string>
+  <string name="more_context">بیشتر</string>
   <string name="more_string">+%1$s</string>
   <string name="move_to_selection_dialog_title">Move to another folder</string>
   <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt;"   %2$s"</string>
@@ -983,7 +983,7 @@ to receive reminders about payments and trips"</string>
   <string name="privacy_des">"Logs contain debugging info of the email client and your device info. This information is used to locate problems faster. By tapping \"%1$s\" below, you're agreeing to our \"%2$s\"."</string>
   <string name="privacy_policy">Privacy Policy</string>
   <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
-  <string name="privacy_setting_agree">Agree</string>
+  <string name="privacy_setting_agree">موافق</string>
   <string name="prompt_title">Prompt</string>
   <string name="protocol_eas">eas</string>
   <string name="protocol_imap">imap</string>
@@ -992,13 +992,13 @@ to receive reminders about payments and trips"</string>
   <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
   <string name="pull_load_more">Pull up to load more</string>
   <string name="pull_to_refresh">Pull down to refresh</string>
-  <string name="push_wps_better_confirm_download">Download</string>
+  <string name="push_wps_better_confirm_download">دریافت</string>
   <string name="push_wps_better_confirm_exit">Other apps</string>
   <string name="push_wps_better_confirm_message">Try using WPS Office to open this attachment.</string>
   <string name="push_wps_better_confirm_noshow_hint">"Don't show again"</string>
   <string name="push_wps_better_confirm_title">Try WPS Office</string>
   <string name="push_wps_confirm_cancel">Not now</string>
-  <string name="push_wps_confirm_download">Download</string>
+  <string name="push_wps_confirm_download">دریافت</string>
   <string name="push_wps_confirm_message">"Couldn't find an app for this attachment. Try using WPS Office."</string>
   <string name="push_wps_confirm_title">Try WPS Office</string>
   <string name="push_wps_no_response_app">No application found to handle this action</string>
@@ -1042,7 +1042,7 @@ to receive reminders about payments and trips"</string>
   <string name="quick_3">"I'll read this later and get back to you."</string>
   <string name="quick_4">"Let's set up a meeting to discuss this."</string>
   <string name="quick_reply_dialog_title">Choose a reply</string>
-  <string name="quick_reply_expend">More</string>
+  <string name="quick_reply_expend">بیشتر</string>
   <string name="quick_reply_hint_bcc">(In BCC)</string>
   <string name="quick_reply_hint_cc">(In CC)</string>
   <string name="quick_reply_hint_reply_only_from">Quick reply (sender only)</string>
@@ -1106,7 +1106,7 @@ to receive reminders about payments and trips"</string>
   <string name="recommend_protocal">Recommendations Usage Protocol</string>
   <string name="reduce_the_receiving_frequencye_summary">Sync inbox less frequently while Do not disturb is on</string>
   <string name="reduce_the_receiving_frequencye_title">Sync less frequently</string>
-  <string name="refresh">Refresh</string>
+  <string name="refresh">تازه سازی</string>
   <string name="refreshing">Refreshing…</string>
   <string name="refreshing_done">Done</string>
   <string name="release_to_refresh">Release to refresh</string>
@@ -1198,7 +1198,7 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="setting_kids_title">Over 16 years old</string>
   <string name="settings_activity_title">تنظیمات</string>
   <string name="share_choose">Choose file to share</string>
-  <string name="sharing">Share</string>
+  <string name="sharing">اشتراک</string>
   <string name="shortcut_name_title">Name folder shortcut</string>
   <string name="show_contact_address">Show contact email address</string>
   <string name="show_elided">▶ Show quoted text</string>
@@ -1230,7 +1230,7 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="special_text_sender_zh">发件人</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage">Storage</string>
-  <string name="str_select_all">Select all</string>
+  <string name="str_select_all">انتخاب همه</string>
   <string name="str_select_none">لغو انتخاب همه</string>
   <string name="subject_and_snippet">%1$s - %2$s</string>
   <string name="subject_hint">Subject</string>
@@ -1357,7 +1357,7 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Other</string>
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
-  <string name="wipe_account_fail_description">Allow</string>
+  <string name="wipe_account_fail_description">مجاز</string>
   <string name="wipe_account_fail_description_remind">Due to data usage restrictions, there may be residual data in Calendar and Contacts after you delete the account. Delete these items manually.</string>
   <string name="wipe_account_fail_title">"Couldn't delete personal info"</string>
   <string name="wps_title">WPS Mail</string>

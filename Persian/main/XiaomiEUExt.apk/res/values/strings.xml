@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add">Add</string>
+  <string name="add">افزودن</string>
   <string name="app_name">Xiaomi.eu Extension</string>
   <string name="confirm_reset">Confirm reset</string>
   <string name="confirm_reset_message">Reset to default applications?</string>

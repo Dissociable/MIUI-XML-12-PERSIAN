@@ -10,7 +10,7 @@
   <string name="btn_no">لغو</string>
   <string name="btn_ok">باشه</string>
   <string name="btn_pause">Pause</string>
-  <string name="btn_share">Share</string>
+  <string name="btn_share">اشتراک</string>
   <string name="btn_stop">توقف</string>
   <string name="btn_wrong_md5">Bad MD5, click to remove ROM!</string>
   <string name="btn_yes">Yes</string>
@@ -64,7 +64,7 @@ Updates are not available for you!"</string>
   <string name="recovery_desc">Device will reboot to Recover mode now if you are not familiar with the mode cancel future actions. Continue?</string>
   <string name="server_error">Server not responding, application might not work properly!</string>
   <string name="share_desc">Your MIUI version has been updated to %1$s, check latest changelog at: %2$s</string>
-  <string name="share_title">Share with</string>
+  <string name="share_title">اشتراک گذاری با</string>
   <string name="stable">stable</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="version">Currently installed:</string>

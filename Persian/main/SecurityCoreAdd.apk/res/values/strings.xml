@@ -24,15 +24,15 @@ this feature will be added to Second space automatically."</string>
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="about_ent_mode">About Enterprise mode</string>
   <string name="activate_ent_mode">Activate Enterprise mode</string>
   <string name="add_finger_print">Add fingerprint</string>
@@ -97,7 +97,7 @@ to be able to view them anytime"</string>
   <string name="create_space_loading">Creating Second space…</string>
   <string name="create_work_space">Create Work space</string>
   <string name="creating_app_icon">Creating icon…</string>
-  <string name="cta_declaration_agree_and_continue">Agree</string>
+  <string name="cta_declaration_agree_and_continue">موافق</string>
   <string name="cta_declaration_message_format" formatted="false">You must read and agree to our &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; before using Enterprise mode. Your device needs to connect to the internet to activate Enterprise mode. Agree?</string>
   <string name="cta_declaration_title">Terms and Conditions</string>
   <string name="current_space">Current space</string>
@@ -263,7 +263,7 @@ You can also download them separately."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
-  <string name="more_settings">More</string>
+  <string name="more_settings">بیشتر</string>
   <string name="msg_switch_file">Delete these files in First space after they are moved?</string>
   <string name="msg_switch_file_second">Delete these files in Second space after they are moved?</string>
   <string name="msg_switch_photo">Delete these photos in First space after they are moved?</string>
@@ -352,7 +352,7 @@ If you don't update, dual apps might not work properly as well."</string>
 If you don't update, dual apps might not work properly as well."</string>
   <string name="sdcradfs_dialog_in_sec_title">Important update</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="search_result_text">"Couldn't find any apps"</string>
   <string name="secondSpace">Second space</string>
   <string name="second_owner_finger_print">Second space fingerprint</string>
@@ -411,7 +411,7 @@ Separate and secure your data."</string>
   <string name="show_private_content">Show private items</string>
   <string name="show_private_msg">Show private messages</string>
   <string name="show_private_msg_summary">Show private messages​ in Second space</string>
-  <string name="skip">Skip</string>
+  <string name="skip">پرش</string>
   <string name="spaceSetting">تنظیمات</string>
   <string name="space_create_guide_desc_1">Store apps and photos securely</string>
   <string name="space_create_guide_desc_2">Completely ready-to-use separate space</string>

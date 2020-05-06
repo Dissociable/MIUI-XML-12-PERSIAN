@@ -3,7 +3,7 @@
     <string-array name="screen_key_long_press_default_action">
         <item>recent_panel</item>
         <item>google_now</item>
-        <item>none</item>
+        <item>هیچ یک</item>
         <item>show_menu</item>
     </string-array>
 </resources>

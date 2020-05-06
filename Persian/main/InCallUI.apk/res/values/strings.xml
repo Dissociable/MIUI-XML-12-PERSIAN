@@ -149,7 +149,7 @@
   <string name="manager_conference_done">Done</string>
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="notification_action_accept">قبول</string>
-  <string name="notification_action_answer_video">Video</string>
+  <string name="notification_action_answer_video">ویدئو</string>
   <string name="notification_action_answer_voice">Voice</string>
   <string name="notification_action_dismiss">Dismiss</string>
   <string name="notification_action_earpiece">Earpiece</string>

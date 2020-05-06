@@ -80,7 +80,7 @@
   <string name="add_account_label">Add an account</string>
   <string name="add_calendar_event">Schedule</string>
   <string name="add_calendar_event_desc">Schedule event for selected time</string>
-  <string name="add_contact">Add</string>
+  <string name="add_contact">افزودن</string>
   <string name="add_contact_desc">Add to contacts</string>
   <string name="aerr_application">%1$s has stopped</string>
   <string name="aerr_application_repeated">%1$s keeps stopping</string>
@@ -98,7 +98,7 @@
   <string name="alert_windows_notification_message">If you don’t want %s to use this feature, tap to open settings and turn it off.</string>
   <string name="alert_windows_notification_title">%s is displaying over other apps</string>
   <string name="alert_windows_notification_turn_off_action">Turn off</string>
-  <string name="allow">Allow</string>
+  <string name="allow">مجاز</string>
   <string name="alternate_eri_file">/data/eri.xml</string>
   <string name="alwaysUse">Use by default for this action.</string>
   <string name="android_preparing_apk">Preparing %1$s.</string>
@@ -427,7 +427,7 @@
   <string name="content_description_sliding_handle">Sliding handle. Touch &amp; hold.</string>
   <string name="copied">Copied</string>
   <string name="copy">کپی</string>
-  <string name="copyUrl">Copy URL</string>
+  <string name="copyUrl">کپی آدرس</string>
   <string name="country_selection_title">Region preference</string>
   <string name="create_contact_using">"Create contact
 using %s"</string>
@@ -553,7 +553,7 @@ using %s"</string>
   <string name="eventTypeOther">Other</string>
   <string name="expand_action_accessibility">toggle expansion</string>
   <string name="expand_button_content_description_collapsed">Expand</string>
-  <string name="expand_button_content_description_expanded">Collapse</string>
+  <string name="expand_button_content_description_expanded">جمع کردن</string>
   <string name="expires_on">Expires on:</string>
   <string name="ext_media_badremoval_notification_message">Eject media before removing to avoid losing content</string>
   <string name="ext_media_badremoval_notification_title">%s unexpectedly removed</string>
@@ -648,7 +648,7 @@ If you have questions, contact your organization's admin."</string>
   <string name="fileSizeSuffix">%1$s %2$s</string>
   <string name="find">Find</string>
   <string name="find_next">Find next</string>
-  <string name="find_on_page">Find on page</string>
+  <string name="find_on_page">جستجو در صفحه</string>
   <string name="find_previous">Find previous</string>
   <string name="fingerprint_acquired_imager_dirty">Fingerprint sensor is dirty. Please clean and try again.</string>
   <string name="fingerprint_acquired_insufficient">"Couldn't process fingerprint. Please try again."</string>
@@ -771,7 +771,7 @@ If you have questions, contact your organization's admin."</string>
   <string name="ime_action_go">Go</string>
   <string name="ime_action_next">بعد</string>
   <string name="ime_action_previous">Prev</string>
-  <string name="ime_action_search">Search</string>
+  <string name="ime_action_search">جستجو</string>
   <string name="ime_action_send">ارسال</string>
   <string name="imei">IMEI</string>
   <string name="immersive_cling_description">To exit, swipe down from the top.</string>
@@ -854,7 +854,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_login_instructions">To unlock, sign in with your Google account.</string>
   <string name="kg_login_invalid_input">Invalid username or password.</string>
   <string name="kg_login_password_hint">Password</string>
-  <string name="kg_login_submit_button">Sign in</string>
+  <string name="kg_login_submit_button">ورود به حساب</string>
   <string name="kg_login_too_many_attempts">Too many pattern attempts</string>
   <string name="kg_login_username_hint">Username (email)</string>
   <string name="kg_password_instructions">Enter Password</string>
@@ -891,7 +891,7 @@ Try again in %2$d seconds."</string>
   <string name="leave_accessibility_shortcut_on">Use Shortcut</string>
   <string name="loading">Loading…</string>
   <string name="locale_replacement" />
-  <string name="locale_search_menu">Search</string>
+  <string name="locale_search_menu">جستجو</string>
   <string name="lock_pattern_view_aspect">square</string>
   <string name="lock_to_app_description">"Screen pinning locks the display in a single view.
 
@@ -925,7 +925,7 @@ Visit "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_glogin_instructions">To unlock, sign in with your Google account.</string>
   <string name="lockscreen_glogin_invalid_input">Invalid username or password.</string>
   <string name="lockscreen_glogin_password_hint">Password</string>
-  <string name="lockscreen_glogin_submit_button">Sign in</string>
+  <string name="lockscreen_glogin_submit_button">ورود به حساب</string>
   <string name="lockscreen_glogin_too_many_attempts">Too many pattern attempts</string>
   <string name="lockscreen_glogin_username_hint">Username (email)</string>
   <string name="lockscreen_instructions_when_pattern_disabled">Press Menu to unlock.</string>
@@ -1103,7 +1103,7 @@ Try again in %2$d seconds."</string>
   <string name="mime_type_presentation_ext">%1$s presentation</string>
   <string name="mime_type_spreadsheet">Spreadsheet</string>
   <string name="mime_type_spreadsheet_ext">%1$s spreadsheet</string>
-  <string name="mime_type_video">Video</string>
+  <string name="mime_type_video">ویدئو</string>
   <string name="mime_type_video_ext">%1$s video</string>
   <string name="minute">min</string>
   <string name="minute_picker_description">Minutes circular slider</string>
@@ -1124,7 +1124,7 @@ Try again in %2$d seconds."</string>
   <string name="mobile_provisioning_apn" />
   <string name="mobile_provisioning_url" />
   <string name="month_day_year" formatted="false">%B %-e, %Y</string>
-  <string name="more_item_label">More</string>
+  <string name="more_item_label">بیشتر</string>
   <string name="move_button_text">Tap the frame button to be able to move the whole window</string>
   <string name="multi_conn_to_same_pdn_not_allowed" />
   <string name="muted_by">%1$s is muting some sounds</string>
@@ -1624,7 +1624,7 @@ for account %s."</string>
   <string name="ringtone_picker_title">Ringtones</string>
   <string name="ringtone_picker_title_alarm">Alarm sounds</string>
   <string name="ringtone_picker_title_notification">Notification sounds</string>
-  <string name="ringtone_silent">None</string>
+  <string name="ringtone_silent">هیچ یک</string>
   <string name="ringtone_unknown">ناشناخته</string>
   <string name="roamingText0">Roaming Indicator On</string>
   <string name="roamingText1">Roaming Indicator Off</string>
@@ -1655,17 +1655,17 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="screen_compat_mode_show">Always show</string>
   <string name="screen_lock">Screen lock</string>
   <string name="screenshot_edit">Edit</string>
-  <string name="search_go">Search</string>
-  <string name="search_hint">Search…</string>
+  <string name="search_go">جستجو</string>
+  <string name="search_hint">جستجو...</string>
   <string name="search_language_hint">Type language name</string>
-  <string name="searchview_description_clear">Clear query</string>
-  <string name="searchview_description_query">Search query</string>
-  <string name="searchview_description_search">Search</string>
-  <string name="searchview_description_submit">Submit query</string>
-  <string name="searchview_description_voice">Voice search</string>
+  <string name="searchview_description_clear">پاک کردن جستجو</string>
+  <string name="searchview_description_query">جستجو</string>
+  <string name="searchview_description_search">جستجو</string>
+  <string name="searchview_description_submit">جستجو</string>
+  <string name="searchview_description_voice">جستجوی صوتی</string>
   <string name="second">sec</string>
   <string name="seconds">secs</string>
-  <string name="selectAll">Select all</string>
+  <string name="selectAll">انتخاب همه</string>
   <string name="selectTextMode">Select text</string>
   <string name="select_character">Insert character</string>
   <string name="select_day">Select month and day</string>
@@ -1696,13 +1696,13 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="setup_autofill">Set up Autofill</string>
   <string name="sha1_fingerprint">SHA-1 fingerprint:</string>
   <string name="sha256_fingerprint">SHA-256 fingerprint:</string>
-  <string name="share">Share</string>
-  <string name="share_action_provider_share_with">Share with</string>
-  <string name="share_remote_bugreport_action">SHARE</string>
+  <string name="share">اشتراک</string>
+  <string name="share_action_provider_share_with">اشتراک گذاری با</string>
+  <string name="share_remote_bugreport_action">اشتراک</string>
   <string name="share_remote_bugreport_notification_message_finished">Your admin requested a bug report to help troubleshoot this device. Apps and data may be shared.</string>
   <string name="share_remote_bugreport_notification_title">Share bug report?</string>
-  <string name="shareactionprovider_share_with">Share with</string>
-  <string name="shareactionprovider_share_with_application">Share with %s</string>
+  <string name="shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
   <string name="sharing_remote_bugreport_notification_title">Sharing bug report…</string>
   <string name="shortcut_disabled_reason_unknown">Shortcut is disabled</string>
   <string name="shortcut_restore_not_supported">Couldn’t restore shortcut because app doesn’t support backup and restore</string>
@@ -1727,14 +1727,14 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="sipAddressTypeHome">Home</string>
   <string name="sipAddressTypeOther">Other</string>
   <string name="sipAddressTypeWork">Work</string>
-  <string name="skip_button_label">Skip</string>
+  <string name="skip_button_label">پرش</string>
   <string name="slice_more_content">+ %1$d</string>
   <string name="slices_permission_request">%1$s wants to show %2$s slices</string>
   <string name="sms">Message</string>
   <string name="sms_control_message">&lt;b&gt;%1$s&lt;/b&gt; is sending a large number of SMS messages. Do you want to allow this app to continue sending messages?</string>
   <string name="sms_control_no">Deny</string>
   <string name="sms_control_title">Sending SMS messages</string>
-  <string name="sms_control_yes">Allow</string>
+  <string name="sms_control_yes">مجاز</string>
   <string name="sms_desc">Message selected phone number</string>
   <string name="sms_premium_short_code_details">&lt;b&gt;This will cause charges on your mobile account.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">ارسال</string>
@@ -1841,7 +1841,7 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="time_picker_radial_mode_description">Switch to clock mode for the time input.</string>
   <string name="time_picker_text_input_mode_description">Switch to text input mode for the time input.</string>
   <string name="time_placeholder">--</string>
-  <string name="toolbar_collapse_description">Collapse</string>
+  <string name="toolbar_collapse_description">جمع کردن</string>
   <string name="tooltip_popup_title">Tooltip</string>
   <string name="translate">Translate</string>
   <string name="translate_desc">Translate selected text</string>
@@ -1971,8 +1971,8 @@ Do you want to close it?"</string>
   <string name="whichOpenHostLinksWithApp">Open %1$s links with %2$s</string>
   <string name="whichOpenLinksWith">Open links with</string>
   <string name="whichOpenLinksWithApp">Open links with %1$s</string>
-  <string name="whichSendApplication">Share</string>
-  <string name="whichSendApplicationLabel">Share</string>
+  <string name="whichSendApplication">اشتراک</string>
+  <string name="whichSendApplicationLabel">اشتراک</string>
   <string name="whichSendApplicationNamed">Share with %1$s</string>
   <string name="whichSendToApplication">Send using</string>
   <string name="whichSendToApplicationLabel">ارسال</string>

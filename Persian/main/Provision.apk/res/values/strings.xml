@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="accessibility_enabled">Accessibility enabled.</string>
-  <string name="agree">Agree</string>
-  <string name="agree_and_next">Agree</string>
+  <string name="agree">موافق</string>
+  <string name="agree_and_next">موافق</string>
   <string name="agree_terms">"I've read and agree to the User Agreement and Privacy Policy."</string>
   <string name="agree_terms_input_method_facemoji">"I've read and agreed to Facemoji Privacy Policy."</string>
   <string name="agree_terms_input_method_kika">"I've read and agreed to Kika Privacy Policy."</string>
@@ -30,7 +30,7 @@
   <string name="congratulation_label">"You're ready to rock!​"</string>
   <string name="congratulation_swipe">Swipe up to enter the system</string>
   <string name="congratulation_title">Setup complete</string>
-  <string name="content_description_complete">Complete</string>
+  <string name="content_description_complete">کامل شده</string>
   <string name="content_description_miui_version">MIUI 12</string>
   <string name="content_description_start">Start</string>
   <string name="content_introduction">Content Center aggregates content and services from multiple channels. Here you can read articles, watch videos, view daily featured items, and receive content recommendations.</string>

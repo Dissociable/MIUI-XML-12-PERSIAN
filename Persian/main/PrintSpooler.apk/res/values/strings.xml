@@ -116,8 +116,8 @@
   <string name="retry_connect">تلاش دوباره</string>
   <string name="save_as_pdf">Save as PDF</string>
   <string name="savetopdf_button">Save to PDF</string>
-  <string name="search">Search</string>
-  <string name="search_brand">Search</string>
+  <string name="search">جستجو</string>
+  <string name="search_brand">جستجو</string>
   <string name="select_to_add_printers">Select to add printer</string>
   <string name="start_print">Print</string>
   <string name="status_bar_notification_info_overflow">999+</string>

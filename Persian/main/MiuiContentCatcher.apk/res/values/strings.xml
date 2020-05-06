@@ -26,7 +26,7 @@
   <string name="invalid_package_signature">Invalid app signature</string>
   <string name="ok">باشه</string>
   <string name="save_content_tip">"The following items will be saved: "</string>
-  <string name="search">Search</string>
+  <string name="search">جستجو</string>
   <string name="settings_clear_data_confirmation_description">"If you delete passwords now, you'll have to enter them manually next time you sign in.
 Delete the password?"</string>
   <string name="settings_clear_data_confirmation_title">Deleting passwords</string>

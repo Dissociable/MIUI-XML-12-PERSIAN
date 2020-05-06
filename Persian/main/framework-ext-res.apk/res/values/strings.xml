@@ -77,12 +77,12 @@
   <string name="auto_disable_screenbuttons_prompts_ok">باشه</string>
   <string name="auto_disable_screenbuttons_prompts_title">Disable navigation buttons?</string>
   <string name="auto_disable_screenbuttons_tap_again_exit_toast_text">Tap again to exit</string>
-  <string name="auto_start_warning_allow">Allow</string>
+  <string name="auto_start_warning_allow">مجاز</string>
   <string name="auto_start_warning_deny">Deny</string>
   <string name="auto_start_warning_title">Allow %s to start automatically?</string>
   <string name="autofill">Autofill</string>
   <string name="autofill_save_message">Allow MIUI to save your accounts and passwords?</string>
-  <string name="autofill_save_ok">Allow</string>
+  <string name="autofill_save_ok">مجاز</string>
   <string name="autofill_save_sub_message">"You'll be able to manage saved passwords in Settings &gt; Passwords &amp; security &gt; %s."</string>
   <string name="autofill_save_title">Save passwords automatically</string>
   <string name="autofill_service_name">Manage passwords</string>
@@ -104,8 +104,8 @@
   <string name="confirm_cancel_task_files">Cancel sending files to %1$s?</string>
   <string name="confirm_cancel_task_images">Cancel sending images to %1$s?</string>
   <string name="content_description_dial">Call</string>
-  <string name="content_description_search">Search</string>
-  <string name="content_description_share">Share</string>
+  <string name="content_description_search">جستجو</string>
+  <string name="content_description_share">اشتراک</string>
   <string name="content_description_translate">Translate</string>
   <string name="content_description_web_url">Browse</string>
   <string name="copy">کپی</string>
@@ -286,7 +286,7 @@
   <string name="security_permission_xiaomi_account_missed_text">Enter your Mi Account ID</string>
   <string name="security_share_text">Privacy protection</string>
   <string name="select">Select</string>
-  <string name="select_all">Select all</string>
+  <string name="select_all">انتخاب همه</string>
   <string name="send_files_to">Send items to</string>
   <string name="service_not_subscribed">WITHOUT SUBSCRIPTION TO SERVICE -33-</string>
   <string name="set_password_action">Set password</string>
@@ -369,7 +369,7 @@
   <string name="total">DND</string>
   <string name="total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
   <string name="total_title">DND</string>
-  <string name="translation_more">More</string>
+  <string name="translation_more">بیشتر</string>
   <string name="translation_query_error">"Couldn't find results"</string>
   <string name="translation_query_error_network">"Couldn't get info, check network connection and try again"</string>
   <string name="turn_off">Turn off</string>

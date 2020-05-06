@@ -16,7 +16,7 @@
   <string name="dialog_content_limit0">Restrict downloads</string>
   <string name="dialog_content_limit_max">Unlimited</string>
   <string name="dialog_data_limit_button1">Wait for WLAN</string>
-  <string name="dialog_data_limit_button2">Download</string>
+  <string name="dialog_data_limit_button2">دریافت</string>
   <string name="dialog_data_limit_msg1">%s of mobile data will be used to download this file. Download now?</string>
   <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
   <string name="dialog_data_limit_msg3">Change limit</string>
@@ -28,10 +28,10 @@
   <string name="dialog_tip_limit">Warn when downloading file bigger than %s</string>
   <string name="dialog_tip_limit0">Warn every time</string>
   <string name="dialog_tip_no_limit">"Don't warn"</string>
-  <string name="download_apk_desktop_installing">Installing</string>
-  <string name="download_apk_desktop_pause">Paused</string>
+  <string name="download_apk_desktop_installing">درحال نصب</string>
+  <string name="download_apk_desktop_pause">مکث شده</string>
   <string name="download_apk_desktop_pending">Pending</string>
-  <string name="download_apk_desktop_running">Downloading</string>
+  <string name="download_apk_desktop_running">درحال دریافت</string>
   <string name="download_error">Unsuccessful</string>
   <string name="download_no_application_title">"Can't open file"</string>
   <string name="download_percent">%d%%</string>
@@ -84,7 +84,7 @@
   <string name="root_downloads">Downloads</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="task_already_exist">Task already exists</string>
-  <string name="warning_tip_cancel">Download</string>
+  <string name="warning_tip_cancel">دریافت</string>
   <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="warning_tip_ok">Pause</string>
   <string name="warning_tip_title">Data usage warning</string>

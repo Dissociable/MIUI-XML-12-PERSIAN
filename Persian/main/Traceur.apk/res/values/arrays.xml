@@ -284,7 +284,7 @@
         <item>show_deuteranomaly</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>هیچ یک</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
@@ -341,7 +341,7 @@
         <item>20480</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>هیچ یک</item>
         <item>480p</item>
         <item>480p (secure)</item>
         <item>720p</item>
@@ -515,7 +515,7 @@
         <item>MIDI</item>
     </string-array>
     <string-array name="usb_configuration_values">
-        <item>none</item>
+        <item>هیچ یک</item>
         <item>mtp</item>
         <item>ptp</item>
         <item>rndis</item>

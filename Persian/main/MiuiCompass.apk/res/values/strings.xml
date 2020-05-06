@@ -18,16 +18,16 @@
   <string name="abc_menu_space_shortcut_label">space</string>
   <string name="abc_menu_sym_shortcut_label">Sym+</string>
   <string name="abc_prepend_shortcut_label">Menu+</string>
-  <string name="abc_search_hint">Search…</string>
-  <string name="abc_searchview_description_clear">Clear query</string>
-  <string name="abc_searchview_description_query">Search query</string>
-  <string name="abc_searchview_description_search">Search</string>
-  <string name="abc_searchview_description_submit">Submit query</string>
-  <string name="abc_searchview_description_voice">Voice search</string>
-  <string name="abc_shareactionprovider_share_with">Share with</string>
-  <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-  <string name="abc_toolbar_collapse_description">Collapse</string>
-  <string name="allow">Allow</string>
+  <string name="abc_search_hint">جستجو...</string>
+  <string name="abc_searchview_description_clear">پاک کردن جستجو</string>
+  <string name="abc_searchview_description_query">جستجو</string>
+  <string name="abc_searchview_description_search">جستجو</string>
+  <string name="abc_searchview_description_submit">جستجو</string>
+  <string name="abc_searchview_description_voice">جستجوی صوتی</string>
+  <string name="abc_shareactionprovider_share_with">اشتراک گذاری با</string>
+  <string name="abc_shareactionprovider_share_with_application">اشتراک گذاری با %s</string>
+  <string name="abc_toolbar_collapse_description">جمع کردن</string>
+  <string name="allow">مجاز</string>
   <string name="altitude">%.1f</string>
   <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
   <string name="altitude_title">Altitude</string>
@@ -75,7 +75,7 @@
   <string name="keywords_search_compass">Compass;Calibrate compass;Pressure;Altitude;Latitude;Longtitude;Check longtitude; Check latitude;MIUI Compass;Compass app;MIUI Compass app;Where is Compass;Download Compass;Atmospheric pressure; Check altitude;How much is the altitude</string>
   <string name="latitude">LAT</string>
   <string name="location_east">EL</string>
-  <string name="location_enable">Allow</string>
+  <string name="location_enable">مجاز</string>
   <string name="location_enable_later">Later</string>
   <string name="location_enabled">You can turn off location services any time in Settings.</string>
   <string name="location_north">NL</string>
@@ -97,13 +97,13 @@
   <string name="pressure">%.1f</string>
   <string name="pressure_title">Pressure</string>
   <string name="pressure_unit">hPa</string>
-  <string name="search_menu_title">Search</string>
+  <string name="search_menu_title">جستجو</string>
   <string name="shake_enter_tip">Shake to calibrate</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="unit_degree">Degrees</string>
   <string name="using_camera_confirm_cancel">خروج</string>
-  <string name="using_camera_confirm_ok">Agree</string>
+  <string name="using_camera_confirm_ok">موافق</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
 </resources>

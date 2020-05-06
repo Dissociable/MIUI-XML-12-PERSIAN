@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="app_loaction">Find on Home screen</string>
-  <string name="app_name">Search</string>
+  <string name="app_name">جستجو</string>
   <string name="appindex_description">functions of installed apps</string>
   <string name="appindex_search_label">Apps functions</string>
   <string name="application_desc">App</string>
@@ -29,16 +29,16 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="common_setting">General settings</string>
   <string name="connect_and_retry">Connect to the internet and try again</string>
   <string name="corpus_description_apps">Installed apps</string>
-  <string name="corpus_description_web">Bookmarks</string>
+  <string name="corpus_description_web">نشانک ها</string>
   <string name="corpus_hint_apps">Search apps</string>
   <string name="corpus_label_apps">برنامه ها</string>
   <string name="corpus_label_global">All</string>
   <string name="corpus_label_web">Web results</string>
-  <string name="corpus_selection_heading">Search</string>
+  <string name="corpus_selection_heading">جستجو</string>
   <string name="cta_declaration">"This feature needs to connect to the internet, access your device's location, and view your call history and contacts to work normally."</string>
   <string name="cta_declaration_ignore">"Don't show again"</string>
   <string name="cta_declaration_negative_text">"Don't allow"</string>
-  <string name="cta_declaration_positive_text">Allow</string>
+  <string name="cta_declaration_positive_text">مجاز</string>
   <string name="cta_declaration_title">Terms of Service</string>
   <string name="default_hint">Search locally or the web for…</string>
   <string name="default_search_domain">.google.com</string>
@@ -63,7 +63,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="mina_name">Direct apps</string>
   <string name="network_unavailable">"Couldn't connect to the network"</string>
   <string name="permission_prompt_detail">Search for movies, books, music, and more.</string>
-  <string name="permission_prompt_start">Allow</string>
+  <string name="permission_prompt_start">مجاز</string>
   <string name="permission_prompt_started_info">"You've allowed global search"</string>
   <string name="permission_prompt_title">Want more?</string>
   <string name="pull_to_input">Pull down to reveal the search bar</string>
@@ -87,13 +87,13 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="remove_from_history_failed">"Couldn't remove item from history."</string>
   <string name="search_apps">Search apps</string>
   <string name="search_apps_url">market://search?q=%s&amp;ref=migs&amp;pageRef=migs_local_app</string>
-  <string name="search_button">Search</string>
+  <string name="search_button">جستجو</string>
   <string name="search_group_fold">مخفی کردن</string>
-  <string name="search_group_unfold">More</string>
+  <string name="search_group_unfold">بیشتر</string>
   <string name="search_history">History</string>
   <string name="search_in_app_store">Search Mi App Store</string>
   <string name="search_in_web">Search the web</string>
-  <string name="search_keyword_quicksearchbox">Search</string>
+  <string name="search_keyword_quicksearchbox">جستجو</string>
   <string name="search_path_quicksearchbox">Settings/Installed apps/Search</string>
   <string name="search_settings">Search settings</string>
   <string name="search_sources">Searchable items</string>
@@ -102,7 +102,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_title_quicksearchbox">@string/app_name</string>
   <string name="search_videos">Search videos</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
-  <string name="search_widget">Search</string>
+  <string name="search_widget">جستجو</string>
   <string name="send_secret_code">Send code</string>
   <string name="setting_other">Other</string>
   <string name="setting_version">App version</string>

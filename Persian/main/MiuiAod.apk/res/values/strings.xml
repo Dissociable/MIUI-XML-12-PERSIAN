@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -72,8 +72,8 @@ MM/dd"</string>
   <string name="battery_meter_quick_charging_path">M13.368 13L11 20.5H18L11 29.5H17L5.677 43H4.632L7 35.5H0L8 26.5H1L12.323 13H13.368Z</string>
   <string name="below_image">Down</string>
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-  <string name="btn_know">Got it</string>
-  <string name="cancel">Cancel</string>
+  <string name="btn_know">فهمیدم</string>
+  <string name="cancel">لغو</string>
   <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
   <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
   <string name="character_counter_pattern">%1$d / %2$d</string>
@@ -84,11 +84,11 @@ MM/dd"</string>
   <string name="clock_panel_icon">Clock face</string>
   <string name="color_change_with_time_description">Change text color automatically over time</string>
   <string name="color_change_with_time_title">Change color automatically</string>
-  <string name="copy">Copy</string>
+  <string name="copy">کپی</string>
   <string name="custom_image">Custom image</string>
   <string name="deep_space_planet">Outer space</string>
   <string name="deep_space_planet_des">This theme reflects the light changes happening around you during the day. Sunrises and sunsets are also synced with your location.</string>
-  <string name="delete">Delete</string>
+  <string name="delete">حذف</string>
   <string name="digital_clock">Digital</string>
   <string name="disable_aod_in_power_save_mode">Turn off when Battery saver is on</string>
   <string name="disable_aod_in_power_save_mode_summary">"Don't display items to save power"</string>
@@ -139,7 +139,7 @@ MM/dd"</string>
   <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
   <string name="mtrl_picker_range_header_title">Select a Date Range</string>
   <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
-  <string name="mtrl_picker_save">Save</string>
+  <string name="mtrl_picker_save">ذخیره</string>
   <string name="mtrl_picker_text_input_date_hint">Date</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
   <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
@@ -159,10 +159,10 @@ MM/dd"</string>
   <string name="notification_screen_on">Light up screen</string>
   <string name="only_show_bg_description">"Don't show time, date, and other items"</string>
   <string name="only_show_bg_title">Only show background</string>
-  <string name="open_aod_mode">Turn on</string>
+  <string name="open_aod_mode">روشن</string>
   <string name="panel_clock">Analog</string>
   <string name="paper_mode_end_time_title">Turn off</string>
-  <string name="paper_mode_start_time_title">Turn on</string>
+  <string name="paper_mode_start_time_title">روشن</string>
   <string name="password_toggle_content_description">Show password</string>
   <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
   <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>

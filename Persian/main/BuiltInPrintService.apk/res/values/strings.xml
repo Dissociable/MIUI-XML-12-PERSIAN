@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accept">Accept</string>
+  <string name="accept">قبول</string>
   <string name="add">Add</string>
   <string name="add_named">Add %1$s</string>
   <string name="add_printer_by_ip">Add printer by IP address</string>

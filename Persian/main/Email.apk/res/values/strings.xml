@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
   <string name="SMTP_password_text">Password</string>
@@ -114,7 +114,7 @@
   <string name="account_setup_failed_dlg_title">"Couldn't set up account"</string>
   <string name="account_setup_failed_dlg_todo1">Set account as shown below or try signing in with EXCHANGE.</string>
   <string name="account_setup_failed_dlg_todo2">Set account as shown below</string>
-  <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">خطای نامشخص.</string>
   <string name="account_setup_failed_ioerror">"Couldn't open connection to server."</string>
   <string name="account_setup_failed_protocol_unsupported">"You entered an incorrect server address or the server requires a protocol version that Mail doesn't support."</string>
   <string name="account_setup_failed_security">"Couldn't open connection to server due to security error."</string>
@@ -220,7 +220,7 @@
   <string name="attachment_canceling">Canceling…</string>
   <string name="attachment_decoding">Unpacking attachments…</string>
   <string name="attachment_download_all">Download all</string>
-  <string name="attachment_image">Image</string>
+  <string name="attachment_image">تصویر</string>
   <string name="attachment_list_search_hint">Search attachments</string>
   <string name="attachment_mgr_name">Attachments</string>
   <string name="attachment_not_exists">The attachment is not available!</string>
@@ -228,7 +228,7 @@
   <string name="attachment_open_SecurityException_title">"Can't open file"</string>
   <string name="attachment_opening_mode">Apps for attachments</string>
   <string name="attachment_size_exceed_limit">"Looks like the size exceeded the server's limit"</string>
-  <string name="attachment_stop_all">Stop</string>
+  <string name="attachment_stop_all">توقف</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">"Unfortunately, you can't save or open this type of attachment."</string>
   <string name="attachment_unknown">%s file</string>
@@ -248,10 +248,10 @@
   <string name="auto_remind_bind">Add</string>
   <string name="auto_remind_discribe_text">Turn on to receive automatic reminders</string>
   <string name="auto_remind_text">Automatic reminders</string>
-  <string name="auto_remind_unbind">Stop</string>
+  <string name="auto_remind_unbind">توقف</string>
   <string name="auto_sync_off">Auto-sync is off.</string>
   <string name="automatic_remind_text">Remind automatically</string>
-  <string name="back">Back</string>
+  <string name="back">برگشت</string>
   <string name="bank_card_detail">Credit card details</string>
   <string name="bank_card_list_card_num_fmt">****%s</string>
   <string name="battery_saver">Battery saver</string>
@@ -275,8 +275,8 @@
   <string name="bytes">%s B</string>
   <string name="calendar_remind_dialog_title">Remind later</string>
   <string name="calendar_remind_gridview_pick_date">Pick date</string>
-  <string name="cancel">Cancel</string>
-  <string name="cancel_action">Cancel</string>
+  <string name="cancel">لغو</string>
+  <string name="cancel_action">لغو</string>
   <string name="cancel_pop3_attchemt_downloading">"Can't cancel ongoing downloads for attachments in POP3 accounts"</string>
   <string name="cant_move_or_change_labels">"Can't move items from multiple accounts."</string>
   <string name="cc">Cc</string>
@@ -301,7 +301,7 @@
   <string name="chat_item_msg_user_etc">etc.</string>
   <string name="check_setup_data">"    Validating server settings…"</string>
   <string name="choosertitle_sharevia">Share using</string>
-  <string name="clear">Clear</string>
+  <string name="clear">پاک کردن</string>
   <string name="clear_display_images_whitelist_dialog_message">Stop displaying inline images from senders you previously allowed.</string>
   <string name="clear_display_images_whitelist_dialog_title">Clear picture approvals?</string>
   <string name="clear_display_images_whitelist_title">Clear picture approvals</string>
@@ -313,24 +313,24 @@
   <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
   <string name="compose_paste_address_oob">Too many characters</string>
   <string name="compose_picturesexceedlimits">"Can't exceed 5 in-line images in message"</string>
-  <string name="compose_send">Send</string>
+  <string name="compose_send">ارسال</string>
   <string name="compose_sent">Mail sent</string>
   <string name="config">139 Mailbox Phone Number Configured</string>
-  <string name="config_cancel">Cancel</string>
+  <string name="config_cancel">لغو</string>
   <string name="config_retry">Retry</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">باشه</string>
   <string name="confirm_age">Confirm age</string>
   <string name="confirm_before_delete">Confirm before deleting</string>
   <string name="confirm_before_delete_keywords">confirm before deleting;delete confirm</string>
   <string name="confirm_before_send">Confirm before sending</string>
   <string name="confirm_before_send_keywords">confirm before sending;send confirm</string>
   <string name="confirm_delete_attachment">Delete attachment?</string>
-  <string name="confirm_delete_conversation_title">Delete</string>
+  <string name="confirm_delete_conversation_title">حذف</string>
   <string name="confirm_discard_text">Discard this message?</string>
   <string name="confirm_response">Sending…</string>
   <string name="confirm_save_message_no">Discard</string>
   <string name="confirm_save_message_title">Save as draft?</string>
-  <string name="confirm_save_message_yes">Save</string>
+  <string name="confirm_save_message_yes">ذخیره</string>
   <string name="confirm_send_message_with_no_body">"There's no text in the message body."</string>
   <string name="confirm_send_message_with_no_subject">"This message doesn't have a subject."</string>
   <string name="confirm_send_title">Send message?</string>
@@ -348,7 +348,7 @@
   <string name="contact_info_string_default">Show contact information</string>
   <string name="contact_list_add_btn">Add</string>
   <string name="contact_list_search_hint">Search contacts</string>
-  <string name="contact_list_title">Contacts</string>
+  <string name="contact_list_title">مخاطبین</string>
   <string name="contact_permission_error">"Access to phone's contacts restricted"</string>
   <string name="contact_select">Select contacts</string>
   <string name="content_description">%1$s about %2$s, %3$s on %4$s, %5$s</string>
@@ -356,7 +356,7 @@
   <string name="contextmenu_add">Add to Contacts</string>
   <string name="contextmenu_add_contact">Add contact</string>
   <string name="contextmenu_call">Call</string>
-  <string name="contextmenu_copy">Copy</string>
+  <string name="contextmenu_copy">کپی</string>
   <string name="contextmenu_copylink">Copy URL</string>
   <string name="contextmenu_create">Create a new contact</string>
   <string name="contextmenu_dial_dot">Dial…</string>
@@ -364,7 +364,7 @@
   <string name="contextmenu_feedback">Send feedback</string>
   <string name="contextmenu_help">Help</string>
   <string name="contextmenu_map">Map</string>
-  <string name="contextmenu_open">Open</string>
+  <string name="contextmenu_open">باز کردن</string>
   <string name="contextmenu_openlink">Open in Browser</string>
   <string name="contextmenu_send_mail">Send email</string>
   <string name="contextmenu_sharelink">Share link</string>
@@ -374,8 +374,8 @@
   <string name="conversation_cert_info_title">Signed</string>
   <string name="conversation_cert_trust">Trust</string>
   <string name="conversation_content_provider">Conversation Content Provider</string>
-  <string name="conversation_detail_hide">Hide</string>
-  <string name="conversation_detail_show">Details</string>
+  <string name="conversation_detail_hide">مخفی کردن</string>
+  <string name="conversation_detail_show">جزئیات</string>
   <string name="conversation_folder_moved">Moved to %1$s</string>
   <string name="conversation_item_mark_read">Read</string>
   <string name="conversation_item_mark_unread">Unread</string>
@@ -383,8 +383,8 @@
   <string name="conversation_msg_header_collapsed_sent_to">"Sent to "</string>
   <string name="conversation_photo_welcome_text">Touch a sender image to select that conversation.</string>
   <string name="conversation_pull_ad_content">Manage your emails effortlessly</string>
-  <string name="conversation_quick_button_approve">OK</string>
-  <string name="conversation_quick_button_disapprove">Cancel</string>
+  <string name="conversation_quick_button_approve">باشه</string>
+  <string name="conversation_quick_button_disapprove">لغو</string>
   <string name="conversation_quick_button_received">Received</string>
   <string name="conversation_view">Conversation view</string>
   <string name="conversation_view_keywords">conversation view;mail conversation</string>
@@ -411,7 +411,7 @@
   <string name="default_signature">Sent from my Mi phone</string>
   <string name="default_signature_2">Sent from my %s</string>
   <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
-  <string name="delete">Delete</string>
+  <string name="delete">حذف</string>
   <string name="delete_contact_content">Delete this contact now?</string>
   <string name="delete_message_flow">Delete message flow</string>
   <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
@@ -438,10 +438,10 @@
   <string name="done">Done</string>
   <string name="done_action">Done</string>
   <string name="donot_disturb_endtime_title">To</string>
-  <string name="donot_disturb_starttime_title">From</string>
+  <string name="donot_disturb_starttime_title">از</string>
   <string name="donot_disturb_summary">Notifications for emails that arrive will be silenced</string>
   <string name="donot_disturb_title">Do not disturb</string>
-  <string name="downlaod_cancel_confirm_download">Stop</string>
+  <string name="downlaod_cancel_confirm_download">توقف</string>
   <string name="downlaod_cancel_continue_download">"Don't stop"</string>
   <string name="downlaod_confirm_download">Download</string>
   <string name="downlaod_nonWifi_confirm_message">Use mobile data connection to download this attachment?</string>
@@ -458,7 +458,7 @@
   <string name="drawer_bank_bill">Bank statements</string>
   <string name="drawer_classification">Categories</string>
   <string name="drawer_close">Close navigation drawer</string>
-  <string name="drawer_contacts">Contacts</string>
+  <string name="drawer_contacts">مخاطبین</string>
   <string name="drawer_open">Open navigation drawer</string>
   <string name="due">Due</string>
   <string name="due_date_text">Final repayment</string>
@@ -467,7 +467,7 @@
   <string name="edit_quick_response_dialog">Quick reply</string>
   <string name="edit_signature">Edit signature</string>
   <string name="elided_padding_token"> </string>
-  <string name="email_feedback_uri"/>
+  <string name="email_feedback_uri" />
   <string name="email_netease">NetEase Mail</string>
   <string name="email_package_name">com.android.email</string>
   <string name="email_qq">QQ Mail</string>
@@ -505,7 +505,7 @@
   <string name="failed_read_write_contacts_permission">Access to contacts is restricted</string>
   <string name="feedback">Send feedback</string>
   <string name="feedback_body">Message</string>
-  <string name="feedback_body_domestic"/>
+  <string name="feedback_body_domestic" />
   <string name="feedback_sent">Thank you for your feedback</string>
   <string name="feedback_user_edit_hint">Describe the issue here. We will send you an email after we look into it.</string>
   <string name="feedback_user_edit_tag">From MIUI </string>
@@ -517,7 +517,7 @@
   <string name="file_not_found">"Couldn't find file"</string>
   <string name="file_not_found_redownload">"Couldn't find file"</string>
   <string name="file_rar_not_support">"Can't open encrypted rar files"</string>
-  <string name="file_save_path_dialog_cancel">Got it</string>
+  <string name="file_save_path_dialog_cancel">فهمیدم</string>
   <string name="file_save_path_dialog_ok">Change now</string>
   <string name="file_save_term">File saving terms</string>
   <string name="filtered_tag">" [%1$s]%2$s"</string>
@@ -592,7 +592,7 @@
   <string name="gmail_login_confirm_to_use_proxy">Use proxy server to access your Gmail Account?</string>
   <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
   <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
-  <string name="gmail_web_login_go">OK</string>
+  <string name="gmail_web_login_go">باشه</string>
   <string name="gmail_web_login_required_message">Sign in to Gmail</string>
   <string name="go_to_mail_content">View mail</string>
   <string name="have_auth_code">I have a code</string>
@@ -613,10 +613,10 @@
   <string name="imap_name">IMAP</string>
   <string name="imap_or_pop3_name">IMAP/POP3</string>
   <string name="imap_password_error">Password for incoming mail server is incorrect</string>
-  <string name="import_button_text">Import</string>
+  <string name="import_button_text">وارد کردن</string>
   <string name="import_from_other_account">Import from other accounts</string>
   <string name="info_actionbar_normal_detail">Promotion</string>
-  <string name="info_item_hide">Delete</string>
+  <string name="info_item_hide">حذف</string>
   <string name="info_switch_summary">Show promotions on top of the inbox</string>
   <string name="info_switch_title">Promotion</string>
   <string name="inline_picture_deleted">Downloading missing picture…</string>
@@ -764,7 +764,7 @@
   <string name="menu_photo_share_all">Share all</string>
   <string name="menu_resend_all">Resend all</string>
   <string name="menu_search">Search</string>
-  <string name="menu_settings">Settings</string>
+  <string name="menu_settings">تنظیمات</string>
   <string name="merged_mailbox_compose_select_account">Select Account</string>
   <string name="message_body_load_set_description">Load emails when using mobile data</string>
   <string name="message_compose_insert_quick_response_list_title">Insert quick reply</string>
@@ -804,7 +804,7 @@
   <string name="network_unavailable">Network not available</string>
   <string name="new_incoming_messages_one">New message from %s. Show.</string>
   <string name="new_signature_has_saved">Saved successfully</string>
-  <string name="next_action">Next</string>
+  <string name="next_action">بعد</string>
   <string name="no">No</string>
   <string name="no_address_email">noaddressemail@123.com</string>
   <string name="no_application_found">No app was found to open this attachment.</string>
@@ -827,7 +827,7 @@ Try a different inbox."</string>
   <string name="note_text">Through a network of China Mobile and SMS verification, it will only generate additional traffic, do not generate SMS fees.</string>
   <string name="note_title">139 Email Automatic Configuration</string>
   <string name="notification_action_archive">Archive</string>
-  <string name="notification_action_delete">Delete</string>
+  <string name="notification_action_delete">حذف</string>
   <string name="notification_action_remove_label">Remove label</string>
   <string name="notification_action_reply">Reply</string>
   <string name="notification_action_reply_all">Reply all</string>
@@ -842,12 +842,12 @@ Try a different inbox."</string>
   <string name="notify_channel_service">Notify about background sync</string>
   <string name="oauth_error_description">"Couldn't authenticate"</string>
   <string name="oauth_gmail_login_notify">Enter your Google Account username and password on the following sign-in page.</string>
-  <string name="oauth_login_continue">Continue</string>
+  <string name="oauth_login_continue">ادامه</string>
   <string name="oauth_login_continue_qq">Get a passcode and sign in &gt;</string>
   <string name="oauth_login_usr_proxy">Sign in using proxy</string>
   <string name="obtain_new_auth_code">Get a new authorization code</string>
-  <string name="ok">OK</string>
-  <string name="okay_action">OK</string>
+  <string name="ok">باشه</string>
+  <string name="okay_action">باشه</string>
   <string name="one_day">1 day</string>
   <string name="one_month">1 month</string>
   <string name="one_week">1 week</string>
@@ -930,7 +930,7 @@ Try a different inbox."</string>
   <string name="permission_tip">Configuration fails, please allow calls and text messages during configuration permissions</string>
   <string name="personal_data_collection_summary">When the switch is toggled on, you agree that we may collect your personal data. You can toggle the switch off, revoke your authorization, and delete your data from our servers at any time.</string>
   <string name="personal_data_collection_title">Allow collecting personal data</string>
-  <string name="phone">phone</string>
+  <string name="phone">تلفن</string>
   <string name="photo_load_failed">"Couldn't load image"</string>
   <string name="photo_view_count">%1$d/%2$d</string>
   <string name="pl_select_age">Select age</string>
@@ -969,7 +969,7 @@ to receive reminders about payments and trips"</string>
   <string name="pop3_name">POP3</string>
   <string name="prefDefault_autoAdvance">list</string>
   <string name="preference_eas_tips">Tap “Activate” to set up mail server.</string>
-  <string name="preference_imap_tips"/>
+  <string name="preference_imap_tips" />
   <string name="preference_pop_tips">In POP3, attachments will be automatically downloaded with email. This may increase your mobile data usage.</string>
   <string name="preference_sender_image_description">"Show profile pictures next to sender's name in inbox"</string>
   <string name="preference_sender_image_title">Show profile pictures in inbox</string>
@@ -977,7 +977,7 @@ to receive reminders about payments and trips"</string>
   <string name="preferences_signature_summary_not_set">Not set</string>
   <string name="preferences_signature_title">Signature</string>
   <string name="preview_attachment">Preview</string>
-  <string name="previous_action">Back</string>
+  <string name="previous_action">برگشت</string>
   <string name="print">Print</string>
   <string name="print_scheduler_title">Print all schedulers</string>
   <string name="privacy_des">"Logs contain debugging info of the email client and your device info. This information is used to locate problems faster. By tapping \"%1$s\" below, you're agreeing to our \"%2$s\"."</string>
@@ -1133,8 +1133,8 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="required_permissions">android.permission.WRITE_EXTERNAL_STORAGE;</string>
   <string name="respond_inline">"   Respond inline"</string>
   <string name="retry_login">Sign in again</string>
-  <string name="save_action">Save</string>
-  <string name="save_attachment">Save</string>
+  <string name="save_action">ذخیره</string>
+  <string name="save_attachment">ذخیره</string>
   <string name="save_draft_failed">Save draft failed</string>
   <string name="save_power_summary">Set power saving time</string>
   <string name="save_power_title">Battery saver</string>
@@ -1164,13 +1164,13 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">No attachments selected</string>
   <string name="select_path">Select path</string>
-  <string name="send">Send</string>
+  <string name="send">ارسال</string>
   <string name="send_encrypt_dialog_fail_content">"Looks like the recipient doesn't have the trusted certificate required for encrypting this email. Send a regular email instead?"</string>
   <string name="send_encrypt_dialog_fail_title">"Can't send encrypted email"</string>
   <string name="send_failed">"Message wasn't sent."</string>
   <string name="send_feed_back">Send feedback</string>
   <string name="send_feed_back_keywords">send feedback</string>
-  <string name="send_mail">Send</string>
+  <string name="send_mail">ارسال</string>
   <string name="sender_whitelist_cleared">"Pictures won't be shown automatically."</string>
   <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
@@ -1193,10 +1193,10 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="service_protocol_discribe">&lt;u&gt;"I've read and agree with WPS Mail Service Agreement"&lt;/u&gt;</string>
   <string name="service_protocol_title">Service Agreement</string>
   <string name="set_network">Set network</string>
-  <string name="setting_default_lable"/>
+  <string name="setting_default_lable" />
   <string name="setting_kids_subtitle">Confirmed user age</string>
   <string name="setting_kids_title">Over 16 years old</string>
-  <string name="settings_activity_title">Settings</string>
+  <string name="settings_activity_title">تنظیمات</string>
   <string name="share_choose">Choose file to share</string>
   <string name="sharing">Share</string>
   <string name="shortcut_name_title">Name folder shortcut</string>
@@ -1231,7 +1231,7 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="storage">Storage</string>
   <string name="str_select_all">Select all</string>
-  <string name="str_select_none">Deselect all</string>
+  <string name="str_select_none">لغو انتخاب همه</string>
   <string name="subject_and_snippet">%1$s - %2$s</string>
   <string name="subject_hint">Subject</string>
   <string name="suffix_sancharnet">sancharnet.in</string>
@@ -1246,8 +1246,8 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="sync_contacts_req_per_ignored">Allow Mail to access your contacts to sync</string>
   <string name="sync_error">"Couldn't sync."</string>
   <string name="sync_error_message">"Your device doesn't have enough storage space to sync."</string>
-  <string name="sync_failed_mi_authority_view_detail">View details</string>
-  <string name="syncing_wait_restart">Try again</string>
+  <string name="sync_failed_mi_authority_view_detail">مشاهده جزئیات</string>
+  <string name="syncing_wait_restart">تلاش دوباره</string>
   <string name="syncing_wait_restart_title">Server connection timed out</string>
   <string name="system_account_create_failed">"Couldn't create the account. Try again."</string>
   <string name="system_folders_sent_dlg">"Select your server's sent items folder"</string>
@@ -1303,14 +1303,14 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="turn_auto_sync_on_dialog_body">"Changes you make to
     all apps and accounts, not just Gmail, will be synchronized
     between the web, your other devices, and your %1$s."</string>
-  <string name="turn_auto_sync_on_dialog_confirm_btn">Turn on</string>
+  <string name="turn_auto_sync_on_dialog_confirm_btn">روشن</string>
   <string name="turn_auto_sync_on_dialog_title">Turn auto-sync on?</string>
   <string name="unbind_dialog_text">"The Mail app will no longer analyze your emails after that.
 Remove account?"</string>
   <string name="under_16_content">"Confirm that you aren't 16 years old yet?"</string>
   <string name="under_sixteen">"I'm not 16 years old yet."</string>
   <string name="undo">Undo</string>
-  <string name="unknow">Unknown</string>
+  <string name="unknow">ناشناخته</string>
   <string name="unread_string">conversation unread</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
   <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
@@ -1318,12 +1318,12 @@ Remove account?"</string>
   <string name="update_domain_title">Update domain settings</string>
   <string name="update_to_wps_mail">Enjoy more features with WPS Mail</string>
   <string name="updated_at">Refreshed at %1$s</string>
-  <string name="upload_log">Send</string>
+  <string name="upload_log">ارسال</string>
   <string name="upload_log_failed">"Couldn't send logs"</string>
-  <string name="upload_log_no">Cancel</string>
+  <string name="upload_log_no">لغو</string>
   <string name="upload_log_success">"Sent successfully, we'll get back to you soon."</string>
   <string name="upload_log_title">Send error logs to help us improve Mail</string>
-  <string name="upload_log_yes">Send</string>
+  <string name="upload_log_yes">ارسال</string>
   <string name="upload_logs">Upload logs</string>
   <string name="upload_logs_keywords">upload logs</string>
   <string name="uploading_logs">Just a sec…</string>
@@ -1334,10 +1334,10 @@ Remove account?"</string>
   <string name="user_privacy_settings_summary">"We'll collect your Android ID in the encrypted form and use it as your unique user identifier in Mail. We might also collect usage logs. You can revoke your authorization in privacy settings anytime."</string>
   <string name="user_privacy_settings_title">Mail privacy statement</string>
   <string name="validation_failed_prompt">"Can't verify account, check server settings for %s"</string>
-  <string name="veiled_address"/>
-  <string name="veiled_alternate_text"/>
-  <string name="veiled_alternate_text_unknown_person"/>
-  <string name="veiled_summary_unknown_person"/>
+  <string name="veiled_address" />
+  <string name="veiled_alternate_text" />
+  <string name="veiled_alternate_text_unknown_person" />
+  <string name="veiled_summary_unknown_person" />
   <string name="verify_code">Verification code</string>
   <string name="version_string">Version: %s</string>
   <string name="via_domain">via %1$s</string>
@@ -1349,9 +1349,9 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="wait_while_update_db">Updating database…</string>
   <string name="webview_logout">You can try to sign in again</string>
   <string name="webview_logout_cancel">Not now</string>
-  <string name="webview_logout_sure">Try again</string>
-  <string name="webview_sslerror_handle_cancel">Cancel</string>
-  <string name="webview_sslerror_handle_continue">Continue</string>
+  <string name="webview_logout_sure">تلاش دوباره</string>
+  <string name="webview_sslerror_handle_cancel">لغو</string>
+  <string name="webview_sslerror_handle_continue">ادامه</string>
   <string name="webview_sslerror_handle_hitmessage">A certificate error occurred, proceed anyway?</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_large_unread_count">%d+</string>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backup_items_app_tailer">
+        <item quantity="other">%d فایل های اطلاعات برنامه</item>
+        <item quantity="one">%d فایل اطلاعات برنامه</item>
+    </plurals>
+    <plurals name="backup_items_sysdata_tailer">
+        <item quantity="other">%d فایل های اطلاعات سیستم</item>
+        <item quantity="one">%d فایل اطلاعات سیستم</item>
+    </plurals>
+    <plurals name="custom_progress">
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
+    </plurals>
+    <plurals name="data_item_count">
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
+    </plurals>
+    <plurals name="data_item_count_pair">
+        <item quantity="other">%1$d/%2$d مورد</item>
+        <item quantity="one">%1$d/%2$d مورد</item>
+    </plurals>
+    <plurals name="local_main_backup_manage_summary">
+        <item quantity="other">%1$s پشتیبانی (%2$s)</item>
+        <item quantity="one">%1$s پشتیبان (%2$s)</item>
+    </plurals>
+    <plurals name="new_task_backup_failed">
+        <item quantity="other">"پشتیبان گیری با موفقیت انجام شد. %d مورد ناموفق."</item>
+        <item quantity="one">"پشتیبان گیری با موفقیت انجام شد. %d مورد ناموفق."</item>
+    </plurals>
+    <plurals name="new_task_restore_failed">
+        <item quantity="other">"بازیابی باموفقیت انجام شد. %d مورد ناموفق."</item>
+        <item quantity="one">"بازیابی باموفقیت انجام شد. %d مورد ناموفق."</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg1">
+        <item quantity="other">"%d مورد وارد شدند. "</item>
+        <item quantity="one">"%d مورد وارد شده. "</item>
+    </plurals>
+    <plurals name="save_item_failed_summary_seg2">
+        <item quantity="other">%d مورد دوباره وارد شوند.</item>
+        <item quantity="one">%d مورد دوباره وارد شود.</item>
+    </plurals>
+    <plurals name="save_item_saved_summary">
+        <item quantity="other">%d مورد بازیابی و وارد شدند</item>
+        <item quantity="one">%d مورد بازیابی و وارد شد</item>
+    </plurals>
+    <plurals name="save_item_saving_summary">
+        <item quantity="other">%d مورد بازیابی شدند</item>
+        <item quantity="one">%d مورد بازیابی شد</item>
+    </plurals>
+    <plurals name="select_item_count_unit">
+        <item quantity="other">مورد</item>
+        <item quantity="one">مورد</item>
+    </plurals>
+    <plurals name="select_item_summary">
+        <item quantity="other">%1$s | %2$d مورد</item>
+        <item quantity="one">%1$s | %2$d مورد</item>
+    </plurals>
+    <plurals name="total_num">
+        <item quantity="other">%d مورد,</item>
+        <item quantity="one">%d مورد,</item>
+    </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">"ناموفق در انتقال %d مورد. ضربه جهت مشاهده جزئیات."</item>
+        <item quantity="one">"ناموفق در انتقال %d مورد. ضربه جهت مشاهده جزئیات."</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">"ناموفق در انتقال %d مورد."</item>
+        <item quantity="one">"ناموفق در انتقال %d مورد."</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+</resources>

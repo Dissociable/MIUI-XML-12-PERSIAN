@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="app_name">Application Extension Service</string>
   <string name="auth_activity_label">Verification codes</string>
@@ -19,12 +19,12 @@
   <string name="autofill_password_activity_label">Verification codes</string>
   <string name="autofill_service_label">Manage passwords</string>
   <string name="autofill_setting_activity_label">Manage passwords</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">لغو</string>
   <string name="change_passwork_dialog_content">"You've already saved a password for this account. Update the password now?"</string>
   <string name="change_passwork_dialog_title">Update password?</string>
-  <string name="delete">Delete</string>
+  <string name="delete">حذف</string>
   <string name="invalid_package_signature">Invalid app signature</string>
-  <string name="ok">OK</string>
+  <string name="ok">باشه</string>
   <string name="save_content_tip">"The following items will be saved: "</string>
   <string name="search">Search</string>
   <string name="settings_clear_data_confirmation_description">"If you delete passwords now, you'll have to enter them manually next time you sign in.

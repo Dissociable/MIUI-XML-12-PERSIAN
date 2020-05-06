@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -31,17 +31,17 @@
   <string name="app_name">Earphones</string>
   <string name="apply_sound">Apply</string>
   <string name="can_you_here">Can you hear the sound?</string>
-  <string name="complete_dialog_button">Got it</string>
+  <string name="complete_dialog_button">فهمیدم</string>
   <string name="complete_dialog_message">"You've completed the test successfully."</string>
   <string name="complete_dialog_title">Test results</string>
-  <string name="copy">Copy</string>
+  <string name="copy">کپی</string>
   <string name="customization_complete">Done</string>
-  <string name="customization_continue">Continue</string>
+  <string name="customization_continue">ادامه</string>
   <string name="customization_pause_tip">Stop the test now? Connect earphones to continue.</string>
-  <string name="customization_quit">Exit</string>
+  <string name="customization_quit">خروج</string>
   <string name="eq_auto">Custom</string>
   <string name="eq_blues">Blues</string>
-  <string name="eq_cancel">Cancel</string>
+  <string name="eq_cancel">لغو</string>
   <string name="eq_classical">Classical</string>
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
@@ -52,7 +52,7 @@
   <string name="eq_hiphop">Hip Hop</string>
   <string name="eq_jazz">Jazz</string>
   <string name="eq_metal">Metal</string>
-  <string name="eq_ok">OK</string>
+  <string name="eq_ok">باشه</string>
   <string name="eq_pop">Pop</string>
   <string name="eq_preset_create">Create</string>
   <string name="eq_preset_format">User preset %d</string>
@@ -92,7 +92,7 @@
   <string name="music_below_thirty_years">Up to 30 years old</string>
   <string name="music_customized_sound_summary">Customize volume according to your auditory perception</string>
   <string name="music_customized_sound_title">Volume adjustment</string>
-  <string name="music_delete">Delete</string>
+  <string name="music_delete">حذف</string>
   <string name="music_delete_sound_title">Deleting presets</string>
   <string name="music_dirac_control">Optimize audio quality</string>
   <string name="music_dirac_mode_cancelling">Mi Noise Cancelling 3.5mm</string>
@@ -151,7 +151,7 @@
   <string name="music_please_input_head_set">Connect your earphones before you start</string>
   <string name="music_rename">Rename</string>
   <string name="music_rename_for_sound">Rename this preset</string>
-  <string name="music_save">Save</string>
+  <string name="music_save">ذخیره</string>
   <string name="music_sound">Preset</string>
   <string name="music_sound_for_mine">Custom presets</string>
   <string name="music_sound_num">Custom preset %s</string>
@@ -177,8 +177,8 @@
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="sure_give_up_test">"You'll have to start over next time if you stop the test now. Stop anyway?"</string>
   <string name="sure_to_back">Discard changes now?</string>
-  <string name="switch_audio_device_bt">Bluetooth</string>
-  <string name="switch_audio_device_phone">This device</string>
+  <string name="switch_audio_device_bt">بلوتوث</string>
+  <string name="switch_audio_device_phone">این دستگاه</string>
   <string name="switch_audio_dialog_title">Switch audio to</string>
   <string name="third_note">Find a quiet place.</string>
   <string name="v7_preference_off">OFF</string>

@@ -1,17 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="actionbar_button_up_description">Back</string>
+  <string name="actionbar_button_up_description">برگشت</string>
   <string name="app_name">clientSDK</string>
   <string name="app_pkg_name">com.milink.service</string>
   <string name="app_ver_code">1</string>
   <string name="app_ver_name">1.0</string>
   <string name="casting_tips">Casting…</string>
-  <string name="console_guide_btn_got_it">Got it</string>
+  <string name="console_guide_btn_got_it">فهمیدم</string>
   <string name="console_guide_subtitle_hang_up">You can keep casting when the screen of your device is turned off. This feature decreases power consumption.</string>
   <string name="console_guide_subtitle_private">"Don't display floating notifications, incoming calls, and other private items on external monitors"</string>
   <string name="console_guide_subtitle_small_window">"Minimize the window that's being cast to be able to use other features of your phone"</string>
   <string name="dialog_can_not_find_device">"Couldn't find devices nearby"</string>
-  <string name="dialog_cancle">Cancel</string>
+  <string name="dialog_cancle">لغو</string>
   <string name="dialog_connect_fail">"Couldn't connect"</string>
   <string name="dialog_connect_retry">Tap to try again</string>
   <string name="dialog_connect_verify_perssion">Authorize casting on your TV first</string>
@@ -19,13 +19,13 @@
   <string name="dialog_connected">Connected</string>
   <string name="dialog_connecting">Connecting…</string>
   <string name="dialog_nfc_cast_wifi_off">Turn on Wi-Fi to be able to cast using NFC. Turn on now?</string>
-  <string name="dialog_ok">OK</string>
+  <string name="dialog_ok">باشه</string>
   <string name="dialog_only_suport_content">Stream photos, videos, or music</string>
-  <string name="dialog_open_wifi_bt">Turn on</string>
+  <string name="dialog_open_wifi_bt">روشن</string>
   <string name="dialog_please_make_sure_tv_ok_or_help">"Make sure that the wireless casting feature is turned on on the target device.
 View help if you have problems connecting."</string>
   <string name="dialog_recent_connected">Recent</string>
-  <string name="dialog_retry">Try again</string>
+  <string name="dialog_retry">تلاش دوباره</string>
   <string name="dialog_scanning_device">Searching for devices nearby…</string>
   <string name="dialog_scanning_precondition">Turn on Wi-Fi and Bluetooth on your phone to use Wireless Display.</string>
   <string name="dialog_select_tv">Select device (%d)</string>
@@ -33,8 +33,8 @@ View help if you have problems connecting."</string>
   <string name="disconnect">Stop casting</string>
   <string name="hang_up">Cast with screen off</string>
   <string name="hang_up_alert_dialog_content">Keep casting when the screen of your device is turned off. This feature decreases power consumption. Press the Power button to turn the screen back on.</string>
-  <string name="hang_up_alert_dialog_neg">Cancel</string>
-  <string name="hang_up_alert_dialog_pos">OK</string>
+  <string name="hang_up_alert_dialog_neg">لغو</string>
+  <string name="hang_up_alert_dialog_pos">باشه</string>
   <string name="hang_up_alert_dialog_title">About to cast with screen off…</string>
   <string name="help_page_text_01">Help</string>
   <string name="help_page_text_02">What is casting?</string>

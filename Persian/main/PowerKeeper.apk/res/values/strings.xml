@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -32,7 +32,7 @@
   <string name="active_classify">Sort by activity status</string>
   <string name="adaptive_battery_summary">"Limit battery for apps that you don't use often"</string>
   <string name="adaptive_battery_title">Use Adaptive Battery</string>
-  <string name="app_list_title">Choose apps</string>
+  <string name="app_list_title">انتخاب برنامه ها</string>
   <string name="app_name">Battery and performance</string>
   <string name="app_preload_policies_summary">"Use machine learning to predict the apps you're most likely to use, and load resources in advance."</string>
   <string name="app_preload_policies_title">AI pre-loading</string>
@@ -60,8 +60,8 @@
   <string name="config_suggest_description">"Identify apps and activities to keep important processes going.
 Battery saver will treat important apps selectively."</string>
   <string name="config_suggest_suffix_title">Battery saver (recommended)</string>
-  <string name="confirm">OK</string>
-  <string name="copy">Copy</string>
+  <string name="confirm">باشه</string>
+  <string name="copy">کپی</string>
   <string name="current_cloud_addr_is">Cloud control server address is:</string>
   <string name="empty_title_apps_container_list">No apps</string>
   <string name="enable_sleep_mode">Turn on Sleep mode to optimize battery usage at night</string>
@@ -77,7 +77,7 @@ Battery saver will treat important apps selectively."</string>
 "&lt;li&gt;To make sure you can use all the features of your device normally, Extreme battery saver will be turned off automatically when your battery is 30% charged.&lt;/li&gt;</string>
   <string name="extreme_power_config_mode_summary">Extreme battery saver restricts background activity, and stops sync.</string>
   <string name="extreme_power_config_mode_title">Extreme battery saver</string>
-  <string name="extreme_power_settings_title">settings</string>
+  <string name="extreme_power_settings_title">تنظیمات</string>
   <string name="failure">Error</string>
   <string name="hide_mode_desc">When an app runs in the background, its activities will be monitored to reduce battery usage. This function will get and use user data according to %s</string>
   <string name="hide_system_app">Hide system apps</string>
@@ -87,7 +87,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="important_warning">Attention</string>
   <string name="lasttime_applist_cloud">Updated apps:</string>
   <string name="lasttime_feature_cloud">Updated features:</string>
-  <string name="message_i_know">Got it</string>
+  <string name="message_i_know">فهمیدم</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
@@ -121,8 +121,8 @@ Battery saver will treat important apps selectively."</string>
   <string name="power_checker_wifi_scan_multi_apps_title">%1$s searches for WLAN frequently</string>
   <string name="power_checker_wifi_scan_title">%1$s searches for WLAN frequently</string>
   <string name="power_config_apps">App battery saver</string>
-  <string name="power_config_event_delete">Delete</string>
-  <string name="power_config_select_apps_title">Apps</string>
+  <string name="power_config_event_delete">حذف</string>
+  <string name="power_config_select_apps_title">برنامه ها</string>
   <string name="power_consume_abnormal_night">Battery is drained at night</string>
   <string name="power_hide_mode_app_list_summary">Saving power in the background</string>
   <string name="power_hide_mode_title">Battery &amp; performance</string>
@@ -142,7 +142,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="sleep_config_enhance_description_non_nfc">"Whenever MIUI detects that you're sleeping, it will close background apps, restrict Bluetooth, GPS, mobile data and WLAN usage, and won't light up screen for notifications."</string>
   <string name="sleep_config_enhance_title">Sleep mode</string>
   <string name="sleepmode_disclaimer_agree">Agree</string>
-  <string name="sleepmode_disclaimer_cancel">Cancel</string>
+  <string name="sleepmode_disclaimer_cancel">لغو</string>
   <string name="sleepmode_privacy_content">"This feature will use your phone's system and device info. It won't be uploaded to our servers."</string>
   <string name="sleepmode_privacy_link">Learn more about privacy and security</string>
   <string name="sleepmode_privacy_title">Sleep mode</string>

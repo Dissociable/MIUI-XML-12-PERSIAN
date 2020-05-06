@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -56,7 +56,7 @@
   <string name="all_app_category_photography">Photography</string>
   <string name="all_app_category_shopping">Shopping</string>
   <string name="all_app_category_tools">Tools</string>
-  <string name="all_apps">All apps</string>
+  <string name="all_apps">همه برنامه ها</string>
   <string name="all_apps_no_search_results">"Couldn't find results"</string>
   <string name="all_apps_search_app">Search for apps</string>
   <string name="all_apps_search_market_message">Search online</string>
@@ -144,8 +144,8 @@
   <string name="backup_fail">"Couldn't backup launcher"</string>
   <string name="bad_wallpaper_source_prompt">"Can't load wallpaper"</string>
   <string name="buffering">Buffering…</string>
-  <string name="cancel_action">Cancel</string>
-  <string name="cancel_btn_label">Cancel</string>
+  <string name="cancel_action">لغو</string>
+  <string name="cancel_btn_label">لغو</string>
   <string name="cant_edit_lock_screen">"Can't edit Lock screen style"</string>
   <string name="cant_remove_folder">"Can't remove folder"</string>
   <string name="cant_remove_retained_app">"Couldn't remove this app"</string>
@@ -157,7 +157,7 @@
   <string name="category_drawer_name_hint">Enter category name</string>
   <string name="category_edit_back_confirm_dialog_content">Save changes now?</string>
   <string name="category_edit_back_confirm_dialog_negative_button">"Don't save"</string>
-  <string name="category_edit_back_confirm_dialog_positive_button">Save</string>
+  <string name="category_edit_back_confirm_dialog_positive_button">ذخیره</string>
   <string name="category_group">Categorize apps</string>
   <string name="category_group_summary">Categorize apps in App drawer</string>
   <string name="category_not_selected">Available apps</string>
@@ -165,15 +165,15 @@
   <string name="choose_wallpaper">Choose wallpaper</string>
   <string name="chooser_wallpaper">Choose a new wallpaper</string>
   <string name="cloud_app_restore_title">Pending</string>
-  <string name="configure_wallpaper">Settings</string>
-  <string name="confirm_btn_label">OK</string>
+  <string name="configure_wallpaper">تنظیمات</string>
+  <string name="confirm_btn_label">باشه</string>
   <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Dual apps will be uninstalled together with these ones.</string>
   <string name="confirm_uninstall_dialog_has_xspace_app_msg">Dual app will be uninstalled together with this one.</string>
   <string name="confirm_uninstall_dialog_title">Dual apps will be uninstalled</string>
   <string name="content_description_for_shortcut_icon_checked">%1$s, checked</string>
   <string name="content_description_shortcut_icon_unchecked">%1$s, unchecked</string>
   <string name="content_description_workspace_thumbnail_item">Screen preview, page %1$s</string>
-  <string name="copy">Copy</string>
+  <string name="copy">کپی</string>
   <string name="current_preview">Preview</string>
   <string name="current_wallpaper">Current</string>
   <string name="custom_wallpaper_picker">Browse</string>
@@ -184,24 +184,24 @@
   <string name="default_folder_title_microsoft">Microsoft</string>
   <string name="default_folder_title_other_apps">Other apps</string>
   <string name="default_folder_title_recommend">More apps</string>
-  <string name="default_folder_title_security">System</string>
+  <string name="default_folder_title_security">سیستم</string>
   <string name="default_folder_title_services">Services</string>
   <string name="default_folder_title_telcel">Telcel</string>
   <string name="default_folder_title_tools">Tools</string>
   <string name="default_folder_title_turkcell_uygulamalar">TURKCELL UYGULAMALAR</string>
   <string name="default_screen_preview_title">Set default screen</string>
   <string name="default_shortcut_title_10086">10086.cn</string>
-  <string name="delete">Delete</string>
+  <string name="delete">حذف</string>
   <string name="delete_category_dialog_content">"You won't be able to restore this category if you delete it. Delete anyway?"</string>
   <string name="delete_category_dialog_title">Delete this category?</string>
   <string name="delete_screen">Delete screen</string>
   <string name="delete_wallpaper_message">Delete %1$d wallpaper?</string>
-  <string name="deselect_all">Deselect all</string>
+  <string name="deselect_all">لغو انتخاب همه</string>
   <string name="disable_wallpaper_scroll">Turn side-scrolling off</string>
   <string name="double_tap_to_lock_title">Double tap to lock screen</string>
   <string name="download_action">Download</string>
-  <string name="drag_multiple_item_name"/>
-  <string name="drag_single_item_name"/>
+  <string name="drag_multiple_item_name" />
+  <string name="drag_single_item_name" />
   <string name="drawer_background">Backgrounds</string>
   <string name="drawer_background_dark">Dark</string>
   <string name="drawer_background_light">Light</string>
@@ -240,7 +240,7 @@
   <string name="folder_name">Folder</string>
   <string name="frame_load_failed">"Can't load frame"</string>
   <string name="free_style_apps_title">Choose app</string>
-  <string name="free_style_drawer_title">All apps</string>
+  <string name="free_style_drawer_title">همه برنامه ها</string>
   <string name="free_style_edit_app">App</string>
   <string name="free_style_edit_bar_empty">Empty</string>
   <string name="free_style_edit_bar_select_app">Choose app</string>
@@ -270,7 +270,7 @@
   <string name="gadget_photo_22_label">Image 2x2</string>
   <string name="gadget_photo_24_label">Image 4x2</string>
   <string name="gadget_photo_44_label">Image 4x4</string>
-  <string name="gadget_photo_label">Image</string>
+  <string name="gadget_photo_label">تصویر</string>
   <string name="gadget_power_clear_button_label">Deep clean</string>
   <string name="gadget_search_label">Search</string>
   <string name="gadget_weather_app_not_installed">"Tap to download MIUI's Weather app"</string>
@@ -340,7 +340,7 @@
   <string name="menu_auto_fill_of_uninstall">Fill cells of uninstalled apps</string>
   <string name="menu_back_desktop">Back to Home screen</string>
   <string name="menu_cell_setting">Home screen layout</string>
-  <string name="menu_customize">Settings</string>
+  <string name="menu_customize">تنظیمات</string>
   <string name="menu_default_screen_preview">Set default screen</string>
   <string name="menu_edit">Edit Home screen</string>
   <string name="menu_exit_scene">Exit Mi Space</string>
@@ -352,7 +352,7 @@
   <string name="menu_picktheme">Choose a theme</string>
   <string name="menu_reset_scene">Reset to default layout</string>
   <string name="menu_search">Search</string>
-  <string name="menu_settings">Settings</string>
+  <string name="menu_settings">تنظیمات</string>
   <string name="menu_sort">Sort apps</string>
   <string name="menu_trans_effect">Transition effects</string>
   <string name="menu_wallpaper">Wallpaper</string>
@@ -376,11 +376,11 @@
   <string name="normal_wallpaper">Wallpaper</string>
   <string name="not_set">Not set</string>
   <string name="notification_installed">Installed successfully</string>
-  <string name="notification_open_button">Open</string>
+  <string name="notification_open_button">باز کردن</string>
   <string name="notification_reset_title">Arranged icons successfully</string>
   <string name="one_key_call_title">Tap to dial</string>
   <string name="online_wallpaper">Online</string>
-  <string name="open_personal_assistant_dialog_btn_cancel">Cancel</string>
+  <string name="open_personal_assistant_dialog_btn_cancel">لغو</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Turn off</string>
   <string name="open_personal_assistant_dialog_desc">"You won't be able to use App vault and receive its updates. Turn off now?"</string>
   <string name="open_personal_assistant_dialog_desc_international">"You won't be able to use App vault cards (Stocks, Shortcuts, etc.) and receive updates after you turn this feature off."</string>
@@ -422,7 +422,7 @@
   <string name="preferred_app_settings_not_selected">Not selected</string>
   <string name="privacy_thumbnail_blur_summary">Blur app previews in Recents</string>
   <string name="privacy_thumbnail_blur_title">Blur app previews</string>
-  <string name="process"/>
+  <string name="process" />
   <string name="quick_app">Quick apps</string>
   <string name="recent_apps">Recent</string>
   <string name="recent_menu_item_info">Info</string>
@@ -431,11 +431,11 @@
   <string name="recent_menu_item_unlock">Unlock</string>
   <string name="recents_app_info_button_label">App info</string>
   <string name="recents_config_title">Recents</string>
-  <string name="recents_dimiss_task">Clear</string>
+  <string name="recents_dimiss_task">پاک کردن</string>
   <string name="recents_empty_message">No recent items</string>
   <string name="recents_empty_message_dismissed_all">"You've cleared everything"</string>
   <string name="recents_empty_message_multi_window">Open apps from the Home screen</string>
-  <string name="recents_exit_multi_window_mode">Exit</string>
+  <string name="recents_exit_multi_window_mode">خروج</string>
   <string name="recents_forbid_dock_when_screening_toast_text">"Can't use Split screen while casting"</string>
   <string name="recents_incompatible_app_message">"This app doesn't support Split screen"</string>
   <string name="recents_smallwindow_text">Release to add</string>
@@ -477,15 +477,15 @@
   <string name="select_frame">Frame</string>
   <string name="select_photo">Photo</string>
   <string name="setting_wallpaper_tip">Pinch or swipe to adjust</string>
-  <string name="settings">Settings</string>
-  <string name="settings_shortcut">Settings</string>
+  <string name="settings">تنظیمات</string>
+  <string name="settings_shortcut">تنظیمات</string>
   <string name="shake_to_align_icons">Shake device to fill empty cells with icons</string>
   <string name="shake_to_align_icons_summary">Shake your device while in editing mode to fill empty cells with icons automatically</string>
   <string name="shake_to_align_icons_title">Shake to fill empty cells</string>
   <string name="share">Share</string>
-  <string name="sharedUserId"/>
+  <string name="sharedUserId" />
   <string name="shortcut_share_dialog_content">"The files you send from your phone, as well as their recipients are selected and determined by you. Be attentive when you choose files to share and select recipients. You may not use your phone to transmit any viruses, malware, Trojans, time bombs, and other harmful objects to other people. Don't use your phone to transmit any software that may affect the regular usage of the recipient's device or any items that may damage, interfere, intercept, or eliminate any system data or personal information on mobile terminal devices. You'll be responsible for any damage caused to other users or mobile terminal devices. Xiaomi will do its best to ensure that the sharing functionality, as well as the technology and information involved are safe, effective, accurate, and reliable. However, due to the current technology limitations, Xiaomi doesn't guarantee that the sharing functionality is flawless and will satisfy all your needs."</string>
-  <string name="shortcut_share_dialog_positive_button">Got it</string>
+  <string name="shortcut_share_dialog_positive_button">فهمیدم</string>
   <string name="shortcut_share_dialog_title">Disclaimer</string>
   <string name="show_all">Show all</string>
   <string name="show_mem_info_title">Show memory status</string>
@@ -506,7 +506,7 @@
   <string name="starting_preset_app">Starting…</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="status_bar_recent_memory_info1">%1$sB of %2$sB available</string>
-  <string name="status_bar_recent_memory_info2"/>
+  <string name="status_bar_recent_memory_info2" />
   <string name="status_downloaded">Downloaded</string>
   <string name="status_downloading">Downloading</string>
   <string name="status_installing">Installing</string>
@@ -518,7 +518,7 @@
   <string name="switch_personal_assistant_none">None</string>
   <string name="system_shortcuts_more_operation">App info</string>
   <string name="system_shortcuts_remove">Remove</string>
-  <string name="system_text">System</string>
+  <string name="system_text">سیستم</string>
   <string name="task_access_locked_app_msg">Turned on app lock</string>
   <string name="title_jeejen">Jeejen Home screen</string>
   <string name="title_select_live_folder">Select folder</string>

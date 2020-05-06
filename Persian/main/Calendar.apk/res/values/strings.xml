@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -38,7 +38,7 @@
   <string name="accessibility_repeats">Repeat</string>
   <string name="accessibility_sync_cal">Sync calendar</string>
   <string name="account_and_calendar">Accounts</string>
-  <string name="action_bar_return">Back</string>
+  <string name="action_bar_return">برگشت</string>
   <string name="action_label">Return</string>
   <string name="action_text_card_manager">Channel</string>
   <string name="ad_card_download_count">%1$d人下载</string>
@@ -60,7 +60,7 @@
   <string name="agenda_month_empty_hint">No events for today</string>
   <string name="agenda_tomorrow">TOMORROW, %1$s</string>
   <string name="agenda_view">Events</string>
-  <string name="alarm_label">Got it</string>
+  <string name="alarm_label">فهمیدم</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Expired</string>
   <string name="alert_title">Calendar notifications</string>
@@ -97,7 +97,7 @@
   <string name="birthday_notification_text_today">"Don't forget to wish them well."</string>
   <string name="birthday_notification_title_days_later">"%1$s's %2$s is coming up."</string>
   <string name="birthday_notification_title_today">"%1$s's %3$s"</string>
-  <string name="birthday_notification_type_term_lunar"/>
+  <string name="birthday_notification_type_term_lunar" />
   <string name="birthday_saved">Birthday saved</string>
   <string name="birthday_term">Birthday</string>
   <string name="birthday_term_chinese_calendar">"%1$s's birthday (Traditional Chinese calendar)"</string>
@@ -115,7 +115,7 @@
   <string name="card_detail_dialog_positive">Subscribe now</string>
   <string name="card_detail_dialog_title">Subscribe now?</string>
   <string name="card_detail_hint">The content will be shown in the home page and updated daily once you subscribe</string>
-  <string name="card_detail_title">Details</string>
+  <string name="card_detail_title">جزئیات</string>
   <string name="card_title_change">More</string>
   <string name="change_response_title">Change response</string>
   <string name="check_reminded_text">查看</string>
@@ -124,8 +124,8 @@
   <string name="chinese_leap">闰</string>
   <string name="chinese_youth_day">青年节</string>
   <string name="chinese_youth_day_tradition">青年節</string>
-  <string name="chips_action_cancel">Cancel</string>
-  <string name="chips_action_copy">Copy</string>
+  <string name="chips_action_cancel">لغو</string>
+  <string name="chips_action_copy">کپی</string>
   <string name="chips_permission_text">Allow contacts suggestions</string>
   <string name="chongsha">冲煞</string>
   <string name="christmas_day">圣诞节</string>
@@ -173,7 +173,7 @@
   <string name="date_calculate_when">Start</string>
   <string name="date_interval_description">Learn how many days there are between 2 dates</string>
   <string name="date_interval_end">To</string>
-  <string name="date_interval_start">From</string>
+  <string name="date_interval_start">از</string>
   <string name="date_interval_tab">Interval</string>
   <string name="date_interval_text_to">To %1$s</string>
   <string name="date_jump_title">Jump to date</string>
@@ -187,11 +187,11 @@
   <string name="delete_this_event_title">Delete this event?</string>
   <string name="description_calendar">System apps/Calendar</string>
   <string name="description_calendar_edit_event">System apps/Calendar/Agenda</string>
-  <string name="description_calendar_huangli"/>
-  <string name="description_calendar_subscribe_group"/>
+  <string name="description_calendar_huangli" />
+  <string name="description_calendar_subscribe_group" />
   <string name="di_zhi">地支</string>
   <string name="directory_searching_fmt">Searching %s…</string>
-  <string name="discard_label">Cancel</string>
+  <string name="discard_label">لغو</string>
   <string name="does_not_repeat">One-time event</string>
   <string name="double_seventh_day">七夕</string>
   <string name="double_seventh_day_tradition">七夕</string>
@@ -214,9 +214,9 @@
   <string name="edit_event_countdown_name_hint">Event</string>
   <string name="edit_event_custom_reminder_time_dup">Custom reminder: %1$s</string>
   <string name="edit_event_dislike_title">您取消日程创建的原因？</string>
-  <string name="edit_event_from_label">From</string>
+  <string name="edit_event_from_label">از</string>
   <string name="edit_event_input_year">Enter year</string>
-  <string name="edit_event_label">Details</string>
+  <string name="edit_event_label">جزئیات</string>
   <string name="edit_event_no_reminder_value">"Don't remind"</string>
   <string name="edit_event_reminder_3_days_before">And remind 3 days before</string>
   <string name="edit_event_reminder_summary">On that day at %1$s</string>
@@ -249,7 +249,7 @@
   <string name="empty_event">"Can't create empty events"</string>
   <string name="event_account">Account</string>
   <string name="event_action_arrive_station">Destination</string>
-  <string name="event_action_delete">Delete</string>
+  <string name="event_action_delete">حذف</string>
   <string name="event_action_edit">Edit</string>
   <string name="event_all_day_label">All day</string>
   <string name="event_create">New event</string>
@@ -286,7 +286,7 @@
   <string name="flight_detail_title">Flight itinerary</string>
   <string name="flight_disclaimer">Disclaimer</string>
   <string name="flight_disclaimer_content">"Flight info and services are provided by VariFlight. All related responsibilities will be borne by the third party. Contact VariFlight's customer service if you have any questions. Flight info is provided for your reference only. Refer to the airline company announcements for more accurate and up-to-date information."</string>
-  <string name="flight_disclaimer_dialog_ok">Got it</string>
+  <string name="flight_disclaimer_dialog_ok">فهمیدم</string>
   <string name="flight_event_delete_successfully">Deleted flight itinerary successfully</string>
   <string name="flight_plan_time">Scheduled %1$s</string>
   <string name="flight_seat_no">Seat %1$s</string>
@@ -356,7 +356,7 @@
   <string name="hotel_event_title">入住酒店：</string>
   <string name="huangli_bad_type">忌</string>
   <string name="huangli_good_type">宜</string>
-  <string name="import_action">Import</string>
+  <string name="import_action">وارد کردن</string>
   <string name="import_birthday">Import birthday</string>
   <string name="imported">Imported</string>
   <string name="insects_awaken">惊蛰</string>
@@ -441,7 +441,7 @@
   <string name="lunar_chu">初</string>
   <string name="lunar_chu_shi">初十</string>
   <string name="lunar_date">Lunar date</string>
-  <string name="lunar_day"/>
+  <string name="lunar_day" />
   <string name="lunar_day_chinese_calendar">农历%1$s</string>
   <string name="lunar_er">二</string>
   <string name="lunar_er_shi">二十</string>
@@ -457,7 +457,7 @@
   <string name="lunar_shi_er">十二</string>
   <string name="lunar_shi_yi">十一</string>
   <string name="lunar_si">四</string>
-  <string name="lunar_to_solar"/>
+  <string name="lunar_to_solar" />
   <string name="lunar_to_solar_chinese_calendar">Chinese to Gregorian</string>
   <string name="lunar_wu">五</string>
   <string name="lunar_year">年</string>
@@ -480,14 +480,14 @@
   <string name="missing_required_permission">You have restricted required permissions.</string>
   <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>
   <string name="miuishare_account_activate_ok">Activate</string>
-  <string name="miuishare_account_login_cancel">Cancel</string>
+  <string name="miuishare_account_login_cancel">لغو</string>
   <string name="miuishare_account_login_confirmation">Sign in to Mi Account</string>
   <string name="miuishare_account_login_ok">Sign in</string>
   <string name="miuishare_account_need_activate">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Activate your Mi Account to continue.</string>
   <string name="miuishare_account_need_login">Sharing to Weibo requires the Weibo account which is associated with your Mi Account. Sign in to your Mi Account to continue.</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"Couldn't connect to the network."</string>
-  <string name="miuishare_publish">Send</string>
+  <string name="miuishare_publish">ارسال</string>
   <string name="miuishare_qzone_title">Qzone</string>
   <string name="miuishare_share_done">Shared successfully</string>
   <string name="miuishare_share_editor_title">Share</string>
@@ -544,13 +544,13 @@
   <string name="no_events_hint">No events</string>
   <string name="no_network">"Couldn't connect to the network.
 Check network settings and try again."</string>
-  <string name="no_network_btn">Try again</string>
+  <string name="no_network_btn">تلاش دوباره</string>
   <string name="no_title_label">(No title)</string>
   <string name="no_visiable_calendar_message">You need to add a calendar account. Tap Add account to continue.</string>
   <string name="no_visiable_calendar_message_only_for_xiaomi_account">You need to add a calendar account. Tap \"Add account\" to continue.</string>
   <string name="no_visiable_calendar_select_account">Add account</string>
   <string name="no_visiable_calendar_title">Add account</string>
-  <string name="notification_channel_description"/>
+  <string name="notification_channel_description" />
   <string name="notification_channel_name">Regular reminders</string>
   <string name="notification_channel_name_no_sound">Silenced reminders</string>
   <string name="notification_channel_name_no_vibration">Reminders without vibration</string>
@@ -574,7 +574,7 @@ Check network settings and try again."</string>
   <string name="permission_contacts">For syncing the birthdays of your contacts and sending reminders</string>
   <string name="permission_main_purpose">Viewing and managing calendar events, planning trips, receiving reminders, and subscribing to services</string>
   <string name="permission_storage">For saving reminders and ringtones</string>
-  <string name="phone_num">Phone</string>
+  <string name="phone_num">تلفن</string>
   <string name="prefDefault_alerts_vibrateWhen">never</string>
   <string name="prefDefault_alerts_vibrate_false">never</string>
   <string name="prefDefault_alerts_vibrate_true">always</string>
@@ -664,13 +664,13 @@ Check network settings and try again."</string>
   <string name="repeat_label_frequency">Frequency</string>
   <string name="repeat_label_interval">Every</string>
   <string name="repeat_label_week">Week</string>
-  <string name="repeat_lunar_monthly"/>
+  <string name="repeat_lunar_monthly" />
   <string name="repeat_lunar_monthly_chinese_calendar">农历每月</string>
-  <string name="repeat_lunar_monthly_detail"/>
+  <string name="repeat_lunar_monthly_detail" />
   <string name="repeat_lunar_monthly_detail_chinese_calendar">农历每月（%1$s）</string>
-  <string name="repeat_lunar_yearly"/>
+  <string name="repeat_lunar_yearly" />
   <string name="repeat_lunar_yearly_chinese_calendar">农历每年</string>
-  <string name="repeat_lunar_yearly_detail"/>
+  <string name="repeat_lunar_yearly_detail" />
   <string name="repeat_lunar_yearly_detail_chinese_calendar">农历每年（%1$s）</string>
   <string name="repeat_month_day_splitter">" "</string>
   <string name="repeat_week_info">" %1$s %2$s"</string>
@@ -687,13 +687,13 @@ Check network settings and try again."</string>
   <string name="saving_event_with_guest">Sending updates…</string>
   <string name="search_calendar">"Date;Solar Terms;Lunar;Almanac;Fortune;Agenda;Meeting;Reminder;Vacation;Holiday;Birthday;2016;2017;Spring Festival;New Year's Day;International Labour Day;Mid-Autumn Festival"</string>
   <string name="search_calendar_edit_event">Meeting;Reminder;Agenda</string>
-  <string name="search_calendar_huangli"/>
+  <string name="search_calendar_huangli" />
   <string name="search_calendar_settings">Calendar;Agenda;Reminder</string>
-  <string name="search_calendar_subscribe_group"/>
+  <string name="search_calendar_subscribe_group" />
   <string name="search_menu_title">Search</string>
   <string name="select_date">Jump to date</string>
   <string name="select_today_tip">Today</string>
-  <string name="setting">Settings</string>
+  <string name="setting">تنظیمات</string>
   <string name="setting_about_calendar_version">Calendar version: %1$s-%2$s</string>
   <string name="setting_about_imei">IMEI: %1$s</string>
   <string name="setting_about_miui_version">MIUI version: %1$s-%2$s</string>
@@ -765,18 +765,18 @@ Check network settings and try again."</string>
   <string name="shift_type_rest">休息</string>
   <string name="shortcut_new_event">Add event</string>
   <string name="shortcut_next_agenda">Next event</string>
-  <string name="shortcut_settings">Settings</string>
+  <string name="shortcut_settings">تنظیمات</string>
   <string name="show_day_view">Show day</string>
   <string name="slight_cold">小寒</string>
   <string name="slight_cold_tradition">小寒</string>
   <string name="slight_heat">小暑</string>
   <string name="slight_heat_tradition">小暑</string>
   <string name="sms_import_description">更好地管理与时间相关的短信事件</string>
-  <string name="solar_lunar_convert_date"/>
+  <string name="solar_lunar_convert_date" />
   <string name="solar_lunar_convert_description">Gregorian to Traditional Chinese</string>
   <string name="solar_lunar_convert_description_2">Switch between Traditional Chinese and Gregorian calendars</string>
   <string name="solar_lunar_convert_tab">Convert</string>
-  <string name="solar_to_lunar"/>
+  <string name="solar_to_lunar" />
   <string name="solar_to_lunar_chinese_calendar">Gregorian to Chinese</string>
   <string name="spring_begins">立春</string>
   <string name="spring_begins_tradition">立春</string>
@@ -807,7 +807,7 @@ Check network settings and try again."</string>
   <string name="taishen">胎神</string>
   <string name="talk_back_month">月</string>
   <string name="talk_back_read_date">%1$s (%2$s according to lunar calendar).</string>
-  <string name="talk_back_setting">Settings</string>
+  <string name="talk_back_setting">تنظیمات</string>
   <string name="talk_back_tab_switch">Switch between views</string>
   <string name="talkback_festival_and">和</string>
   <string name="talkback_festival_is">节日是</string>
@@ -908,8 +908,8 @@ Check network settings and try again."</string>
   <string name="unsubscribe_card">Unsubscribe</string>
   <string name="unsubscribe_card_success">Unsubscribed from “%1$s” successfully</string>
   <string name="unsubscribing_card">Unsubscribed</string>
-  <string name="user_notice_button_exit">Cancel</string>
-  <string name="user_notice_button_ok">OK</string>
+  <string name="user_notice_button_exit">لغو</string>
+  <string name="user_notice_button_ok">باشه</string>
   <string name="user_notice_message">You must agree to our %1$s and %2$s before using Calendar. In order to provide accurate data on local public holidays, birthdays, credit card repayments, and planned trips, Calendar needs to access your location, contacts, and messages, as well as connect to the internet. Agree?</string>
   <string name="user_notice_title">Attention</string>
   <string name="valentines_day">情人节</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -59,7 +59,7 @@
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_name">Nickname</string>
   <string name="account_user_name_dialog_title">Enter username</string>
-  <string name="account_user_other_info">Details</string>
+  <string name="account_user_other_info">جزئیات</string>
   <string name="account_user_phone">Recovery phone</string>
   <string name="account_user_region">Region</string>
   <string name="action_add_phone">Add phone number</string>
@@ -89,7 +89,7 @@ Send this code to the supervisor."</string>
   <string name="error_dup_binded_email">This email address is already associated with another Mi Account.</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
-  <string name="facebook_application_id"/>
+  <string name="facebook_application_id" />
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="find_psw">Forgot password</string>
@@ -98,10 +98,10 @@ Send this code to the supervisor."</string>
   <string name="get_ph_ticket">Get code</string>
   <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-  <string name="google_application_id"/>
+  <string name="google_application_id" />
   <string name="goto_sign_up">Create account</string>
   <string name="hybrid_provider">Provided by %1$s</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">باشه</string>
   <string name="identity">Identification</string>
   <string name="inconsistent_pwd">"Passwords don't match"</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
@@ -121,16 +121,16 @@ Send this code to the supervisor."</string>
   <string name="mibi_balance_title">Available Mi Coins</string>
   <string name="mibi_bill_delete_dialog_title">Delete %1$s</string>
   <string name="mibi_bill_delete_message">Delete “%1$s”?</string>
-  <string name="mibi_bill_menu_delete_item">Delete</string>
+  <string name="mibi_bill_menu_delete_item">حذف</string>
   <string name="mibi_bill_record">Transactions</string>
   <string name="mibi_bill_record_empty">No records.</string>
   <string name="mibi_btn_agree">Agree</string>
   <string name="mibi_btn_back">Return</string>
   <string name="mibi_btn_count_down_auto">Inquire after %1$d seconds</string>
-  <string name="mibi_btn_finish">finish</string>
+  <string name="mibi_btn_finish">پایان</string>
   <string name="mibi_btn_mili_center_recharge">Top-up Mi Coin</string>
   <string name="mibi_btn_net_connection_retry">Retry</string>
-  <string name="mibi_btn_next">Next</string>
+  <string name="mibi_btn_next">بعد</string>
   <string name="mibi_btn_prev">Previous</string>
   <string name="mibi_btn_query">Inquire</string>
   <string name="mibi_btn_recharge_confirm">Confirm purchase</string>
@@ -140,17 +140,17 @@ Send this code to the supervisor."</string>
   <string name="mibi_business_title">Other services</string>
   <string name="mibi_button_bind_phone">Bind now</string>
   <string name="mibi_button_call">Call</string>
-  <string name="mibi_button_cancel">Cancel</string>
+  <string name="mibi_button_cancel">لغو</string>
   <string name="mibi_button_confirm">Confirm</string>
   <string name="mibi_button_count_down_finish">OK(%1$s)</string>
   <string name="mibi_button_count_down_reget">%1$s</string>
-  <string name="mibi_button_custom_service_phone">Got it</string>
-  <string name="mibi_button_next">Next</string>
+  <string name="mibi_button_custom_service_phone">فهمیدم</string>
+  <string name="mibi_button_next">بعد</string>
   <string name="mibi_button_pay">Confirm</string>
   <string name="mibi_button_reget">Resend</string>
   <string name="mibi_button_retry">Retry</string>
   <string name="mibi_camera_open_failed">Camera open failed</string>
-  <string name="mibi_cancel">Cancel</string>
+  <string name="mibi_cancel">لغو</string>
   <string name="mibi_change_security_lock">More screen locks</string>
   <string name="mibi_check_giftcard">View coupons</string>
   <string name="mibi_click_retry">%1$s, click to retry</string>
@@ -170,7 +170,7 @@ Send this code to the supervisor."</string>
   <string name="mibi_detail_consume_amount">Amount</string>
   <string name="mibi_detail_consume_name">Product</string>
   <string name="mibi_detail_consume_order">Payment ID</string>
-  <string name="mibi_detail_consume_time">Time</string>
+  <string name="mibi_detail_consume_time">زمان</string>
   <string name="mibi_detail_consume_title">Payment records</string>
   <string name="mibi_detail_giftcard_activity">Promotion</string>
   <string name="mibi_detail_giftcard_expired_time">Expiration date</string>
@@ -182,7 +182,7 @@ Send this code to the supervisor."</string>
   <string name="mibi_detail_recharge_amount">Amount</string>
   <string name="mibi_detail_recharge_method">Method</string>
   <string name="mibi_detail_recharge_order">Top-up Order No.</string>
-  <string name="mibi_detail_recharge_time">Time</string>
+  <string name="mibi_detail_recharge_time">زمان</string>
   <string name="mibi_detail_recharge_title">Top-up records</string>
   <string name="mibi_direct_pay_novalid_method">No valid payment method.</string>
   <string name="mibi_direct_payment_title">Order info</string>
@@ -308,7 +308,7 @@ Please check your local date and try again."</string>
   <string name="mibi_order_pay_back">Confirm</string>
   <string name="mibi_order_pay_type">Payment method</string>
   <string name="mibi_order_pay_type_title">Select payment method</string>
-  <string name="mibi_order_pay_uncertain_button">Got it</string>
+  <string name="mibi_order_pay_uncertain_button">فهمیدم</string>
   <string name="mibi_order_pay_uncertain_detail">If the payment is unsuccessful, call %1$s</string>
   <string name="mibi_order_pay_uncertain_summary">Confirming payment</string>
   <string name="mibi_order_title">Payment</string>
@@ -385,7 +385,7 @@ We will check again within two working days.
 Customer service center：400-100-3399"</string>
   <string name="mibi_progress_warning_waiting">"Payment hasn't reached your account yet."</string>
   <string name="mibi_prompt_info_button_hint">Attention(%d)</string>
-  <string name="mibi_prompt_info_button_text">OK</string>
+  <string name="mibi_prompt_info_button_text">باشه</string>
   <string name="mibi_prompt_info_for_first_use">&lt;Data&gt;"&amp;lt;font color=#ff7700&amp;gt;Mi Coin can't be used to buy hardware products on Mi.com.&amp;lt;/font&amp;gt;"&lt;/Data&gt;</string>
   <string name="mibi_prompt_info_title">Tips</string>
   <string name="mibi_push_register_fail">Register push fail.</string>
@@ -412,7 +412,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_scan_prompt_number">Scan %1$s prepaid card number</string>
   <string name="mibi_scan_prompt_password">Scan %1$s prepaid card password</string>
   <string name="mibi_scan_prompt_voucher">Scan Mi Coin password</string>
-  <string name="mibi_security_setting">Settings</string>
+  <string name="mibi_security_setting">تنظیمات</string>
   <string name="mibi_shurtcut_create_success">Placed on Home screen</string>
   <string name="mibi_signing_pay_group_title">Select payment method</string>
   <string name="mibi_signing_success_sub">Renewable payments will be made using %1$s</string>
@@ -444,26 +444,26 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_web_login">Login</string>
   <string name="mibi_web_login_app_description">Login %1$s</string>
   <string name="mibi_web_login_description">Login</string>
-  <string name="mibi_web_login_waiting">Please wait…</string>
+  <string name="mibi_web_login_waiting">لطفا منتظر بمانید...</string>
   <string name="mibi_web_sso_login_fail">You need to sign in again</string>
   <string name="nick_name">Nickname</string>
   <string name="no_account">Not signed in</string>
   <string name="no_network">"Can't connect to the network"</string>
   <string name="no_phone">No phone number</string>
-  <string name="ok">OK</string>
+  <string name="ok">باشه</string>
   <string name="open_settings">Go to settings</string>
   <string name="passport_access_denied">Access denied</string>
   <string name="passport_account_label">Mi Account</string>
   <string name="passport_account_name">"Account: %1$s "</string>
   <string name="passport_activate_token_expired">Verification code expired. Try again.</string>
   <string name="passport_area_code_title">Area code</string>
-  <string name="passport_auth_title"/>
+  <string name="passport_auth_title" />
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
   <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
   <string name="passport_captcha_title">Captcha</string>
   <string name="passport_checking_account">Checking password…</string>
-  <string name="passport_close">Close</string>
+  <string name="passport_close">بستن</string>
   <string name="passport_delete_account">Sign out</string>
   <string name="passport_email">Email address</string>
   <string name="passport_empty_password">"Password can't be empty"</string>
@@ -496,10 +496,10 @@ Customer service center：400-100-3399"</string>
   <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
   <string name="passport_input_voice_hint">Enter voice code</string>
   <string name="passport_international_phone_password_login_tip">(Users outside China should enter the mobile phone number in the following format: +[area code][phone number], e.g.: +91 817282982)</string>
-  <string name="passport_log_detail">View details</string>
+  <string name="passport_log_detail">مشاهده جزئیات</string>
   <string name="passport_login_failed">"Couldn't sign in"</string>
-  <string name="passport_next">Next</string>
-  <string name="passport_next_step">NEXT</string>
+  <string name="passport_next">بعد</string>
+  <string name="passport_next_step">بعد</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters long and combine at least two of the following: digits, letters, and special symbols (e.g. 123abc@#, or 123abc, or abc@#).</string>
   <string name="passport_querying_phone_info">Requesting account info…</string>
   <string name="passport_quick_login_dialog_step2_title">2-step verification</string>
@@ -555,7 +555,7 @@ Customer service center：400-100-3399"</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
   <string name="psw_hint">Password</string>
   <string name="psw_sign_in">Sign in using password</string>
-  <string name="qq_application_id"/>
+  <string name="qq_application_id" />
   <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="request_camera_permission_message">This service need to ask your permission follows, we will strictly abide by relevant laws to protect your personal information: &lt;br&gt;&lt;br&gt;&lt;b&gt; Access Camera: experience real-time recording services for setting Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; If you do not agree to call the above permissions, this function will not work properly, but it will not affect your use of the basic functions of this application. You can choose to turn off the above permission call in the system settings to withdraw your consent.</string>
   <string name="resend_active_email">Resend</string>
@@ -594,10 +594,10 @@ Customer service center：400-100-3399"</string>
   <string name="v_code_title">Enter verification code</string>
   <string name="web_sso_login_fail">You need to sign in again</string>
   <string name="web_sso_login_message">Signing in…</string>
-  <string name="webview_reload">Try again</string>
-  <string name="wechat_application_id"/>
-  <string name="wechat_scope"/>
-  <string name="wechat_state"/>
-  <string name="weibo_application_id"/>
-  <string name="weibo_redirect_uri"/>
+  <string name="webview_reload">تلاش دوباره</string>
+  <string name="wechat_application_id" />
+  <string name="wechat_scope" />
+  <string name="wechat_state" />
+  <string name="weibo_application_id" />
+  <string name="weibo_redirect_uri" />
 </resources>

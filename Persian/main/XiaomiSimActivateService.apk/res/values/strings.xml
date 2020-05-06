@@ -1,6 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="accept">OK</string>
+  <string name="accept">باشه</string>
   <string name="activate">Activate</string>
   <string name="activate_auto_sms_notification_desc_1_card">SMS sent to activate \"Find device\"</string>
   <string name="activate_auto_sms_notification_desc_2_cards">SMS sent from SIM card %s to activate \"Find device\"</string>
@@ -29,14 +29,14 @@
   <string name="activate_phone_failed_notif_title_msim">"Can't activate SIM card %d"</string>
   <string name="activate_phone_success_notif_title">Activated SIM card successfully</string>
   <string name="activate_phone_success_notif_title_msim">Activated SIM card %d successfully</string>
-  <string name="activate_popup_confirm_all_gateway_failed_query_info">Try again</string>
-  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Try again</string>
-  <string name="activate_popup_confirm_error_device_id">Try again</string>
-  <string name="activate_popup_confirm_failed_phone_error">Try again</string>
+  <string name="activate_popup_confirm_all_gateway_failed_query_info">تلاش دوباره</string>
+  <string name="activate_popup_confirm_all_gateway_failed_send_sms">تلاش دوباره</string>
+  <string name="activate_popup_confirm_error_device_id">تلاش دوباره</string>
+  <string name="activate_popup_confirm_failed_phone_error">تلاش دوباره</string>
   <string name="activate_popup_confirm_failed_query_info">Send again</string>
-  <string name="activate_popup_confirm_failed_receive_sms">Try again</string>
+  <string name="activate_popup_confirm_failed_receive_sms">تلاش دوباره</string>
   <string name="activate_popup_confirm_failed_send_sms">Send again</string>
-  <string name="activate_popup_confirm_failed_server">Try again</string>
+  <string name="activate_popup_confirm_failed_server">تلاش دوباره</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 international text messages will be sent to activate %s. You will be charged by the carrier.</string>
   <string name="activate_popup_desc_2_sim_cards">2 regular text messages will be sent to activate %s. You will be charged by the carrier.</string>
   <string name="activate_popup_desc_all_gateway_failed_query_info">"Can't find your phone number. Make sure that your SIM card has been activated.

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="action_settings">Settings</string>
+  <string name="action_settings">تنظیمات</string>
   <string name="activity_title_fakecell">Protection from fake base stations</string>
   <string name="app_name">StepsProvider</string>
   <string name="booster_config_version">"Current version: "</string>

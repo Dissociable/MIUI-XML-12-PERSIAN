@@ -20,23 +20,23 @@
         <item>clarity_of_instructions</item>
     </string-array>
     <string-array name="trans_cancel_survey_title">
-        <item>Overall experience</item>
-        <item>Transfer duration</item>
-        <item>Simplicity of the process</item>
-        <item>Clarity of instructions</item>
-        <item>This feature is useful</item>
+        <item>تجربه کلی</item>
+        <item>مدت زمان انتقال</item>
+        <item>سادگی روند</item>
+        <item>وضوح دستورالعمل ها</item>
+        <item>این ویژگی مفید است</item>
     </string-array>
     <string-array name="trans_succeed_rating_hint">
-        <item>Very dissatisfied</item>
-        <item>Somewhat dissatisfied</item>
-        <item>Neutral</item>
-        <item>Somewhat satisfied</item>
-        <item>Very satisfied</item>
+        <item>بسیار ناراضی</item>
+        <item>قدری ناراضی</item>
+        <item>عادی</item>
+        <item>تاحدودی راضی</item>
+        <item>بسیار راضی</item>
     </string-array>
     <string-array name="trans_succeed_survey_title">
-        <item>Overall rating</item>
-        <item>Duration of transfer</item>
-        <item>Simplicity of the process</item>
-        <item>Clarity of instructions</item>
+        <item>امتیاز کلی</item>
+        <item>مدت زمان انتقال</item>
+        <item>سادگی روند</item>
+        <item>وضوح دستورالعمل </item>
     </string-array>
 </resources>

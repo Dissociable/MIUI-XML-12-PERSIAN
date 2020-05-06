@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="accessibility_enabled">Accessibility enabled.</string>
   <string name="agree">Agree</string>
@@ -18,7 +18,7 @@
   <string name="app_name">Provision</string>
   <string name="application_package_introduction">This app allows you to install third party apps, scan them before installation, and give recommendations after it.</string>
   <string name="application_permissions">App permissions</string>
-  <string name="back">Back</string>
+  <string name="back">برگشت</string>
   <string name="calculator_introduction">You can use this app for calculations, converting units and currencies, and estimating your mortgage repayments.</string>
   <string name="camera_introduction">You can use Camera to take photos and shoot videos.</string>
   <string name="carrier_introduction">"In order to provide you with better services, your device may periodically send your device version information, device identification data (including IMEI/IMSI/MSISDN/MAC address, MEID/ICCID), and approximate location information (including base station ID) to the carrier via WLAN, mobile data network, or free SMS. The carrier promises to analyze relevant information only to improve the quality of services or to provide customized services or technologies, and won't disclose relevant information to third parties in any form that identifies you personally. The specific carrier statement shall prevail. Consult your carrier regarding the cost of using this service."</string>
@@ -36,13 +36,13 @@
   <string name="content_introduction">Content Center aggregates content and services from multiple channels. Here you can read articles, watch videos, view daily featured items, and receive content recommendations.</string>
   <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
   <string name="data_traffic_enable_dialog_title">"If you aren't connected to WLAN now, your device will use mobile data. Using mobile data may generate additional carrier fees."</string>
-  <string name="desc_extra_fingerprint"/>
-  <string name="desc_extra_international_fingerprint"/>
+  <string name="desc_extra_fingerprint" />
+  <string name="desc_extra_international_fingerprint" />
   <string name="desc_fingerprint">Use your fingerprint to unlock your device, verify Mi Pay transactions, or to sign in to apps and services.</string>
   <string name="desc_international_fingerprint">Use your fingerprint to unlock your device, or to sign in to apps and services.</string>
   <string name="diagnose_report">Send diagnostic data to locate and analyze system issues and improve user experience. Such data may include personal information (e.g. IP, location, etc.)</string>
   <string name="disageement_abnormal_download">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this service."</string>
-  <string name="disagree">Cancel</string>
+  <string name="disagree">لغو</string>
   <string name="disagreement_abnormal_running">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose not to use this app or restrict permissions in the Settings in such cases."</string>
   <string name="disagreement_abnormal_running_fast_pairing">"If you don't agree to grant such permissions, you won't be able to use this app. You can choose to restrict permissions in the Settings in such cases."</string>
   <string name="disagreement_donnot_use_application">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose not to use this app in such cases."</string>
@@ -55,8 +55,8 @@
   <string name="download_introduction">\"Downloads\" is using Xunlei to download items on your device. This tool works for GetApps, system updates, themes, videos, and browser downloads.</string>
   <string name="enable_accessibility_canceled">Accessibility canceled.</string>
   <string name="enable_accessibility_dialog_message">You turned on TalkBack by pressing the screen with 2 fingers for more than 10 seconds. TalkBack provides voice feedback for people with visual impairments. If you turned it on by accident, tap the Cancel button, and then double tap the screen.</string>
-  <string name="enable_accessibility_dialog_negative_btn">Cancel</string>
-  <string name="enable_accessibility_dialog_positive_btn">OK</string>
+  <string name="enable_accessibility_dialog_negative_btn">لغو</string>
+  <string name="enable_accessibility_dialog_positive_btn">باشه</string>
   <string name="fast_application_introduction">Quick apps Framework allows you to create and provide services in quick apps.</string>
   <string name="fast_pairing_introduction">Mi Link allows your device to connect to Bluetooth devices nearby. To be able to find devices nearby, allow Mi Link to connect to the internet.</string>
   <string name="font_hint_large">Default text size</string>
@@ -87,8 +87,8 @@
   <string name="navigation_picker_gesture_guide">Gesture guide</string>
   <string name="navigation_picker_radio_text_full_screen">Full screen gestures</string>
   <string name="navigation_picker_radio_text_virtual_key">Buttons</string>
-  <string name="next">Next</string>
-  <string name="next_fingerprint">Next</string>
+  <string name="next">بعد</string>
+  <string name="next_fingerprint">بعد</string>
   <string name="note_introduction">This app allows you to create, view, and edit notes.</string>
   <string name="other_settings">Additional settings</string>
   <string name="other_settings_ad_dialog_content">"After turning this feature off, you'll no longer receive personalized ads. However, you'll still receive ads that are irrelevant to your interests. You can learn more about personalized ads in Xiaomi Privacy Policy.
@@ -109,7 +109,7 @@ Turn off personalized ads anyway?"</string>
   <string name="other_settings_upload_debug_log_title">Send diagnostic data automatically</string>
   <string name="other_settings_user_experience">User Experience Program</string>
   <string name="other_settings_user_experience_summary">Help us improve our products and services by sharing your usage stats with us. View details</string>
-  <string name="other_settings_user_experience_summary_index">View details</string>
+  <string name="other_settings_user_experience_summary_index">مشاهده جزئیات</string>
   <string name="permission_account">Access accounts on your device:</string>
   <string name="permission_account_introduction">For signing in with Mi Account</string>
   <string name="permission_application_package_introduction">For accessing storage in order to parse and scan installation packages</string>
@@ -201,12 +201,12 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="sim_card_detection">Insert SIM card</string>
   <string name="sim_card_detection_info">To insert your SIM card, read the instructions that came with your device.</string>
   <string name="sim_card_detection_mobile_not_available">"SIM card couldn't connect to the network"</string>
-  <string name="sim_dectection_next">Continue</string>
+  <string name="sim_dectection_next">ادامه</string>
   <string name="sim_redetection">Check again</string>
   <string name="sim_scard_detecting_check_mobile_not_available">"Your SIM card couldn't connect to a valid carrier network. Make sure you have sufficient funds on your balance and try to connect again."</string>
   <string name="skip_gesture_guide_dialog_message">Make sure you know how to use full screen gestures before selecting this option.</string>
-  <string name="skip_gesture_guide_dialog_negative_btn">Cancel</string>
-  <string name="skip_gesture_guide_dialog_positive_btn">OK</string>
+  <string name="skip_gesture_guide_dialog_negative_btn">لغو</string>
+  <string name="skip_gesture_guide_dialog_positive_btn">باشه</string>
   <string name="skip_gesture_guide_dialog_title">Full screen gestures</string>
   <string name="skip_underline">Skip this step</string>
   <string name="start_up_slogan">Yours alone</string>

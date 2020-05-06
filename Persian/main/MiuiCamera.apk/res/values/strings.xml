@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -93,7 +93,7 @@
   <string name="accessibility_record_button">Record button</string>
   <string name="accessibility_review_thumbnail">Most recent photo</string>
   <string name="accessibility_selected">Selected items</string>
-  <string name="accessibility_setting">Settings</string>
+  <string name="accessibility_setting">تنظیمات</string>
   <string name="accessibility_shutter_button">Shutter button</string>
   <string name="accessibility_stereo_button">Focus adjustment</string>
   <string name="accessibility_ultra_pixel_photography_off">%s Ultra HD is off</string>
@@ -129,7 +129,7 @@ and adjust preferences automatically"</string>
   <string name="beauty_body_shoulder">Shoulders</string>
   <string name="beauty_body_slim_count_tip">Figure effects work only for one person shots</string>
   <string name="beauty_body_whole">Body</string>
-  <string name="beauty_clear">Clear</string>
+  <string name="beauty_clear">پاک کردن</string>
   <string name="beauty_clear_toast">Cleared Beautify effects successfully</string>
   <string name="beauty_fragment_tab_name_3d_beauty">Beauty</string>
   <string name="beauty_fragment_tab_name_3d_makeup">Makeup</string>
@@ -223,7 +223,7 @@ and adjust preferences automatically"</string>
   <string name="config_name_magic">Magic</string>
   <string name="config_name_mimovie">Movie frame</string>
   <string name="config_name_scene">Scene</string>
-  <string name="config_name_setting">Settings</string>
+  <string name="config_name_setting">تنظیمات</string>
   <string name="config_name_sound">Audio</string>
   <string name="config_name_straighten">Straighten</string>
   <string name="config_name_super_resolution">Super resolution</string>
@@ -246,12 +246,12 @@ and adjust preferences automatically"</string>
   <string name="custom_watermark_words">Custom watermark</string>
   <string name="custom_watermark_words_input_hint">Enter text</string>
   <string name="custom_watermark_words_save_success">Saved successfully</string>
-  <string name="device_india_watermark_default_text"/>
+  <string name="device_india_watermark_default_text" />
   <string name="device_ultra_pixel_app_watermark_family_name_suffix">_48m</string>
   <string name="device_ultra_pixel_watermark_default_text">48MP DUAL CAMERA</string>
   <string name="device_watermark_default_text">AI DUAL CAMERA</string>
   <string name="dialog_google_lens_option_0">Google Lens (Recommended)</string>
-  <string name="dialog_ok">OK</string>
+  <string name="dialog_ok">باشه</string>
   <string name="dialog_ok_time">OK (%ds)</string>
   <string name="dirty_tip_toast">The lens is dirty. Wipe it clean.</string>
   <string name="do_not_remind_me">"Don't show again"</string>
@@ -291,7 +291,7 @@ scanned documents automatically"</string>
   <string name="eye_light_comic">Manga</string>
   <string name="eye_light_crescent">Crescent</string>
   <string name="eye_light_nature">Nature</string>
-  <string name="eye_light_off"/>
+  <string name="eye_light_off" />
   <string name="eye_light_rainbow">Rainbow</string>
   <string name="eye_light_star">Stars</string>
   <string name="eye_light_window">Window</string>
@@ -372,9 +372,9 @@ in Portrait mode"</string>
   <string name="lighting_pattern_stage">Stage</string>
   <string name="link_privacy_policy">http://www.miui.com/res/doc/privacy.html?lang=%s</string>
   <string name="link_user_agreement">http://www.miui.com/res/doc/eula.html?lang=%s</string>
-  <string name="live_activation_id"/>
-  <string name="live_activation_license"/>
-  <string name="live_edit_exit_confirm">Stop</string>
+  <string name="live_activation_id" />
+  <string name="live_activation_license" />
+  <string name="live_edit_exit_confirm">توقف</string>
   <string name="live_edit_exit_message">Stop shooting now?</string>
   <string name="live_edit_share_title">Share</string>
   <string name="live_error_confirm">Adjust time</string>
@@ -382,7 +382,7 @@ in Portrait mode"</string>
   <string name="live_error_title">"System time isn't correct"</string>
   <string name="live_music_author">Xiaomi Short Video</string>
   <string name="live_music_change_bgm">Change background music</string>
-  <string name="live_music_close_cancel_message">Cancel</string>
+  <string name="live_music_close_cancel_message">لغو</string>
   <string name="live_music_close_message">Turn off music now?</string>
   <string name="live_music_close_sure_message">Turn off</string>
   <string name="live_music_downloading_tips">Downloading…</string>
@@ -390,7 +390,7 @@ in Portrait mode"</string>
   <string name="live_music_local_title">Local</string>
   <string name="live_music_network_exception">Network error</string>
   <string name="live_music_network_exception_tips">A network error occurred. Tap to try again.</string>
-  <string name="live_reverse_confirm">Delete</string>
+  <string name="live_reverse_confirm">حذف</string>
   <string name="live_reverse_message">Delete previously captured item?</string>
   <string name="live_share_moments">Moments</string>
   <string name="live_share_qq">QQ</string>
@@ -423,8 +423,8 @@ look larger on photos"</string>
   <string name="manually_raw_hint">RAW</string>
   <string name="message_snap_double_confirm">Long pressing the volume button triggers NFC now. Replace this feature?</string>
   <string name="mimoji_app_name">Fun Cam</string>
-  <string name="mimoji_back">Back</string>
-  <string name="mimoji_cancle">Cancel</string>
+  <string name="mimoji_back">برگشت</string>
+  <string name="mimoji_cancle">لغو</string>
   <string name="mimoji_check_beyond_20_degrees">Look straight into the camera</string>
   <string name="mimoji_check_face_occlusion">"Don't block the face"</string>
   <string name="mimoji_check_face_too_close">Move the camera farther away from the face</string>
@@ -433,7 +433,7 @@ look larger on photos"</string>
   <string name="mimoji_check_multi_face">One person at a time!</string>
   <string name="mimoji_check_no_face">"Couldn't detect a face"</string>
   <string name="mimoji_check_normal">Tap the shutter button</string>
-  <string name="mimoji_confirm">OK</string>
+  <string name="mimoji_confirm">باشه</string>
   <string name="mimoji_create_emoticon">Create sticker pack</string>
   <string name="mimoji_create_emoticon_error">"Couldn't create sticker pack"</string>
   <string name="mimoji_create_emoticon_progress">Creating sticker pack…</string>
@@ -489,7 +489,7 @@ look larger on photos"</string>
   <string name="mimoji_recapture">Start over</string>
   <string name="mimoji_recapture_alert">All the changes will be discarded once you start over. Start over anyway?</string>
   <string name="mimoji_reset">Reset</string>
-  <string name="mimoji_save">Save</string>
+  <string name="mimoji_save">ذخیره</string>
   <string name="mimoji_save_finish">Done</string>
   <string name="mimoji_save_success">Saved successfully</string>
   <string name="mimoji_select_number_error">Select at least %d item</string>
@@ -630,7 +630,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_audio_focus_title">Audio focus</string>
   <string name="pref_burst_shoot_title">Burst shoot</string>
   <string name="pref_camcorder_settings">Video</string>
-  <string name="pref_camcorder_settings_category">Camera settings</string>
+  <string name="pref_camcorder_settings_category">تنظیمات دوربین</string>
   <string name="pref_camera_ai_scene_title">AI camera</string>
   <string name="pref_camera_antibanding_default">1</string>
   <string name="pref_camera_antibanding_entry_0">Off</string>
@@ -802,7 +802,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
   <string name="pref_camera_hfr_entry_off">Off</string>
   <string name="pref_camera_histogram_entry_disable">Turn off</string>
-  <string name="pref_camera_histogram_entry_enable">Turn on</string>
+  <string name="pref_camera_histogram_entry_enable">روشن</string>
   <string name="pref_camera_iso_default">0</string>
   <string name="pref_camera_iso_entry_auto">AUTO</string>
   <string name="pref_camera_iso_entry_auto_abbr">AUTO</string>
@@ -924,8 +924,8 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_scenemode_entry_sunset">Sunset</string>
   <string name="pref_camera_scenemode_title">Scene</string>
   <string name="pref_camera_settings">Device</string>
-  <string name="pref_camera_settings_category">Camera settings</string>
-  <string name="pref_camera_settings_title">Settings</string>
+  <string name="pref_camera_settings_category">تنظیمات دوربین</string>
+  <string name="pref_camera_settings_title">تنظیمات</string>
   <string name="pref_camera_sharpness_default">1</string>
   <string name="pref_camera_sharpness_title">Sharpness</string>
   <string name="pref_camera_show_gender_age_config_title">Age &amp; gender</string>
@@ -1143,7 +1143,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="recommend_super_night">Try the Night mode</string>
   <string name="record_back_pressed_hint">Tap again to stop recording</string>
   <string name="required_permissions">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
-  <string name="reset_manually_parameter_confirmed">OK</string>
+  <string name="reset_manually_parameter_confirmed">باشه</string>
   <string name="reset_manually_parameter_hint">Reset</string>
   <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
   <string name="screen_on_proximity_sensor_summary">"Don't cover the earphone area"</string>
@@ -1170,13 +1170,13 @@ Keep the subject sharp while blurring the background."</string>
   <string name="simple_mode_button_text_stereo_mode">Turn off Focus adjustment</string>
   <string name="simple_mode_button_text_tilt_shift">Turn off Tilt-shift</string>
   <string name="simple_mode_button_text_ubifocus">Turn off Refocus</string>
-  <string name="snap_cancel">Cancel</string>
+  <string name="snap_cancel">لغو</string>
   <string name="snap_confirmed">Replace</string>
   <string name="spaceIsLow_content_external_storage_priority">SD card is running out of space</string>
   <string name="spaceIsLow_content_primary_storage_priority">USB storage is running out of space</string>
   <string name="speech_shutter_open_tip">Say \"拍照\" or \"茄子\" to take a photo</string>
   <string name="speech_shutter_tip">Voice shutter</string>
-  <string name="start_capture">OK</string>
+  <string name="start_capture">باشه</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="sticker_tab1">Cute</string>
   <string name="sticker_tab2">Funny</string>
@@ -1231,8 +1231,8 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
   <string name="ultra_wide_recommend_tip_hint_sat">Switch to 0.6X ultra wide angle</string>
   <string name="unknow_error">Unknown error</string>
   <string name="user_agree">Agree</string>
-  <string name="user_define_watermark_cancel">Cancel</string>
-  <string name="user_define_watermark_save">Save</string>
+  <string name="user_define_watermark_cancel">لغو</string>
+  <string name="user_define_watermark_save">ذخیره</string>
   <string name="user_notice_identify_summary_format">Before using Camera, you must agree to our &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;User Agreement&lt;/a&gt; and &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Privacy Policy&lt;/a&gt;. Camera also needs to connect to the internet to work normally. Agree?</string>
   <string name="user_notice_title">Terms and Conditions</string>
   <string name="video_beauty_tip">Beautify for videos</string>

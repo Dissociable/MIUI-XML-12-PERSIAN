@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="activity_convert_pdf_alert_message">File conversion is provided by WPS Office</string>
   <string name="activity_convert_pdf_alert_title">Converting file before printing…</string>
@@ -6,7 +6,7 @@
   <string name="activity_jump_market_alert_install_positive_button">Install</string>
   <string name="activity_jump_market_alert_title">Attention</string>
   <string name="activity_jump_market_alert_update_message">"Update WPS Office to convert this file and prepare it for printing. You'll need to start printing again after the new version is installed. Update now?"</string>
-  <string name="activity_jump_market_alert_update_positive_button">Update</string>
+  <string name="activity_jump_market_alert_update_positive_button">بروزرسانی</string>
   <string name="add_print_service_label">Add service</string>
   <string name="all_printers">All printers…</string>
   <string name="all_printers_label">All printers</string>
@@ -14,9 +14,9 @@
   <string name="app_activity_main_title">Print</string>
   <string name="app_label">Print Spooler</string>
   <string name="blocked_notification_title_template">Printer blocked %1$s</string>
-  <string name="button_delete">Delete</string>
-  <string name="button_ok">OK</string>
-  <string name="cancel">Cancel</string>
+  <string name="button_delete">حذف</string>
+  <string name="button_ok">باشه</string>
+  <string name="cancel">لغو</string>
   <string name="cancel_print">Cancel task</string>
   <string name="cancelling_notification_title_template">Cancelling %1$s</string>
   <string name="cannot_add_printer">Cannot add printers</string>
@@ -57,7 +57,7 @@
   <string name="no_connection_to_printer">No connection to printer</string>
   <string name="notification_channel_failure">Failed print jobs</string>
   <string name="notification_channel_progress">Running print jobs</string>
-  <string name="open">Turn on</string>
+  <string name="open">روشن</string>
   <string name="open_print_service">Enable printing</string>
   <string name="open_print_service_tips">To be able to use this feature, enable printing in the Settings first.</string>
   <string name="open_wlan">Turn on WLAN</string>
@@ -110,10 +110,10 @@
   <string name="printing_in_progress">Printing…</string>
   <string name="printing_notification_title_template">Printing %1$s</string>
   <string name="printing_successful">Printed successfully</string>
-  <string name="reason_unknown">unknown</string>
+  <string name="reason_unknown">ناشناخته</string>
   <string name="recommended_services_title">Recommended services</string>
   <string name="restart">Restart</string>
-  <string name="retry_connect">Try again</string>
+  <string name="retry_connect">تلاش دوباره</string>
   <string name="save_as_pdf">Save as PDF</string>
   <string name="savetopdf_button">Save to PDF</string>
   <string name="search">Search</string>

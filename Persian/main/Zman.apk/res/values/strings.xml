@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -28,7 +28,7 @@
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
   <string name="app_name">Zman</string>
-  <string name="copy">Copy</string>
+  <string name="copy">کپی</string>
   <string name="expand_button_title">Advanced</string>
   <string name="first_settings_default_camera_title">Share without metadata by default</string>
   <string name="first_settings_default_location_subtitle">Remove location info from shared photos</string>
@@ -57,12 +57,12 @@
   <string name="settings_location_subtitle_no">No location info</string>
   <string name="settings_share_enable_summary">The items you share on WeChat will appear with a MIUI badge</string>
   <string name="settings_share_info">Here are the secure sharing options available for the items shared from Gallery and File Manager:</string>
-  <string name="settings_show_detail">View details</string>
+  <string name="settings_show_detail">مشاهده جزئیات</string>
   <string name="settings_tip">Go to Gallery &gt; Settings to view more options</string>
   <string name="settings_title">Secure sharing</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="text_done">OK</string>
+  <string name="text_done">باشه</string>
   <string name="text_security">Privacy</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>

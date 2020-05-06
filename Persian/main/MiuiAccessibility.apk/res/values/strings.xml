@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -31,14 +31,14 @@
   <string name="app_name">Mi Ditto</string>
   <string name="audio_toast_network_is_not_available">"Couldn't connect to the network to transcribe audio"</string>
   <string name="brand_text">Voice recognition engine is provided by %1$s</string>
-  <string name="btn_text_next">Next</string>
+  <string name="btn_text_next">بعد</string>
   <string name="compose_message_hint">Type quick replies here</string>
-  <string name="compose_message_send">Send</string>
-  <string name="copy">Copy</string>
-  <string name="copy_message_text">Copy</string>
+  <string name="compose_message_send">ارسال</string>
+  <string name="copy">کپی</string>
+  <string name="copy_message_text">کپی</string>
   <string name="create_shortcut_tips">Allow creating Home screen shortcuts in the Settings first.</string>
   <string name="create_shortcut_tips2">Allow creating Home screen shortcuts first.</string>
-  <string name="delete_message">Delete</string>
+  <string name="delete_message">حذف</string>
   <string name="detail_how_to_open">Tap the button in the center to allow Mi Ditto to transcribe speech and system playback audio.</string>
   <string name="detail_how_to_reply">Tap the button on the lower right to type your reply. Mi Ditto will read it to the other person.</string>
   <string name="detail_how_to_save_messages">You can tap the button at the bottom of the screen to save transcribed items to Notes.</string>
@@ -54,7 +54,7 @@
   <string name="dialog_title_revoke_authorization">Revoking authorization</string>
   <string name="dialog_update_notes_message">"Looks like you haven't updated your Notes app in a while. To be able to save transcribed text to Notes, install the latest version of the app first."</string>
   <string name="dialog_update_notes_negative_button">Not now</string>
-  <string name="dialog_update_notes_positive_button">Update</string>
+  <string name="dialog_update_notes_positive_button">بروزرسانی</string>
   <string name="dialog_update_notes_title">Update Notes</string>
   <string name="exit_content_description">Exit Mi Ditto</string>
   <string name="expand_button_title">Advanced</string>
@@ -109,7 +109,7 @@ Note that this app needs to connect to the internet and requires the following p
   <string name="preference_value_has_shortcut">Created</string>
   <string name="save_to_note">Save to Notes</string>
   <string name="search_menu_title">Search</string>
-  <string name="select_engine_button_text_open">Turn on</string>
+  <string name="select_engine_button_text_open">روشن</string>
   <string name="select_engine_ifly_text">iFLYREC can transcribe audio in real time with the accuracy of up to 98% for Mandarin.</string>
   <string name="select_engine_xiaoai_text">"Mi AI can transcribe audio in real time. It's good at recognizing both long and short phrases."</string>
   <string name="settings_content_description">Open settings</string>

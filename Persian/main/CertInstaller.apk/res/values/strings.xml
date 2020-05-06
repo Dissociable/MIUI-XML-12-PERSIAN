@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="action_missing_private_key">Private key required to install a certificate</string>
   <string name="action_missing_user_cert">Certificate required to install a private key</string>
@@ -35,14 +35,14 @@
   <string name="pkcs12_password_dialog_title">Extract certificate</string>
   <string name="unable_to_save_cert">"Couldn't save the certificate. The credential storage isn't enabled or properly initialized."</string>
   <string name="userkey_type">Algorithm:</string>
-  <string name="wifi_cancel_label">Cancel</string>
+  <string name="wifi_cancel_label">لغو</string>
   <string name="wifi_config_text">"Name: %1$s
 FQDN: %2$s
 Roaming Consortiums: %3$s
 Realm: %4$s
 Auth method: EAP-%5$s
 "</string>
-  <string name="wifi_detail_label">Details</string>
+  <string name="wifi_detail_label">جزئیات</string>
   <string name="wifi_detail_title">Details for %s</string>
   <string name="wifi_dismiss_label">Dismiss</string>
   <string name="wifi_install_label">Install</string>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="acousticguitar">Acoustic guitar</string>
   <string name="alarmclock">Alarm clock</string>
@@ -9,7 +9,7 @@
   <string name="anti_aggression_day">反侵略日</string>
   <string name="arbor_day">植树节</string>
   <string name="armed_forces_day">軍人節</string>
-  <string name="asend">Send</string>
+  <string name="asend">ارسال</string>
   <string name="atlantis">Atlantis (stereo)</string>
   <string name="autumn_begins">立秋</string>
   <string name="autumn_equinox">秋分</string>
@@ -45,7 +45,7 @@
   <string name="cowboy">Cowboy</string>
   <string name="crystal">Crystal</string>
   <string name="cta_button_continue">Agree</string>
-  <string name="cta_button_quit">Exit</string>
+  <string name="cta_button_quit">خروج</string>
   <string name="cta_check_reminder">"Don't show again"</string>
   <string name="cta_message_license">By using this product, you agree to the terms stated in our Terms of Service and Privacy Policy.</string>
   <string name="cta_message_permission">This app needs to %2$s to work normally.</string>
@@ -101,7 +101,7 @@
   <string name="great_cold">大寒</string>
   <string name="great_heat">大暑</string>
   <string name="greenandblue">Rainbow</string>
-  <string name="group_name_contacts">Contacts</string>
+  <string name="group_name_contacts">مخاطبین</string>
   <string name="group_name_coworkers">Colleagues</string>
   <string name="group_name_family">Family</string>
   <string name="group_name_friends">Friends</string>

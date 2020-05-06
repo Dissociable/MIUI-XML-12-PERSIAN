@@ -133,8 +133,8 @@
         <item quantity="one">1 screen in Overview</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Clear</item>
-        <item quantity="one">Clear</item>
+        <item quantity="other">پاک کردن</item>
+        <item quantity="one">پاک کردن</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d devices connected</item>

@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="Approval">Apply</string>
   <string name="Xiaomi_account_pending_approval">Reviewing application</string>
@@ -24,7 +24,7 @@
   <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -56,7 +56,7 @@
   <string name="app_details">App:</string>
   <string name="app_name">Scanner</string>
   <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-  <string name="back">Back</string>
+  <string name="back">برگشت</string>
   <string name="barcode_into_rectangle">Place the code inside the frame</string>
   <string name="birthday">Birthday:</string>
   <string name="blog">Weibo</string>
@@ -65,7 +65,7 @@
   <string name="business_card_result_title">Business card</string>
   <string name="business_card_title">Place the business card inside the frame</string>
   <string name="business_card_with_qr_code">Place the business card or QR code inside the frame</string>
-  <string name="business_copy">Copy</string>
+  <string name="business_copy">کپی</string>
   <string name="business_new_contacts">Create contact</string>
   <string name="business_no_result">"Couldn't recognize business card. Try again."</string>
   <string name="calender">Calendar</string>
@@ -73,7 +73,7 @@
   <string name="calories_logo_text">AI support provided by Health Hope</string>
   <string name="calories_request_interface_text">AI support</string>
   <string name="camera_error_title">Camera error</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">لغو</string>
   <string name="carsHome_title">Car</string>
   <string name="cars_is_public">Launched</string>
   <string name="cars_no_public">Not launched</string>
@@ -90,7 +90,7 @@
   <string name="choosed_title">Selected</string>
   <string name="classesNameNull_toast">"Class name can't be blank"</string>
   <string name="classes_canfirmTitle">Confirm results and start importing</string>
-  <string name="classes_company">Import</string>
+  <string name="classes_company">وارد کردن</string>
   <string name="classes_dealalert">Note: Imported classes will overwrite previous data.</string>
   <string name="classes_delete">Delete class</string>
   <string name="classes_deleteMessage">Delete this class permanently?</string>
@@ -102,10 +102,10 @@
   <string name="classes_topTitle">Scan your class schedule</string>
   <string name="close_hotspot_when_connecting_to_wifi">Hotspot is on. Turn on Wi-Fi.</string>
   <string name="common_retake_picture">Retake</string>
-  <string name="common_retry">Try again</string>
-  <string name="common_save">Save</string>
+  <string name="common_retry">تلاش دوباره</string>
+  <string name="common_save">ذخیره</string>
   <string name="company">Company:</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">باشه</string>
   <string name="connect_wifi">Connect to this network</string>
   <string name="contact_details">QR code contact:</string>
   <string name="continue_access_web_url">Go to website</string>
@@ -117,14 +117,14 @@
   <string name="create">Generate QR code</string>
   <string name="createFail">"Couldn't generate QR code. Your message is too long."</string>
   <string name="createQRCode_hint">Enter text</string>
-  <string name="createQRCode_save">Save</string>
+  <string name="createQRCode_save">ذخیره</string>
   <string name="create_again">Refresh</string>
-  <string name="crop_cancel_description">Cancel</string>
+  <string name="crop_cancel_description">لغو</string>
   <string name="crop_done_description">Done</string>
   <string name="crop_title_study">Crop the photo</string>
   <string name="crop_title_translation">Select text to translate</string>
   <string name="default_language">@string/language_value_chinese_cn</string>
-  <string name="delete">Delete</string>
+  <string name="delete">حذف</string>
   <string name="document_color_picture">Color</string>
   <string name="document_color_picture_tip">Converting to color…</string>
   <string name="document_crop_title">Crop document</string>
@@ -175,13 +175,13 @@
   <string name="food_module_feedback_str">Feedback</string>
   <string name="food_module_get_more_info">More info</string>
   <string name="food_module_identification_failure">"Can't recognize this item"</string>
-  <string name="food_module_send_feedback">Send</string>
+  <string name="food_module_send_feedback">ارسال</string>
   <string name="food_module_step_on">"Don't like"</string>
   <string name="food_module_thumbs_up">Like</string>
   <string name="food_module_tip">Place the food inside the frame</string>
   <string name="food_module_title_food">Calories</string>
   <string name="global_default_language">@string/language_value_english</string>
-  <string name="got_it">Got it</string>
+  <string name="got_it">فهمیدم</string>
   <string name="gps">Navigate</string>
   <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="history">History</string>
@@ -189,7 +189,7 @@
   <string name="importFailed">"Couldn't import"</string>
   <string name="import_contact">Import contact</string>
   <string name="impunity_declaration_content">"Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; and allowing Scanner to connect to the internet."</string>
-  <string name="impunity_declaration_negative_text">Exit</string>
+  <string name="impunity_declaration_negative_text">خروج</string>
   <string name="impunity_declaration_title">Privacy Policy</string>
   <string name="jd_shopping_title">Search on JD</string>
   <string name="jingdong">JD</string>
@@ -268,7 +268,7 @@
   <string name="pref_camera_jpeg_quality_normal">normal</string>
   <string name="pref_camera_jpeg_quality_superfine">superfine</string>
   <string name="preparing_sd">Preparing internal storage…</string>
-  <string name="previous">Back</string>
+  <string name="previous">برگشت</string>
   <string name="prompt">Attention</string>
   <string name="qr_code_details">QR code details:</string>
   <string name="queryGoodsFailed">"Couldn't find product info"</string>
@@ -286,7 +286,7 @@
   <string name="scanHistory">Scanner history</string>
   <string name="scanHistory_close">Turn off</string>
   <string name="scanHistory_isOpen">Start tracking the history of scanned items now?</string>
-  <string name="scanHistory_open">Turn on</string>
+  <string name="scanHistory_open">روشن</string>
   <string name="scan_result">Result</string>
   <string name="scan_support_type">WeChat, Alipay, QR codes, barcodes</string>
   <string name="sdk_not_ready">Preparing SDK. Try again later.</string>
@@ -294,7 +294,7 @@
   <string name="secure_access_web_url">Go to website</string>
   <string name="see_app_details">View app details</string>
   <string name="see_details">Tap to view details</string>
-  <string name="select_dialog_confirm">OK</string>
+  <string name="select_dialog_confirm">باشه</string>
   <string name="select_from_album">Gallery</string>
   <string name="send_mail">Send email</string>
   <string name="setting_alipay">Alipay</string>
@@ -302,7 +302,7 @@
   <string name="setting_default_function">Default feature</string>
   <string name="setting_function_sort">Rearrange features</string>
   <string name="setting_preference_pay">Preferred payment method</string>
-  <string name="setting_title">Settings</string>
+  <string name="setting_title">تنظیمات</string>
   <string name="setting_use_last_choose">Remember previous choice</string>
   <string name="setting_wechat">WeChat</string>
   <string name="shopping_searching">Searching…</string>
@@ -324,10 +324,10 @@
   <string name="study_vendor_info">Powered by Zuoyebang</string>
   <string name="submitting">Submitting…</string>
   <string name="suggested_submission_success">Submitted your feedback successfully</string>
-  <string name="switch_open">Turn on</string>
+  <string name="switch_open">روشن</string>
   <string name="take_a_picture">Camera</string>
   <string name="taobao">Taobao</string>
-  <string name="tel">Phone</string>
+  <string name="tel">تلفن</string>
   <string name="title">Title:</string>
   <string name="to_install_title">This QR code redirects you to an uninstalled app. Download this app now?</string>
   <string name="to_pay">Complete payment</string>
@@ -342,8 +342,8 @@
   <string name="translate_save_fail">"Couldn't save note"</string>
   <string name="translate_src_lang">Source language</string>
   <string name="translate_text_compare">Comparison</string>
-  <string name="translate_text_compare_copy">Copy</string>
-  <string name="translate_text_compare_save">Save</string>
+  <string name="translate_text_compare_copy">کپی</string>
+  <string name="translate_text_compare_save">ذخیره</string>
   <string name="translate_try_again">Tap to try again</string>
   <string name="translate_type_take_pic">Photo</string>
   <string name="translation_language_chinese">Chinese</string>

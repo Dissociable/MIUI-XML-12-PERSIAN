@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="accessibility_nfc_enabled">NFC enabled.</string>
   <string name="android_beam">Android Beam</string>
@@ -14,7 +14,7 @@
   <string name="beam_requires_nfc_enabled">Android Beam requires NFC to be enabled. Do you want to enable it?</string>
   <string name="beam_tap_to_view">Tap to view</string>
   <string name="beam_try_again">Bring devices together again</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">لغو</string>
   <string name="complete_with">Complete with</string>
   <string name="confirm_pairing">Are you sure you want to pair the Bluetooth device %1$s?</string>
   <string name="connect_peripheral_failed">Could not connect %1$s</string>
@@ -30,7 +30,7 @@
   <string name="nfc_enabled_dialog">"Nfc is Currently Disabled. 
 Do you want to Enable it for your NFC Service"</string>
   <string name="no">NO</string>
-  <string name="ok">OK</string>
+  <string name="ok">باشه</string>
   <string name="pair_no">No</string>
   <string name="pair_yes">Yes</string>
   <string name="pairing_peripheral">Pairing %1$s</string>

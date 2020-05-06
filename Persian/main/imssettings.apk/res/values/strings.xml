@@ -11,7 +11,7 @@
   <string name="ims_vt_call_quality_medium">Medium</string>
   <string name="ims_vt_call_quality_set_failed">Failed to set video quality</string>
   <string name="ims_vt_call_quality_title">VT Call Quality</string>
-  <string name="ims_vt_call_quality_unknown">Unknown</string>
+  <string name="ims_vt_call_quality_unknown">ناشناخته</string>
   <string name="ims_vt_call_static_image_error">Unsupported Image Format. Please select another image</string>
   <string name="ims_vt_call_static_image_ignore">Cannot change Static Image while in a call</string>
   <string name="ims_vt_call_static_image_okay">Static Image Selected</string>

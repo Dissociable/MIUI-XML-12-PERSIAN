@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
   <string name="abc_action_bar_home_description">Navigate home</string>
@@ -11,7 +11,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -34,24 +34,24 @@
   <string name="additional_permissions">Additional permissions</string>
   <string name="ads">Ads</string>
   <string name="ads_install_button">Install</string>
-  <string name="ads_install_button_installed">Open</string>
+  <string name="ads_install_button_installed">باز کردن</string>
   <string name="ads_install_button_isDownloading">Downloading</string>
   <string name="ads_install_button_isInstalling">Installing</string>
   <string name="ads_install_button_waiting">Waiting</string>
   <string name="ads_summary">People who installed %1$s also liked</string>
   <string name="allPerms">All</string>
   <string name="all_permissions">All permissions</string>
-  <string name="anonymous_source_continue">Continue</string>
+  <string name="anonymous_source_continue">ادامه</string>
   <string name="anonymous_source_warning">Your phone and personal data are more vulnerable to attack by unknown apps. By installing this app, you agree that you are responsible for any damage to your phone or loss of data that may result from its use.</string>
   <string name="app_install_failed_button_text">Search for apps</string>
   <string name="app_name">Package installer</string>
-  <string name="app_name_unknown">Unknown</string>
+  <string name="app_name_unknown">ناشناخته</string>
   <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
   <string name="app_not_found_dlg_title">App not found</string>
   <string name="app_ops_clean_master_tip">Free up %s</string>
-  <string name="app_ops_install_exit">Exit</string>
+  <string name="app_ops_install_exit">خروج</string>
   <string name="app_permissions">App permissions</string>
-  <string name="app_permissions_breadcrumb">Apps</string>
+  <string name="app_permissions_breadcrumb">برنامه ها</string>
   <string name="app_permissions_group_summary">%1$d of %2$d apps allowed</string>
   <string name="app_store_install_hint">Install now</string>
   <string name="app_store_installing_message">Installing…</string>
@@ -66,10 +66,10 @@
   <string name="btn_text_scaning">Scanning…</string>
   <string name="btn_text_security_install">Replace with safe version</string>
   <string name="caller_app">Permission request from %1$s</string>
-  <string name="cancel">Cancel</string>
-  <string name="copy">Copy</string>
-  <string name="cta_button_text_agree">OK</string>
-  <string name="cta_button_text_cancel">Exit</string>
+  <string name="cancel">لغو</string>
+  <string name="copy">کپی</string>
+  <string name="cta_button_text_agree">باشه</string>
+  <string name="cta_button_text_cancel">خروج</string>
   <string name="cta_dialog_msg">Security requires internet connection to get updates, as well as access to location to work normally.</string>
   <string name="cta_dialog_title">Internet connection</string>
   <string name="current_permission_template">%1$s of %2$s</string>
@@ -89,14 +89,14 @@ All your previous user data will be saved."</string>
   <string name="dlg_mimarket_intercept_mimarket_install">Install from Mi App Store</string>
   <string name="dlg_mimarket_intercept_msg">Installing third party apps might pose security risks. Download and install Mi App Store to access secure app versions.</string>
   <string name="dlg_msg_unoffical">"Can't install system applications from unofficial channels"</string>
-  <string name="dlg_msg_unoffical_ok">OK</string>
-  <string name="dlg_ok">OK</string>
+  <string name="dlg_msg_unoffical_ok">باشه</string>
+  <string name="dlg_ok">باشه</string>
   <string name="dlg_sys_app_replacement_statement">"This is a system app.
 
 All your previous user data will be saved."</string>
   <string name="done">Done</string>
   <string name="expand_button_title">Advanced</string>
-  <string name="external_sources_settings">Settings</string>
+  <string name="external_sources_settings">تنظیمات</string>
   <string name="external_sources_settings_negative">Restrict</string>
   <string name="external_sources_settings_positive">Allow once</string>
   <string name="game_center_install">Install from Mi Games</string>
@@ -108,12 +108,12 @@ All your previous user data will be saved."</string>
   <string name="grant_dialog_button_allow">Allow</string>
   <string name="grant_dialog_button_deny">Deny</string>
   <string name="grant_dialog_button_deny_anyway">Deny anyway</string>
-  <string name="help_app_permissions"/>
+  <string name="help_app_permissions" />
   <string name="high_risk_perms">High-risk permissions</string>
   <string name="increment_install_downloading">Downloading %1$s</string>
-  <string name="increment_install_network_error_cancel">Cancel</string>
+  <string name="increment_install_network_error_cancel">لغو</string>
   <string name="increment_install_network_error_msg">A network error occurred. You can still continue installing the unofficial app. Continue?</string>
-  <string name="increment_install_network_error_ok">Continue</string>
+  <string name="increment_install_network_error_ok">ادامه</string>
   <string name="increment_install_network_error_title">Network error</string>
   <string name="increment_install_pathing">Verifying package…</string>
   <string name="increment_install_pause_for_wifi">Waiting for network</string>
@@ -145,7 +145,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Installing…</string>
   <string name="intercept_install">Install</string>
-  <string name="launch">Open</string>
+  <string name="launch">باز کردن</string>
   <string name="lift_ban">Allow</string>
   <string name="lift_ban_once">Allow once</string>
   <string name="loading">Loading…</string>
@@ -169,15 +169,15 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="mimarket_install_tips">Download and install Mi App Store to get more features</string>
   <string name="mimarket_intercept_warning_msg">"This app wasn't checked for viruses by Xiaomi. Install this app from Mi App Store to avoid security risks."</string>
   <string name="miui_app_danger">"This app isn't secure, don't install it."</string>
-  <string name="miui_app_detail">Details</string>
+  <string name="miui_app_detail">جزئیات</string>
   <string name="miui_app_permission_detail">Required permissions</string>
   <string name="miui_app_virus">"This app is a virus, don't install it."</string>
-  <string name="miui_clean">Clear</string>
+  <string name="miui_clean">پاک کردن</string>
   <string name="miui_clear_apk_desc">Deleted installation package and residual data (%s)</string>
   <string name="miui_clear_apks_summary">Total %s</string>
   <string name="miui_clear_apks_title">Clear installation packages automatically</string>
   <string name="miui_compatibility_desc">"This app isn't optimized for your device. If you install it, it may not work properly. Wait until the developers solve the existing compatibility issues and install a new version of the app after some time."</string>
-  <string name="miui_delete">Delete</string>
+  <string name="miui_delete">حذف</string>
   <string name="miui_failed_already_exists">This app is already installed</string>
   <string name="miui_failed_conflicting_provider">Conflicting service providers</string>
   <string name="miui_failed_duplicate_permission">Conflicting permissions</string>
@@ -208,7 +208,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="miui_install_fail_notify">"Couldn't install"</string>
   <string name="miui_install_fail_reason">Reason</string>
   <string name="miui_install_source">From \"%s\"</string>
-  <string name="miui_install_source_unkown">Unknown</string>
+  <string name="miui_install_source_unkown">ناشناخته</string>
   <string name="miui_install_success">Installed successfully</string>
   <string name="miui_install_version">Version: %1$s | Size: %2$s</string>
   <string name="miui_install_version_3">Version: %1$s -&gt; %2$s | Size: %3$s</string>
@@ -248,19 +248,19 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
-  <string name="mobil_net_work_warning_cancel">Cancel</string>
+  <string name="mobil_net_work_warning_cancel">لغو</string>
   <string name="mobil_net_work_warning_msg">"You're using mobile data now. Installing this app requires %1$s of mobile data. Install anyway?"</string>
   <string name="mobil_net_work_warning_ok">Install anyway</string>
   <string name="mobil_net_work_warning_title">Data usage warning</string>
   <string name="never_ask_again">"Don't ask again"</string>
   <string name="newPerms">New</string>
   <string name="new_permissions_category">New permissions</string>
-  <string name="next">Next</string>
+  <string name="next">بعد</string>
   <string name="no_apps">No apps</string>
   <string name="no_new_perms">"This update doesn't require new permissions."</string>
   <string name="no_permissions">No permissions</string>
   <string name="not_set">Not set</string>
-  <string name="ok">OK</string>
+  <string name="ok">باشه</string>
   <string name="old_sdk_deny_warning">This app was designed for an older version of Android. Denying permission may cause it to no longer function as intended.</string>
   <string name="other_permissions">Other app features</string>
   <string name="other_relative">Other</string>
@@ -270,7 +270,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="perm_action_prompt">Ask</string>
   <string name="perm_action_reject">Deny</string>
   <string name="perm_notice">Alert</string>
-  <string name="perm_privacy_app_finish">OK</string>
+  <string name="perm_privacy_app_finish">باشه</string>
   <string name="perm_privacy_app_installed">App installed</string>
   <string name="perm_privacy_app_launch">Launch</string>
   <string name="perm_privacy_app_trust">Prompt for permission</string>
@@ -278,14 +278,14 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="perm_sysopt_boost_auto_start">Autostart permission</string>
   <string name="perm_sysopt_boost_auto_start_summary">This app can start automatically</string>
   <string name="permdesc_togglePermissions">Allows the holder to launch the UI for toggling app permissions. Should never be needed for normal apps.</string>
-  <string name="permission_action_accept">Accept</string>
+  <string name="permission_action_accept">قبول</string>
   <string name="permission_action_prompt">Prompt</string>
   <string name="permission_action_reject">Deny</string>
-  <string name="permission_group_title_charges_related">Phone</string>
+  <string name="permission_group_title_charges_related">تلفن</string>
   <string name="permission_group_title_media_related">Media</string>
   <string name="permission_group_title_others">Others</string>
   <string name="permission_group_title_privacy_related">Privacy</string>
-  <string name="permission_group_title_settings_related">Settings</string>
+  <string name="permission_group_title_settings_related">تنظیمات</string>
   <string name="permission_request_title">Permission request</string>
   <string name="permission_review_title_template_install">Choose what to allow %1$s to access</string>
   <string name="permission_review_title_template_update">%1$s has been updated. Choose what to allow this app to access.</string>
@@ -306,8 +306,8 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="privacy_relative">Privacy</string>
   <string name="reboot_time">Getting ready to reboot… (%1$s)</string>
   <string name="replace_app_des_text">Replace the app with this version?</string>
-  <string name="review_button_cancel">Cancel</string>
-  <string name="review_button_continue">Continue</string>
+  <string name="review_button_cancel">لغو</string>
+  <string name="review_button_continue">ادامه</string>
   <string name="risk_warning_bottom_button">Install from GetApps</string>
   <string name="risk_warning_msg">"The signature on this installation package doesn't look genuine. To avoid possible risks, install this app from a trusted source."</string>
   <string name="risk_warning_title">Risks detected</string>
@@ -319,7 +319,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="screen_overlay_title">Screen overlay detected</string>
   <string name="search_menu_title">Search</string>
   <string name="security_settings_desc">Allow this app to:</string>
-  <string name="settings">Settings</string>
+  <string name="settings">تنظیمات</string>
   <string name="settings_warning_dialog_detail">"You'll be prompted in the following cases:
  "&lt;li&gt;When an app contains viruses.&lt;/li&gt;"
  "&lt;li&gt;Installation package comes from an unknown source.&lt;/li&gt;</string>
@@ -349,7 +349,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="uninstall_update_text_multiuser">Replace this app with the factory version? All data will be removed. This affects all users of this device, including those with work profiles.</string>
   <string name="uninstall_update_title">Uninstall update</string>
   <string name="uninstalling">Uninstalling…</string>
-  <string name="unknown">Unknown</string>
+  <string name="unknown">ناشناخته</string>
   <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
   <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
   <string name="unknown_installer">Unidentified PC tools</string>
@@ -362,7 +362,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="user_is_not_allowed_dlg_title">Not allowed</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
-  <string name="virus_scan_caller_unknown">Unknown</string>
+  <string name="virus_scan_caller_unknown">ناشناخته</string>
   <string name="virus_scan_clear">Remove</string>
   <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>
   <string name="virus_scan_is_risk">"This app poses a risk to your device's security."</string>

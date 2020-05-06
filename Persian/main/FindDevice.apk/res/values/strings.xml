@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="activate_xiaomi_account">Activate this device</string>
   <string name="adding_or_updating_account">Updating account…</string>
@@ -34,7 +34,7 @@ Contact your sales agent for details."</string>
   <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Find device</string>
   <string name="find_device_telephony_fault">Find Device: Telephony fault (%s).</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">باشه</string>
   <string name="lock_msg_phone">Contact information: %s</string>
   <string name="login_extra_steps">Sign in verification</string>
   <string name="login_failed">"Couldn't sign in. %s."</string>

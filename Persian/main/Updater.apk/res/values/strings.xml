@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="app_name">Updater</string>
   <string name="battery_islow">&lt;font color=#f37981&gt;Plug your charger&lt;/font&gt;</string>
@@ -7,11 +7,11 @@
   <string name="btn_download">Download (%1$s)</string>
   <string name="btn_error">Error occurred, try again?</string>
   <string name="btn_install">Check MD5 &amp; Install</string>
-  <string name="btn_no">Cancel</string>
-  <string name="btn_ok">OK</string>
+  <string name="btn_no">لغو</string>
+  <string name="btn_ok">باشه</string>
   <string name="btn_pause">Pause</string>
   <string name="btn_share">Share</string>
-  <string name="btn_stop">Stop</string>
+  <string name="btn_stop">توقف</string>
   <string name="btn_wrong_md5">Bad MD5, click to remove ROM!</string>
   <string name="btn_yes">Yes</string>
   <string name="channel_downloading">Downloading progress</string>
@@ -50,7 +50,7 @@ Data will not be wiped."</string>
   <string name="no_update">You are up to date!</string>
   <string name="no_xioamieu">"You are not using MIUI Rom created by Xiaomi.eu team!
 Updates are not available for you!"</string>
-  <string name="notif_cancel">Cancel</string>
+  <string name="notif_cancel">لغو</string>
   <string name="notif_install">Install</string>
   <string name="notif_new_summary">Tap to get details</string>
   <string name="notif_new_title">New version available!</string>

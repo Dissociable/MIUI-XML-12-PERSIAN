@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" ?>
 <resources>
     <string-array name="current_ticks">
         <item>4</item>
@@ -18,7 +18,7 @@
     <string-array name="emode_app_groups">
         <item>System apps</item>
         <item>Other apps</item>
-        <item>Selected apps</item>
+        <item>برنامه های انتخاب شده</item>
     </string-array>
     <string-array name="hmode_app_classify1">
         <item>Custom</item>

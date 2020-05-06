@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="FpTest">FpTest Run</string>
   <string name="FpTest_result">FpTest result:</string>
@@ -31,7 +31,7 @@
   <string name="abc_font_family_title_material">sans-serif-medium</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -100,7 +100,7 @@
   <string name="bt_name">Name:</string>
   <string name="btn_start">开始下载</string>
   <string name="busy">繁忙</string>
-  <string name="button_ok">OK</string>
+  <string name="button_ok">باشه</string>
   <string name="camera_capture">Capture</string>
   <string name="camera_done">Done</string>
   <string name="camera_error">"This device doesn't support Camera2 API."</string>
@@ -112,7 +112,7 @@
   <string name="camera_zoom">Zoom</string>
   <string name="camerainfo">Camera information</string>
   <string name="can_not_get_numbers_of_keys">can not get numbers of keys</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">لغو</string>
   <string name="cancelEnrol">CancelEnrol</string>
   <string name="cancel_test">TEST CANCELED</string>
   <string name="canceled">取消</string>
@@ -195,7 +195,7 @@ Hold the phone as if you are making a call, speak into the microphone and should
 Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
   <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
   <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
-  <string name="cit_audio_loopback_next">Next</string>
+  <string name="cit_audio_loopback_next">بعد</string>
   <string name="cit_audio_loopback_previous">Previous</string>
   <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
 
@@ -290,7 +290,7 @@ and reverse plug in the charger"</string>
   <string name="cit_display_check_title">Display</string>
   <string name="cit_display_continue">Touch screen to begin test</string>
   <string name="cit_display_test_end">Finish test</string>
-  <string name="cit_display_test_next">Next</string>
+  <string name="cit_display_test_next">بعد</string>
   <string name="cit_emergencycall_check_summary">Please click Dial 112 button to dial 112 to check if 112 can be placed.</string>
   <string name="cit_emergencycall_check_title">Emergency Call</string>
   <string name="cit_exit_test_summary">When you exit, all related text data will be erased.</string>
@@ -379,14 +379,14 @@ Touch the screen to start GPS…"</string>
   <string name="cit_headset_button_click">Press the buttons on the headphones</string>
   <string name="cit_headset_button_current">Current button: %s</string>
   <string name="cit_headset_button_fast_forward">Fast forward</string>
-  <string name="cit_headset_button_next">Next</string>
+  <string name="cit_headset_button_next">بعد</string>
   <string name="cit_headset_button_pass">Pass</string>
   <string name="cit_headset_button_play_pause">Play/Pause</string>
   <string name="cit_headset_button_previous">Previous</string>
   <string name="cit_headset_button_reverse">Please reversely insert usb headset</string>
   <string name="cit_headset_button_rewind">Rewind</string>
-  <string name="cit_headset_button_stop">Stop</string>
-  <string name="cit_headset_button_unknown">Unknown</string>
+  <string name="cit_headset_button_stop">توقف</string>
+  <string name="cit_headset_button_unknown">ناشناخته</string>
   <string name="cit_headset_loopback_check_summary">"While wearing the headphones, connect them to the device. Speak into the headphone microphone (often located on the cord). You should hear your voice in the headphone's speakers."</string>
   <string name="cit_headset_loopback_check_title">Headphone mic feedback test</string>
   <string name="cit_headset_plug_detect_summary">When headphones are connected, the text \"Headphones detected\" should be displayed below.</string>
@@ -509,7 +509,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_signature_check_label">signature check:</string>
   <string name="cit_sim_check_summary">Confirm that correct the status and info of the SIM card is displayed below, if has two sim slots, only two SIM cards simultaneously exist and has correct status can pass</string>
   <string name="cit_sim_check_title">SIM card</string>
-  <string name="cit_sim_error_unknown">Unknown</string>
+  <string name="cit_sim_error_unknown">ناشناخته</string>
   <string name="cit_sim_network_operator">Network service provider:</string>
   <string name="cit_sim_network_operator_name">Network service provider name:</string>
   <string name="cit_sim_network_type">Network type:</string>
@@ -522,7 +522,7 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_sim_state_pin_required">PIN required</string>
   <string name="cit_sim_state_puk_required">PUK required</string>
   <string name="cit_sim_state_ready">SIM card ready</string>
-  <string name="cit_sim_state_unkown">Unknown</string>
+  <string name="cit_sim_state_unkown">ناشناخته</string>
   <string name="cit_slider_hall_miui_test_summary">Execute a complete phone slide up and slide down operate.</string>
   <string name="cit_slider_hall_test_summary">Execute a complete phone slide up and slide down operate.</string>
   <string name="cit_slider_hall_test_title">Slider Hall</string>
@@ -679,8 +679,8 @@ After you place \"music.mp3\" in the SD card's directory, tap the display to pla
   <string name="cit_tool_cal_accelerometer">Acc Calibration Tool</string>
   <string name="cit_tool_cal_camera">Camera Calibration Tool</string>
   <string name="cit_tool_cal_gyroscope">gyro Calibration Tool</string>
-  <string name="cit_tool_check_cal">cancel</string>
-  <string name="cit_tool_check_ok">ok</string>
+  <string name="cit_tool_check_cal">لغو</string>
+  <string name="cit_tool_check_ok">باشه</string>
   <string name="cit_tool_check_opt">sure?</string>
   <string name="cit_tool_check_opt_with_reboot">will reboot, sure?</string>
   <string name="cit_tool_current_modem_test_mode">Current Test Mode:</string>
@@ -718,7 +718,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_mbn_recovery_default">Recovery default MBN</string>
   <string name="cit_tool_modem">MODEM test tools</string>
   <string name="cit_tool_modem_bugreport">Force MODEM Coredump</string>
-  <string name="cit_tool_modem_clear_empty">clear</string>
+  <string name="cit_tool_modem_clear_empty">پاک کردن</string>
   <string name="cit_tool_modem_deactive_mbn">deactive</string>
   <string name="cit_tool_modem_exit_ftm">Exit FTM mode</string>
   <string name="cit_tool_modem_feature_config_cust">current faeture config as follow</string>
@@ -730,7 +730,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_modem_rf_ant_test">Modem rf ant Test Setting</string>
   <string name="cit_tool_modem_test_clr">set the default value of code</string>
   <string name="cit_tool_modem_test_device_value_set">modify device state</string>
-  <string name="cit_tool_modem_test_get">update</string>
+  <string name="cit_tool_modem_test_get">بروزرسانی</string>
   <string name="cit_tool_modem_test_mode">Modem Test Mode Setting</string>
   <string name="cit_tool_modem_test_mode_closed">test mode closed</string>
   <string name="cit_tool_modem_test_mode_mismatch">test mode mismatched</string>
@@ -744,7 +744,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_nfc_st">Nfc ST:</string>
   <string name="cit_tool_nfc_st_confreq">freq:</string>
   <string name="cit_tool_nfc_st_run">Run</string>
-  <string name="cit_tool_nfc_st_stop">Stop</string>
+  <string name="cit_tool_nfc_st_stop">توقف</string>
   <string name="cit_tool_no_repeat">No repetition!</string>
   <string name="cit_tool_not_support">Not Supported</string>
   <string name="cit_tool_opt_fail_info_notify">Opt failed, need to reboot the phone for Non online mode.</string>
@@ -767,7 +767,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_wifi_chain_1">1</string>
   <string name="cit_tool_wifi_chain_1_2">1+2</string>
   <string name="cit_tool_wifi_chain_2">2</string>
-  <string name="cit_tool_wifi_exit">Exit</string>
+  <string name="cit_tool_wifi_exit">خروج</string>
   <string name="cit_tool_wifi_rx_ap">Rx: AP</string>
   <string name="cit_tool_wifi_rx_ap_name">MT</string>
   <string name="cit_tool_wifi_rx_chan">Rx: Channel</string>
@@ -776,7 +776,7 @@ The second line shows the name and version number of Default MBN and Carrier MBN
   <string name="cit_tool_wifi_rx_error">An error occurred while running the program</string>
   <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
   <string name="cit_tool_wifi_rx_run">Run</string>
-  <string name="cit_tool_wifi_rx_stop">Stop</string>
+  <string name="cit_tool_wifi_rx_stop">توقف</string>
   <string name="cit_tool_wifi_rxac_test">Rx: ac</string>
   <string name="cit_tool_wifi_rxax_test">Rx: ax</string>
   <string name="cit_tool_wifi_rxbg_test">Rx: a/b/g</string>
@@ -828,7 +828,7 @@ test fail!"</string>
   <string name="cit_vga_camera_cameralist_fail">Error: cameralist not match</string>
   <string name="cit_vga_camera_capture">Camera</string>
   <string name="cit_vga_camera_capture_fail">Failed to take picture</string>
-  <string name="cit_vga_camera_delete">Delete</string>
+  <string name="cit_vga_camera_delete">حذف</string>
   <string name="cit_vga_camera_deleted">Photo deleted</string>
   <string name="cit_vibrator_check_summary">See if vibration (long and short) is functioning normally</string>
   <string name="cit_vibrator_check_title">Vibration</string>
@@ -861,7 +861,7 @@ test fail!"</string>
   <string name="copyright">Copyright © 2015 Goodix All Rights Reserved.</string>
   <string name="current_angle">Current Angle:</string>
   <string name="data_address">数据保存的文件地址 ：</string>
-  <string name="delete">Delete</string>
+  <string name="delete">حذف</string>
   <string name="description_info">Info</string>
   <string name="detail">详细失败数据：</string>
   <string name="detail_memory_pieces">请重启手机之后再进行测试</string>
@@ -1134,7 +1134,7 @@ the specified position"</string>
   <string name="navigation_drawer_close">Close navigation drawer</string>
   <string name="navigation_drawer_open">Open navigation drawer</string>
   <string name="need_restart">该设置在下次重启后生效</string>
-  <string name="next">Next</string>
+  <string name="next">بعد</string>
   <string name="next_step">Next step</string>
   <string name="nfc_disable_tip">Please turn on the NFC function</string>
   <string name="nfc_test">Nfc接口测试</string>
@@ -1149,7 +1149,7 @@ the specified position"</string>
   <string name="none">N/A</string>
   <string name="normal_touch_sensor">通过纹路测试头按压指纹模组</string>
   <string name="not_enrolled">请先注册指纹</string>
-  <string name="ok">Ok</string>
+  <string name="ok">باشه</string>
   <string name="open_third_color_led">open three color led</string>
   <string name="other_category">其他</string>
   <string name="over_saturated_pixel_num">上饱和点个数:</string>
@@ -1208,7 +1208,7 @@ Click the Push Camera Button to see if the camera comes in"</string>
   <string name="radio_info_signal_location_label">Cell Location Info:</string>
   <string name="radio_info_signal_strength_label">Signal Strength:</string>
   <string name="radio_info_sim_status">SIM Status:</string>
-  <string name="radio_info_unknown">Unknown</string>
+  <string name="radio_info_unknown">ناشناخته</string>
   <string name="radio_info_voice_network_type_label">Voice Network Type:</string>
   <string name="radio_no">Can not hear</string>
   <string name="real_finger_touch_sensor">通过手指按压指纹模组</string>
@@ -1266,7 +1266,7 @@ Click the Start Calibrate button
 After calibrate success, control the fixture close and away from the phone"</string>
   <string name="sar_sensor_test_timeout">Sar Sensor test timeout</string>
   <string name="screen_cancel">Turn off</string>
-  <string name="screen_confirm">Turn on</string>
+  <string name="screen_confirm">روشن</string>
   <string name="screen_off_fail_retry">灭屏解锁失败重试次数：</string>
   <string name="screen_on_fail_retry">亮屏解锁失败重试次数：</string>
   <string name="search_menu_title">Search</string>
@@ -1352,7 +1352,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="test_bottom_speaker">bottom_speaker</string>
   <string name="test_capture">图像质量测试</string>
   <string name="test_capture_title">图像质量测试:</string>
-  <string name="test_case_status"/>
+  <string name="test_case_status" />
   <string name="test_cases">Test Cases</string>
   <string name="test_detail">测试详情</string>
   <string name="test_failed">失败</string>

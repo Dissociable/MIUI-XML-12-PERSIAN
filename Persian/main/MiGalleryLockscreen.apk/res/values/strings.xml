@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -32,7 +32,7 @@
   <string name="about_item_function">New features</string>
   <string name="about_net_error">Check your network settings and try again.</string>
   <string name="about_newest">Wallpaper Carousel is up to date.</string>
-  <string name="about_update">Update</string>
+  <string name="about_update">بروزرسانی</string>
   <string name="account_bind_secure_email_title">Add recovery email</string>
   <string name="account_bind_secure_phone_title">Add recovery phone number</string>
   <string name="account_crop_user_avatar">Crop photo</string>
@@ -61,7 +61,7 @@
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_name">Nickname</string>
   <string name="account_user_name_dialog_title">Enter username</string>
-  <string name="account_user_other_info">Details</string>
+  <string name="account_user_other_info">جزئیات</string>
   <string name="account_user_phone">Recovery phone</string>
   <string name="account_user_region">Region</string>
   <string name="action_add_phone">Add phone number</string>
@@ -72,11 +72,11 @@
   <string name="ad_btn_download_continue">Resume</string>
   <string name="ad_btn_download_start">Download</string>
   <string name="ad_btn_installing">Installing</string>
-  <string name="ad_btn_open">Open</string>
+  <string name="ad_btn_open">باز کردن</string>
   <string name="ad_btn_pending">Pending</string>
   <string name="ad_download_now">Download</string>
   <string name="ad_feed_badge">AD</string>
-  <string name="ad_pop_btn_hidden">Hide</string>
+  <string name="ad_pop_btn_hidden">مخفی کردن</string>
   <string name="ad_pop_des">Downloading app:</string>
   <string name="add">Add</string>
   <string name="add_cw_fail_tip">"Couldn't add wallpaper"</string>
@@ -108,13 +108,13 @@
   <string name="at_least_one">Select at least 1 category</string>
   <string name="auth_fail_warning">Session expired. Sign in again.</string>
   <string name="auto_interval">Every time device unlocks</string>
-  <string name="back_icon_content_description">Back</string>
+  <string name="back_icon_content_description">برگشت</string>
   <string name="bind_sign_in_title">Add Mi Account</string>
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-  <string name="cancel">Cancel</string>
-  <string name="cancel_international">Cancel</string>
-  <string name="cancel_lockscreen">Cancel</string>
-  <string name="cancel_network">Exit</string>
+  <string name="cancel">لغو</string>
+  <string name="cancel_international">لغو</string>
+  <string name="cancel_lockscreen">لغو</string>
+  <string name="cancel_network">خروج</string>
   <string name="carousel_declaration_btn_text">Turn on Wallpaper Carousel</string>
   <string name="carousel_declaration_cta">"Wallpaper Carousel requires the internet connection to work normally. To get access to online content, you must agree with our &lt;a href='%s'&gt;Privacy Policy&lt;/a&gt;. Agree?"</string>
   <string name="carousel_declaration_cta_btn_text">Agree and turn on</string>
@@ -137,7 +137,7 @@
   <string name="choose_to_signin">Yes</string>
   <string name="choose_to_signup">"No, I'll create one"</string>
   <string name="clear_history">Clear search history</string>
-  <string name="clear_search_edittext">Clear</string>
+  <string name="clear_search_edittext">پاک کردن</string>
   <string name="clear_text_end_icon_content_description">Clear text</string>
   <string name="close_gallery">Turn off</string>
   <string name="collect_diagnosis_log">Collect logs</string>
@@ -145,7 +145,7 @@
   <string name="comment_pop_content">Give us a review if you like Wallpaper Carousel!</string>
   <string name="comment_pop_ok">Rate</string>
   <string name="comment_pop_title">Rate Wallpaper Carousel</string>
-  <string name="confirm">Turn on</string>
+  <string name="confirm">روشن</string>
   <string name="confirm_activate_email">Verified</string>
   <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
   <string name="confirm_new_pwd">Confirm new password</string>
@@ -181,13 +181,13 @@
   <string name="cw_batch_tip_success">Added successfully</string>
   <string name="cw_del_tip_fail">"Couldn't delete"</string>
   <string name="cw_del_tip_success">Deleted successfully</string>
-  <string name="cw_delete">Delete</string>
+  <string name="cw_delete">حذف</string>
   <string name="cw_delete2">Delete (%d)</string>
   <string name="cw_deleting">Delete (%1$d/%2$d)</string>
   <string name="cw_local_pic">Gallery</string>
   <string name="cw_my_fav">Favorites</string>
   <string name="cw_permission_tip">Allow Wallpaper Carousel to access storage in Settings &gt; App settings.</string>
-  <string name="cw_wallpaper_empty_dlg_btn">Got it</string>
+  <string name="cw_wallpaper_empty_dlg_btn">فهمیدم</string>
   <string name="cw_wallpaper_empty_dlg_content">"You haven't added any items to your slideshow. Switched to recommendations."</string>
   <string name="cw_wallpaper_empty_dlg_title">No items</string>
   <string name="cw_wallpaper_manager">Manage wallpapers</string>
@@ -203,13 +203,13 @@
   <string name="detail_add_shortcut">Add to Home screen</string>
   <string name="detail_add_shortcut_new">Create Home screen shortcut</string>
   <string name="detail_menu_checkimg_apply">Apply</string>
-  <string name="detail_menu_checkimg_delete">Delete</string>
+  <string name="detail_menu_checkimg_delete">حذف</string>
   <string name="detail_menu_checkimg_favor">Add to favorites</string>
   <string name="detail_menu_favor">Favorites</string>
   <string name="detail_menu_history">History</string>
   <string name="detail_menu_home">Go to start page</string>
   <string name="detail_menu_setting">App settings</string>
-  <string name="detail_menu_settingbtn_setting">Settings</string>
+  <string name="detail_menu_settingbtn_setting">تنظیمات</string>
   <string name="detail_menu_settingbtn_share">Share</string>
   <string name="detail_menu_wall">"Today's wallpapers"</string>
   <string name="detail_no_more_data">No data</string>
@@ -232,12 +232,12 @@
   <string name="diagnosis_log_sent_format">"Sent logs successfully.
 ID:%s
 Send this code to the supervisor."</string>
-  <string name="disable_dlg_cancel">Cancel</string>
+  <string name="disable_dlg_cancel">لغو</string>
   <string name="disable_dlg_content">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
   <string name="disable_dlg_ok">Turn off</string>
   <string name="disable_dlg_title">Turn off Wallpaper Carousel?</string>
-  <string name="dislike">Delete</string>
-  <string name="dlg_cancel">Cancel</string>
+  <string name="dislike">حذف</string>
+  <string name="dlg_cancel">لغو</string>
   <string name="dot_and_space">• </string>
   <string name="double_click_to_exit_activity">Tap again to exit</string>
   <string name="edit_wallpaper">Manage wallpapers</string>
@@ -253,7 +253,7 @@ Send this code to the supervisor."</string>
   <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-  <string name="facebook_application_id"/>
+  <string name="facebook_application_id" />
   <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="failed_dup_secure_phone_number">This phone number is already associated with another Mi Account</string>
   <string name="favor_list_no_data">No items here.</string>
@@ -269,7 +269,7 @@ Send this code to the supervisor."</string>
   <string name="get_ph_ticket">Get code</string>
   <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
-  <string name="google_application_id"/>
+  <string name="google_application_id" />
   <string name="goto_sign_up">Create account</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="history_list_no_data">No items here</string>
@@ -308,7 +308,7 @@ Send this code to the supervisor."</string>
   <string name="llks_pop_btm_des_backup">Get a great start to your day</string>
   <string name="llks_pop_btm_title">Good morning</string>
   <string name="llks_pop_btm_title_backup">Morning greetings</string>
-  <string name="llks_pop_i_know">Got it</string>
+  <string name="llks_pop_i_know">فهمیدم</string>
   <string name="llks_pop_top_des">Receive fresh images regularly</string>
   <string name="llks_pop_top_des_backup">Delivered to your screen daily</string>
   <string name="llks_pop_top_title">New wallpapers</string>
@@ -334,7 +334,7 @@ Send this code to the supervisor."</string>
   <string name="lock_screen_date">EEEE, MMMM d</string>
   <string name="lock_screen_date_12">EEEE, MMMM d</string>
   <string name="lock_show_permission_exception">An error occurred. Allow Wallpaper Carousel to be shown on the Lock screen in Security.</string>
-  <string name="lockscreen_h5_back_tv">Back</string>
+  <string name="lockscreen_h5_back_tv">برگشت</string>
   <string name="lockscreen_h5_close_tv">Off</string>
   <string name="lockscreen_h5_refresh_btn_tv">Refresh</string>
   <string name="lockscreen_h5_refresh_tip">Check your network settings and try again</string>
@@ -347,7 +347,7 @@ Send this code to the supervisor."</string>
   <string name="main_fragment_title_discover">Discover</string>
   <string name="main_fragment_title_home">Recommend</string>
   <string name="main_fragment_title_search">Top</string>
-  <string name="main_fragment_title_user">Settings</string>
+  <string name="main_fragment_title_user">تنظیمات</string>
   <string name="manage">Manage</string>
   <string name="minutes_15">Every 15 minutes</string>
   <string name="minutes_5">Every 5 minutes</string>
@@ -393,7 +393,7 @@ mm"</string>
   <string name="morning_greet">Good morning!</string>
   <string name="morning_greet_mark">" Mi Morning Greetings"</string>
   <string name="morning_greet_title">Morning greetings</string>
-  <string name="morning_picture_tab">Image</string>
+  <string name="morning_picture_tab">تصویر</string>
   <string name="mtrl_badge_numberless_content_description">New notification</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
@@ -417,7 +417,7 @@ mm"</string>
   <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
   <string name="mtrl_picker_range_header_title">Select a Date Range</string>
   <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
-  <string name="mtrl_picker_save">Save</string>
+  <string name="mtrl_picker_save">ذخیره</string>
   <string name="mtrl_picker_text_input_date_hint">Date</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
   <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
@@ -436,14 +436,14 @@ mm"</string>
   <string name="no_networdk">"Couldn't connect to the network"</string>
   <string name="no_phone">No phone number</string>
   <string name="no_pic_data">"Couldn't find images"</string>
-  <string name="ok">OK</string>
+  <string name="ok">باشه</string>
   <string name="ok_enable_network_prov">Agree</string>
   <string name="ok_enable_network_prov2">Agree</string>
   <string name="ok_international">Agree</string>
   <string name="ok_lockscreen">Agree</string>
   <string name="ok_network">Agree</string>
   <string name="open_btn_finish">Done</string>
-  <string name="open_btn_next">Next</string>
+  <string name="open_btn_next">بعد</string>
   <string name="open_btn_start">Turn on Wallpaper Carousel</string>
   <string name="open_des">Turn on Wallpaper Carousel to get fresh images and stories delivered to your Lock screen daily.</string>
   <string name="open_freq_title">Set wallpaper update frequency</string>
@@ -460,13 +460,13 @@ mm"</string>
   <string name="passport_account_name">"Account: %1$s "</string>
   <string name="passport_activate_token_expired">Verification code expired. Try again.</string>
   <string name="passport_area_code_title">Area code</string>
-  <string name="passport_auth_title"/>
+  <string name="passport_auth_title" />
   <string name="passport_bad_authentication">Invalid username or password</string>
   <string name="passport_barcode_add_account_prompt">To add an account, scan the QR code again after you sign in.</string>
   <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
   <string name="passport_captcha_title">Captcha</string>
   <string name="passport_checking_account">Checking password…</string>
-  <string name="passport_close">Close</string>
+  <string name="passport_close">بستن</string>
   <string name="passport_delete_account">Sign out</string>
   <string name="passport_email">Email address</string>
   <string name="passport_empty_password">"Password can't be empty"</string>
@@ -499,10 +499,10 @@ mm"</string>
   <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
   <string name="passport_input_voice_hint">Enter voice code</string>
   <string name="passport_international_phone_password_login_tip">(Users outside China should enter the mobile phone number in the following format: +[area code][phone number], e.g.: +91 817282982)</string>
-  <string name="passport_log_detail">View details</string>
+  <string name="passport_log_detail">مشاهده جزئیات</string>
   <string name="passport_login_failed">"Couldn't sign in"</string>
-  <string name="passport_next">Next</string>
-  <string name="passport_next_step">NEXT</string>
+  <string name="passport_next">بعد</string>
+  <string name="passport_next_step">بعد</string>
   <string name="passport_password_req_notice">Password must be 8-16 characters long and combine at least two of the following: digits, letters, and special symbols (e.g. 123abc@#, or 123abc, or abc@#).</string>
   <string name="passport_querying_phone_info">Requesting account info…</string>
   <string name="passport_quick_login_dialog_step2_title">2-step verification</string>
@@ -575,7 +575,7 @@ mm"</string>
   <string name="pull_to_refresh_pull_up_label">Pull up to refresh</string>
   <string name="pull_to_refresh_refreshing_label">Refreshing…</string>
   <string name="pull_to_refresh_release_label">Release to refresh</string>
-  <string name="qq_application_id"/>
+  <string name="qq_application_id" />
   <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
   <string name="recommend_switch_desc">Receive content recommendations based on your preferences</string>
   <string name="recommend_switch_dlg_close">Turn off</string>
@@ -623,11 +623,11 @@ mm"</string>
   <string name="setting_about_item_des">Version</string>
   <string name="setting_about_item_title">About Wallpaper Carousel</string>
   <string name="setting_des">You can set up your slideshow at Settings &gt; Lock screen &amp; password &gt; Wallpaper Carousel</string>
-  <string name="setting_head">Settings</string>
-  <string name="setting_ok">Settings</string>
+  <string name="setting_head">تنظیمات</string>
+  <string name="setting_ok">تنظیمات</string>
   <string name="setting_tip">"Don't show again"</string>
   <string name="setting_title">Slideshow</string>
-  <string name="settings">Settings</string>
+  <string name="settings">تنظیمات</string>
   <string name="share">Share</string>
   <string name="share_today_morning">Share</string>
   <string name="shield">"Block: "</string>
@@ -673,7 +673,7 @@ mm"</string>
   <string name="sst_favor_title">Favorites</string>
   <string name="sst_feedback_title">Feedback</string>
   <string name="sst_grid_view_select_all">Select all</string>
-  <string name="sst_grid_view_unselect_all">Deselect all</string>
+  <string name="sst_grid_view_unselect_all">لغو انتخاب همه</string>
   <string name="sst_lockscreen_show_headline_desc">"Show wallpaper's title under the clock on the Lock screen"</string>
   <string name="sst_lockscreen_show_headline_title">Show title on Lock screen</string>
   <string name="sst_logo_desc">Fresh wallpapers daily</string>
@@ -742,7 +742,7 @@ mm"</string>
   <string name="sure_close_gallery">Turn off Wallpaper Carousel?</string>
   <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
   <string name="system_default">Default</string>
-  <string name="tab_user_title_bar_text">Settings</string>
+  <string name="tab_user_title_bar_text">تنظیمات</string>
   <string name="tb_collapse_desc">Hide the \"Share\" menu</string>
   <string name="temporary_not_available">"This feature isn't available yet"</string>
   <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
@@ -755,7 +755,7 @@ mm"</string>
   <string name="theme_des">Apply default theme and turn on Wallpaper Carousel again.</string>
   <string name="theme_des_lock_style">Apply default Lock screen and turn on Wallpaper Carousel again.</string>
   <string name="theme_des_maml">"This might take a few seconds. Other components of the current theme won't be affected. The theme will be refreshed to apply changes."</string>
-  <string name="theme_ok">Settings</string>
+  <string name="theme_ok">تنظیمات</string>
   <string name="theme_title">Switch to default theme</string>
   <string name="theme_title_lock_style">Switch to default Lock screen</string>
   <string name="theme_title_subscribe">Subscribe to Wallpaper Carousel</string>
@@ -792,16 +792,16 @@ mm"</string>
   <string name="wallpaper">Wallpaper</string>
   <string name="wallpaper_feed_title">You may also like</string>
   <string name="wallpaper_relations_title">Recommended</string>
-  <string name="wechat_application_id"/>
-  <string name="wechat_scope"/>
-  <string name="wechat_state"/>
-  <string name="weibo_application_id"/>
-  <string name="weibo_redirect_uri"/>
+  <string name="wechat_application_id" />
+  <string name="wechat_scope" />
+  <string name="wechat_state" />
+  <string name="weibo_application_id" />
+  <string name="weibo_redirect_uri" />
   <string name="wlan_download">Update over Wi-Fi only</string>
   <string name="wlan_download_cn">Update over Wi-Fi only</string>
   <string name="wm_storage_left">"Remaining: "</string>
   <string name="wm_storage_used">"Occupied: "</string>
   <string name="wp_desktop_enable_title">Home screen slideshow</string>
   <string name="wp_lockscreen_enable_title">Lock screen slideshow</string>
-  <string name="xw_subscribe"/>
+  <string name="xw_subscribe" />
 </resources>

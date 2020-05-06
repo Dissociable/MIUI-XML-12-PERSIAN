@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -74,7 +74,7 @@
   <string name="battery_info_status_discharging">Not charging</string>
   <string name="battery_info_status_full">Full</string>
   <string name="battery_info_status_not_charging">"Plugged in, can't charge right now"</string>
-  <string name="battery_info_status_unknown">Unknown</string>
+  <string name="battery_info_status_unknown">ناشناخته</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="block_button">Block</string>
   <string name="block_number">Add a number</string>
@@ -128,7 +128,7 @@
   <string name="bluetooth_pairing">Pairing…</string>
   <string name="bluetooth_pairing_accept">Pair</string>
   <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
-  <string name="bluetooth_pairing_decline">Cancel</string>
+  <string name="bluetooth_pairing_decline">لغو</string>
   <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
   <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
   <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
@@ -145,7 +145,7 @@
   <string name="bluetooth_profile_hearing_aid">Hearing Aids</string>
   <string name="bluetooth_profile_hid">Input device</string>
   <string name="bluetooth_profile_map">Text Messages</string>
-  <string name="bluetooth_profile_opp">File transfer</string>
+  <string name="bluetooth_profile_opp">انتقال فایل</string>
   <string name="bluetooth_profile_pan">Internet access</string>
   <string name="bluetooth_profile_pan_nap">Internet connection sharing</string>
   <string name="bluetooth_profile_pbap">Contact sharing</string>
@@ -173,13 +173,13 @@ Selection"</string>
   <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP Version</string>
   <string name="bluetooth_show_devices_without_names">Show Bluetooth devices without names</string>
   <string name="bluetooth_show_devices_without_names_summary">Bluetooth devices without names (MAC addresses only) will be displayed</string>
-  <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+  <string name="bluetooth_talkback_bluetooth">بلوتوث</string>
   <string name="bluetooth_talkback_computer">Computer</string>
   <string name="bluetooth_talkback_headphone">Headphone</string>
   <string name="bluetooth_talkback_headset">Headset</string>
   <string name="bluetooth_talkback_imaging">Imaging</string>
   <string name="bluetooth_talkback_input_peripheral">Input Peripheral</string>
-  <string name="bluetooth_talkback_phone">Phone</string>
+  <string name="bluetooth_talkback_phone">تلفن</string>
   <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_summary">Capture Bluetooth packets. (Toggle Bluetooth after changing this setting)</string>
   <string name="bugreport_in_power">Bug report shortcut</string>
@@ -188,7 +188,7 @@ Selection"</string>
   <string name="callFailed_simError">SIM card error</string>
   <string name="can_not_dial_vt_while_voice_prompt">"Can't make a video call while a voice call is in progress"</string>
   <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">لغو</string>
   <string name="cant_call_due_to_no_supported_service">Call cannot be placed because there are no calling accounts which support calls of this type.</string>
   <string name="cant_call_due_to_ongoing_call">Call cannot be placed due to your %1$s call.</string>
   <string name="cant_call_due_to_ongoing_calls">Call cannot be placed due to your %1$s calls.</string>
@@ -197,12 +197,12 @@ Selection"</string>
   <string name="category_work">Work</string>
   <string name="certinstaller_package">com.android.certinstaller</string>
   <string name="change_default_call_screening_dialog_affirmative">Set Default</string>
-  <string name="change_default_call_screening_dialog_negative">Cancel</string>
+  <string name="change_default_call_screening_dialog_negative">لغو</string>
   <string name="change_default_call_screening_dialog_title">Make %s your default call screening app?</string>
   <string name="change_default_call_screening_warning_message">%s will be able to see information about callers not in your contacts and will be able to block these calls. Only apps you trust should be set as the default call screening app.</string>
   <string name="change_default_call_screening_warning_message_for_disable_old_app">%s will no longer be able to screen calls.</string>
   <string name="change_default_dialer_dialog_affirmative">Set Default</string>
-  <string name="change_default_dialer_dialog_negative">Cancel</string>
+  <string name="change_default_dialer_dialog_negative">لغو</string>
   <string name="change_default_dialer_dialog_title">Make %s your default Phone app?</string>
   <string name="change_default_dialer_warning_message">%s will be able to place and control all aspects of calls. Only apps you trust should be set as the default Phone app.</string>
   <string name="charge_length_format">%1$s ago</string>
@@ -224,7 +224,7 @@ Selection"</string>
   <string name="convert_to_file_encryption">Convert to file encryption</string>
   <string name="convert_to_file_encryption_done">Already file encrypted</string>
   <string name="convert_to_file_encryption_enabled">Convert…</string>
-  <string name="copy">Copy</string>
+  <string name="copy">کپی</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomaly (red-green)</string>
   <string name="daltonizer_mode_disabled">Disabled</string>
   <string name="daltonizer_mode_monochromacy">Monochromacy</string>
@@ -237,7 +237,7 @@ Selection"</string>
   <string name="debug_app">Select debug app</string>
   <string name="debug_app_not_set">No debug application set</string>
   <string name="debug_app_set">Debugging application: %1$s</string>
-  <string name="debug_applications_category">Apps</string>
+  <string name="debug_applications_category">برنامه ها</string>
   <string name="debug_debugging_category">Debugging</string>
   <string name="debug_drawing_category">Drawing</string>
   <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
@@ -248,7 +248,7 @@ Selection"</string>
   <string name="debug_monitoring_category">Monitoring</string>
   <string name="debug_networking_category">Networking</string>
   <string name="debug_view_attributes">Enable view attribute inspection</string>
-  <string name="decline_incoming_call">Decline</string>
+  <string name="decline_incoming_call">رد کردن</string>
   <string name="delete_icon_description">Unblock</string>
   <string name="dev_logpersist_clear_warning_message">When we no longer are monitoring with the persistent logger, we are required to erase the logger data resident on your device.</string>
   <string name="dev_logpersist_clear_warning_title">Clear logger persistent storage?</string>
@@ -325,8 +325,8 @@ Selection"</string>
   <string name="local_backup_password_toast_validation_failure">Failure setting backup password</string>
   <string name="managed_user_title">All work apps</string>
   <string name="media_category">Media</string>
-  <string name="media_transfer_this_device_name">This device</string>
-  <string name="missedcall_notification_public_version_title">Phone</string>
+  <string name="media_transfer_this_device_name">این دستگاه</string>
+  <string name="missedcall_notification_public_version_title">تلفن</string>
   <string name="mobile_data_always_on">Mobile data always active</string>
   <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
   <string name="mock_location_app">Select mock location app</string>
@@ -341,27 +341,27 @@ Selection"</string>
   <string name="mr_chooser_title">Cast to</string>
   <string name="mr_controller_album_art">Album art</string>
   <string name="mr_controller_casting_screen">Casting screen</string>
-  <string name="mr_controller_close_description">Close</string>
+  <string name="mr_controller_close_description">بستن</string>
   <string name="mr_controller_collapse_group">Collapse</string>
-  <string name="mr_controller_disconnect">Disconnect</string>
+  <string name="mr_controller_disconnect">قطع اتصال</string>
   <string name="mr_controller_expand_group">Expand</string>
   <string name="mr_controller_no_info_available">No info available</string>
   <string name="mr_controller_no_media_selected">No media selected</string>
   <string name="mr_controller_pause">Pause</string>
   <string name="mr_controller_play">Play</string>
-  <string name="mr_controller_stop">Stop</string>
+  <string name="mr_controller_stop">توقف</string>
   <string name="mr_controller_stop_casting">Stop casting</string>
   <string name="mr_controller_volume_slider">Volume slider</string>
   <string name="mr_dialog_groupable_header">Add a device</string>
   <string name="mr_dialog_transferable_header">Play on a group</string>
-  <string name="mr_system_route_name">System</string>
+  <string name="mr_system_route_name">سیستم</string>
   <string name="mr_user_route_category_name">Devices</string>
   <string name="no_application">Nothing</string>
   <string name="no_vm_number">Missing voicemail number</string>
   <string name="no_vm_number_msg">No voicemail number is stored on the SIM card.</string>
   <string name="non_primary_user">Only the device owner can view and manage blocked numbers.</string>
   <string name="not_set">Not set</string>
-  <string name="notice_header"/>
+  <string name="notice_header" />
   <string name="notification_AllMissedCallTitle">All missed calls</string>
   <string name="notification_channel_call_blocking">Call Blocking</string>
   <string name="notification_channel_incoming_call">Incoming calls</string>
@@ -377,10 +377,10 @@ Selection"</string>
   <string name="notification_missedCallsTitle">Missed calls</string>
   <string name="notification_missedWorkCallTitle">Missed work call</string>
   <string name="number_tag_divider">" ｜ "</string>
-  <string name="oem_preferred_feedback_reporter"/>
+  <string name="oem_preferred_feedback_reporter" />
   <string name="oem_unlock_enable">OEM unlocking</string>
   <string name="oem_unlock_enable_summary">Allow the bootloader to be unlocked</string>
-  <string name="okay">OK</string>
+  <string name="okay">باشه</string>
   <string name="osu_completing_sign_up">Completing sign-up…</string>
   <string name="osu_connect_failed">Couldn’t connect</string>
   <string name="osu_opening_provider">Opening %1$s</string>
@@ -398,7 +398,7 @@ Selection"</string>
   <string name="phone_settings_private_num_summary_txt">Block callers that do not disclose their number</string>
   <string name="phone_settings_private_num_txt">Private</string>
   <string name="phone_settings_unknown_summary_txt">Block calls from unidentified callers</string>
-  <string name="phone_settings_unknown_txt">Unknown</string>
+  <string name="phone_settings_unknown_txt">ناشناخته</string>
   <string name="phone_strings_call_blocking_turned_off_notification_text_txt">Call Blocking disabled</string>
   <string name="phone_strings_call_blocking_turned_off_notification_title_txt">Call Blocking</string>
   <string name="phone_strings_emergency_call_made_dialog_call_blocking_text_txt">Call Blocking has been disabled to allow emergency responders to contact you.</string>
@@ -448,11 +448,11 @@ Selection"</string>
   <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
   <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
   <string name="respond_via_sms_failure_format">Message failed to send to %s.</string>
-  <string name="respond_via_sms_setting_summary"/>
+  <string name="respond_via_sms_setting_summary" />
   <string name="respond_via_sms_setting_title">Quick responses</string>
   <string name="respond_via_sms_setting_title_2">Edit quick responses</string>
   <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
-  <string name="retail_demo_reset_next">Next</string>
+  <string name="retail_demo_reset_next">بعد</string>
   <string name="retail_demo_reset_title">Password required</string>
   <string name="running_process_item_user_label">User: %1$s</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
@@ -495,7 +495,7 @@ Selection"</string>
   <string name="simulate_color_space">Simulate color space</string>
   <string name="speed_label_fast">Fast</string>
   <string name="speed_label_medium">Medium</string>
-  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_okay">باشه</string>
   <string name="speed_label_slow">Slow</string>
   <string name="speed_label_very_fast">Very Fast</string>
   <string name="speed_label_very_slow">Very Slow</string>
@@ -505,7 +505,7 @@ Selection"</string>
   <string name="strict_mode">Strict mode enabled</string>
   <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_empty"/>
+  <string name="summary_empty" />
   <string name="tap_to_sign_up">Tap to sign up</string>
   <string name="telecommAppLabel">Call Management</string>
   <string name="test_account_0_label">Q Mobile</string>
@@ -561,11 +561,11 @@ Selection"</string>
   <string name="ui_default_package_dialer">com.android.contacts</string>
   <string name="unblock_button">Unblock</string>
   <string name="unblock_dialog_body">Unblock %1$s?</string>
-  <string name="unknown">Unknown</string>
+  <string name="unknown">ناشناخته</string>
   <string name="usb_audio_disable_routing">Disable USB audio routing</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
-  <string name="userCallActivityLabel">Phone</string>
+  <string name="userCallActivityLabel">تلفن</string>
   <string name="user_guest">Guest</string>
   <string name="v7_preference_off">OFF</string>
   <string name="v7_preference_on">ON</string>
@@ -682,7 +682,7 @@ Credential storage might not enable"</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_mode_duration_always_prompt_title">Ask every time</string>
   <string name="zen_mode_duration_settings_title">Duration</string>
-  <string name="zen_mode_enable_dialog_turn_on">Turn on</string>
+  <string name="zen_mode_enable_dialog_turn_on">روشن</string>
   <string name="zen_mode_forever">Until you turn off</string>
   <string name="zen_mode_settings_summary_off">Never</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Turn on Do Not Disturb</string>

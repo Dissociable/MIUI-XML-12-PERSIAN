@@ -158,9 +158,9 @@
   <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="virtual_reject_notice_content">یک پاسخ خالی به برنامه جهت حفاظت از اطلاعات شخصی شما ارسال شد</string>
-  <string name="virtual_reject_notice_title_calendar">دسترسی به تقویم تا %1$ ثانیه</string>
-  <string name="virtual_reject_notice_title_calllog">دسترسی به تاریخچه تماس ها تا %1$ ثانیه</string>
-  <string name="virtual_reject_notice_title_contacts">دسترسی به مخاطبین تا %1$ ثانیه</string>
-  <string name="virtual_reject_notice_title_phonestate">دسترسی به مشخصات دستگاه تا %1$ ثانیه</string>
-  <string name="virtual_reject_notice_title_sms">دسترسی به پیام ها تا %1$ ثانیه</string>
+  <string name="virtual_reject_notice_title_calendar">دسترسی به تقویم %1$s</string>
+  <string name="virtual_reject_notice_title_calllog">دسترسی به تاریخچه تماس ها %1$s</string>
+  <string name="virtual_reject_notice_title_contacts">دسترسی به مخاطبین %1$s</string>
+  <string name="virtual_reject_notice_title_phonestate">دسترسی به مشخصات دستگاه %1$s</string>
+  <string name="virtual_reject_notice_title_sms">دسترسی به پیام ها %1$s</string>
 </resources>

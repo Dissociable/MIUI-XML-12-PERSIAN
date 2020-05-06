@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="Active">Active</string>
   <string name="PassWordGuard">Second space password</string>
@@ -16,7 +16,7 @@ this feature will be added to Second space automatically."</string>
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -43,10 +43,10 @@ this feature will be added to Second space automatically."</string>
   <string name="airspace_users_full">"Couldn't create more Work space"</string>
   <string name="appData">Installed apps</string>
   <string name="app_name">Security Core Component</string>
-  <string name="back">Back</string>
+  <string name="back">برگشت</string>
   <string name="bind_device">Add devices</string>
   <string name="button_input_password">Enter password</string>
-  <string name="button_text_next_step">Next</string>
+  <string name="button_text_next_step">بعد</string>
   <string name="button_text_next_step_timer">Next step (%d)</string>
   <string name="button_touch">Put your finger on the sensor</string>
   <string name="can_not_delete_when_calling">"Can't delete spaces during a call"</string>
@@ -54,7 +54,7 @@ this feature will be added to Second space automatically."</string>
   <string name="can_not_switch_when_green_kid_active">Switching to Second space is restricted by parental controls</string>
   <string name="can_not_switch_when_super_power_active">"Can't switch between spaces when Ultra battery saver is on"</string>
   <string name="cancelClosePassword">"Don't turn off"</string>
-  <string name="cancel_button">Cancel</string>
+  <string name="cancel_button">لغو</string>
   <string name="changePassword">Change password</string>
   <string name="chooseDataTransfer">What should be done with Second space data?</string>
   <string name="chooseFile">Select other files</string>
@@ -69,26 +69,26 @@ this feature will be added to Second space automatically."</string>
   <string name="close_second_space">Deleted Second space</string>
   <string name="close_second_space_success">Deleted Second space</string>
   <string name="closed">Off</string>
-  <string name="complete_setting">Finish</string>
+  <string name="complete_setting">پایان</string>
   <string name="complete_setting_sub_title">You can also come back later to adjust settings.</string>
   <string name="complete_setting_title">"You're all set!"</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">باشه</string>
   <string name="confirmClose">Turn off</string>
   <string name="confirmCloseSpaceDes">"You won't be able to enter Second space after you delete it. All data will be moved or deleted."</string>
-  <string name="confirmDelete">Delete</string>
+  <string name="confirmDelete">حذف</string>
   <string name="confirmSecondSpacePassword">Confirm Second space password</string>
   <string name="confirm_airspace_password">Confirm %s password</string>
   <string name="confirm_close_password_desc">"You won't be able to enter Second space from the Lock screen after you turn the password off. Turn off anyway?"</string>
   <string name="confirm_close_password_title">Turning off password</string>
   <string name="confirm_main_space_password">Confirm First space password</string>
   <string name="confirm_restore">"Don't show"</string>
-  <string name="contactData">Contacts</string>
+  <string name="contactData">مخاطبین</string>
   <string name="contact_sub_titile_text">Messaging data will be shared between the two spaces</string>
   <string name="contact_titile_text">"Show private messages in Second space
 to be able to view them anytime"</string>
   <string name="contact_us">Contact us</string>
-  <string name="continueButton">Continue</string>
-  <string name="copy">Copy</string>
+  <string name="continueButton">ادامه</string>
+  <string name="copy">کپی</string>
   <string name="createANewSpace">Create a separate space on your phone.</string>
   <string name="createUserFail">"Couldn't create"</string>
   <string name="create_app_icon_failed">"Couldn't create icon"</string>
@@ -125,7 +125,7 @@ to be able to view them anytime"</string>
   <string name="downloading_space">Downloading…</string>
   <string name="dual_animation">Launch animation</string>
   <string name="dual_animation_description">Show animation when dual apps are launched</string>
-  <string name="enable">Turn on</string>
+  <string name="enable">روشن</string>
   <string name="encrypt_space_delete_dialog_click_message">"*If you don't need to move data, %s"</string>
   <string name="encrypt_space_delete_dialog_click_message_action">delete and create Second space now.</string>
   <string name="encrypt_space_delete_dialog_message">"You're about to perform a system update. After the update, Second space data will become incompatible. To avoid this, move all data to First space, delete Second space, and create it again."</string>
@@ -159,7 +159,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="ent_licence_code_invalid">The license code you entered is invalid.</string>
   <string name="ent_mode_activated">Enterprise mode is activated</string>
   <string name="ent_network_error">"Couldn't connect to the network. Check your network settings and try again."</string>
-  <string name="ent_next_step">Next</string>
+  <string name="ent_next_step">بعد</string>
   <string name="ent_privacy_policy_notice">* Personal data in this mode is collected according to the policies established by your corporation. Xiaomi does not collect personal data in this mode.</string>
   <string name="enter_air_space">Go to Work space</string>
   <string name="enterprise_mode">Enterprise mode</string>
@@ -187,7 +187,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="fingerprint_removal_failed">"Couldn't delete fingerprint"</string>
   <string name="function_not_support">Not supported on this device</string>
   <string name="gms_message">Creating dual apps requires working with Google services. Create a dual app for Google services?</string>
-  <string name="gms_open_button">Turn on</string>
+  <string name="gms_open_button">روشن</string>
   <string name="gms_title">Dual app for Google services</string>
   <string name="goToSecondSpacce">Go to Second space</string>
   <string name="go_on_import">Keep importing</string>
@@ -230,7 +230,7 @@ You can also download them separately."</string>
   <string name="import_contacts_desc">Make imported contacts private</string>
   <string name="import_contacts_suc">Imported private contacts</string>
   <string name="import_file_suc">Items imported to folders</string>
-  <string name="import_now">Import</string>
+  <string name="import_now">وارد کردن</string>
   <string name="import_photo">Import photos</string>
   <string name="import_photo_desc">View shared items in Second space</string>
   <string name="import_photo_suc">Imported photos</string>
@@ -275,7 +275,7 @@ You can also download them separately."</string>
   <string name="need_set_second_space_desc">Add Second space password before adding Second space fingerprint</string>
   <string name="need_set_second_space_pwd_first">Set Second space password first</string>
   <string name="newSecondSpace">Turn on Second space</string>
-  <string name="next_setp">Next</string>
+  <string name="next_setp">بعد</string>
   <string name="no_match_repate_scanner">"Couldn't find matching fingerprints, scan again"</string>
   <string name="normal_app">First space</string>
   <string name="not_set">Not set</string>
@@ -290,7 +290,7 @@ You can also download them separately."</string>
   <string name="notification_recommend_title">Top 12 apps for Second space</string>
   <string name="notification_setting_second_space">Set up Second space</string>
   <string name="notification_setting_second_space_desc">Add Second space password and move data</string>
-  <string name="ok_button">OK</string>
+  <string name="ok_button">باشه</string>
   <string name="openPasswordGuard">Set Second space password</string>
   <string name="openSuccess">Turned on</string>
   <string name="opened">On</string>
@@ -315,12 +315,12 @@ Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="radio_button_icon_switch_title">Using a shortcut</string>
   <string name="radio_button_password_switch_title">Using a password</string>
   <string name="removeSuccess">Deleted successfully</string>
-  <string name="remove_button">Delete</string>
+  <string name="remove_button">حذف</string>
   <string name="remove_button_time">Delete (%ds)</string>
   <string name="remove_second_space_msg">All Second space app data will be lost after you delete Second space. Delete Second space now?</string>
   <string name="remove_user_click_message">"*If you don't have any important items in Second space, %s"</string>
   <string name="remove_user_click_message_action">you can delete Second space and reboot your device now.</string>
-  <string name="removingSpace">Deleting…</string>
+  <string name="removingSpace">درحال حذف...</string>
   <string name="repeat_scanner_fingerprint">Add again</string>
   <string name="reset_passwd_success">Password was reset successfully</string>
   <string name="reset_password_dialog_message">"You're using different password types for First space and Second space. Second space should use the same password type as First space for the shortcut to be hidden."</string>
@@ -357,7 +357,7 @@ If you don't update, dual apps might not work properly as well."</string>
   <string name="secondSpace">Second space</string>
   <string name="second_owner_finger_print">Second space fingerprint</string>
   <string name="second_space_desktop_tips_dialog_message">After this update, the icons for moving data and managing Second space will no longer be displayed on the Home screen. You will be able to access their corresponding features in the Settings.</string>
-  <string name="second_space_desktop_tips_dialog_positive_text">Got it</string>
+  <string name="second_space_desktop_tips_dialog_positive_text">فهمیدم</string>
   <string name="second_space_desktop_tips_dialog_title">Important update</string>
   <string name="second_space_finger_printf_desc">Add fingerprint specifically used to enter Second space</string>
   <string name="second_space_finger_printf_title">Second space fingerprint</string>
@@ -395,7 +395,7 @@ Separate and secure your data."</string>
   <string name="settings_set_password_for_owner_space_desc">Set a screen lock in First space to remove the shortcut from the Settings.</string>
   <string name="settings_set_password_for_sec_space">Set a screen lock in Second space</string>
   <string name="settings_set_password_for_sec_space_desc">Set a screen lock in Second space to remove the shortcut from the Settings.</string>
-  <string name="settings_space_data">Data</string>
+  <string name="settings_space_data">داده ها</string>
   <string name="settings_status_icon_summary">Show Second space icon in the status bar</string>
   <string name="settings_status_icon_title">Second space icon</string>
   <string name="settings_switch_shortcut_summary">Show the Home screen shortcut in First space</string>
@@ -412,7 +412,7 @@ Separate and secure your data."</string>
   <string name="show_private_msg">Show private messages</string>
   <string name="show_private_msg_summary">Show private messages​ in Second space</string>
   <string name="skip">Skip</string>
-  <string name="spaceSetting">Settings</string>
+  <string name="spaceSetting">تنظیمات</string>
   <string name="space_create_guide_desc_1">Store apps and photos securely</string>
   <string name="space_create_guide_desc_2">Completely ready-to-use separate space</string>
   <string name="space_create_guide_desc_3">"Second space doesn't affect other items on your device"</string>

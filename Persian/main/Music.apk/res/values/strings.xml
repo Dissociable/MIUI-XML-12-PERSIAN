@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="April">April</string>
   <string name="August">August</string>
@@ -23,7 +23,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -47,10 +47,10 @@
   <string name="action_item_add_to_current_playlist">Queue</string>
   <string name="action_item_add_to_favorite_playlist">Favorites</string>
   <string name="action_item_add_to_new_playlist">New</string>
-  <string name="action_item_delete">Delete</string>
+  <string name="action_item_delete">حذف</string>
   <string name="action_item_download">Download</string>
   <string name="action_item_favorite">Favorite</string>
-  <string name="action_item_hide">Hide</string>
+  <string name="action_item_hide">مخفی کردن</string>
   <string name="action_item_hifi">Headphones &amp; audio effects</string>
   <string name="action_item_play_all">Shuffle all</string>
   <string name="action_item_play_next">Play later</string>
@@ -58,9 +58,9 @@
   <string name="action_item_remove">Remove</string>
   <string name="action_item_remove_from_favorite">Unfavorite</string>
   <string name="action_item_share">Share</string>
-  <string name="action_settings">Settings</string>
-  <string name="actionbar_button_up_description">Back</string>
-  <string name="ad_close">Close</string>
+  <string name="action_settings">تنظیمات</string>
+  <string name="actionbar_button_up_description">برگشت</string>
+  <string name="ad_close">بستن</string>
   <string name="ad_data_exception">Ad data error</string>
   <string name="ad_recommend">Receive recommendations</string>
   <string name="ad_setting">Additional settings</string>
@@ -92,13 +92,13 @@
   <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
   <string name="app_label">Downloads</string>
   <string name="app_name">Preference</string>
-  <string name="app_permission_confirm">Got it</string>
+  <string name="app_permission_confirm">فهمیدم</string>
   <string name="app_permission_optional">Optional permissions</string>
   <string name="app_permission_require">Mandatory permissions</string>
   <string name="app_permission_use_desc">Permissions</string>
   <string name="app_permission_use_group_account">Accounts</string>
   <string name="app_permission_use_group_account_desc">For getting Mi Account info</string>
-  <string name="app_permission_use_group_phone">Phone</string>
+  <string name="app_permission_use_group_phone">تلفن</string>
   <string name="app_permission_use_group_phone_desc">For Google Push services</string>
   <string name="app_permission_use_group_storage">Storage</string>
   <string name="app_permission_use_group_storage_desc">For finding and playing songs saved on device</string>
@@ -124,20 +124,20 @@
   <string name="available_playlist_name_format">New playlist %d</string>
   <string name="avoid_to_use_traffic_summary">"Don't use mobile network to stream music"</string>
   <string name="avoid_to_use_traffic_title">Prompt when using mobile data to play songs</string>
-  <string name="back">Back</string>
+  <string name="back">برگشت</string>
   <string name="back_confirm">Tap again to push the app to background</string>
   <string name="banner_op">Mi Music</string>
   <string name="bluetooth_device">Bluetooth audio device</string>
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
   <string name="buffering">Buffering…</string>
-  <string name="button_cancel_download">Cancel</string>
+  <string name="button_cancel_download">لغو</string>
   <string name="button_download_now">Download now</string>
   <string name="button_queue_for_wifi">Queue</string>
   <string name="button_sort_by_date">Sort by date</string>
   <string name="button_sort_by_size">Sort by size</string>
   <string name="button_wait_for_wifi">Wait</string>
-  <string name="cancel">Cancel</string>
-  <string name="cancel_running_download">Cancel</string>
+  <string name="cancel">لغو</string>
+  <string name="cancel_running_download">لغو</string>
   <string name="cannot_download_to_sdcard_hint">"Can't download items to SD card due to copyright restrictions. Items will be downloaded to internal storage instead."</string>
   <string name="change_download_quality">Change download quality</string>
   <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
@@ -219,7 +219,7 @@
   <string name="choose_download_quality">Choose download quality</string>
   <string name="choose_music_lang_pref">Preferred languages for songs</string>
   <string name="choose_stream_quality">Choose streaming quality</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
+  <string name="clearable_edittext_clear_description">پاک کردن</string>
   <string name="click_and_watch_video_tip">Tap to play music video</string>
   <string name="click_to_add_album_cover_and_lyric">Tap to add album cover and lyrics</string>
   <string name="click_to_shuffle">Tap to shuffle</string>
@@ -236,7 +236,7 @@
   <string name="common_google_play_services_notification_ticker">Google Play services error</string>
   <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
   <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
-  <string name="common_google_play_services_update_button">Update</string>
+  <string name="common_google_play_services_update_button">بروزرسانی</string>
   <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
   <string name="common_google_play_services_update_title">Update Google Play services</string>
   <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
@@ -244,11 +244,11 @@
   <string name="common_open_on_phone">Open on phone</string>
   <string name="common_signin_button_text">Sign in</string>
   <string name="common_signin_button_text_long">Sign in with Google</string>
-  <string name="confirm">OK</string>
+  <string name="confirm">باشه</string>
   <string name="confirm_exit">Save changes?</string>
   <string name="connect_now">Connect</string>
   <string name="connecting_apk">Connecting…</string>
-  <string name="copy">Copy</string>
+  <string name="copy">کپی</string>
   <string name="count_format">%2$1.1fK</string>
   <string name="count_million_format">%2$1.2fM</string>
   <string name="create_playlist">Create playlist</string>
@@ -263,19 +263,19 @@
   <string name="data_usage_warning_summary">Using your mobile data connection to stream high quality music may increase your data usage charges.</string>
   <string name="data_use_desc">Legal documents</string>
   <string name="date_format_str">MM-dd-yyyy</string>
-  <string name="date_picker_label_day"/>
-  <string name="date_picker_label_month"/>
-  <string name="date_picker_label_year"/>
+  <string name="date_picker_label_day" />
+  <string name="date_picker_label_month" />
+  <string name="date_picker_label_year" />
   <string name="date_picker_lunar">Lunar Calendar</string>
   <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
-  <string name="delete">Delete</string>
-  <string name="delete_download">Delete</string>
+  <string name="delete">حذف</string>
+  <string name="delete_download">حذف</string>
   <string name="delete_file_as_well">Permanently delete this song</string>
   <string name="delete_file_end">Delete permanently</string>
   <string name="delete_file_error">"Couldn't delete file"</string>
   <string name="delete_file_start">Delete selected files</string>
-  <string name="deselect_all">Deselect all</string>
-  <string name="desktop_lyric_button_close">Close</string>
+  <string name="deselect_all">لغو انتخاب همه</string>
+  <string name="desktop_lyric_button_close">بستن</string>
   <string name="desktop_lyric_button_lock">Lock</string>
   <string name="desktop_lyric_color">Color</string>
   <string name="desktop_lyric_dialog_msg">Turn Home screen lyrics on and off in Music &gt; Settings &gt; Advanced settings</string>
@@ -320,7 +320,7 @@
   <string name="dialog_song_view_type_folder">By folder</string>
   <string name="dialog_song_view_type_song">By song</string>
   <string name="dialog_title_clearlist_tracks">Remove from queue</string>
-  <string name="dialog_title_delete_tracks">Delete</string>
+  <string name="dialog_title_delete_tracks">حذف</string>
   <string name="dialog_title_name_playlist">Playlist name</string>
   <string name="dialog_title_not_available">"Couldn't download"</string>
   <string name="dialog_title_queued_body">File not yet available</string>
@@ -355,7 +355,7 @@
   <string name="download_error">Failed</string>
   <string name="download_error_insufficient_space">Not enough space</string>
   <string name="download_fail_to_fetch_info">"Couldn't download, try again"</string>
-  <string name="download_filesize_unknown">Unknown</string>
+  <string name="download_filesize_unknown">ناشناخته</string>
   <string name="download_in_process">DOWNLOADING</string>
   <string name="download_info_start_deleted_tasks">Remove downloads</string>
   <string name="download_manage">Downloads</string>
@@ -421,7 +421,7 @@
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
   <string name="edit_playlist_info">Edit playlist info</string>
-  <string name="empty"/>
+  <string name="empty" />
   <string name="empty_page_no_album">No albums.</string>
   <string name="empty_page_no_artist">No artists.</string>
   <string name="enabled">Enabled</string>
@@ -460,7 +460,7 @@
   <string name="exo_controls_repeat_one_description">Repeat one</string>
   <string name="exo_controls_rewind_description">Rewind</string>
   <string name="exo_controls_shuffle_description">Shuffle</string>
-  <string name="exo_controls_stop_description">Stop</string>
+  <string name="exo_controls_stop_description">توقف</string>
   <string name="exo_download_completed">Download completed</string>
   <string name="exo_download_description">Download</string>
   <string name="exo_download_downloading">Downloading</string>
@@ -480,7 +480,7 @@
   <string name="exo_track_surround">Surround sound</string>
   <string name="exo_track_surround_5_point_1">5.1 surround sound</string>
   <string name="exo_track_surround_7_point_1">7.1 surround sound</string>
-  <string name="exo_track_unknown">Unknown</string>
+  <string name="exo_track_unknown">ناشناخته</string>
   <string name="expand_button_title">Advanced</string>
   <string name="expired">Expired</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -640,11 +640,11 @@
   <string name="hungama_subscribe_message">Buy PRO membership to download music in high quality.</string>
   <string name="hungama_subscribe_positive_button">Buy PRO membership</string>
   <string name="hungama_subscribe_title">PRO membership</string>
-  <string name="i_know">OK</string>
+  <string name="i_know">باشه</string>
   <string name="id_namespace">hungama</string>
   <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\"&gt;User Agreement&lt;/a&gt; and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\"&gt;Privacy Policy&lt;/a&gt; before using the product.</string>
   <string name="impunity_declaration_ignore">"Don't show again"</string>
-  <string name="impunity_declaration_negative_text">Exit</string>
+  <string name="impunity_declaration_negative_text">خروج</string>
   <string name="impunity_declaration_positive_text">Agree</string>
   <string name="impunity_declaration_settings">Show Terms of Service</string>
   <string name="impunity_declaration_summary">Show Terms of Service every time the Music app is launched</string>
@@ -720,7 +720,7 @@
   <string name="missing_title">&lt;Unknown&gt;</string>
   <string name="miuishare_account_login_ok">Sign in</string>
   <string name="miuishare_no_network">"Can't connect to the network."</string>
-  <string name="miuishare_publish">Send</string>
+  <string name="miuishare_publish">ارسال</string>
   <string name="miuishare_share_editor_title">Share</string>
   <string name="miuishare_title_more">More</string>
   <string name="miuishare_title_share">Share</string>
@@ -839,7 +839,7 @@
   <string name="nowplaying_circle_style_wave">Wave</string>
   <string name="nowplaying_dialog_title_delete_tracks">Remove this song from queue?</string>
   <string name="nowplaying_menu_item_delete">Remove from queue</string>
-  <string name="ok">OK</string>
+  <string name="ok">باشه</string>
   <string name="online_apk_acquired">Loaded %d%%</string>
   <string name="online_apk_acquiring">Loading… %d%%</string>
   <string name="online_apk_download_error_no_enough_space">"Couldn't download due to insufficient storage space."</string>
@@ -852,7 +852,7 @@
   <string name="online_apk_install_alert_note">This service is provided by Yandex.Music</string>
   <string name="online_apk_install_alert_note_new">Online content is provided by %s</string>
   <string name="online_apk_install_alert_pause">Pause</string>
-  <string name="online_apk_install_alert_retry">Try again</string>
+  <string name="online_apk_install_alert_retry">تلاش دوباره</string>
   <string name="online_apk_install_alert_start">Start</string>
   <string name="online_apk_install_completed">Loaded online content successfully. Tap %s to view.</string>
   <string name="online_apk_install_error_no_enough_space">"Couldn't install due to insufficient storage space."</string>
@@ -875,8 +875,8 @@
   <string name="online_switch_setting">Online content settings</string>
   <string name="only_pro_can_choose_hd_sound_quality">HD audio is only available to PRO members</string>
   <string name="open_online_service">You need to turn on online services to use this feature. Turn on now?</string>
-  <string name="open_service">Turn on</string>
-  <string name="operation_done_close">Close</string>
+  <string name="open_service">روشن</string>
+  <string name="operation_done_close">بستن</string>
   <string name="other_song_in_album">Other songs from this album</string>
   <string name="partner_id">3041</string>
   <string name="password_toggle_content_description">Show password</string>
@@ -914,7 +914,7 @@
   <string name="play_mode_shuffle_all">Shuffle</string>
   <string name="play_next">Play next</string>
   <string name="play_setting">Playback</string>
-  <string name="play_video_with_traffic">CONTINUE</string>
+  <string name="play_video_with_traffic">ادامه</string>
   <string name="play_video_with_traffic_toast">"You're using mobile data now."</string>
   <string name="playlist_empty">No playlists found.</string>
   <string name="playlist_recommend_title">Recommended</string>
@@ -962,20 +962,20 @@ Be Happy"</string>
   <string name="request_share_info">Just a sec…</string>
   <string name="request_subscription_status">Just a sec…</string>
   <string name="restart_immediate">Restart</string>
-  <string name="retry">Try again</string>
+  <string name="retry">تلاش دوباره</string>
   <string name="retry_after_network_available">"Can't connect to the network. Check connection and try again."</string>
-  <string name="retry_download">Try again</string>
+  <string name="retry_download">تلاش دوباره</string>
   <string name="ringtone_editing">Ringtone editor</string>
   <string name="ringtone_not_support">"This song's format isn't supported"</string>
   <string name="ringtone_selected">Selected</string>
   <string name="ringtones_play">Play</string>
-  <string name="ringtones_stop">Stop</string>
+  <string name="ringtones_stop">توقف</string>
   <string name="ringtones_successful">Set ringtone successfully</string>
   <string name="root_downloads">Downloads</string>
   <string name="s1">Save image</string>
   <string name="s2">Allow Ad to store image in Picture gallery?</string>
-  <string name="s3">Accept</string>
-  <string name="s4">Decline</string>
+  <string name="s3">قبول</string>
+  <string name="s4">رد کردن</string>
   <string name="s5">Create calendar event</string>
   <string name="s6">Allow Ad to create a calendar event?</string>
   <string name="s7">Test Ad</string>
@@ -993,7 +993,7 @@ Be Happy"</string>
   <string name="search_hint">Search for artists, songs, albums, and recommendations</string>
   <string name="search_hint_local">Search for songs on device</string>
   <string name="search_hint_online">Search for artists, albums, songs, playlists, and videos online</string>
-  <string name="search_history_clear_all">Clear</string>
+  <string name="search_history_clear_all">پاک کردن</string>
   <string name="search_history_delete_all_dialog_titile">Clear search history now?</string>
   <string name="search_in_youtube">Search on YouTube</string>
   <string name="search_instant_online_music">Online</string>
@@ -1013,7 +1013,7 @@ Be Happy"</string>
   <string name="select_local_cover">Select local cover</string>
   <string name="select_local_lyric">Select file</string>
   <string name="select_local_lyric_file">Select local lyrics file</string>
-  <string name="select_none">Deselect all</string>
+  <string name="select_none">لغو انتخاب همه</string>
   <string name="select_one_language">Select at least 1 language</string>
   <string name="select_three_languages">You can select up to 3 languages</string>
   <string name="selected_count">Selected %1$d out of %2$d</string>
@@ -1026,7 +1026,7 @@ Be Happy"</string>
   <string name="set_ringtones_failed">"Couldn't set ringtone"</string>
   <string name="set_ringtones_successful">%s set as ringtone</string>
   <string name="setting_feature_setting">Feature settings</string>
-  <string name="settings">Settings</string>
+  <string name="settings">تنظیمات</string>
   <string name="settings_search_key_notification">Music notifications;Music;Notifications;songs</string>
   <string name="settings_search_path_advance">System apps/Music/Service and settings/Advanced settings</string>
   <string name="settings_search_path_main">System apps/Music</string>
@@ -1122,7 +1122,7 @@ Be Happy"</string>
   <string name="take_effect_afater_restart">You need to restart the app for this setting to take effect.</string>
   <string name="talkback_back">Go back</string>
   <string name="talkback_batch_process">Multiple items</string>
-  <string name="talkback_clear">Clear</string>
+  <string name="talkback_clear">پاک کردن</string>
   <string name="talkback_device">Play on other devices</string>
   <string name="talkback_download">Download</string>
   <string name="talkback_favorite">Like this song</string>
@@ -1235,7 +1235,7 @@ Be Happy"</string>
   <string name="vhigh_sound_quality">HD</string>
   <string name="video_play_cellular">"Your device isn't connected to Wi-Fi. Use mobile data?"</string>
   <string name="video_replay_btn">Play again</string>
-  <string name="video_retry_btn">Try again</string>
+  <string name="video_retry_btn">تلاش دوباره</string>
   <string name="view_album">View album</string>
   <string name="vip_required">Get Premium Song Pack to play this song. Skipped the song for now.</string>
   <string name="vip_required_with_song">%s is available to PRO members only. Skipped this song for now.</string>

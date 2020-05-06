@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -27,7 +27,7 @@
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
-  <string name="actionbar_button_up_description">Back</string>
+  <string name="actionbar_button_up_description">برگشت</string>
   <string name="afternoon">Afternoon</string>
   <string name="am">AM</string>
   <string name="app_name">app_main</string>
@@ -101,10 +101,10 @@
   <string name="chinese_symbol_animals_sheep">羊</string>
   <string name="chinese_symbol_animals_snake">蛇</string>
   <string name="chinese_symbol_animals_tiger">虎</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
-  <string name="date_picker_label_day"/>
-  <string name="date_picker_label_month"/>
-  <string name="date_picker_label_year"/>
+  <string name="clearable_edittext_clear_description">پاک کردن</string>
+  <string name="date_picker_label_day" />
+  <string name="date_picker_label_month" />
+  <string name="date_picker_label_year" />
   <string name="date_picker_lunar">Chinese Traditional Calendar</string>
   <string name="early_morning">Morning</string>
   <string name="earthly_branches_chen">辰</string>
@@ -119,7 +119,7 @@
   <string name="earthly_branches_yin">寅</string>
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
-  <string name="empty"/>
+  <string name="empty" />
   <string name="eras_ad">CE</string>
   <string name="eras_bc">BCE</string>
   <string name="evening">Afternoon</string>
@@ -210,13 +210,13 @@
   <string name="miui_feedback_answer_detail_menu_online_service">Get help online</string>
   <string name="miui_feedback_answer_detail_menu_phone_service">Call customer support</string>
   <string name="miui_feedback_answer_detail_relative_tip">This might be helpful</string>
-  <string name="miui_feedback_answer_detail_title">Details</string>
-  <string name="miui_feedback_edit_action_submit">Send</string>
+  <string name="miui_feedback_answer_detail_title">جزئیات</string>
+  <string name="miui_feedback_edit_action_submit">ارسال</string>
   <string name="miui_feedback_edit_add_original_images">Add photo</string>
   <string name="miui_feedback_edit_add_original_images_dialog_content">"If the issue you're reporting is related to camera's image quality, add an original sample photo (uncropped) to help us locate the issue. Add photo now?"</string>
   <string name="miui_feedback_edit_choose_module">Select item</string>
   <string name="miui_feedback_edit_choose_module_hint">Required</string>
-  <string name="miui_feedback_edit_choose_occurrence_time">Time</string>
+  <string name="miui_feedback_edit_choose_occurrence_time">زمان</string>
   <string name="miui_feedback_edit_choose_reproductivity">Reproductivity</string>
   <string name="miui_feedback_edit_choose_third_app_name">Select app name</string>
   <string name="miui_feedback_edit_contact_info_hint">Phone number/Email</string>
@@ -294,10 +294,10 @@
   <string name="miui_main_bottom_bar_feedback">Feedback</string>
   <string name="miui_main_bottom_bar_guide">"Beginner's guide"</string>
   <string name="miui_main_bottom_bar_mine">My services</string>
-  <string name="miui_main_next_page">Next</string>
-  <string name="miui_main_pre_page">Back</string>
+  <string name="miui_main_next_page">بعد</string>
+  <string name="miui_main_pre_page">برگشت</string>
   <string name="miui_main_shortcut_label_submit_feedback">Submit feedback</string>
-  <string name="miui_main_update_continue">Next</string>
+  <string name="miui_main_update_continue">بعد</string>
   <string name="miui_main_update_learn_more">Learn more</string>
   <string name="miui_main_update_start">Update now</string>
   <string name="miui_main_update_success_sub_title">Meet the new MIUI</string>
@@ -375,7 +375,7 @@
   <string name="permission_contacts_introduce">For signing in using Mi Account</string>
   <string name="permission_device_info">Access device info</string>
   <string name="permission_device_introduce">For determining limited warranty period</string>
-  <string name="permission_exit">Exit</string>
+  <string name="permission_exit">خروج</string>
   <string name="permission_external_storage_introduce">将您提交的反馈内容保存并上传</string>
   <string name="permission_first_start_network_title">Terms and conditions</string>
   <string name="permission_imei_disable_desc">请您同意应用联网。</string>
@@ -390,7 +390,7 @@
   <string name="permission_user_protocol">User Agreement (mandatory)</string>
   <string name="pm">PM</string>
   <string name="public_loading_text">Just a sec…</string>
-  <string name="public_net_error_retry">Try again</string>
+  <string name="public_net_error_retry">تلاش دوباره</string>
   <string name="public_net_error_sub_title">Check your network settings and try again</string>
   <string name="public_net_error_title">"Couldn't connect to the network"</string>
   <string name="rationale_ask">This app may not work correctly without the requested permissions.</string>

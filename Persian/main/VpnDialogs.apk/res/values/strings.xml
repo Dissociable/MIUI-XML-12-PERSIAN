@@ -9,7 +9,7 @@
   <string name="data_received">Received:</string>
   <string name="data_transmitted">Sent:</string>
   <string name="data_value_format">%1$s bytes / %2$s packets</string>
-  <string name="disconnect">Disconnect</string>
+  <string name="disconnect">قطع اتصال</string>
   <string name="dismiss">Dismiss</string>
   <string name="duration">Duration:</string>
   <string name="legacy_title">VPN is connected</string>

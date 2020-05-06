@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -10,7 +10,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -27,13 +27,13 @@
   <string name="abc_shareactionprovider_share_with">Share with</string>
   <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
   <string name="abc_toolbar_collapse_description">Collapse</string>
-  <string name="actionbar_button_up_description">Back</string>
+  <string name="actionbar_button_up_description">برگشت</string>
   <string name="afternoon">Afternoon</string>
   <string name="am">AM</string>
   <string name="app_name">Notifications</string>
   <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">لغو</string>
   <string name="category_other">Other</string>
   <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
   <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
@@ -110,12 +110,12 @@
   <string name="chinese_symbol_animals_tiger">虎</string>
   <string name="chip_text">Chip text</string>
   <string name="clear_text_end_icon_content_description">Clear text</string>
-  <string name="clearable_edittext_clear_description">Clear</string>
-  <string name="confirm">OK</string>
-  <string name="copy">Copy</string>
-  <string name="date_picker_label_day"/>
-  <string name="date_picker_label_month"/>
-  <string name="date_picker_label_year"/>
+  <string name="clearable_edittext_clear_description">پاک کردن</string>
+  <string name="confirm">باشه</string>
+  <string name="copy">کپی</string>
+  <string name="date_picker_label_day" />
+  <string name="date_picker_label_month" />
+  <string name="date_picker_label_year" />
   <string name="date_picker_lunar">Chinese Traditional Calendar</string>
   <string name="default_list_type">Sort by time received</string>
   <string name="disable_float_notification">"Floating notifications aren't allowed"</string>
@@ -134,7 +134,7 @@
   <string name="earthly_branches_yin">寅</string>
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
-  <string name="empty"/>
+  <string name="empty" />
   <string name="enable_float_notification">Floating notifications are allowed</string>
   <string name="enable_lockscreen_notification">Lock screen notifications are allowed</string>
   <string name="enable_show_badge_notification">Notification badges are allowed</string>
@@ -317,7 +317,7 @@
   <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
   <string name="mtrl_picker_range_header_title">Select a Date Range</string>
   <string name="mtrl_picker_range_header_unselected">Start date – End date</string>
-  <string name="mtrl_picker_save">Save</string>
+  <string name="mtrl_picker_save">ذخیره</string>
   <string name="mtrl_picker_text_input_date_hint">Date</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
   <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>

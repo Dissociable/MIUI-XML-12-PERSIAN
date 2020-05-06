@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">RUIM corporate unlock PIN</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">RUIM Corporate unlock request unsuccessful.</string>
@@ -118,7 +118,7 @@
   <string name="abc_capital_on">ON</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
-  <string name="abc_menu_delete_shortcut_label">delete</string>
+  <string name="abc_menu_delete_shortcut_label">حذف</string>
   <string name="abc_menu_enter_shortcut_label">enter</string>
   <string name="abc_menu_function_shortcut_label">Function+</string>
   <string name="abc_menu_meta_shortcut_label">Meta+</string>
@@ -178,7 +178,7 @@
   <string name="alert_dialog_dismiss">Dismiss</string>
   <string name="alert_dialog_in_ecm_call">"The selected action isn't available while in an emergency call."</string>
   <string name="alert_dialog_no">No</string>
-  <string name="alert_dialog_ok">OK</string>
+  <string name="alert_dialog_ok">باشه</string>
   <string name="alert_dialog_yes">Yes</string>
   <string name="alertdialogtitle">Results</string>
   <string name="all_day">All day</string>
@@ -201,7 +201,7 @@
   <string name="app_process_limit_title">Background process limit</string>
   <string name="atr_disable">Area Traffic Reports disabled</string>
   <string name="atr_enable">Area Traffic Reports enabled</string>
-  <string name="audio_mode_bluetooth">Bluetooth</string>
+  <string name="audio_mode_bluetooth">بلوتوث</string>
   <string name="audio_mode_earpiece">Handset earpiece</string>
   <string name="audio_mode_speaker">Speaker</string>
   <string name="audio_mode_wired_headset">Wired headset</string>
@@ -230,7 +230,7 @@
   <string name="autoip">Auto IP dialing</string>
   <string name="autoip_add_zero_prefix">Add 0 prefix for mobile</string>
   <string name="autoip_areacode_required">Area code required</string>
-  <string name="autoip_areacode_required_accept">OK</string>
+  <string name="autoip_areacode_required_accept">باشه</string>
   <string name="autoip_areacode_required_for_emergency_number">Local area code required for emergency calls</string>
   <string name="autoip_autoip_current_areacode_summary">Current area code is %s</string>
   <string name="autoip_current_areacode">Current area code</string>
@@ -246,7 +246,7 @@
   <string name="autoip_support_local_numbers">Always use IP prefix</string>
   <string name="available_via_carrier">Available via %1$s</string>
   <string name="available_via_passpoint">Available via %1$s</string>
-  <string name="back">Back</string>
+  <string name="back">برگشت</string>
   <string name="badPin">"The old PIN you typed isn't correct. Try again."</string>
   <string name="badPin2">Old PIN2 incorrect. Try again.</string>
   <string name="badPuk2">PUK2 incorrect. Try again.</string>
@@ -260,7 +260,7 @@
   <string name="battery_info_status_discharging">Not charging</string>
   <string name="battery_info_status_full">Full</string>
   <string name="battery_info_status_not_charging">"Plugged in, can't charge right now"</string>
-  <string name="battery_info_status_unknown">Unknown</string>
+  <string name="battery_info_status_unknown">ناشناخته</string>
   <string name="battery_meter_very_low_overlay_symbol">!</string>
   <string name="bf_news_settings">Business and Financial News</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Connected to media audio</string>
@@ -304,7 +304,7 @@
   <string name="bluetooth_pairing">Pairing…</string>
   <string name="bluetooth_pairing_accept">Pair</string>
   <string name="bluetooth_pairing_accept_all_caps">PAIR</string>
-  <string name="bluetooth_pairing_decline">Cancel</string>
+  <string name="bluetooth_pairing_decline">لغو</string>
   <string name="bluetooth_pairing_device_down_error_message">"Can't communicate with %1$s."</string>
   <string name="bluetooth_pairing_error_message">"Couldn't pair with %1$s."</string>
   <string name="bluetooth_pairing_pin_error_message">"Couldn't pair with %1$s because of an incorrect PIN or passkey."</string>
@@ -321,7 +321,7 @@
   <string name="bluetooth_profile_hearing_aid">Hearing Aids</string>
   <string name="bluetooth_profile_hid">Input device</string>
   <string name="bluetooth_profile_map">Text Messages</string>
-  <string name="bluetooth_profile_opp">File transfer</string>
+  <string name="bluetooth_profile_opp">انتقال فایل</string>
   <string name="bluetooth_profile_pan">Internet access</string>
   <string name="bluetooth_profile_pan_nap">Internet connection sharing</string>
   <string name="bluetooth_profile_pbap">Contact sharing</string>
@@ -349,13 +349,13 @@ Selection"</string>
   <string name="bluetooth_select_avrcp_version_string">Bluetooth AVRCP Version</string>
   <string name="bluetooth_show_devices_without_names">Show Bluetooth devices without names</string>
   <string name="bluetooth_show_devices_without_names_summary">Bluetooth devices without names (MAC addresses only) will be displayed</string>
-  <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
+  <string name="bluetooth_talkback_bluetooth">بلوتوث</string>
   <string name="bluetooth_talkback_computer">Computer</string>
   <string name="bluetooth_talkback_headphone">Headphone</string>
   <string name="bluetooth_talkback_headset">Headset</string>
   <string name="bluetooth_talkback_imaging">Imaging</string>
   <string name="bluetooth_talkback_input_peripheral">Input Peripheral</string>
-  <string name="bluetooth_talkback_phone">Phone</string>
+  <string name="bluetooth_talkback_phone">تلفن</string>
   <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
   <string name="bt_hci_snoop_log_summary">Capture Bluetooth packets. (Toggle Bluetooth after changing this setting)</string>
   <string name="bugreport_in_power">Bug report shortcut</string>
@@ -529,7 +529,7 @@ Selection"</string>
   <string name="calling_via_template">Calling via %s</string>
   <string name="callwait_open_hint">The \"Call waiting\" feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
   <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
-  <string name="cancel">Cancel</string>
+  <string name="cancel">لغو</string>
   <string name="card_title_call_ended">Call ended</string>
   <string name="card_title_conf_call">Conference call</string>
   <string name="card_title_dialing">Dialing</string>
@@ -539,10 +539,10 @@ Selection"</string>
   <string name="card_title_on_hold">On hold</string>
   <string name="card_title_redialing">Redialing</string>
   <string name="carrier_info">Carrier info</string>
-  <string name="carrier_settings"/>
+  <string name="carrier_settings" />
   <string name="carrier_settings_euicc">Carrier</string>
   <string name="carrier_settings_euicc_summary">%1$s — %2$s</string>
-  <string name="carrier_settings_menu"/>
+  <string name="carrier_settings_menu" />
   <string name="carrier_settings_title">Carrier settings</string>
   <string name="category_personal">Personal</string>
   <string name="category_work">Work</string>
@@ -584,19 +584,19 @@ Selection"</string>
   <string name="change_data_sim_4g_only_prompt">"SIM %1$s only supports 4G. When SIM %2$s isn't your default SIM for mobile data, SIM card might not work normally. Switch now?"</string>
   <string name="change_default_data_card">Default mobile data SIM</string>
   <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
-  <string name="change_num">Update</string>
+  <string name="change_num">بروزرسانی</string>
   <string name="change_password">Change barring password</string>
   <string name="change_pin">Change SIM PIN</string>
   <string name="change_pin2">Change PIN2</string>
-  <string name="change_pin_cancel_label">Cancel</string>
+  <string name="change_pin_cancel_label">لغو</string>
   <string name="change_pin_confirm_pin_header">Confirm your PIN</string>
   <string name="change_pin_confirm_pins_dont_match">"PINs don't match"</string>
-  <string name="change_pin_continue_label">Continue</string>
+  <string name="change_pin_continue_label">ادامه</string>
   <string name="change_pin_enter_new_pin_header">Set a new PIN</string>
   <string name="change_pin_enter_new_pin_hint">PIN must be %1$d-%2$d digits.</string>
   <string name="change_pin_enter_old_pin_header">Confirm your old PIN</string>
   <string name="change_pin_enter_old_pin_hint">Enter your voicemail PIN to continue.</string>
-  <string name="change_pin_ok_label">Ok</string>
+  <string name="change_pin_ok_label">باشه</string>
   <string name="change_pin_succeeded">Voicemail PIN updated</string>
   <string name="change_pin_system_error">Unable to set PIN</string>
   <string name="change_pin_title">Change Voicemail PIN</string>
@@ -665,20 +665,20 @@ Selection"</string>
   <string name="clir_choices_network_default">Network default</string>
   <string name="clir_choices_show_number">Show number</string>
   <string name="close">Turn off</string>
-  <string name="close_dialog">OK</string>
-  <string name="close_profile">Close</string>
+  <string name="close_dialog">باشه</string>
+  <string name="close_profile">بستن</string>
   <string name="close_volte">Turn off VoLTE</string>
   <string name="cloud_antispam_title">Identify unknown numbers</string>
   <string name="cloud_sim_enabled_dual_4g_summary">"Can't turn off Dual 4G while using Mi Roaming"</string>
   <string name="cloud_sim_enabled_preferred_network_summary">"Can't change network preferences while using Mi Roaming"</string>
   <string name="cmcc_ut_data_enable_prompt">This service requires mobile data connection. Turn it on to continue.</string>
   <string name="command_error_fdn_failure">You need to turn off FDN first</string>
-  <string name="config_default_data_sim">Settings</string>
-  <string name="config_dialing_emergency_number_suffix"/>
+  <string name="config_default_data_sim">تنظیمات</string>
+  <string name="config_dialing_emergency_number_suffix" />
   <string name="config_disable_cdma_activation_code">false</string>
   <string name="config_simUnlockUiClass">@null</string>
   <string name="config_simUnlockUiPackage">@null</string>
-  <string name="config_world_mode"/>
+  <string name="config_world_mode" />
   <string name="confirmPin2Label">Confirm new PIN2</string>
   <string name="confirmPinLabel">Confirm new PIN</string>
   <string name="confirm_enable_oem_unlock_text">WARNING: Device protection features will not work on this device while this setting is turned on.</string>
@@ -713,7 +713,7 @@ Selection"</string>
   <string name="convert_to_file_encryption">Convert to file encryption</string>
   <string name="convert_to_file_encryption_done">Already file encrypted</string>
   <string name="convert_to_file_encryption_enabled">Convert…</string>
-  <string name="copy">Copy</string>
+  <string name="copy">کپی</string>
   <string name="crescendo_ringer_summary">Ringtone volume will gradually grow to the level you set</string>
   <string name="crescendo_ringer_title">Increasing ringtone volume</string>
   <string name="ct_ut_not_support_close_4glte">UT is not available, please turn off Enhanced 4G LTE Mode in Settings</string>
@@ -751,7 +751,7 @@ Use mobile data anyway?"</string>
   <string name="debug_app">Select debug app</string>
   <string name="debug_app_not_set">No debug application set</string>
   <string name="debug_app_set">Debugging application: %1$s</string>
-  <string name="debug_applications_category">Apps</string>
+  <string name="debug_applications_category">برنامه ها</string>
   <string name="debug_debugging_category">Debugging</string>
   <string name="debug_drawing_category">Drawing</string>
   <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
@@ -769,7 +769,7 @@ Use mobile data anyway?"</string>
   <string name="default_preference_summary_password">&lt;Not set&gt;</string>
   <string name="default_preference_summary_username">&lt;Not set&gt;</string>
   <string name="default_transport">UDP</string>
-  <string name="delete">Delete</string>
+  <string name="delete">حذف</string>
   <string name="delete_fdn_contact">Delete fixed dialing number</string>
   <string name="deleting_fdn_contact">Deleting fixed dialing number…</string>
   <string name="description_concat_format">%1$s, %2$s</string>
@@ -808,11 +808,11 @@ Use mobile data anyway?"</string>
   <string name="dialerKeyboardHintText">Use keyboard to dial</string>
   <string name="dialer_default_class">com.android.dialer.DialtactsActivity</string>
   <string name="dialog_alert_title">Attention</string>
-  <string name="dialog_cancel">Cancel</string>
+  <string name="dialog_cancel">لغو</string>
   <string name="dialog_network_priority_title">Priority network</string>
   <string name="dialog_report">Report</string>
   <string name="dialpad_0_letters">+</string>
-  <string name="dialpad_1_letters"/>
+  <string name="dialpad_1_letters" />
   <string name="dialpad_2_letters">ABC</string>
   <string name="dialpad_3_letters">DEF</string>
   <string name="dialpad_4_letters">GHI</string>
@@ -832,13 +832,13 @@ Use mobile data anyway?"</string>
   <string name="dialpad_nine">%d</string>
   <string name="dialpad_one">%d</string>
   <string name="dialpad_pound">\#</string>
-  <string name="dialpad_pound_letters"/>
+  <string name="dialpad_pound_letters" />
   <string name="dialpad_pound_number">\#</string>
   <string name="dialpad_pqrs">PQRS</string>
   <string name="dialpad_seven">%d</string>
   <string name="dialpad_six">%d</string>
   <string name="dialpad_star">*</string>
-  <string name="dialpad_star_letters"/>
+  <string name="dialpad_star_letters" />
   <string name="dialpad_star_number">*</string>
   <string name="dialpad_three">%d</string>
   <string name="dialpad_tuv">TUV</string>
@@ -896,7 +896,7 @@ Use mobile data anyway?"</string>
   <string name="emm_cause_7_8_12_13_15_16_17_22">"You can't use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
   <string name="empty_alert">"%s is required and can't be left blank."</string>
   <string name="empty_networks_list">No networks found.</string>
-  <string name="enable">Turn on</string>
+  <string name="enable">روشن</string>
   <string name="enable_adb">USB debugging</string>
   <string name="enable_adb_summary">Debug mode when USB is connected</string>
   <string name="enable_antispam_strange_summary">Mute the first ring for calls from unknown numbers</string>
@@ -939,7 +939,7 @@ Use mobile data anyway?"</string>
   <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
   <string name="enable_terminal_title">Local terminal</string>
   <string name="enable_vice_volte_if_dual_ct">Turn on VoLTE for the secondary SIM automatically when two China Telecom SIM cards are installed.</string>
-  <string name="enable_video_calling_dialog_close">Close</string>
+  <string name="enable_video_calling_dialog_close">بستن</string>
   <string name="enable_video_calling_dialog_msg">To turn on video calling, you need to enable Enhanced 4G LTE Mode in network settings.</string>
   <string name="enable_video_calling_dialog_settings">Network settings</string>
   <string name="enable_video_calling_title">Turn on video calling</string>
@@ -1019,13 +1019,13 @@ Contact your carrier if this problem persists."</string>
   <string name="fw_get_in_vm_failed">"Couldn't retrieve and save current forwarding number settings.
 Switch to the new provider anyway?"</string>
   <string name="general_news_settings">General News</string>
-  <string name="general_setting">Settings</string>
+  <string name="general_setting">تنظیمات</string>
   <string name="get_pin2">Type PIN2</string>
   <string name="get_smsc_address_error">"Can't connect to the network."</string>
   <string name="get_smsc_address_timeout">Connection timed out</string>
   <string name="goPrivate">go private</string>
   <string name="go_to_virtual_sim_title">Virtual SIM</string>
-  <string name="got_it">OK</string>
+  <string name="got_it">باشه</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Network mode</string>
   <string name="gsm_umts_network_preferences_title">Network mode</string>
   <string name="gsm_umts_options">GSM/UMTS Options</string>
@@ -1041,7 +1041,7 @@ Switch to the new provider anyway?"</string>
   <string name="immediately_destroy_activities">Don’t keep activities</string>
   <string name="immediately_destroy_activities_summary">Destroy every activity as soon as the user leaves it</string>
   <string name="importAllSimEntries">Import all</string>
-  <string name="importSimEntry">Import</string>
+  <string name="importSimEntry">وارد کردن</string>
   <string name="importToFDNfromContacts">Import from contacts</string>
   <string name="importingSimContacts">Importing SIM contacts</string>
   <string name="ims_reg_status_not_registered">Not registered</string>
@@ -1198,7 +1198,7 @@ Switch to the new provider anyway?"</string>
   <string name="managed_user_title">All work apps</string>
   <string name="manual_mode_disallowed_summary">Unavailable when connected to %1$s</string>
   <string name="media_category">Media</string>
-  <string name="media_transfer_this_device_name">This device</string>
+  <string name="media_transfer_this_device_name">این دستگاه</string>
   <string name="menu_add">Add contact</string>
   <string name="menu_delete">Delete contact</string>
   <string name="menu_dial">Dial contact</string>
@@ -1247,7 +1247,7 @@ Switch to the new provider anyway?"</string>
   <string name="mobile_connection_management">Manage mobile network connection</string>
   <string name="mobile_data">Mobile data</string>
   <string name="mobile_data_activate_button">ADD DATA</string>
-  <string name="mobile_data_activate_cancel_button">CANCEL</string>
+  <string name="mobile_data_activate_cancel_button">لغو</string>
   <string name="mobile_data_activate_diag_message">You may need to add data through %s</string>
   <string name="mobile_data_activate_diag_title">Add data?</string>
   <string name="mobile_data_activate_footer">You can add mobile data or a roaming plan through your carrier, %s.</string>
@@ -1288,24 +1288,24 @@ Switch to the new provider anyway?"</string>
   <string name="mr_chooser_title">Cast to</string>
   <string name="mr_controller_album_art">Album art</string>
   <string name="mr_controller_casting_screen">Casting screen</string>
-  <string name="mr_controller_close_description">Close</string>
+  <string name="mr_controller_close_description">بستن</string>
   <string name="mr_controller_collapse_group">Collapse</string>
-  <string name="mr_controller_disconnect">Disconnect</string>
+  <string name="mr_controller_disconnect">قطع اتصال</string>
   <string name="mr_controller_expand_group">Expand</string>
   <string name="mr_controller_no_info_available">No info available</string>
   <string name="mr_controller_no_media_selected">No media selected</string>
   <string name="mr_controller_pause">Pause</string>
   <string name="mr_controller_play">Play</string>
-  <string name="mr_controller_stop">Stop</string>
+  <string name="mr_controller_stop">توقف</string>
   <string name="mr_controller_stop_casting">Stop casting</string>
   <string name="mr_controller_volume_slider">Volume slider</string>
   <string name="mr_dialog_groupable_header">Add a device</string>
   <string name="mr_dialog_transferable_header">Play on a group</string>
-  <string name="mr_system_route_name">System</string>
+  <string name="mr_system_route_name">سیستم</string>
   <string name="mr_user_route_category_name">Devices</string>
   <string name="msim_apn_not_set">Not set</string>
   <string name="msim_cmcc_dds_switch_not_support">"Can't switch SIM cards due to carrier restrictions."</string>
-  <string name="msim_disable_sim_card_btn_text">OK</string>
+  <string name="msim_disable_sim_card_btn_text">باشه</string>
   <string name="msim_disable_sim_card_summary_default_card">"This card is currently set as your default SIM. If you stop using it, you won't be able to make calls or use your mobile data connection.You can stop this SIM card after setting another SIM as your default card."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">You may not be able to make calls or use your mobile data connection. Stop using %s SIM card?</string>
   <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Don't restrict your secondary SIM in emergency callback mode."</string>
@@ -1316,8 +1316,8 @@ Switch to the new provider anyway?"</string>
   <string name="msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again."</string>
   <string name="msim_emm_cause_6">"SIM %d couldn't verify device. Turn your device off, then turn it back on and try again."</string>
   <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d can't use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
-  <string name="msim_enable_sim">Turn on</string>
-  <string name="msim_general_setting">Settings</string>
+  <string name="msim_enable_sim">روشن</string>
+  <string name="msim_general_setting">تنظیمات</string>
   <string name="msim_has_been_disabled">(Disabled)</string>
   <string name="msim_info_editor_name">Edit SIM card name</string>
   <string name="msim_info_editor_number">Edit SIM card number</string>
@@ -1381,7 +1381,7 @@ Switch to the new provider anyway?"</string>
   <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
   <string name="network_settings_forbidden">%s (forbidden)</string>
   <string name="network_settings_information">Turn off mobile data?</string>
-  <string name="network_settings_next">Next</string>
+  <string name="network_settings_next">بعد</string>
   <string name="network_settings_query_failed_message">"Couldn't search for mobile networks."</string>
   <string name="network_settings_select_automatic_hint">"Can't register on the network you selected.
 Using preferred network instead."</string>
@@ -1413,7 +1413,7 @@ Using preferred network instead."</string>
   <string name="not_allowed">"Your SIM card doesn't allow a connection to this network."</string>
   <string name="not_set">Not set</string>
   <string name="not_voice_capable">Voice calling not supported</string>
-  <string name="notice_header"/>
+  <string name="notice_header" />
   <string name="notification_channel_demo">Demo device</string>
   <string name="notification_demo_version_text">"Can't make calls or use mobile data"</string>
   <string name="notification_demo_version_title">This is a demo device</string>
@@ -1434,11 +1434,11 @@ Using preferred network instead."</string>
   <string name="nr_usaged_used_time">Usage duration</string>
   <string name="number">Number</string>
   <string name="numerous_emergency_numbers_title">Emergency numbers</string>
-  <string name="oem_preferred_feedback_reporter"/>
+  <string name="oem_preferred_feedback_reporter" />
   <string name="oem_unlock_enable">OEM unlocking</string>
   <string name="oem_unlock_enable_summary">Allow the bootloader to be unlocked</string>
-  <string name="ok">OK</string>
-  <string name="okay">OK</string>
+  <string name="ok">باشه</string>
+  <string name="okay">باشه</string>
   <string name="oldPin2Label">Old PIN2</string>
   <string name="oldPinLabel">Old PIN</string>
   <string name="old_password_label">Current %d-digit password</string>
@@ -1456,7 +1456,7 @@ Using preferred network instead."</string>
   <string name="onscreenShowDialpadText">Dialpad</string>
   <string name="onscreenSwapCallsText">Swap</string>
   <string name="onscreenVideoCallText">Video call</string>
-  <string name="open_miui">Open</string>
+  <string name="open_miui">باز کردن</string>
   <string name="opened_dual_4g_confirm_prompt">Looks like you have a 4G only SIM card. Dual 4G was turned on automatically.</string>
   <string name="opened_dual_4g_confirm_prompt_with_sim">SIM %1$s only supports 4G. To make sure your SIM card works normally, dual 4G was turned on.</string>
   <string name="operator">Carrier</string>
@@ -1467,14 +1467,14 @@ Using preferred network instead."</string>
   <string name="osu_sign_up_complete">Sign-up complete. Connecting…</string>
   <string name="osu_sign_up_failed">Couldn’t complete sign-up. Tap to try again.</string>
   <string name="ota_activate">Activate</string>
-  <string name="ota_call_end">Back</string>
+  <string name="ota_call_end">برگشت</string>
   <string name="ota_failure">"Couldn't program your phone"</string>
   <string name="ota_hfa_activation_dialog_message">"The phone is activating your mobile data service.
 
 This can take up to 5 minutes."</string>
   <string name="ota_hfa_activation_title">Activating...</string>
   <string name="ota_listen">Follow the spoken instructions until you hear that activation is complete.</string>
-  <string name="ota_next">Next</string>
+  <string name="ota_next">بعد</string>
   <string name="ota_progress">Programming your phone…</string>
   <string name="ota_skip_activation_dialog_message">"If you skip activation, you can't place calls or connect to mobile data networks (though you can connect to WLAN networks). Until you activate your phone, you are asked to activate it each time you turn it on."</string>
   <string name="ota_skip_activation_dialog_skip_label">Skip</string>
@@ -1488,7 +1488,7 @@ This can take up to 5 minutes."</string>
   <string name="ota_touch_activate">"A special call needs to be made to activate your phone service. 
 
 After pressing “Activate”, listen to the instructions provided to activate your phone."</string>
-  <string name="ota_try_again">Try again</string>
+  <string name="ota_try_again">تلاش دوباره</string>
   <string name="ota_unsuccessful">"Your phone didn't activate. 
 You may need to find an area with better coverage (near a window, or outside). 
 
@@ -1543,7 +1543,7 @@ Try again or call customer service for more options."</string>
   <string name="payphone">Payphone</string>
   <string name="pci_num">lte pci num</string>
   <string name="phoneAppLabel">Phone Services</string>
-  <string name="phoneIconLabel">Phone</string>
+  <string name="phoneIconLabel">تلفن</string>
   <string name="phone_account_settings">Calling accounts</string>
   <string name="phone_accounts">Calling accounts</string>
   <string name="phone_accounts_add_sip_account">Add SIP account</string>
@@ -1556,7 +1556,7 @@ Try again or call customer service for more options."</string>
   <string name="phone_accounts_make_calls_with">Make calls with</string>
   <string name="phone_accounts_make_sip_calls_with">Make SIP calls with</string>
   <string name="phone_accounts_selection_header">Phone accounts</string>
-  <string name="phone_accounts_settings_header">Settings</string>
+  <string name="phone_accounts_settings_header">تنظیمات</string>
   <string name="phone_entered_ecm_text">Entered Emergency Callback Mode</string>
   <string name="phone_in_ecm_call_notification_text">Data connection disabled</string>
   <string name="phone_in_ecm_notification_complete_time">No data connection until %s</string>
@@ -1584,7 +1584,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="pin_progress_set_icc_lock">Setting ICC lock state…</string>
   <string name="pin_progress_unlock_icc">Unlocking SIM card…</string>
   <string name="platform_carrier_config_package">com.android.carrierconfig</string>
-  <string name="platform_number_verification_package"/>
+  <string name="platform_number_verification_package" />
   <string name="pointer_location">Pointer location</string>
   <string name="pointer_location_summary">Screen overlay showing current touch data</string>
   <string name="police_type_description">Police</string>
@@ -1770,7 +1770,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="restaurants_disable">Restaurants disabled</string>
   <string name="restaurants_enable">Restaurants enabled</string>
   <string name="retail_demo_reset_message">Enter password to perform factory reset in demo mode</string>
-  <string name="retail_demo_reset_next">Next</string>
+  <string name="retail_demo_reset_next">بعد</string>
   <string name="retail_demo_reset_title">Password required</string>
   <string name="retail_directory_disable">Retail Directory disabled</string>
   <string name="retail_directory_enable">Retail Directory enabled</string>
@@ -1799,7 +1799,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="running_process_item_user_label">User: %1$s</string>
   <string name="runningservices_settings_summary">View and control currently running services</string>
   <string name="runningservices_settings_title">Running services</string>
-  <string name="save">Save</string>
+  <string name="save">ذخیره</string>
   <string name="saved_network">Saved by %1$s</string>
   <string name="saving_account">Saving the account…</string>
   <string name="screen_zoom_summary_custom">Custom (%d)</string>
@@ -1859,7 +1859,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="select_webview_provider_dialog_title">Set WebView implementation</string>
   <string name="select_webview_provider_title">WebView implementation</string>
   <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
-  <string name="send_button">Send</string>
+  <string name="send_button">ارسال</string>
   <string name="send_keepalive">SendKeepAlive</string>
   <string name="send_keepalive_title">Send keep-alive</string>
   <string name="set_primary">SetPrimary</string>
@@ -1912,7 +1912,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Select SIM to deactivate</string>
   <string name="single_fiveg_dialog_title_prompt">Attention</string>
   <string name="single_fiveg_dialog_title_remind">Attention</string>
-  <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Got it</string>
+  <string name="single_fiveg_disable_fiveg_dialog_btn_getit">فهمیدم</string>
   <string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">Only one SIM card can be activated for 5G networks. Select a different network type for your data SIM first.</string>
   <string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Deactivate SIM card</string>
   <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Use Dual SIM</string>
@@ -1939,7 +1939,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sip_edit_new_title">SIP account details</string>
   <string name="sip_edit_title">SIP account details</string>
   <string name="sip_menu_discard">Discard</string>
-  <string name="sip_menu_save">Save</string>
+  <string name="sip_menu_save">ذخیره</string>
   <string name="sip_profile_create_error">"Couldn't create a new SIP profile"</string>
   <string name="sip_receive_call_disable">"Can't accept calls. Allow accepting calls first."</string>
   <string name="sip_receive_calls">Receive incoming calls</string>
@@ -1965,7 +1965,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="smsc_dialog_message">"Make sure the number you enter is correct. Otherwise, you won't be able to send or receive SMS. Contact your carrier to confirm your SMSC number."</string>
   <string name="speed_label_fast">Fast</string>
   <string name="speed_label_medium">Medium</string>
-  <string name="speed_label_okay">OK</string>
+  <string name="speed_label_okay">باشه</string>
   <string name="speed_label_slow">Slow</string>
   <string name="speed_label_very_fast">Very Fast</string>
   <string name="speed_label_very_slow">Very Slow</string>
@@ -2013,7 +2013,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sum_show_caller_id">Number displayed in outgoing calls</string>
   <string name="sum_voicemail_choose_provider">Choose voicemail service</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_empty"/>
+  <string name="summary_empty" />
   <string name="supp_service_additional_call_forwarded">Additional call forwarded.</string>
   <string name="supp_service_additional_ect_connected">Explicit call transfer complete.</string>
   <string name="supp_service_additional_ect_connecting">Explicit call transfer in progress.</string>
@@ -2038,7 +2038,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="supp_service_over_ut_precautions_roaming_dual_sim">To use %1$s, make sure mobile data and data roaming are turned on for SIM %2$d. You can change these in mobile network settings.</string>
   <string name="switch_dds_to_sub_alert">Set this card as your default data card.</string>
   <string name="switch_dds_to_sub_alert_msg">Please switch mobile data to CT SIM</string>
-  <string name="system_visual_voicemail_client"/>
+  <string name="system_visual_voicemail_client" />
   <string name="t9_indexing_method_pinyin">Pinyin</string>
   <string name="t9_indexing_method_title">T9 search input</string>
   <string name="t9_indexing_method_zhuyin">Zhuyin</string>
@@ -2046,7 +2046,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="tap_to_sign_up">Tap to sign up</string>
   <string name="technology_news_disable">Technology News disabled</string>
   <string name="technology_news_enable">Technology News enabled</string>
-  <string name="telephony_setting">Phone</string>
+  <string name="telephony_setting">تلفن</string>
   <string name="telocation_auto_country_code">Add country code</string>
   <string name="telocation_auto_country_code_summary">Automatically add country code before dialing contacts</string>
   <string name="telocation_call_assistant">Dialing assistant</string>
@@ -2105,7 +2105,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="time_formate_pm">PM</string>
   <string name="time_interval_char">:</string>
   <string name="time_next_day">next day</string>
-  <string name="time_start">From</string>
+  <string name="time_start">از</string>
   <string name="time_start_hour">time start hour</string>
   <string name="time_start_minute">time start minute</string>
   <string name="time_unit_just_now">Just now</string>
@@ -2157,7 +2157,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="turnover_mute_title">Flip to silence ringer</string>
   <string name="ui_default_package">com.android.dialer</string>
   <string name="undefined">None</string>
-  <string name="unknown">Unknown</string>
+  <string name="unknown">ناشناخته</string>
   <string name="unlock_failed">Network unlock request unsuccessful.</string>
   <string name="unlock_success">SIM Network unlock successful.</string>
   <string name="updating_fdn_contact">Updating fixed dialing number…</string>
@@ -2211,8 +2211,8 @@ Contact your carrier if this problem persists."</string>
 If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
 
 This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
-  <string name="voice_service_warning_dialog_cancel">Cancel</string>
-  <string name="voice_service_warning_dialog_ok">Got it</string>
+  <string name="voice_service_warning_dialog_cancel">لغو</string>
+  <string name="voice_service_warning_dialog_ok">فهمیدم</string>
   <string name="voice_service_warning_dialog_ok_timer">Got it (%d)</string>
   <string name="voice_service_warning_dialog_title">VoLTE calls</string>
   <string name="voicemail">Voicemail</string>
@@ -2399,7 +2399,7 @@ Credential storage might not enable"</string>
   <string name="zen_mode_and_condition">%1$s. %2$s</string>
   <string name="zen_mode_duration_always_prompt_title">Ask every time</string>
   <string name="zen_mode_duration_settings_title">Duration</string>
-  <string name="zen_mode_enable_dialog_turn_on">Turn on</string>
+  <string name="zen_mode_enable_dialog_turn_on">روشن</string>
   <string name="zen_mode_forever">Until you turn off</string>
   <string name="zen_mode_settings_summary_off">Never</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Turn on Do Not Disturb</string>

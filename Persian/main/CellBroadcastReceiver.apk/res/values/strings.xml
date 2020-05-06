@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="add_channel">Add Channel</string>
   <string name="ae_emergency_alert_title">تحذيرطارئ</string>
@@ -38,12 +38,12 @@
   <string name="alert_4398">4398</string>
   <string name="alert_4399">4399</string>
   <string name="alert_reminder_interval_default_value">0</string>
-  <string name="alert_reminder_interval_summary"/>
+  <string name="alert_reminder_interval_summary" />
   <string name="alert_reminder_interval_title">Alert reminder</string>
   <string name="app_label">Cell Broadcasts</string>
-  <string name="button_cancel">Cancel</string>
-  <string name="button_delete">Delete</string>
-  <string name="button_dismiss">OK</string>
+  <string name="button_cancel">لغو</string>
+  <string name="button_delete">حذف</string>
+  <string name="button_dismiss">باشه</string>
   <string name="category_brazil_settings_title">Settings for Brazil</string>
   <string name="category_dev_settings_title">Developer options</string>
   <string name="category_etws_settings_title">ETWS settings</string>
@@ -66,7 +66,7 @@
   <string name="cell_broadcast_setting">Cell Broadcast settings</string>
   <string name="cell_broadcast_settings_not_available">Cell Broadcast settings are not available for this user</string>
   <string name="channel_list">Channel List</string>
-  <string name="close_dialog">OK</string>
+  <string name="close_dialog">باشه</string>
   <string name="cmas_amber_alert">Child abduction (Amber alert)</string>
   <string name="cmas_category_cbrne">Chemical/Biological/Nuclear/Explosive</string>
   <string name="cmas_category_env">Environmental</string>
@@ -170,8 +170,8 @@
   <string name="gsma_919">919</string>
   <string name="menu_delete">Delete broadcast</string>
   <string name="menu_delete_all">Delete broadcasts</string>
-  <string name="menu_preferences">Settings</string>
-  <string name="menu_view_details">View details</string>
+  <string name="menu_preferences">تنظیمات</string>
+  <string name="menu_view_details">مشاهده جزئیات</string>
   <string name="message_options">Message options</string>
   <string name="national_emergency_alert">National Emergency Alert</string>
   <string name="national_emergency_alerts">National Emergency Alerts</string>

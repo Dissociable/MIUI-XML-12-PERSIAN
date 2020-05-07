@@ -53,7 +53,7 @@
   <string name="mediasize_standard_iso">0</string>
   <string name="mediasize_standard_japan">2</string>
   <string name="mediasize_standard_north_america">1</string>
-  <string name="more_options_button">More options</string>
+  <string name="more_options_button">گزینه های بیشتر</string>
   <string name="no_connection_to_printer">No connection to printer</string>
   <string name="notification_channel_failure">Failed print jobs</string>
   <string name="notification_channel_progress">Running print jobs</string>
@@ -66,7 +66,7 @@
   <string name="page_description_template">Page %1$d of %2$d</string>
   <string name="pages_range_example">e.g. 1—5,8,11—13</string>
   <string name="please_choose_printer">Select a printer first.</string>
-  <string name="print_add_printer">Add printer</string>
+  <string name="print_add_printer">افزودن چاپگر</string>
   <string name="print_button">Print</string>
   <string name="print_cannot_load_page">"Can't display preview"</string>
   <string name="print_dialog">Print dialog</string>

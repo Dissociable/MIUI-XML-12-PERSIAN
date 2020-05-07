@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -87,7 +87,7 @@
   <string name="device_owner_info_with_terms_headers">This device will be managed, monitored, and kept secure by %1$s. Terms from %2$s will apply. %3$s</string>
   <string name="device_provisioning_finished">Your device is ready to go!</string>
   <string name="dismiss">Dismiss</string>
-  <string name="done">Done</string>
+  <string name="done">انجام شده</string>
   <string name="downloading_administrator_header">Getting ready for work setup…</string>
   <string name="ellipsis">…</string>
   <string name="encrypt">رمزنگاری</string>

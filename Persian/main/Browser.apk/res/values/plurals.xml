@@ -13,7 +13,7 @@
         <item quantity="one">View %d comment</item>
     </plurals>
     <plurals name="comment_minute_ago">
-        <item quantity="other">%d minutes ago</item>
+        <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">%d minute ago</item>
     </plurals>
     <plurals name="comment_selected">

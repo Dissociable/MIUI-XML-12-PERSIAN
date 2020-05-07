@@ -108,12 +108,12 @@
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_ERROR">SP EHPLMN unlock request unsuccessful.</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_IN_PROGRESS">Requesting SP EHPLMN unlock…</string>
   <string name="PERSOSUBSTATE_SIM_SP_EHPLMN_SUCCESS">SP EHPLMN unlock successful.</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -687,7 +687,7 @@ Selection"</string>
   <string name="confirm_pin2_label">Confirm new PIN2</string>
   <string name="confirm_pin_label">Confirm new PIN</string>
   <string name="connect_disconnect_vibrate_none">هیچ یک</string>
-  <string name="connect_disconnect_vibrate_normal">Normal</string>
+  <string name="connect_disconnect_vibrate_normal">طبیعی</string>
   <string name="connect_disconnect_vibrate_summary">"Vibrate when the person you're calling answers your call"</string>
   <string name="connect_disconnect_vibrate_title">Vibrate when your call is answered</string>
   <string name="connect_disconnect_vibrate_weak">Light</string>
@@ -777,7 +777,7 @@ Use mobile data anyway?"</string>
   <string name="description_dial_button">dial</string>
   <string name="description_dialpad_back">Navigate back</string>
   <string name="description_dialpad_button">show dialpad</string>
-  <string name="description_dialpad_overflow">More options</string>
+  <string name="description_dialpad_overflow">گزینه های بیشتر</string>
   <string name="description_image_button_eight">eight</string>
   <string name="description_image_button_five">five</string>
   <string name="description_image_button_four">four</string>
@@ -866,9 +866,9 @@ Use mobile data anyway?"</string>
   <string name="do_not_show_again">"Don't show again"</string>
   <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Server</string>
-  <string name="doneButton">Done</string>
+  <string name="doneButton">انجام شده</string>
   <string name="dtmf_tone_entries_long">Long</string>
-  <string name="dtmf_tone_entries_normal">Normal</string>
+  <string name="dtmf_tone_entries_normal">طبیعی</string>
   <string name="dtmf_tones_summary">Set the length of DTMF tones</string>
   <string name="dtmf_tones_title">DTMF tones</string>
   <string name="dual_4g_switch_summary">Allow 4G connectivity for both SIM slots</string>
@@ -1171,7 +1171,7 @@ Switch to the new provider anyway?"</string>
   <string name="list_language_dtitle">Languages</string>
   <string name="list_language_summary">Select the news language</string>
   <string name="list_language_title">Language</string>
-  <string name="load_networks_progress">Searching…</string>
+  <string name="load_networks_progress">درحال جستجو...</string>
   <string name="loading_injected_setting_summary">درحال بارگذاری…</string>
   <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
@@ -1183,7 +1183,7 @@ Switch to the new provider anyway?"</string>
   <string name="local_enable">Local news enabled</string>
   <string name="local_weather_disable">Local Weather disabled</string>
   <string name="local_weather_enable">Local Weather enabled</string>
-  <string name="location">Area</string>
+  <string name="location">محیط</string>
   <string name="lodgings_disable">Lodgings disabled</string>
   <string name="lodgings_enable">Lodgings enabled</string>
   <string name="lte_band_sel_setting">band list</string>
@@ -1624,7 +1624,7 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preference_telocation_summary_countrycode_on">Auto-dial country code</string>
   <string name="preference_telocation_summary_teloc_off">Hide contact location</string>
   <string name="preference_telocation_summary_teloc_on">Show contact location</string>
-  <string name="preference_telocation_title">Location</string>
+  <string name="preference_telocation_title">مکان</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferred network mode: CDMA/EvDo/GSM/WCDMA</string>
   <string name="preferred_network_mode_cdma_evdo_summary">Preferred network mode: CDMA / EvDo</string>
   <string name="preferred_network_mode_cdma_only_summary">Preferred network mode: CDMA only</string>

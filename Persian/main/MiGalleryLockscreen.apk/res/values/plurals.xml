@@ -41,7 +41,7 @@
         <item quantity="one">%d hr ago</item>
     </plurals>
     <plurals name="time_minute_ago">
-        <item quantity="other">%d mins ago</item>
+        <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">%d min ago</item>
     </plurals>
     <plurals name="wm_cw_count">

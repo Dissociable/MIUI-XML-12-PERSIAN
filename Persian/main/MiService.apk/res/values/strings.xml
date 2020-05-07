@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -370,7 +370,7 @@
   <string name="noon">Midday</string>
   <string name="permission_agree">موافق</string>
   <string name="permission_china_version_msg">&lt;Data&gt;Before using \"Services &amp;amp;amp; feedback\", you must read and agree to our &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;. This app also needs to connect to the internet to work normally.&lt;/Data&gt;</string>
-  <string name="permission_complete">Done</string>
+  <string name="permission_complete">انجام شده</string>
   <string name="permission_contacts_info">Access account info</string>
   <string name="permission_contacts_introduce">For signing in using Mi Account</string>
   <string name="permission_device_info">Access device info</string>
@@ -486,7 +486,7 @@
   <string name="time_picker_label_minute">M</string>
   <string name="title_settings_dialog">Permissions Required</string>
   <string name="today">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="tuesday">Tuesday</string>
   <string name="tuesday_short">Tue</string>
   <string name="tuesday_shortest">Tue</string>

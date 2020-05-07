@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -259,7 +259,7 @@ Selection"</string>
   <string name="fast_connect_device_connect_ok">Connect</string>
   <string name="fast_connect_device_connect_retry">امتحان دوباره</string>
   <string name="fast_connect_device_connect_setup">تنظیمات</string>
-  <string name="fast_connect_device_connect_success">Done</string>
+  <string name="fast_connect_device_connect_success">انجام شده</string>
   <string name="fast_connect_device_headset_l">Left</string>
   <string name="fast_connect_device_headset_r">Right</string>
   <string name="fast_connect_device_headset_reset">Press and hold the button on the box</string>
@@ -428,7 +428,7 @@ Selection"</string>
   <string name="private_dns_mode_provider_failure">"Couldn't connect"</string>
   <string name="private_dns_mode_provider_hostname_hint">Enter hostname of DNS provider</string>
   <string name="process_kernel_label">Android OS</string>
-  <string name="progress_scanning">Searching…</string>
+  <string name="progress_scanning">درحال جستجو...</string>
   <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_port_hint">8080</string>

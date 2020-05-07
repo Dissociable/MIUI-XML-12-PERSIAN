@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -64,7 +64,7 @@
   <string name="attach_group_chat">Group chat</string>
   <string name="attach_image">Pictures</string>
   <string name="attach_rcs_file">File</string>
-  <string name="attach_rcs_location">Location</string>
+  <string name="attach_rcs_location">مکان</string>
   <string name="attach_record_sound">Record audio</string>
   <string name="attach_record_video">Capture video</string>
   <string name="attach_slideshow">Slideshow</string>
@@ -166,7 +166,7 @@
   <string name="confirm_upload_sms">Upload messages to improve blocklist functionality</string>
   <string name="contact_card_unknown_contact">Unknown contact</string>
   <string name="contact_not_exists">"This person isn't in your contacts."</string>
-  <string name="context_menu_add_calendar">Add to Calendar</string>
+  <string name="context_menu_add_calendar">افزودن به تقویم</string>
   <string name="context_menu_add_contact">Add to contacts</string>
   <string name="context_menu_add_to_browser_favorite">Add to Browser bookmarks</string>
   <string name="context_menu_browse_web">Browse</string>
@@ -229,7 +229,7 @@
   <string name="discard_message_reason">Your message will be discarded because it has no valid recipients.</string>
   <string name="discard_slideshow">Discard slideshow</string>
   <string name="dl_failure_notification">"Couldn't download message %1$s from %2$s."</string>
-  <string name="done">Done</string>
+  <string name="done">انجام شده</string>
   <string name="download">دریافت</string>
   <string name="download_later">"Can't download right now. Try again later."</string>
   <string name="downloading">درحال دریافت</string>
@@ -488,7 +488,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="mx_message">Mi Message</string>
   <string name="mx_msg">Mi Message</string>
   <string name="mx_msg_pageview_setting_title">Mi Message settings</string>
-  <string name="mx_offline">Offline</string>
+  <string name="mx_offline">آفلاین</string>
   <string name="mx_on_sim_1">Mi Message SIM slot 1</string>
   <string name="mx_on_sim_2">Mi Message SIM slot 2</string>
   <string name="mx_online">Activated</string>
@@ -640,7 +640,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="priority_high">High</string>
   <string name="priority_label">"Priority: "</string>
   <string name="priority_low">Low</string>
-  <string name="priority_normal">Normal</string>
+  <string name="priority_normal">طبیعی</string>
   <string name="privacy_mode_hint">"Can't send messages in Guest mode"</string>
   <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
   <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes and hidden folders.</string>
@@ -750,7 +750,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_group_notification_invitation">Group chat invitation</string>
   <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
   <string name="rcs_list_bottom_loading">یک لحظه...</string>
-  <string name="rcs_list_bottom_search">Searching…</string>
+  <string name="rcs_list_bottom_search">درحال جستجو...</string>
   <string name="rcs_main_purpose">This feature allows you to send and receive RCS messages. RCS Messaging is provided by China Mobile.</string>
   <string name="rcs_message">RCS messages</string>
   <string name="rcs_message_disable">"Can't view this message in Second space"</string>
@@ -1038,7 +1038,7 @@ If you don't agree to grant such permissions or share and upload your personal i
   <string name="timed_message_expired_title_2">Send them now?</string>
   <string name="timed_message_to">to</string>
   <string name="title_activity_rcs_login">ورود به حساب</string>
-  <string name="title_activity_rcs_maps">Location</string>
+  <string name="title_activity_rcs_maps">مکان</string>
   <string name="title_allow_network_access">Update info automatically</string>
   <string name="title_collapse_sp_messages">Notifications group</string>
   <string name="title_hide_verification_code">Auto hide OTP on Lock screen</string>

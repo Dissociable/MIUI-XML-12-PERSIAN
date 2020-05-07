@@ -6,12 +6,12 @@
   <string name="DOWNLOAD_UNIT_MB">MB</string>
   <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Only use Wi-Fi</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -440,7 +440,7 @@ across all your devices with Xunlei"</string>
   <string name="speed_result_broadband_text1">Current download speed</string>
   <string name="speed_result_broadband_text2">%s of bandwidth</string>
   <string name="speed_result_broadband_text3">Broadband</string>
-  <string name="speed_result_finish">Done</string>
+  <string name="speed_result_finish">انجام شده</string>
   <string name="speed_result_restart">Test again</string>
   <string name="speed_start">Test</string>
   <string name="speed_stop">لغو</string>
@@ -477,7 +477,7 @@ across all your devices with Xunlei"</string>
   <string name="third_web_default">Remember this location</string>
   <string name="third_web_filename_hint">نام</string>
   <string name="third_web_filesize">سایز</string>
-  <string name="third_web_savepath">Location</string>
+  <string name="third_web_savepath">مکان</string>
   <string name="third_web_title">دریافت</string>
   <string name="time_consume">Duration</string>
   <string name="title_homepage_infoflow">Recent updates</string>

@@ -978,7 +978,7 @@
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Fast</item>
         <item>Faster</item>
         <item>Very fast</item>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="_00_00">00:00</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
@@ -119,7 +119,7 @@
   <string name="ew_detail_receive_distance_message2">%s km (Epicenter is far from you. You might not sense the earthquake.)</string>
   <string name="ew_detail_receive_distance_title">Distance to epicenter</string>
   <string name="ew_detail_receive_location_message">%2$s°N %1$s°E</string>
-  <string name="ew_detail_receive_location_title">Location</string>
+  <string name="ew_detail_receive_location_title">مکان</string>
   <string name="ew_detail_receive_time_title">Start time</string>
   <string name="ew_detail_receive_warn_time_message">%ss</string>
   <string name="ew_detail_receive_warn_time_title">Time before the start</string>
@@ -261,7 +261,7 @@
   <string name="superpower_app_delete">حذف</string>
   <string name="superpower_app_edit">ویرایش</string>
   <string name="superpower_app_exit">خروج</string>
-  <string name="superpower_app_finish">Done</string>
+  <string name="superpower_app_finish">انجام شده</string>
   <string name="superpower_app_isadded">Added</string>
   <string name="superpower_app_mms">Messaging</string>
   <string name="superpower_app_phone">تلفن</string>

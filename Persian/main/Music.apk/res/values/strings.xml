@@ -13,12 +13,12 @@
   <string name="October">October</string>
   <string name="September">September</string>
   <string name="Updated_at">"Updated: "</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -433,7 +433,7 @@
   <string name="eq_country">Country</string>
   <string name="eq_dance">Dance</string>
   <string name="eq_delete">Remove</string>
-  <string name="eq_delete_success">Done</string>
+  <string name="eq_delete_success">انجام شده</string>
   <string name="eq_electronic">Electronic</string>
   <string name="eq_flat">Default</string>
   <string name="eq_hiphop">Hip Hop</string>
@@ -649,7 +649,7 @@
   <string name="impunity_declaration_settings">Show Terms of Service</string>
   <string name="impunity_declaration_summary">Show Terms of Service every time the Music app is launched</string>
   <string name="impunity_declaration_title">Terms of Service</string>
-  <string name="in_searching_please_wait">Searching…</string>
+  <string name="in_searching_please_wait">درحال جستجو...</string>
   <string name="include_sensitive_extra">false</string>
   <string name="individuation_card_login_button">ورود به حساب</string>
   <string name="individuation_card_login_message">"Sign in to find more songs you'll love"</string>
@@ -689,7 +689,7 @@
   <string name="long_press_to_select_lyric">Press &amp; hold to select local lyrics file</string>
   <string name="low_sound_quality">Low</string>
   <string name="lrc_search_failed">"Couldn't find lyrics"</string>
-  <string name="lrc_searching">Searching…</string>
+  <string name="lrc_searching">درحال جستجو...</string>
   <string name="lyric_is_empty">No lyrics available</string>
   <string name="lyric_label">Lyrics</string>
   <string name="lyric_open_other_connect">Download lyrics using mobile network</string>
@@ -1086,7 +1086,7 @@ Be Happy"</string>
   <string name="song_name">Song</string>
   <string name="song_not_find">"This song isn't available."</string>
   <string name="song_offline">This song is no longer available.</string>
-  <string name="song_picker_complete">Done</string>
+  <string name="song_picker_complete">انجام شده</string>
   <string name="song_quality_category">موسیقی</string>
   <string name="songgroup_pick_album">Albums</string>
   <string name="songgroup_pick_playlist">Playlists</string>
@@ -1212,7 +1212,7 @@ Be Happy"</string>
   <string name="toast_uhd_songs_for_download">Downloading quality set to High</string>
   <string name="toast_uhd_songs_for_stream">Streaming quality set to High</string>
   <string name="today">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="top_chart_title">Charts</string>
   <string name="track_play_history_after_login">Sign in to view playback history</string>
   <string name="tuesday">Tuesday</string>

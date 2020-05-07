@@ -358,15 +358,15 @@
   <string name="book_save_fail">"Couldn't add booking. Try again."</string>
   <string name="book_save_sucess">Added booking successfully</string>
   <string name="book_store">View books</string>
-  <string name="book_tomorow">Tomorrow</string>
+  <string name="book_tomorow">فردا</string>
   <string name="book_update">Update is available</string>
   <string name="btn_back">برگشت</string>
   <string name="btn_more">بیشتر</string>
   <string name="bus_code">Public transport</string>
-  <string name="calc_currency">Currency</string>
+  <string name="calc_currency">واحد پول</string>
   <string name="calc_name">Scientific</string>
   <string name="calc_num">Financial characters</string>
-  <string name="calc_parent">Calculator</string>
+  <string name="calc_parent">ماشین حساب</string>
   <string name="calendar_name">Add event</string>
   <string name="calendar_parent">Calendar</string>
   <string name="call">Call</string>
@@ -398,7 +398,7 @@
   <string name="card_menu_edit">ویرایش</string>
   <string name="card_menu_remove">Remove</string>
   <string name="card_menu_setting">تنظیمات</string>
-  <string name="card_note_finish">Done</string>
+  <string name="card_note_finish">انجام شده</string>
   <string name="card_plan_fly">Scheduled departure</string>
   <string name="card_settings">Customize</string>
   <string name="card_settings_rule">Card order settings</string>
@@ -555,7 +555,7 @@
   <string name="dummy_tip">请将银行卡片正面置于此区域尝试对齐边缘。</string>
   <string name="duokan_open">Add Duokan card</string>
   <string name="duokan_setting_brief">Keep reading from the place you left off.</string>
-  <string name="edit_amount_hint">Enter amount</string>
+  <string name="edit_amount_hint">مقدار را وارد نمایید</string>
   <string name="edit_category_dialog_title">Select payment category</string>
   <string name="edit_comment_hint">Remark</string>
   <string name="edit_delete_dialog_message">Delete this history record?</string>
@@ -961,7 +961,7 @@ Check your tracking number."</string>
   <string name="greeting_weather_desc">%1$s %2$s %3$s %4$s</string>
   <string name="greeting_weather_desc_from_to">%1$s to %2$s</string>
   <string name="greeting_weather_prefix_moring">امروز</string>
-  <string name="greeting_weather_prefix_night">Tomorrow</string>
+  <string name="greeting_weather_prefix_night">فردا</string>
   <string name="greeting_weather_prefix_saturday">Saturday</string>
   <string name="greeting_weather_prefix_sunday">Sunday</string>
   <string name="groupon">Tickets &amp; coupons</string>
@@ -1012,7 +1012,7 @@ Check your tracking number."</string>
   <string name="launch_noapp_dialog_replace">جایگزینی</string>
   <string name="launch_noapp_dialog_title">The app was deleted</string>
   <string name="launch_order_change">Change order</string>
-  <string name="launch_order_finish">Done</string>
+  <string name="launch_order_finish">انجام شده</string>
   <string name="launch_setting_alipay_change">Switch accounts</string>
   <string name="launch_setting_alipay_change_msg">You have to sign out of your current Alipay account to switch accounts. Switch now?</string>
   <string name="launch_setting_alipay_change_posi">Switch</string>
@@ -1534,10 +1534,10 @@ Check your tracking number."</string>
   <string name="search_change_header">Replace cover image</string>
   <string name="search_clear_header">Remove cover image</string>
   <string name="search_hint">Search in favorites</string>
-  <string name="search_label">Searching…</string>
+  <string name="search_label">درحال جستجو...</string>
   <string name="search_setting_description">Titles in favorites</string>
-  <string name="search_tip">Searching…</string>
-  <string name="security">Security</string>
+  <string name="search_tip">درحال جستجو...</string>
+  <string name="security">امنیت</string>
   <string name="select_team_close">关闭</string>
   <string name="select_team_confirm">提交</string>
   <string name="selected_shortcuts_title">Features</string>
@@ -1659,7 +1659,7 @@ Check your tracking number."</string>
   <string name="smart_assistant_enter_tip">App vault</string>
   <string name="sms_address">Address</string>
   <string name="sms_airline">Airline</string>
-  <string name="sms_button_add_calendar">Add to Calendar</string>
+  <string name="sms_button_add_calendar">افزودن به تقویم</string>
   <string name="sms_button_call_business">Contact vendor</string>
   <string name="sms_che">Car</string>
   <string name="sms_cinema">Theater</string>
@@ -1671,7 +1671,7 @@ Check your tracking number."</string>
   <string name="sms_hotel">Hotel</string>
   <string name="sms_passenger">Passenger</string>
   <string name="sms_phone">تلفن</string>
-  <string name="sms_platform">Location</string>
+  <string name="sms_platform">مکان</string>
   <string name="sms_session">Screening</string>
   <string name="sms_start_date">تاریخ</string>
   <string name="sms_start_time">زمان</string>
@@ -1685,7 +1685,7 @@ Check your tracking number."</string>
   <string name="start_download">开始下载...</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="step_cal_unit">Cal.</string>
-  <string name="step_km">km</string>
+  <string name="step_km">کیلومتر</string>
   <string name="step_setting_tip">Steps info source</string>
   <string name="step_vip_action_bar">Steps</string>
   <string name="steps">steps</string>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -215,7 +215,7 @@
   <string name="feedback_submit_hint2">Go to \"My reports\" to view details</string>
   <string name="feedback_submit_hint_gone">Closed message</string>
   <string name="feedback_submit_succ">Sent successfully</string>
-  <string name="feedback_submit_succ_button">Done</string>
+  <string name="feedback_submit_succ_button">انجام شده</string>
   <string name="feedback_submitting">Submitting</string>
   <string name="feedback_suggestion_status_change_notification_desc">%1$s suggestion \"%2$s\"</string>
   <string name="feedback_third_packagename_hint">Which third party app causes problems?</string>

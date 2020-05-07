@@ -103,7 +103,7 @@ Turn off personalized ads anyway?"</string>
   <string name="other_settings_enhanced_lockscreen_privacy_index">سیاست حفظ حریم خصوصی</string>
   <string name="other_settings_enhanced_lockscreen_summary">Get curated images and stories delivered to your Lock screen daily. %1$s and %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">End User Licence Agreement</string>
-  <string name="other_settings_location">Location</string>
+  <string name="other_settings_location">مکان</string>
   <string name="other_settings_location_summary">Allow apps to access your location</string>
   <string name="other_settings_upload_debug_log_summary">Usage stats which help us locate and solve issues may contain your personal info</string>
   <string name="other_settings_upload_debug_log_title">Send diagnostic data automatically</string>
@@ -170,7 +170,7 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="service_agreement">"I've read and agreed to the terms and conditions."</string>
   <string name="service_name_album">Gallery</string>
   <string name="service_name_application_package">Package installer</string>
-  <string name="service_name_calculator">Calculator</string>
+  <string name="service_name_calculator">ماشین حساب</string>
   <string name="service_name_camera">Camera</string>
   <string name="service_name_carrier">Statement on carrier services</string>
   <string name="service_name_clock">Clock</string>
@@ -186,7 +186,7 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="service_name_note">Notes</string>
   <string name="service_name_recorder">Recorder</string>
   <string name="service_name_screen_recording">Screen Recorder</string>
-  <string name="service_name_security">Security</string>
+  <string name="service_name_security">امنیت</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_policy">&lt;Data&gt;Read and agree to our &amp;lt;a href=%1$s&amp;gt;Privacy Policy&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_policy_download">&lt;Data&gt;Before using our services, read and agree to &amp;lt;a href=%1$s&amp;gt;Xunlei Privacy Policy&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>

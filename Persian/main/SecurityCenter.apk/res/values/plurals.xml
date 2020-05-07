@@ -517,8 +517,8 @@ If you turn on mobile data again, your carrier may charge you for additional dat
         <item quantity="one">%s app is protected</item>
     </plurals>
     <plurals name="sp_settings_exception_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
     </plurals>
     <plurals name="st_show_num_keyword">
         <item quantity="other">%d keywords</item>

@@ -146,7 +146,7 @@
   <string name="incoming_circle_text_video_answer">Release to answer with video</string>
   <string name="incoming_circle_text_video_answer_p">Swipe up to answer with video</string>
   <string name="manageConferenceLabel">Manage conference call</string>
-  <string name="manager_conference_done">Done</string>
+  <string name="manager_conference_done">انجام شده</string>
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="notification_action_accept">قبول</string>
   <string name="notification_action_answer_video">ویدئو</string>

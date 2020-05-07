@@ -6,12 +6,12 @@
   <string name="China_Unicom">China Unicom</string>
   <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
   <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -1100,7 +1100,7 @@ a scrolling screenshot"</string>
   <string name="long_screenshot_not_support_msg">"Current app doesn't support scrolling screenshots"</string>
   <string name="long_screenshot_out_of_memory_error">Image is too big</string>
   <string name="long_screenshot_processing">Processing…</string>
-  <string name="long_screenshot_stop">Done</string>
+  <string name="long_screenshot_stop">انجام شده</string>
   <string name="long_screenshot_top_msg">Creating screenshot…</string>
   <string name="long_screenshot_top_msg_manual">Crop the screenshot and tap the button to finish</string>
   <string name="low_temperature_button_ok">فهمیدم</string>
@@ -1275,7 +1275,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="notification_channel_disabled">"You won't get these notifications anymore."</string>
   <string name="notification_channel_dnd">DND</string>
   <string name="notification_channel_general">General messages</string>
-  <string name="notification_channel_location">Location</string>
+  <string name="notification_channel_location">مکان</string>
   <string name="notification_channel_screenbutton">Buttons</string>
   <string name="notification_channel_screenshot">Screenshots</string>
   <string name="notification_channel_storage">Storage</string>
@@ -1284,7 +1284,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="notification_channel_usb">USB</string>
   <string name="notification_channels_list_desc_2">%1$s, %2$s</string>
   <string name="notification_default_channel_desc">"This app doesn't have notification categories"</string>
-  <string name="notification_done">Done</string>
+  <string name="notification_done">انجام شده</string>
   <string name="notification_group_collapse_button_text">Fold</string>
   <string name="notification_group_overflow_indicator">+%s</string>
   <string name="notification_header_default_channel">اعلانات</string>
@@ -1458,7 +1458,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="qs_control_big_tile_state_opening">Turning on…</string>
   <string name="qs_control_big_tile_state_unavailable">Not available</string>
   <string name="qs_control_customize_other_tiles_title">Available toggles</string>
-  <string name="qs_control_customize_save_text">Done</string>
+  <string name="qs_control_customize_save_text">انجام شده</string>
   <string name="qs_control_customize_sub_title">Drag added toggles to rearrange them</string>
   <string name="qs_control_customize_title">Added toggles</string>
   <string name="qs_control_expand_detail_title">My data</string>
@@ -1522,7 +1522,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="quick_settings_dnd_label">Do not disturb</string>
   <string name="quick_settings_dnd_none_label">Total silence</string>
   <string name="quick_settings_dnd_priority_label">Priority only</string>
-  <string name="quick_settings_done">Done</string>
+  <string name="quick_settings_done">انجام شده</string>
   <string name="quick_settings_drivemode_label">Car mode</string>
   <string name="quick_settings_dual_location_label">Dual GPS</string>
   <string name="quick_settings_edit_label">ویرایش</string>
@@ -1532,7 +1532,7 @@ You're also connected to a VPN, which can monitor your network activity."</strin
   <string name="quick_settings_hotspot_label">Hotspot</string>
   <string name="quick_settings_ime_label">Input method</string>
   <string name="quick_settings_inversion_label">Invert colors</string>
-  <string name="quick_settings_location_label">Location</string>
+  <string name="quick_settings_location_label">مکان</string>
   <string name="quick_settings_location_off_label">Location is off</string>
   <string name="quick_settings_media_device_label">Media device</string>
   <string name="quick_settings_midrop_label">Mi Drop</string>

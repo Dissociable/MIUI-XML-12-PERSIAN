@@ -13,7 +13,7 @@
   <string name="credential_name">Certificate name:</string>
   <string name="credential_password">Type the password to extract the certificates.</string>
   <string name="credential_usage_label">Credential use:</string>
-  <string name="done_label">DONE</string>
+  <string name="done_label">انجام شده</string>
   <string name="extracting_pkcs12">Extracting…</string>
   <string name="install_done">%1$s credentials have been added to WLAN saved networks.</string>
   <string name="install_done_title">Credentials installed</string>

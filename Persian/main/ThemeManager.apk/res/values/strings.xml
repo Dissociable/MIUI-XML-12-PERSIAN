@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -250,7 +250,7 @@
   <string name="description_designer">Designer</string>
   <string name="description_download">دانلود شده</string>
   <string name="description_size">سایز</string>
-  <string name="description_summary">Summary</string>
+  <string name="description_summary">خلاصه</string>
   <string name="description_uploadtime">بروزرسانی</string>
   <string name="description_version">Version</string>
   <string name="description_version_szie">Version: %1$s Size: %2$s</string>
@@ -509,7 +509,7 @@ To turn this feature off, go to Settings &gt; Sound &amp; vibration &gt; Profile
   <string name="lockscreen_magazine_subscribe">%1$s followers</string>
   <string name="lockscreen_magazine_summary">Categories</string>
   <string name="lockscreen_magazine_system_subscribe">%1$s wallpapers</string>
-  <string name="lockscreen_magazine_system_title">Offline</string>
+  <string name="lockscreen_magazine_system_title">آفلاین</string>
   <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
   <string name="lockscreen_wallpaper">Lock screen</string>
   <string name="lockstyle_personal_settings">Customize</string>
@@ -538,7 +538,7 @@ Tap here to sign in now."</string>
   <string name="miuishare_share_done">Shared successfully</string>
   <string name="miuishare_share_editor_title">اشتراک</string>
   <string name="miuishare_share_fail">"Couldn't share"</string>
-  <string name="miuishare_sys_title_share">More options</string>
+  <string name="miuishare_sys_title_share">گزینه های بیشتر</string>
   <string name="miuishare_timeline_title">Find your next wallpaper</string>
   <string name="miuishare_title_more">بیشتر</string>
   <string name="miuishare_title_share">اشتراک</string>
@@ -630,7 +630,7 @@ Tap here to sign in now."</string>
   <string name="mtrl_picker_save">ذخیره</string>
   <string name="mtrl_picker_text_input_date_hint">تاریخ</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
-  <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">تاریخ شروع</string>
   <string name="mtrl_picker_text_input_day_abbr">d</string>
   <string name="mtrl_picker_text_input_month_abbr">m</string>
   <string name="mtrl_picker_text_input_year_abbr">y</string>
@@ -839,7 +839,7 @@ Tap here to sign in now."</string>
   <string name="resource_local_picker">Choose local ringtone</string>
   <string name="resource_menu_refresh">تازه سازی</string>
   <string name="resource_mute">هیچ یک</string>
-  <string name="resource_my">Offline</string>
+  <string name="resource_my">آفلاین</string>
   <string name="resource_network_diagnostics">&lt;u&gt;Test network&lt;/u&gt;</string>
   <string name="resource_no_match_app">No app was found to handle this action.</string>
   <string name="resource_no_network_text">"Can't connect to the network."</string>
@@ -905,7 +905,7 @@ Tap here to sign in now."</string>
   <string name="resource_title">جزئیات</string>
   <string name="resource_title_category">Categories</string>
   <string name="resource_title_hot_subject">Popular</string>
-  <string name="resource_title_local">Offline</string>
+  <string name="resource_title_local">آفلاین</string>
   <string name="resource_title_rank">Top charts</string>
   <string name="resource_title_select_ringtone">Select tone</string>
   <string name="resource_title_subject">Featured</string>
@@ -1162,7 +1162,7 @@ Tap here to sign in now."</string>
   <string name="theme_user_agreement_title">Terms of Use</string>
   <string name="theme_wallpaper">Wallpaper Category</string>
   <string name="theme_yes">Yes</string>
-  <string name="third_party_pickers_activity_title">Add %1$s</string>
+  <string name="third_party_pickers_activity_title">افزودن %1$s</string>
   <string name="thursday">Thursday</string>
   <string name="thursday_short">Thu</string>
   <string name="thursday_shortest">T</string>
@@ -1183,7 +1183,7 @@ Tap here to sign in now."</string>
   <string name="title_system_wallpaper_resource">System wallpapers</string>
   <string name="to_activate_the_account">Activate your Mi Account now</string>
   <string name="today">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="transparency_pref_summary">Choose how transparent you want your wallpaper to be</string>
   <string name="transparency_pref_title">Opacity level</string>
   <string name="transparent_wallpaper">Transparent wallpaper</string>

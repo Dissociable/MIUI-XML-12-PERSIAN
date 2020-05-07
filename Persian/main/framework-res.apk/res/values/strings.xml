@@ -56,21 +56,21 @@
 
  You can change the feature in Settings &gt; Accessibility."</string>
   <string name="accessibility_shortcut_warning_dialog_title">Use Accessibility Shortcut?</string>
-  <string name="action_bar_home_description">Navigate home</string>
+  <string name="action_bar_home_description">رفتن به خانه</string>
   <string name="action_bar_home_description_format">%1$s, %2$s</string>
   <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
   <string name="action_bar_up_description">Navigate up</string>
-  <string name="action_menu_overflow_description">More options</string>
-  <string name="action_mode_done">Done</string>
+  <string name="action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="action_mode_done">انجام شده</string>
   <string name="activity_chooser_view_dialog_title_default">Choose activity</string>
-  <string name="activity_chooser_view_see_all">See all</string>
+  <string name="activity_chooser_view_see_all">دیدن همه</string>
   <string name="activity_list_empty">No matching activities found.</string>
   <string name="activity_resolver_app_settings">تنظیمات</string>
   <string name="activity_resolver_set_always">Set to always open</string>
   <string name="activity_resolver_use_always">Always</string>
   <string name="activity_resolver_use_once">Just once</string>
   <string name="activity_resolver_work_profiles_support">"%1$s doesn't support work profile"</string>
-  <string name="activitychooserview_choose_application">Choose an app</string>
+  <string name="activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="activitychooserview_choose_application_error">"Couldn't launch %s"</string>
   <string name="adb_active_notification_message">Tap to turn off USB debugging</string>
   <string name="adb_active_notification_title">USB debugging is on</string>
@@ -143,7 +143,7 @@
   <string name="autofill_address_summary_separator">", "</string>
   <string name="autofill_address_type_same_as_re">same as</string>
   <string name="autofill_address_type_use_my_re">use my</string>
-  <string name="autofill_area">Area</string>
+  <string name="autofill_area">محیط</string>
   <string name="autofill_area_code_notext_re">^\\($</string>
   <string name="autofill_area_code_re">area.*code|acode|area</string>
   <string name="autofill_attention_ignored_re">attention|attn</string>
@@ -464,13 +464,13 @@ using %s"</string>
   <string name="date_picker_next_month_button">Next month</string>
   <string name="date_picker_prev_month_button">Previous month</string>
   <string name="date_time">%1$s, %2$s</string>
-  <string name="date_time_done">Done</string>
+  <string name="date_time_done">انجام شده</string>
   <string name="date_time_set">تنظیم</string>
-  <string name="day">day</string>
+  <string name="day">روز</string>
   <string name="days">روز</string>
   <string name="db_default_journal_mode">PERSIST</string>
-  <string name="db_default_sync_mode">NORMAL</string>
-  <string name="db_wal_sync_mode">NORMAL</string>
+  <string name="db_default_sync_mode">طبیعی</string>
+  <string name="db_wal_sync_mode">طبیعی</string>
   <string name="decline">رد کردن</string>
   <string name="decline_remote_bugreport_action">رد کردن</string>
   <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -511,7 +511,7 @@ using %s"</string>
   <string name="display_manager_overlay_display_secure_suffix">, secure</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$dx%3$d, %4$d dpi</string>
   <string name="dlg_ok">باشه</string>
-  <string name="done_label">Done</string>
+  <string name="done_label">انجام شده</string>
   <string name="double_tap_toast">Tip: Double-tap to zoom in and out.</string>
   <string name="dump_heap_notification">%1$s exceeded memory limit</string>
   <string name="dump_heap_notification_detail">Heap dump collected. Tap to share.</string>
@@ -670,7 +670,7 @@ If you have questions, contact your organization's admin."</string>
   <string name="fingerprint_name_template">Finger %d</string>
   <string name="fingerprints">Fingerprints:</string>
   <string name="floating_toolbar_close_overflow_description">Close overflow</string>
-  <string name="floating_toolbar_open_overflow_description">More options</string>
+  <string name="floating_toolbar_open_overflow_description">گزینه های بیشتر</string>
   <string name="font_family_body_1_material">sans-serif</string>
   <string name="font_family_body_2_material">sans-serif-medium</string>
   <string name="font_family_button_material">sans-serif-medium</string>
@@ -733,7 +733,7 @@ If you have questions, contact your organization's admin."</string>
   <string name="heavy_weight_switcher_title">Choose game</string>
   <string name="hour">ساعت</string>
   <string name="hour_picker_description">Hours circular slider</string>
-  <string name="hours">hours</string>
+  <string name="hours">ساعت</string>
   <string name="httpError">There was a network error.</string>
   <string name="httpErrorAuth">"Couldn't authenticate."</string>
   <string name="httpErrorBadUrl">"Couldn't open the page because the URL is invalid."</string>
@@ -767,7 +767,7 @@ If you have questions, contact your organization's admin."</string>
   <string name="imTypeWork">Work</string>
   <string name="image_wallpaper_component">com.android.systemui/com.android.systemui.ImageWallpaper</string>
   <string name="ime_action_default">Execute</string>
-  <string name="ime_action_done">Done</string>
+  <string name="ime_action_done">انجام شده</string>
   <string name="ime_action_go">برو</string>
   <string name="ime_action_next">بعد</string>
   <string name="ime_action_previous">Prev</string>
@@ -801,7 +801,7 @@ Are you sure you want to navigate away from this page?"</string>
   <string name="keyboardview_keycode_alt">Alt</string>
   <string name="keyboardview_keycode_cancel">لغو</string>
   <string name="keyboardview_keycode_delete">حذف</string>
-  <string name="keyboardview_keycode_done">Done</string>
+  <string name="keyboardview_keycode_done">انجام شده</string>
   <string name="keyboardview_keycode_enter">Enter</string>
   <string name="keyboardview_keycode_mode_change">Mode change</string>
   <string name="keyboardview_keycode_shift">Shift</string>
@@ -1176,7 +1176,7 @@ Try again in %2$d seconds."</string>
   <string name="notification_channel_network_status">Network status</string>
   <string name="notification_channel_physical_keyboard">Physical keyboard</string>
   <string name="notification_channel_retail_mode">Retail demo</string>
-  <string name="notification_channel_security">Security</string>
+  <string name="notification_channel_security">امنیت</string>
   <string name="notification_channel_sim">SIM status</string>
   <string name="notification_channel_sms">SMS messages</string>
   <string name="notification_channel_system_changes">System changes</string>
@@ -1365,7 +1365,7 @@ Try again in %2$d seconds."</string>
   <string name="permgrouplab_calllog">Call logs</string>
   <string name="permgrouplab_camera">Camera</string>
   <string name="permgrouplab_contacts">مخاطبین</string>
-  <string name="permgrouplab_location">Location</string>
+  <string name="permgrouplab_location">مکان</string>
   <string name="permgrouplab_microphone">Microphone</string>
   <string name="permgrouplab_phone">تلفن</string>
   <string name="permgrouplab_sensors">Body sensors</string>
@@ -1719,7 +1719,7 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="silent_mode_vibrate">Ringer vibrate</string>
   <string name="sim_added_message">Restart your device to access the mobile network.</string>
   <string name="sim_added_title">SIM card added</string>
-  <string name="sim_done_button">Done</string>
+  <string name="sim_done_button">انجام شده</string>
   <string name="sim_removed_message">The mobile network will be unavailable until you restart with a valid SIM card inserted.</string>
   <string name="sim_removed_title">SIM card removed</string>
   <string name="sim_restart_button">راه اندازی مجدد</string>
@@ -1766,7 +1766,7 @@ Listening at high volume for long periods may damage your hearing."</string>
   <string name="status_bar_headset">headset</string>
   <string name="status_bar_hotspot">hotspot</string>
   <string name="status_bar_ime">ime</string>
-  <string name="status_bar_location">location</string>
+  <string name="status_bar_location">مکان</string>
   <string name="status_bar_managed_profile">managed_profile</string>
   <string name="status_bar_microphone">microphone</string>
   <string name="status_bar_mobile">mobile</string>
@@ -1937,7 +1937,7 @@ Listening at high volume for long periods may damage your hearing."</string>
 Do you want to close it?"</string>
   <string name="websearch">Web Search</string>
   <string name="week">هفته</string>
-  <string name="weeks">weeks</string>
+  <string name="weeks">هفته</string>
   <string name="wfcRegErrorTitle">Couldn’t set up Wi‑Fi calling</string>
   <string name="wfcSpnFormat_spn">%s</string>
   <string name="wfcSpnFormat_spn_vowifi">%s VoWifi</string>
@@ -2036,7 +2036,7 @@ Do you want to close it?"</string>
   <string name="write_fail_reason_cancelled">Cancelled</string>
   <string name="write_fail_reason_cannot_write">Error writing content</string>
   <string name="year">سال</string>
-  <string name="years">years</string>
+  <string name="years">سال</string>
   <string name="yes">باشه</string>
   <string name="zen_mode_alarm">Until %1$s (next alarm)</string>
   <string name="zen_mode_default_events_name">Event</string>

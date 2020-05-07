@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -436,7 +436,7 @@
   <string name="today">امروز</string>
   <string name="today_usage_title">امروز</string>
   <string name="today_use_time">Screen time: %1$s</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="touch_description">Optimized buttons and shortcuts will help you avoid accidental touch</string>
   <string name="touch_title">Enhanced touch controls</string>
   <string name="trend_from_yesterday_equal">Same as yesterday</string>
@@ -516,7 +516,7 @@ This app also needs to connect to the internet and requires the following permis
   <string name="usage_new_home_dashboard">Dashboard</string>
   <string name="usage_new_home_date_day_title">%s | Usage duration</string>
   <string name="usage_new_home_day_category_title">App categories</string>
-  <string name="usage_new_home_day_title">Day</string>
+  <string name="usage_new_home_day_title">روز</string>
   <string name="usage_new_home_day_usage_title">Individual apps</string>
   <string name="usage_new_home_first_unlock">First unlock: %s</string>
   <string name="usage_new_home_name">نام</string>
@@ -622,7 +622,7 @@ This app needs to connect to the internet and requires the following permissions
   <string name="usage_state_show_category">Categories</string>
   <string name="usage_state_show_detail">View detailed stats</string>
   <string name="usage_state_show_more">بیشتر</string>
-  <string name="usage_state_statistic_data">Stats</string>
+  <string name="usage_state_statistic_data">آمار</string>
   <string name="usage_state_sunday">Sun</string>
   <string name="usage_state_thursday">Thu</string>
   <string name="usage_state_time_end">Reached screen time limit for today</string>

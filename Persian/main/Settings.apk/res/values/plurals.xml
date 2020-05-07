@@ -393,7 +393,7 @@ For more information about this certificate, contact your admin."</item>
         <item quantity="one">1 suggestion</item>
     </plurals>
     <plurals name="uri_permissions_text">
-        <item quantity="other">%d items</item>
+        <item quantity="other">%d مورد</item>
         <item quantity="one">1 item</item>
     </plurals>
     <plurals name="usage_state_device_explain_today">

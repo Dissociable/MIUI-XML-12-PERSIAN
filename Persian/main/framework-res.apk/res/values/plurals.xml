@@ -41,11 +41,11 @@
         <item quantity="one">in %dh</item>
     </plurals>
     <plurals name="duration_minutes_relative">
-        <item quantity="other">%d minutes ago</item>
+        <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">%d minute ago</item>
     </plurals>
     <plurals name="duration_minutes_relative_future">
-        <item quantity="other">in %d minutes</item>
+        <item quantity="other">در %d دقیقه</item>
         <item quantity="one">in %d minute</item>
     </plurals>
     <plurals name="duration_minutes_shortest">

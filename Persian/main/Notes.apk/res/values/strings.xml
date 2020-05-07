@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -183,7 +183,7 @@
   <string name="dlg_title_set_password">Set password</string>
   <string name="dlg_title_use_privacy_password">Use Privacy protection password</string>
   <string name="dlg_unhide_message">Unhiding…</string>
-  <string name="done">Done</string>
+  <string name="done">انجام شده</string>
   <string name="early_morning">قبل از ظهر</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
@@ -197,7 +197,7 @@
   <string name="earthly_branches_yin">寅</string>
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
-  <string name="edit_header_done_description">Done</string>
+  <string name="edit_header_done_description">انجام شده</string>
   <string name="edit_header_lock_description">Hidden note</string>
   <string name="empty" />
   <string name="empty_folder_import_notes">Import notes</string>
@@ -484,7 +484,7 @@
   <string name="search">Notes</string>
   <string name="search_hint">Search notes</string>
   <string name="search_keyword_notes">Notes;Memo</string>
-  <string name="search_label">Searching…</string>
+  <string name="search_label">درحال جستجو...</string>
   <string name="search_menu_title">جستجو</string>
   <string name="search_path_notes">System apps/Notes</string>
   <string name="search_setting_description">Search text in your notes</string>
@@ -631,23 +631,23 @@ Allow Notes to record audio."</string>
   <string name="todo_edit_audio_hint">Say your task</string>
   <string name="todo_edit_btn_cancel_remind">Cancel reminder</string>
   <string name="todo_edit_btn_custom">Set reminder</string>
-  <string name="todo_edit_btn_done">Done</string>
+  <string name="todo_edit_btn_done">انجام شده</string>
   <string name="todo_edit_btn_today">امروز</string>
-  <string name="todo_edit_btn_tomorrow">Tomorrow</string>
+  <string name="todo_edit_btn_tomorrow">فردا</string>
   <string name="todo_edit_text_hint">Enter task description</string>
   <string name="todo_event_description_a_week_ago">1 week ago</string>
   <string name="todo_event_description_a_week_later">In 1 week</string>
   <string name="todo_event_description_day_after_tomorrow">In 2 days</string>
   <string name="todo_event_description_day_before_yesterday">2 days ago</string>
   <string name="todo_event_description_today">امروز</string>
-  <string name="todo_event_description_tomorrow">Tomorrow</string>
+  <string name="todo_event_description_tomorrow">فردا</string>
   <string name="todo_event_description_yesterday">دیروز</string>
   <string name="todo_float_permission_open_reminder">Allow Notes to display floating windows in other apps to be able to use this feature.</string>
   <string name="todo_item_group_expired">Expired</string>
   <string name="todo_item_group_finished">Completed</string>
   <string name="todo_item_group_further">بعدا</string>
   <string name="todo_item_group_today">امروز</string>
-  <string name="todo_item_group_tomorrow">Tomorrow</string>
+  <string name="todo_item_group_tomorrow">فردا</string>
   <string name="todo_item_group_unschedule">Not scheduled</string>
   <string name="todo_item_status_delete">حذف</string>
   <string name="todo_item_status_finished">Completed</string>
@@ -673,7 +673,7 @@ Allow Notes to record audio."</string>
   <string name="todo_schedule_time_repeat_week">, every week</string>
   <string name="todo_schedule_time_repeat_year">, every year</string>
   <string name="todo_schedule_time_today">امروز</string>
-  <string name="todo_schedule_time_tomorrow">Tomorrow</string>
+  <string name="todo_schedule_time_tomorrow">فردا</string>
   <string name="todo_schedule_time_yesterday">دیروز</string>
   <string name="todo_schedule_time_ymdhm">MM/dd/yyyy HH:mm</string>
   <string name="todo_search_hint">Search for tasks</string>
@@ -686,7 +686,7 @@ Allow Notes to record audio."</string>
   <string name="todo_user_guide_tip5">Stay on top of your game and never miss anything important!</string>
   <string name="todo_user_guide_tip6">Tap \"Enter\" to create a checklist of subtasks</string>
   <string name="todoalert_done">باشه</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="toolbar_check_description">Add checkbox</string>
   <string name="toolbar_delete_description">Delete this note</string>
   <string name="toolbar_gallery_description">Add image</string>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -320,7 +320,7 @@
   <string name="mtrl_picker_save">ذخیره</string>
   <string name="mtrl_picker_text_input_date_hint">تاریخ</string>
   <string name="mtrl_picker_text_input_date_range_end_hint">End date</string>
-  <string name="mtrl_picker_text_input_date_range_start_hint">Start date</string>
+  <string name="mtrl_picker_text_input_date_range_start_hint">تاریخ شروع</string>
   <string name="mtrl_picker_text_input_day_abbr">d</string>
   <string name="mtrl_picker_text_input_month_abbr">m</string>
   <string name="mtrl_picker_text_input_year_abbr">y</string>
@@ -451,7 +451,7 @@ Report this issue &gt;"</string>
   <string name="tip_feedback_success">Submitted successfully</string>
   <string name="tip_select_category">Select notification category</string>
   <string name="today">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="tuesday">Tuesday</string>
   <string name="tuesday_short">Tue</string>
   <string name="tuesday_shortest">Tue</string>

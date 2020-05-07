@@ -435,8 +435,8 @@
   <string name="discard_drafts">Discard drafts</string>
   <string name="dismiss_tip_hover_text">Dismiss tip</string>
   <string name="disturb_switch">Do not disturb</string>
-  <string name="done">Done</string>
-  <string name="done_action">Done</string>
+  <string name="done">انجام شده</string>
+  <string name="done_action">انجام شده</string>
   <string name="donot_disturb_endtime_title">To</string>
   <string name="donot_disturb_starttime_title">از</string>
   <string name="donot_disturb_summary">Notifications for emails that arrive will be silenced</string>
@@ -582,7 +582,7 @@
   <string name="general_preference_text_zoom_huge">Huge</string>
   <string name="general_preference_text_zoom_label">Message text size</string>
   <string name="general_preference_text_zoom_large">Large</string>
-  <string name="general_preference_text_zoom_normal">Normal</string>
+  <string name="general_preference_text_zoom_normal">طبیعی</string>
   <string name="general_preference_text_zoom_small">Small</string>
   <string name="general_preference_text_zoom_tiny">Tiny</string>
   <string name="generic_attachment_problem">"Can't attach file."</string>
@@ -1108,7 +1108,7 @@ to receive reminders about payments and trips"</string>
   <string name="reduce_the_receiving_frequencye_title">Sync less frequently</string>
   <string name="refresh">تازه سازی</string>
   <string name="refreshing">Refreshing…</string>
-  <string name="refreshing_done">Done</string>
+  <string name="refreshing_done">انجام شده</string>
   <string name="release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="remind_attachment_size_limit">Your emails should be less than %sMB</string>
   <string name="remote_search_body_too_large_prompt">"This email is too long.

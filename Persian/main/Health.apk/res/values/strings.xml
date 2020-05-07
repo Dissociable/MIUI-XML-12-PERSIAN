@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -39,7 +39,7 @@
   <string name="activity_title_sleep_details">Sleep details</string>
   <string name="activity_title_sleep_detection">Analyze sleep cycle</string>
   <string name="activity_title_sleep_detection_question">FAQ</string>
-  <string name="activity_title_statistic">Stats</string>
+  <string name="activity_title_statistic">آمار</string>
   <string name="add">افزودن</string>
   <string name="add_body_weight_button">Add weight data</string>
   <string name="add_body_weight_record_button">Add weight data</string>
@@ -88,7 +88,7 @@ to add cards"</string>
   <string name="back_stroke">Backstroke</string>
   <string name="background_run_tips">Tap \"Settings\" below and allow Xiaomi Health to always run in the background.</string>
   <string name="backtrack">برگشت</string>
-  <string name="basic_info_label_age">Age</string>
+  <string name="basic_info_label_age">سن</string>
   <string name="basic_info_label_birthday">Birthday</string>
   <string name="basic_info_label_gender">Gender</string>
   <string name="basic_info_label_height">Height</string>
@@ -113,11 +113,11 @@ to add cards"</string>
   <string name="body_weight_fkg">%1$.1f KG</string>
   <string name="body_weight_kg">%1$d KG</string>
   <string name="body_weight_little_obesity">Moderately obese</string>
-  <string name="body_weight_normal">Normal</string>
+  <string name="body_weight_normal">طبیعی</string>
   <string name="body_weight_obesity">Severely obese</string>
-  <string name="body_weight_overweight">Overweight</string>
+  <string name="body_weight_overweight">اضافه وزن</string>
   <string name="body_weight_severe_obesity">Very severely obese</string>
-  <string name="body_weight_thin">Underweight</string>
+  <string name="body_weight_thin">کمبود وزن</string>
   <string name="body_weight_unmeasure_today">No weigh-ins today</string>
   <string name="bone_mass">Bone mineral mass</string>
   <string name="bone_mass_descripe_content">Bone mineral is the inorganic component of bone tissue. The chemical composition of bones changes with age, affecting mineral density. Studies have shown that long-term regular resistance exercise can effectively delay bone deterioration, reduce fracture risk, and improve quality of life.</string>
@@ -277,7 +277,7 @@ If you decide to delete your health data after you choose to keep it, you can do
   <string name="date_picker_label_year" />
   <string name="date_picker_lunar">Lunar Calendar</string>
   <string name="date_week_index">"yyyy 'W'ww"</string>
-  <string name="day">Day</string>
+  <string name="day">روز</string>
   <string name="deep_light_detection_open_prompt">Your sleep cycle will be analyzed next time you go to bed</string>
   <string name="deep_sleep">Deep sleep</string>
   <string name="deep_sleep_duration">Deep sleep duration</string>
@@ -552,7 +552,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="heavenly_stems_yi">乙</string>
   <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
   <string name="high_intensity">High</string>
-  <string name="history_statistics">Stats</string>
+  <string name="history_statistics">آمار</string>
   <string name="home_page_card_setting">Start page cards</string>
   <string name="home_tip_open_data_sync">Turn on sync with the cloud</string>
   <string name="home_tip_sync_done">باموفقیت همگام سازی شد</string>
@@ -750,7 +750,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="no_snore">"You didn't snore or talk in your sleep"</string>
   <string name="no_snore_1">"You didn't snore or talk in your sleep"</string>
   <string name="noon">بعد از ظهر</string>
-  <string name="normal">Normal</string>
+  <string name="normal">طبیعی</string>
   <string name="not_achieve_stand_goals">"You haven't reached your goal"</string>
   <string name="not_added">Not added</string>
   <string name="not_open_auto_sync">Sync is off</string>
@@ -880,7 +880,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sleep_auto_start_perm_grant">Permissions granted</string>
   <string name="sleep_chart_empty">No data</string>
   <string name="sleep_chart_loading">یک لحظه...</string>
-  <string name="sleep_day">Day</string>
+  <string name="sleep_day">روز</string>
   <string name="sleep_deep">Deep sleep</string>
   <string name="sleep_deep_light_analysis">Light sleep and deep sleep</string>
   <string name="sleep_deep_light_close_tip">Deep sleep analysis is off</string>
@@ -1221,7 +1221,7 @@ sleep data"</string>
   <string name="temporary_not_available">temporary not available</string>
   <string name="text_edit_exercise_goal">Change goal</string>
   <string name="text_no_value">--</string>
-  <string name="text_save_exercise_goal">Done</string>
+  <string name="text_save_exercise_goal">انجام شده</string>
   <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
   <string name="the_anti_aggression_day">Anti-aggression Day</string>
   <string name="the_arbor_day">Arbor Day</string>
@@ -1298,7 +1298,7 @@ sleep data"</string>
   <string name="today_label">امروز</string>
   <string name="today_no_data">No data for today yet</string>
   <string name="today_single">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="too_little">Too little</string>
   <string name="total">Total</string>
   <string name="total_consumption_label">Total calories</string>
@@ -1310,7 +1310,7 @@ sleep data"</string>
   <string name="turn_count">Turned</string>
   <string name="turn_on_necessary_permissions">Permissions are required to track sleep.</string>
   <string name="unable_record_future_menstruation">"Can't record future periods"</string>
-  <string name="unit_day">Day</string>
+  <string name="unit_day">روز</string>
   <string name="unit_hour">" h"</string>
   <string name="unit_kilo_calorie">" kcal"</string>
   <string name="unit_kilometre">" km"</string>

@@ -9,12 +9,12 @@
   <string name="This_week">This week</string>
   <string name="Today">امروز</string>
   <string name="Yesterday">دیروز</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
@@ -116,14 +116,14 @@
   <string name="bind_sign_in_title">Add Mi Account</string>
   <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
   <string name="cancel">لغو</string>
-  <string name="cancel_choose">Deselect</string>
+  <string name="cancel_choose">برداشتن انتخاب ها</string>
   <string name="cancel_subscribe_tips">Unfollow now?</string>
   <string name="canceled">Canceled</string>
   <string name="cast_ad_label">Ad</string>
   <string name="cast_casting_to_device">Casting to %1$s</string>
   <string name="cast_closed_captions">Closed captions</string>
   <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
-  <string name="cast_connecting_to_device">Connecting to %1$s</string>
+  <string name="cast_connecting_to_device">درحال اتصال به %1$s</string>
   <string name="cast_disconnect">قطع اتصال</string>
   <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
   <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
@@ -140,7 +140,7 @@
   <string name="cast_invalid_stream_position_text">--:--</string>
   <string name="cast_mute">Mute</string>
   <string name="cast_notification_connected_message">Connected to %1$s</string>
-  <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+  <string name="cast_notification_connecting_message">درحال اتصال به %1$s</string>
   <string name="cast_notification_default_channel_name">Cast</string>
   <string name="cast_notification_disconnect">قطع اتصال</string>
   <string name="cast_pause">Pause</string>
@@ -200,7 +200,7 @@
   <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
   <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
   <string name="com_mixpanel_android_close">بستن</string>
-  <string name="com_mixpanel_android_done">Done</string>
+  <string name="com_mixpanel_android_done">انجام شده</string>
   <string name="com_mixpanel_android_notification_image">Image not displayed</string>
   <string name="com_permission_desc">"Mi Video can't access videos on your device. Allow access in the Settings."</string>
   <string name="com_permission_title">Permissions required</string>
@@ -252,7 +252,7 @@
   <string name="content">Content</string>
   <string name="content_can_not_null">"Can't submit feedback without description."</string>
   <string name="data_empty">No items here</string>
-  <string name="day">day</string>
+  <string name="day">روز</string>
   <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
   <string name="define_roundedimageview" />
   <string name="description">Description</string>
@@ -337,7 +337,7 @@ Send this code to the supervisor."</string>
   <string name="feedback_tag_title">Category</string>
   <string name="feedback_text_empty_toast">Enter your feedback first.</string>
   <string name="find_psw">Forgot password</string>
-  <string name="finish">Done</string>
+  <string name="finish">انجام شده</string>
   <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
   <string name="for_diagnosis_usage_only">Logs are used only for diagnostics.</string>
   <string name="for_you">FOR YOU</string>
@@ -688,7 +688,7 @@ for videos"</string>
   <string name="ovp_detail_require_subscription">Requires subscription</string>
   <string name="ovp_detail_score">"Rating: "</string>
   <string name="ovp_detail_shortcut">Shortcut</string>
-  <string name="ovp_detail_summary">Summary</string>
+  <string name="ovp_detail_summary">خلاصه</string>
   <string name="ovp_detail_v_all_episode">All episodes</string>
   <string name="ovp_detail_v_episode">Episode</string>
   <string name="ovp_detail_v_episode_all">Episodes: %2$d/%1$d</string>
@@ -930,7 +930,7 @@ Increase the security of your account."</string>
   <string name="plus_player_share_screen_starting_service">Preparing to cast…</string>
   <string name="plus_player_share_screen_stop">Stop casting</string>
   <string name="plus_player_share_screen_video_not_support">"Previews aren't supported for this video format."</string>
-  <string name="plus_player_speed">Speed</string>
+  <string name="plus_player_speed">سرعت</string>
   <string name="plus_player_speed_toast">Switched to speed %s successfully</string>
   <string name="plus_player_speed_toast_error">Playback speed is unstable now. Go back to the default speed.</string>
   <string name="plus_player_subtitle">Subtitles</string>
@@ -964,7 +964,7 @@ Increase the security of your account."</string>
   <string name="plus_properties_last_playback_time">Last played</string>
   <string name="plus_properties_length">Duration</string>
   <string name="plus_properties_media">Media</string>
-  <string name="plus_properties_path">Location</string>
+  <string name="plus_properties_path">مکان</string>
   <string name="plus_properties_playback_history">Playback history</string>
   <string name="plus_properties_resolution">Resolution</string>
   <string name="plus_properties_sample_rate">Sample rate</string>
@@ -1185,7 +1185,7 @@ Increase the security of your account."</string>
   <string name="v_confirm_unhide_videos">Unhide selected items now?</string>
   <string name="v_data_empty">No items here</string>
   <string name="v_exit">خروج</string>
-  <string name="v_finish">Done</string>
+  <string name="v_finish">انجام شده</string>
   <string name="v_input_password">گذرواژه را وارد نمایید</string>
   <string name="v_login">ورود به حساب</string>
   <string name="v_menu_hide">مخفی کردن</string>

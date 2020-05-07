@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -220,7 +220,7 @@
   <string name="edit_mode_group_error_in_folder">Close the folder before grouping icons</string>
   <string name="edit_mode_group_error_nothing_be_selected">Select an app first</string>
   <string name="edit_mode_group_error_one_folder">"Can't duplicate a folder with selected icons"</string>
-  <string name="edit_mode_top_menu_finish">Done</string>
+  <string name="edit_mode_top_menu_finish">انجام شده</string>
   <string name="edit_mode_uninstall">Uninstall</string>
   <string name="editing_add_widget_tips">Edit widgets</string>
   <string name="editing_mode_enter_tip_text">Pinch to edit Home screen</string>
@@ -253,7 +253,7 @@
   <string name="free_style_enter_tip">To view Mi Space, swipe down from the top of the screen with two fingers</string>
   <string name="free_style_exit_tip">To return to Home screen, swipe up from the bottom of the screen with two fingers</string>
   <string name="free_style_londing_text">یک لحظه...</string>
-  <string name="gadget_calculator_label">Calculator</string>
+  <string name="gadget_calculator_label">ماشین حساب</string>
   <string name="gadget_calendar_label">Calendar</string>
   <string name="gadget_clear_button_label">Cleaner</string>
   <string name="gadget_clock_12_label">Clock 2x1</string>
@@ -344,7 +344,7 @@
   <string name="menu_default_screen_preview">Set default screen</string>
   <string name="menu_edit">Edit Home screen</string>
   <string name="menu_exit_scene">Exit Mi Space</string>
-  <string name="menu_finish">Done</string>
+  <string name="menu_finish">انجام شده</string>
   <string name="menu_item_add_item">Place on Home screen</string>
   <string name="menu_launcher_setting">Launcher settings</string>
   <string name="menu_lock">Lock Home screen layout</string>
@@ -492,7 +492,7 @@
   <string name="show_most_popular_apps_you_used">Display most frequently used apps in the drawer</string>
   <string name="show_recents_recommend_title">Show suggestions</string>
   <string name="slide_to_open_newhome">Swipe up to open Content Center</string>
-  <string name="small_window_button_complete">Done</string>
+  <string name="small_window_button_complete">انجام شده</string>
   <string name="small_window_edit_content">You can add up to %d apps</string>
   <string name="small_window_edit_title">Current apps</string>
   <string name="small_window_empty">Select from available apps</string>

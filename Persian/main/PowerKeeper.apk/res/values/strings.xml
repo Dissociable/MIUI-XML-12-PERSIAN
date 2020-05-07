@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -147,7 +147,7 @@ Battery saver will treat important apps selectively."</string>
   <string name="sleepmode_privacy_link">Learn more about privacy and security</string>
   <string name="sleepmode_privacy_title">Sleep mode</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="sucess">Done</string>
+  <string name="sucess">انجام شده</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="update_profile_failture_not_connect_wifi">"Couldn't update. Connect to WLAN and try again."</string>
   <string name="update_profile_sucess">Updated from server sucessfully</string>

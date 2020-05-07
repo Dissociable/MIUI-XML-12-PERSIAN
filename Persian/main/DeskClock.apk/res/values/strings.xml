@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -147,7 +147,7 @@
   <string name="dialog_privacy_content_timer">In order to download audio files for ambient noise timers and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. Agree?</string>
   <string name="dialog_privacy_content_timer_data">"In order to download audio files for ambient noise timers (≈20MB) and provide personalized services, Clock needs to connect to the internet. Before using Clock, you must also read and agree to our %1$s and %2$s. You're using mobile data now. Agree?"</string>
   <string name="disagree">"Don't agree"</string>
-  <string name="done">Done</string>
+  <string name="done">انجام شده</string>
   <string name="dynamic_alarm_speech">Smart alarm</string>
   <string name="edit_alarm">Edit alarm</string>
   <string name="edit_label">Edit alarm label</string>
@@ -330,12 +330,12 @@
   <string name="search_worldclock_keywords">Time;World Clock;Clock</string>
   <string name="set_alarm">Select time</string>
   <string name="set_alarm_choose_ringtone">Select ringtone</string>
-  <string name="set_alarm_done">Done</string>
+  <string name="set_alarm_done">انجام شده</string>
   <string name="set_alarm_other">غیره</string>
   <string name="setting_alarm_arriving_subtitle">Show notifications before alarms go off</string>
   <string name="setting_alarm_arriving_summary">Send a notification before ringing</string>
   <string name="setting_alarm_arriving_title">Notification before ringing</string>
-  <string name="setting_complete">Done</string>
+  <string name="setting_complete">انجام شده</string>
   <string name="settings">تنظیمات</string>
   <string name="shortcut_new_alarm">Set alarm</string>
   <string name="shortcut_start_timer">Start timer</string>
@@ -350,7 +350,7 @@
   <string name="silent_alarm_summary">Silent</string>
   <string name="skip_alarm_date_format">%1$s (%2$s)</string>
   <string name="skip_alarm_once_hint">Turn off once on %s</string>
-  <string name="sleep_analysis">Stats</string>
+  <string name="sleep_analysis">آمار</string>
   <string name="sleep_analysis_chart_date_format">MM/dd</string>
   <string name="sleep_date_provider_text">Sleep data provided by Xiaomi Health</string>
   <string name="sleep_duration">"Sleep duration: "</string>
@@ -458,7 +458,7 @@
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">"You're already displaying that timezone"</string>
   <string name="today">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="turn_off_a_repeat_alarm">Turn off a repeating alarm</string>
   <string name="turn_off_this_repeat_alarm">Turn off this repeating alarm</string>
   <string name="upcoming_alarm">Upcoming alarm: %s</string>

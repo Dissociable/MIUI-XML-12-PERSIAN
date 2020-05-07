@@ -79,7 +79,7 @@
   <string name="cmas_category_other">غیره</string>
   <string name="cmas_category_rescue">Rescue</string>
   <string name="cmas_category_safety">Safety</string>
-  <string name="cmas_category_security">Security</string>
+  <string name="cmas_category_security">امنیت</string>
   <string name="cmas_category_transport">Transportation</string>
   <string name="cmas_certainty_heading">Certainty:</string>
   <string name="cmas_certainty_likely">Likely</string>
@@ -112,7 +112,7 @@
   <string name="confirm_delete_broadcast">Delete this broadcast?</string>
   <string name="delivery_time_heading">Received:</string>
   <string name="disable">Disable</string>
-  <string name="done_text">Done</string>
+  <string name="done_text">انجام شده</string>
   <string name="emergency_alert">Emergency Alert</string>
   <string name="emergency_alert_dialog_title_prefix">Alerta de Emergencia</string>
   <string name="emergency_alert_settings_title">Emergency alert settings</string>

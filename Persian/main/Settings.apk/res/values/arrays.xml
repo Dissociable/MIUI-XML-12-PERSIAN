@@ -208,16 +208,16 @@
         <item>auto</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Location</item>
+        <item>مکان</item>
         <item>Personal</item>
         <item>Messaging</item>
         <item>Media</item>
         <item>Device</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
+        <item>مکان</item>
+        <item>مکان</item>
+        <item>مکان</item>
         <item>Vibrate</item>
         <item>Read contacts</item>
         <item>Modify contacts</item>
@@ -225,9 +225,9 @@
         <item>Modify call log</item>
         <item>Read calendar</item>
         <item>Modify calendar</item>
-        <item>Location</item>
+        <item>مکان</item>
         <item>Post notification</item>
-        <item>Location</item>
+        <item>مکان</item>
         <item>Call phone</item>
         <item>Read SMS/MMS</item>
         <item>Write SMS/MMS</item>
@@ -256,8 +256,8 @@
         <item>Notification volume</item>
         <item>Bluetooth volume</item>
         <item>Keep awake</item>
-        <item>Location</item>
-        <item>Location</item>
+        <item>مکان</item>
+        <item>مکان</item>
         <item>Get usage stats</item>
         <item>Mute/unmute microphone</item>
         <item>Show toast</item>
@@ -917,7 +917,7 @@
     <string-array name="captioning_font_size_selector_titles">
         <item>Very small</item>
         <item>Small</item>
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Large</item>
         <item>Very large</item>
     </string-array>
@@ -2188,7 +2188,7 @@
         <item>9000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Immediately</item>
+        <item>بلافاصله</item>
         <item>5 seconds</item>
         <item>15 seconds</item>
         <item>30 seconds</item>
@@ -2210,7 +2210,7 @@
         <item>1800000</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>Immediately</item>
+        <item>بلافاصله</item>
         <item>After 30 seconds</item>
         <item>After 1 minute</item>
         <item>After 2 minutes</item>
@@ -2346,7 +2346,7 @@
     </string-array>
     <string-array name="miui_entryvalues_font_size">
         <item>small</item>
-        <item>normal</item>
+        <item>طبیعی</item>
         <item>medium</item>
         <item>large</item>
         <item>huge</item>
@@ -2520,7 +2520,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>td</item>
         <item>cl</item>
         <item>co</item>
-        <item>km</item>
+        <item>کیلومتر</item>
         <item>cd</item>
         <item>ck</item>
         <item>cr</item>
@@ -2983,7 +2983,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Notes</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Moderate</item>
         <item>Low</item>
         <item>Critical</item>
@@ -3005,7 +3005,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Cached (empty)</item>
     </string-array>
     <string-array name="ram_states">
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Moderate</item>
         <item>Low</item>
         <item>Critical</item>
@@ -3429,7 +3429,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Fast</item>
         <item>Faster</item>
         <item>Very fast</item>
@@ -3451,7 +3451,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="tts_rate_xunfei_entries">
         <item>Very slow</item>
         <item>Slow</item>
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Fast</item>
         <item>Faster</item>
     </string-array>

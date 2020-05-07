@@ -953,7 +953,7 @@
         <item>هیچ یک</item>
     </string-array>
     <string-array name="nav_bar_layouts">
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Compact</item>
         <item>Left-leaning</item>
         <item>Right-leaning</item>
@@ -1977,7 +1977,7 @@
     <string-array name="tts_rate_entries">
         <item>Very slow</item>
         <item>Slow</item>
-        <item>Normal</item>
+        <item>طبیعی</item>
         <item>Fast</item>
         <item>Faster</item>
         <item>Very fast</item>

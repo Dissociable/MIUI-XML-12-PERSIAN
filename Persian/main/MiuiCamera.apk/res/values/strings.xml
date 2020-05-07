@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -78,7 +78,7 @@
   <string name="accessibility_hdr_normal">HDR Pro is on</string>
   <string name="accessibility_hdr_off">HDR is off</string>
   <string name="accessibility_hdr_on">HDR is on</string>
-  <string name="accessibility_intent_done_apply">Done</string>
+  <string name="accessibility_intent_done_apply">انجام شده</string>
   <string name="accessibility_intent_done_retry">امتحان دوباره</string>
   <string name="accessibility_lighting_panel_off">Studio lighting bar is hidden</string>
   <string name="accessibility_lighting_panel_on">Showing studio lighting bar</string>
@@ -214,7 +214,7 @@ and adjust preferences automatically"</string>
   <string name="color_effect_live_fair">Pale</string>
   <string name="color_effect_live_hongkong">Bauhinia</string>
   <string name="color_effect_live_mousse">Mousse</string>
-  <string name="color_effect_live_none">Normal</string>
+  <string name="color_effect_live_none">طبیعی</string>
   <string name="color_effect_live_solar">Sky blue</string>
   <string name="color_effect_live_years">Sepia</string>
   <string name="color_enhance_mode">Enhanced colors</string>
@@ -401,7 +401,7 @@ in Portrait mode"</string>
   <string name="live_speed_extreme_fast">Super fast</string>
   <string name="live_speed_extreme_slow">Super slow</string>
   <string name="live_speed_fast">Fast</string>
-  <string name="live_speed_fragment_tab_name">Speed</string>
+  <string name="live_speed_fragment_tab_name">سرعت</string>
   <string name="live_speed_normal">Regular</string>
   <string name="live_speed_slow">Slow</string>
   <string name="live_sticker_fragment_tab_name">TikTok effects</string>
@@ -471,7 +471,7 @@ look larger on photos"</string>
   <string name="mimoji_featured_face">Face</string>
   <string name="mimoji_fragment_tab_name">Mimoji</string>
   <string name="mimoji_freckle">Freckles</string>
-  <string name="mimoji_gif_accelerate">Speed</string>
+  <string name="mimoji_gif_accelerate">سرعت</string>
   <string name="mimoji_gif_clear_bg">Remove background</string>
   <string name="mimoji_gif_edit_hint">Tap to add text</string>
   <string name="mimoji_gif_edit_title">Edit GIF</string>
@@ -490,7 +490,7 @@ look larger on photos"</string>
   <string name="mimoji_recapture_alert">All the changes will be discarded once you start over. Start over anyway?</string>
   <string name="mimoji_reset">Reset</string>
   <string name="mimoji_save">ذخیره</string>
-  <string name="mimoji_save_finish">Done</string>
+  <string name="mimoji_save_finish">انجام شده</string>
   <string name="mimoji_save_success">Saved successfully</string>
   <string name="mimoji_select_number_error">Select at least %d item</string>
   <string name="mimoji_selected">انتخاب</string>
@@ -625,7 +625,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_advance_settings">Additional settings</string>
   <string name="pref_ai_detect">AI detection</string>
   <string name="pref_audio_focus_entry_front">Front</string>
-  <string name="pref_audio_focus_entry_general">Normal</string>
+  <string name="pref_audio_focus_entry_general">طبیعی</string>
   <string name="pref_audio_focus_entry_rear">Rear</string>
   <string name="pref_audio_focus_title">Audio focus</string>
   <string name="pref_burst_shoot_title">Burst shoot</string>
@@ -679,7 +679,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_coloreffect_entry_mirror">Mirror</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaic</string>
-  <string name="pref_camera_coloreffect_entry_none">Normal</string>
+  <string name="pref_camera_coloreffect_entry_none">طبیعی</string>
   <string name="pref_camera_coloreffect_entry_sketch">Sketch</string>
   <string name="pref_camera_coloreffect_entry_small_face">Squeeze</string>
   <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
@@ -848,7 +848,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_jpegquality_title">Picture quality</string>
   <string name="pref_camera_jpegquality_value_high">high</string>
   <string name="pref_camera_jpegquality_value_low">low</string>
-  <string name="pref_camera_jpegquality_value_normal">normal</string>
+  <string name="pref_camera_jpegquality_value_normal">طبیعی</string>
   <string name="pref_camera_live_sticker_internal_title">Internal magic tools</string>
   <string name="pref_camera_long_press_shutter_feature_default">burst</string>
   <string name="pref_camera_long_press_shutter_feature_title">Press &amp; hold Shutter button</string>
@@ -877,7 +877,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_multilevel_entry_lower">Lower</string>
   <string name="pref_camera_multilevel_entry_lowest">Lowest</string>
   <string name="pref_camera_multilevel_entry_middle">Medium (default)</string>
-  <string name="pref_camera_multilevel_entry_normal">Normal</string>
+  <string name="pref_camera_multilevel_entry_normal">طبیعی</string>
   <string name="pref_camera_normal_wide_ldc_description">Correct distorted faces of the people who are close to the edge of the frame</string>
   <string name="pref_camera_normal_wide_ldc_title">Correct face distortions on group photos</string>
   <string name="pref_camera_optimized_flash_enable_title">Optimized flash</string>
@@ -932,7 +932,7 @@ Keep the subject sharp while blurring the background."</string>
   <string name="pref_camera_show_gender_age_entry_alias">Show age when Beautify is on</string>
   <string name="pref_camera_show_gender_age_entry_off">خاموش</string>
   <string name="pref_camera_show_gender_age_entry_on">Show age and gender when Beautify is on</string>
-  <string name="pref_camera_show_gender_age_label_alias">Age</string>
+  <string name="pref_camera_show_gender_age_label_alias">سن</string>
   <string name="pref_camera_show_gender_age_label_on">Age &amp; gender</string>
   <string name="pref_camera_show_gender_age_title">Age &amp; gender</string>
   <string name="pref_camera_snap_default">@string/pref_camera_snap_value_off</string>
@@ -1270,7 +1270,7 @@ Ultra wide angle mode comes to help when you can't move farther from the scene."
 to record and edit videos on the go"</string>
   <string name="vv_use_hint_text_title">VLOG</string>
   <string name="wait">یک لحظه...</string>
-  <string name="watermark_tab_city">City</string>
+  <string name="watermark_tab_city">شهر</string>
   <string name="watermark_tab_festival">Holiday</string>
   <string name="watermark_tab_general">عمومی</string>
   <string name="watermark_tab_scene">Scene</string>

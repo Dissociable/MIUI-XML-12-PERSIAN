@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -212,7 +212,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
   <string name="remove_task_in_process">Removing…</string>
   <string name="remove_task_unfinished">Not finished removing</string>
   <string name="remove_unfinished">Removing, try again later</string>
-  <string name="restore_app_order_finish">Done</string>
+  <string name="restore_app_order_finish">انجام شده</string>
   <string name="restore_app_order_loading">یک لحظه...</string>
   <string name="restore_app_order_retry">تلاش دوباره</string>
   <string name="restore_app_order_retry_desc">"Couldn't connect to the network.

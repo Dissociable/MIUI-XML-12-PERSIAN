@@ -362,7 +362,7 @@ you should create an iCloud backup first."</string>
   <string name="new_select_third_data">Third party app data</string>
   <string name="new_tab_pc_backup">Back up to computer</string>
   <string name="new_tab_pc_restore">Restore from computer</string>
-  <string name="new_task_finished">Done</string>
+  <string name="new_task_finished">انجام شده</string>
   <string name="new_usb_detail_description">"Note:
 %1$d. This method allows backing up third party apps and app data.
 %2$d. Make sure there's enough storage space on your USB drive to store backups."</string>
@@ -412,7 +412,7 @@ you should create an iCloud backup first."</string>
   <string name="password_null">"Password can't be empty"</string>
   <string name="pause">Pause</string>
   <string name="perm_camera">Camera</string>
-  <string name="perm_location">Location</string>
+  <string name="perm_location">مکان</string>
   <string name="perm_read_call_log">Read call history</string>
   <string name="perm_read_contacts">Read contacts</string>
   <string name="perm_read_phone_state">"Read phone's status"</string>

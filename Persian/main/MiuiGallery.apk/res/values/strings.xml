@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -30,7 +30,7 @@
   <string name="accept">قبول</string>
   <string name="accept_or_deny">%1$s shared the album %2$s with you.</string>
   <string name="actionbar_button_up_description">برگشت</string>
-  <string name="actionbar_overflow_item_desc">More options</string>
+  <string name="actionbar_overflow_item_desc">گزینه های بیشتر</string>
   <string name="add_automatically_alert_msg">Add photos from \"%1$s\" to this album automatically?</string>
   <string name="add_automatically_alert_title">Add photos automatically</string>
   <string name="add_nomedia_with_move_to_rubbish">Add \".nomedia\" files to selected albums to make them invisible to other apps</string>
@@ -822,7 +822,7 @@
   <string name="clip_menu_cut">برش</string>
   <string name="clip_menu_remove">حذف</string>
   <string name="clip_menu_reveerse">Reverse</string>
-  <string name="clip_menu_speedx">Speed</string>
+  <string name="clip_menu_speedx">سرعت</string>
   <string name="clip_speedX_0.25x">0.25X</string>
   <string name="clip_speedX_0.5x">0.5X</string>
   <string name="clip_speedX_1x">1X</string>
@@ -919,7 +919,7 @@
   <string name="create_quick_icon_on_desk">Create shortcut</string>
   <string name="creating_baby_album">Creating album…</string>
   <string name="crop_label">Cropped photos</string>
-  <string name="custom_select_title_deselect_all">Deselect</string>
+  <string name="custom_select_title_deselect_all">برداشتن انتخاب ها</string>
   <string name="custom_select_title_quickly_share">اشتراک</string>
   <string name="custom_select_title_select_all">انتخاب همه</string>
   <string name="custom_select_title_select_item">Select items</string>
@@ -954,7 +954,7 @@
   <string name="delete_owner_and_other_shared_images_format">%1$d deleted, %2$d saved</string>
   <string name="delete_third_party_photo">Delete this photo?</string>
   <string name="delete_third_party_video">Delete this video?</string>
-  <string name="deny">Reject</string>
+  <string name="deny">رد کردن</string>
   <string name="detail_hms">%1$d:%2$02d:%3$02d</string>
   <string name="detail_ms">%1$02d:%2$02d</string>
   <string name="detail_title">Detail info</string>
@@ -1248,7 +1248,7 @@ are available"</string>
   <string name="filter_people_story">Story</string>
   <string name="filter_people_tea">Tea</string>
   <string name="filter_portrait_hint">Color focus</string>
-  <string name="filter_scene_city">City</string>
+  <string name="filter_scene_city">شهر</string>
   <string name="filter_scene_df">Mist</string>
   <string name="filter_scene_koizora">Amour</string>
   <string name="filter_scene_lomo">LOMO</string>
@@ -1724,7 +1724,7 @@ to personalize Gallery"</string>
   <string name="operation_show_in_photos_tab">Show in Photos</string>
   <string name="operation_show_on_map">Show on map</string>
   <string name="operation_slide_show">Start slideshow</string>
-  <string name="operation_successful">Done</string>
+  <string name="operation_successful">انجام شده</string>
   <string name="operation_too_often">Whoa there! Too many requests are being made from your IP address. Wait a minute or two and try again.</string>
   <string name="operation_unforce_top">Unpin</string>
   <string name="operation_unhide">Unhide</string>
@@ -2021,7 +2021,7 @@ to personalize Gallery"</string>
   <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
   <string name="screen_editor_delete_dialog_msg">Delete this screenshot?</string>
   <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
-  <string name="screen_editor_finish">Done</string>
+  <string name="screen_editor_finish">انجام شده</string>
   <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
   <string name="screen_editor_send">@string/operation_send</string>
   <string name="screen_editor_text">@string/photo_editor_text</string>
@@ -2162,7 +2162,7 @@ to personalize Gallery"</string>
   <string name="slideshow_interval_invalid">Interval must be between 3 and 3600 seconds</string>
   <string name="slideshow_interval_title">Show each slide for</string>
   <string name="slideshow_loop_title">Loop all slides</string>
-  <string name="slim_complete">Done</string>
+  <string name="slim_complete">انجام شده</string>
   <string name="slim_complete_action_title">Optimized successfully</string>
   <string name="slim_cost_time_minute">%dm remaining</string>
   <string name="slim_cost_time_minute_and_second">%1$dm %2$ds remaining</string>
@@ -2362,7 +2362,7 @@ to personalize Gallery"</string>
   <string name="to_enable_sync_dialog_positive_button_text">Go to Settings</string>
   <string name="to_enable_sync_dialog_title">همگام سازی</string>
   <string name="today">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="too_many_recipients">"Can't add more than %2$s recipients (You've currently added %1$s)."</string>
   <string name="trash_bin">Trash bin</string>
   <string name="trash_bin_key_word">Deleted photos</string>
@@ -2438,7 +2438,7 @@ to personalize Gallery"</string>
   <string name="video_editor_auto_trim_tip">Auto trimming…</string>
   <string name="video_editor_cancel">لغو</string>
   <string name="video_editor_cancel_download">لغو</string>
-  <string name="video_editor_done">Done</string>
+  <string name="video_editor_done">انجام شده</string>
   <string name="video_editor_down_load_later">بعدا</string>
   <string name="video_editor_down_load_no_wifi_tips">Connect to Wi-Fi to download</string>
   <string name="video_editor_down_load_now">دریافت</string>
@@ -2650,7 +2650,7 @@ to personalize Gallery"</string>
   <string name="vlog_support_max_duration">A project can be up to %1$d hours long</string>
   <string name="vlog_support_max_number">You can add up to %1$d videos to a project</string>
   <string name="vlog_template_baobao">Kiddo</string>
-  <string name="vlog_template_city">City</string>
+  <string name="vlog_template_city">شهر</string>
   <string name="vlog_template_food">Food</string>
   <string name="vlog_template_fugu">Retro</string>
   <string name="vlog_template_kuxuan">Tempo</string>

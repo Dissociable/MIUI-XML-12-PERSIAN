@@ -9,12 +9,12 @@
   <string name="SD_SDCard_mounted">Detect SDCard</string>
   <string name="SD_SDCard_total_size">Total size</string>
   <string name="SD_SDCard_unmounted">SDCard unavailable</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
@@ -102,7 +102,7 @@
   <string name="busy">繁忙</string>
   <string name="button_ok">باشه</string>
   <string name="camera_capture">Capture</string>
-  <string name="camera_done">Done</string>
+  <string name="camera_done">انجام شده</string>
   <string name="camera_error">"This device doesn't support Camera2 API."</string>
   <string name="camera_flood">- Flood -</string>
   <string name="camera_menu_list">CameraList</string>
@@ -234,7 +234,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_blue_torch_on">Turn on blue flash light</string>
   <string name="cit_bluetooth_address_open_error">"Couldn't get Bluetooth address. An error occurred while opening Bluetooth device."</string>
   <string name="cit_bluetooth_logging_confirm_info">this Bluetooth Logging will collect your device Bluetooth protocal datas, only record current Bluetooth releated operations. Involve privacy information data will also be recorded: Bluetooth Phonebook Access/Telephone Call History/SMS/MMS/Exchanged Files/Music Meta Data etc. this data is limited to XiaoMi company internal debugging with users but not be used for other purposes.</string>
-  <string name="cit_bluetooth_logging_confirm_ng">Reject</string>
+  <string name="cit_bluetooth_logging_confirm_ng">رد کردن</string>
   <string name="cit_bluetooth_logging_confirm_notify">Do you agree to enable logging?</string>
   <string name="cit_bluetooth_logging_confirm_ok">موافق</string>
   <string name="cit_bluetooth_logging_confirm_title">Bluetooth Logging Privacy Warning</string>

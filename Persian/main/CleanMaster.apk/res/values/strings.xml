@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="RF_DalvikCacheLeftovers">软件的系统残留 (Dalvik-Cache)</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -136,7 +136,7 @@
   <string name="auto_clean_time_three_day">Every 3 days</string>
   <string name="auto_cleaner_open">روشن</string>
   <string name="back">برگشت</string>
-  <string name="btn_text_done">Done</string>
+  <string name="btn_text_done">انجام شده</string>
   <string name="btn_text_quick_cleanup">Clean up</string>
   <string name="btn_text_quick_cleanup_apk">Delete selected APKs %1$s</string>
   <string name="btn_text_quick_cleanup_appdata">Delete selected data %1$s</string>
@@ -168,8 +168,8 @@
   <string name="button_text_select_pic">انتخاب</string>
   <string name="button_text_uninstall">Uninstall</string>
   <string name="button_text_uninstall_only">Uninstall %s</string>
-  <string name="button_text_unselect_all">Deselect</string>
-  <string name="button_text_unselect_pic">Deselect</string>
+  <string name="button_text_unselect_all">برداشتن انتخاب ها</string>
+  <string name="button_text_unselect_pic">برداشتن انتخاب ها</string>
   <string name="button_text_view_detail">جزئیات</string>
   <string name="button_text_view_file">File</string>
   <string name="buy_a_new_phone">Get more storage space</string>
@@ -407,7 +407,7 @@
   <string name="hints_cleanfinish">Finished cleaning</string>
   <string name="hints_deepclean_list_item_from">From %s</string>
   <string name="hints_deepclean_scanning">Scanning %s</string>
-  <string name="hints_finish_quick_cleanup">Done</string>
+  <string name="hints_finish_quick_cleanup">انجام شده</string>
   <string name="hints_finish_quick_cleanup_title">Clean up %s trash</string>
   <string name="hints_finish_quick_scan">Finished scanning</string>
   <string name="hints_garbage_cleanup_result_danger">Clean up internal storage</string>
@@ -572,7 +572,7 @@
   <string name="msg_update_error_code_already_running">Updating…</string>
   <string name="msg_update_error_code_network_error">"Can't connect to the network"</string>
   <string name="msg_update_error_code_no_newer_db">Cleaner is up to date</string>
-  <string name="msg_update_error_code_success">Done</string>
+  <string name="msg_update_error_code_success">انجام شده</string>
   <string name="msg_update_error_code_unknown_error">Servers are busy. Wait a minute or two and try again.</string>
   <string name="name_debuglog_dir">BSP debug log</string>
   <string name="name_optimizer">سیاست حفظ حریم خصوصی</string>
@@ -894,7 +894,7 @@
   <string name="whatsapp_delete_confirm_cancel">لغو</string>
   <string name="whatsapp_delete_confirm_message">Delete now?</string>
   <string name="whatsapp_delete_confirm_ok">باشه</string>
-  <string name="whatsapp_delete_done">Done</string>
+  <string name="whatsapp_delete_done">انجام شده</string>
   <string name="whatsapp_file_show_order">امروز</string>
   <string name="whatsapp_function_summery">Clear WhatsApp attachments</string>
   <string name="whatsapp_function_title">WhatsApp cleaner</string>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -32,7 +32,7 @@
   <string name="accessibility_add_attendee">Add attendee</string>
   <string name="accessibility_alarm_remind">Alarm reminders</string>
   <string name="accessibility_all_day">All day event</string>
-  <string name="accessibility_pick_start_date">Start date</string>
+  <string name="accessibility_pick_start_date">تاریخ شروع</string>
   <string name="accessibility_pick_time_zone">Time zone</string>
   <string name="accessibility_remove_attendee">Remove attendee</string>
   <string name="accessibility_repeats">Repeat</string>
@@ -336,7 +336,7 @@
   <string name="hint_attendees">Guests</string>
   <string name="hint_description">Description</string>
   <string name="hint_what">Event name</string>
-  <string name="hint_where">Location</string>
+  <string name="hint_where">مکان</string>
   <string name="hksar_establishment_day">香港特别行政区成立纪念日</string>
   <string name="hksar_establishment_day_tradition">香港特別行政區成立紀念日</string>
   <string name="hoar_frost_falls">霜降</string>
@@ -652,7 +652,7 @@ Check network settings and try again."</string>
   <string name="repeat_end_label">Stop repeating after</string>
   <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
-  <string name="repeat_interval_frequency_day_single">day</string>
+  <string name="repeat_interval_frequency_day_single">روز</string>
   <string name="repeat_interval_frequency_month_single">ماه</string>
   <string name="repeat_interval_frequency_week_single">هفته</string>
   <string name="repeat_interval_frequency_year_single">سال</string>
@@ -660,7 +660,7 @@ Check network settings and try again."</string>
   <string name="repeat_label_choose_month">Choose month</string>
   <string name="repeat_label_choose_time">Choose reminder time</string>
   <string name="repeat_label_choose_week">Choose week</string>
-  <string name="repeat_label_day">Day</string>
+  <string name="repeat_label_day">روز</string>
   <string name="repeat_label_frequency">Frequency</string>
   <string name="repeat_label_interval">Every</string>
   <string name="repeat_label_week">هفته</string>
@@ -799,7 +799,7 @@ Check network settings and try again."</string>
   <string name="summer_solstice_tradition">夏至</string>
   <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="tab_title_agenda">Events</string>
-  <string name="tab_title_day">Day</string>
+  <string name="tab_title_day">روز</string>
   <string name="tab_title_month">ماه</string>
   <string name="tab_title_week">هفته</string>
   <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
@@ -851,7 +851,7 @@ Check network settings and try again."</string>
   <string name="today_no_events">No events</string>
   <string name="todo_audio_event">"[Voice task] "</string>
   <string name="todo_event">Upcoming tasks</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="tomorrow_at_time_fmt">Tomorrow at %s</string>
   <string name="too_long_content">Content is too long</string>
   <string name="too_long_description">Event description is too long</string>

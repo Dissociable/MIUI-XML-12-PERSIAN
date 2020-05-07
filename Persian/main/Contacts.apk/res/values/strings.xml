@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -38,7 +38,7 @@
   <string name="account_sim">SIM card</string>
   <string name="account_type_format">%1$s contact</string>
   <string name="actionIncomingCall">Incoming calls</string>
-  <string name="action_menu_overflow_description">More options</string>
+  <string name="action_menu_overflow_description">گزینه های بیشتر</string>
   <string name="actionbar_button_up_description">برگشت</string>
   <string name="activity_title_confirm_add_detail">Add to contact</string>
   <string name="activity_title_contacts_filter">Contacts to display</string>
@@ -323,7 +323,7 @@
   <string name="confirm_delete_sim_entry_miui_title">حذف</string>
   <string name="confirm_export_message">Your contact list will be exported to file: %s.</string>
   <string name="confirm_export_title">Export contacts?</string>
-  <string name="connections">Connections</string>
+  <string name="connections">اتصالات</string>
   <string name="contactDetailAbout">Contact info</string>
   <string name="contactDetailCalllog">تاریخچه تماس</string>
   <string name="contactDetailUpdates">Updates</string>
@@ -759,7 +759,7 @@ Reason: \"%s\""</string>
   <string name="hybrid_try_again">تلاش دوباره</string>
   <string name="hybrid_webpage_not_available">Webpage not available</string>
   <string name="ic_menu_back">برگشت</string>
-  <string name="ic_menu_done">Done</string>
+  <string name="ic_menu_done">انجام شده</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
   <string name="imei_invalid">Invalid IMEI</string>
@@ -866,7 +866,7 @@ Reason: \"%s\""</string>
   <string name="menu_done">باشه</string>
   <string name="menu_editContact">ویرایش</string>
   <string name="menu_editGroup">ویرایش</string>
-  <string name="menu_edit_mode">Edit mode</string>
+  <string name="menu_edit_mode">حالت ویرایش</string>
   <string name="menu_help">Help</string>
   <string name="menu_import_export">Import/export</string>
   <string name="menu_joinAggregate">Merge</string>
@@ -1150,7 +1150,7 @@ To add a contact to your list of favorites:
   <string name="pm">بعد از ظهر</string>
   <string name="postalLabelsGroup">Address</string>
   <string name="postal_address">Address</string>
-  <string name="postal_city">City</string>
+  <string name="postal_city">شهر</string>
   <string name="postal_country">Country</string>
   <string name="postal_neighborhood">Neighborhood</string>
   <string name="postal_pobox">PO box</string>
@@ -1216,7 +1216,7 @@ To add a contact to your list of favorites:
   <string name="preference_telocation_summary_countrycode_on">Auto-dial country code</string>
   <string name="preference_telocation_summary_teloc_off">Hide contact location</string>
   <string name="preference_telocation_summary_teloc_on">Show contact location</string>
-  <string name="preference_telocation_title">Location</string>
+  <string name="preference_telocation_title">مکان</string>
   <string name="preference_tone_title">Tones</string>
   <string name="prepare_import">Import contacts</string>
   <string name="preview_contact_card_title">Importing contacts…</string>
@@ -1324,7 +1324,7 @@ To add a contact to your list of favorites:
   <string name="search_preference_contacts_filter">Contacts;Display</string>
   <string name="search_quick_dial_setting">تلفن</string>
   <string name="search_remove_duplicate">Organize;Contacts</string>
-  <string name="search_results_searching">Searching…</string>
+  <string name="search_results_searching">درحال جستجو...</string>
   <string name="search_settings_description">Names of your contacts</string>
   <string name="search_share_visible_contacts">Contacts;Share;visible</string>
   <string name="search_sim_capacity">مخاطبین</string>
@@ -1466,11 +1466,11 @@ To add a contact to your list of favorites:
   <string name="status_available">Available</string>
   <string name="status_away">Away</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="status_busy">Busy</string>
+  <string name="status_busy">مشغول</string>
   <string name="strequentList">Favorites</string>
   <string name="success_message_import_from_account">Contact imported</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
-  <string name="summary_kind_title">Summary</string>
+  <string name="summary_kind_title">خلاصه</string>
   <string name="sunday">Sunday</string>
   <string name="sunday_short">Sun</string>
   <string name="sunday_shortest">Sun</string>
@@ -1538,7 +1538,7 @@ To add a contact to your list of favorites:
   <string name="toast_call_detail_error">"Couldn't read details for the requested call"</string>
   <string name="toast_call_no_SoundRecorder">"Recorder isn't available"</string>
   <string name="toast_call_no_notes">"Notes app isn't available"</string>
-  <string name="toast_copy_done">Done</string>
+  <string name="toast_copy_done">انجام شده</string>
   <string name="toast_copying">Copying…</string>
   <string name="toast_displaying_all_contacts">Displaying all contacts</string>
   <string name="toast_finish_delete_call_log">Cleared successfully</string>
@@ -1550,7 +1550,7 @@ To add a contact to your list of favorites:
   <string name="toast_start_intent_failed">"Couldn't find apps to handle this action"</string>
   <string name="toast_text_copied">Text copied</string>
   <string name="today">امروز</string>
-  <string name="tomorrow">Tomorrow</string>
+  <string name="tomorrow">فردا</string>
   <string name="transfer_accounts">Transfer accounts</string>
   <string name="tuesday">Tuesday</string>
   <string name="tuesday_short">Tue</string>
@@ -1632,7 +1632,7 @@ Choose one of the following options:"</string>
   <string name="yellowpage_navigation_more_items">بیشتر</string>
   <string name="yellowpage_navigation_more_items_title">More services</string>
   <string name="yellowpage_navigation_no_content">"Didn't find anything"</string>
-  <string name="yellowpage_navigation_search_city_name_hint">City</string>
+  <string name="yellowpage_navigation_search_city_name_hint">شهر</string>
   <string name="yellowpage_navigation_search_history">تاریخچه</string>
   <string name="yellowpage_navigation_search_offline_hint">"You're offline"</string>
   <string name="yellowpage_navigation_search_result_average_price">Average CNY %d</string>

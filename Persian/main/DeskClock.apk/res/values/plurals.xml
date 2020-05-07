@@ -5,8 +5,8 @@
         <item quantity="one">Snoozing for %d minute.</item>
     </plurals>
     <plurals name="day">
-        <item quantity="other">%d days</item>
-        <item quantity="one">%d day</item>
+        <item quantity="other">%d روز</item>
+        <item quantity="one">%d روز</item>
     </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">Delete the selected alarms?</item>

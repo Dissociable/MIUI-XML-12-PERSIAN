@@ -5,8 +5,8 @@
         <item quantity="one">Delete %d recording</item>
     </plurals>
     <plurals name="choose_call_records_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
     </plurals>
     <plurals name="confirm_delete_cloud_records">
         <item quantity="other">Delete %d recordings from the cloud?</item>
@@ -17,8 +17,8 @@
         <item quantity="one">Delete %d recording?</item>
     </plurals>
     <plurals name="local_records_count">
-        <item quantity="other">%d items</item>
-        <item quantity="one">%d item</item>
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
     </plurals>
     <plurals name="notification_warning">
         <item quantity="other">Storage low (less than %d minutes)</item>

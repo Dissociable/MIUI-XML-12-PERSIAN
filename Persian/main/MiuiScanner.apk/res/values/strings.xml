@@ -2,12 +2,12 @@
 <resources>
   <string name="Approval">Apply</string>
   <string name="Xiaomi_account_pending_approval">Reviewing application</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
@@ -120,7 +120,7 @@
   <string name="createQRCode_save">ذخیره</string>
   <string name="create_again">تازه سازی</string>
   <string name="crop_cancel_description">لغو</string>
-  <string name="crop_done_description">Done</string>
+  <string name="crop_done_description">انجام شده</string>
   <string name="crop_title_study">Crop the photo</string>
   <string name="crop_title_translation">Select text to translate</string>
   <string name="default_language">@string/language_value_chinese_cn</string>
@@ -142,7 +142,7 @@
   <string name="document_save_succeed_tip">Document saved to %1$s</string>
   <string name="document_title">Take a photo of the document</string>
   <string name="document_top_panel_title">Document photo</string>
-  <string name="done">Done</string>
+  <string name="done">انجام شده</string>
   <string name="downloadAiVison">Install a plug-in to use this feature</string>
   <string name="download_stable_version">Use stable version</string>
   <string name="download_use_stable_version">Download stable version</string>
@@ -265,7 +265,7 @@
   <string name="please_try_again_later">Wait a minute or two and try again</string>
   <string name="pref_camera_focusmode_default">continuous-picture</string>
   <string name="pref_camera_jpeg_quality_fine">fine</string>
-  <string name="pref_camera_jpeg_quality_normal">normal</string>
+  <string name="pref_camera_jpeg_quality_normal">طبیعی</string>
   <string name="pref_camera_jpeg_quality_superfine">superfine</string>
   <string name="preparing_sd">Preparing internal storage…</string>
   <string name="previous">برگشت</string>
@@ -305,7 +305,7 @@
   <string name="setting_title">تنظیمات</string>
   <string name="setting_use_last_choose">Remember previous choice</string>
   <string name="setting_wechat">WeChat</string>
-  <string name="shopping_searching">Searching…</string>
+  <string name="shopping_searching">درحال جستجو...</string>
   <string name="shopping_title">Take a photo of the product</string>
   <string name="shopping_vendor_info">Powered by Taobao</string>
   <string name="spaceIsLow_content">Not enough space on internal storage. Free up some space.</string>

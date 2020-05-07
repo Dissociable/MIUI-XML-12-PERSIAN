@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -94,7 +94,7 @@ All your previous user data will be saved."</string>
   <string name="dlg_sys_app_replacement_statement">"This is a system app.
 
 All your previous user data will be saved."</string>
-  <string name="done">Done</string>
+  <string name="done">انجام شده</string>
   <string name="expand_button_title">پیشرفته</string>
   <string name="external_sources_settings">تنظیمات</string>
   <string name="external_sources_settings_negative">Restrict</string>
@@ -226,7 +226,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="miui_privacy_relative">Privacy</string>
   <string name="miui_recommend_clean">Clear app data as well</string>
   <string name="miui_recommend_clean_msg">"App data may contain this app's downloads, files, etc."</string>
-  <string name="miui_security_relative">Security</string>
+  <string name="miui_security_relative">امنیت</string>
   <string name="miui_solution_clean">Clear trash</string>
   <string name="miui_solution_msg">Solution</string>
   <string name="miui_solution_msg_2">Solution</string>
@@ -313,7 +313,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="risk_warning_title">Risks detected</string>
   <string name="risk_warning_top_button">"Don't install"</string>
   <string name="safe_guard_support">Technical support provided by %1$s</string>
-  <string name="safe_relative">Security</string>
+  <string name="safe_relative">امنیت</string>
   <string name="screen_overlay_button">Open settings</string>
   <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
   <string name="screen_overlay_title">Screen overlay detected</string>

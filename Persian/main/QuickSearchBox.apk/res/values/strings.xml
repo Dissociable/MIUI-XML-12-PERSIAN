@@ -43,7 +43,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="default_hint">Search locally or the web for…</string>
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Clear shortcuts</string>
-  <string name="distance_unit_kilometer">km</string>
+  <string name="distance_unit_kilometer">کیلومتر</string>
   <string name="distance_unit_meter">m</string>
   <string name="entrance_setting">Opening search</string>
   <string name="google_app_label">Google Search</string>
@@ -78,7 +78,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="recent_delete_positive">باشه</string>
   <string name="recent_delete_title">Hide apps</string>
   <string name="recent_edit">ویرایش</string>
-  <string name="recent_edit_done">Done</string>
+  <string name="recent_edit_done">انجام شده</string>
   <string name="recent_filter_functions">Turned off features</string>
   <string name="recent_function">Features</string>
   <string name="recently_shortcut_label">Recent shortcuts</string>

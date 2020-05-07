@@ -5,7 +5,7 @@
         <item quantity="one">%d hour ago</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d minutes ago</item>
+        <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">%d minute ago</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">

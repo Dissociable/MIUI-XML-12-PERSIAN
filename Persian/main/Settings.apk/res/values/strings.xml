@@ -13,12 +13,12 @@
   <string name="APN_NAME_CUWAP">China Unicom WAP</string>
   <string name="Accounts_settings_title">Accounts</string>
   <string name="a11y_settings_label">Accessibility settings</string>
-  <string name="abc_action_bar_home_description">Navigate home</string>
+  <string name="abc_action_bar_home_description">رفتن به خانه</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
-  <string name="abc_action_menu_overflow_description">More options</string>
-  <string name="abc_action_mode_done">Done</string>
-  <string name="abc_activity_chooser_view_see_all">See all</string>
-  <string name="abc_activitychooserview_choose_application">Choose an app</string>
+  <string name="abc_action_menu_overflow_description">گزینه های بیشتر</string>
+  <string name="abc_action_mode_done">انجام شده</string>
+  <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+  <string name="abc_activitychooserview_choose_application">انتخاب یک برنامه</string>
   <string name="abc_capital_off">خاموش</string>
   <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
@@ -291,7 +291,7 @@ To switch between services, swipe up with two fingers and hold."</string>
   <string name="add_fingerprint_edge_instruction_msg">Move your finger so the sensor could record the edges of your fingerprint.</string>
   <string name="add_fingerprint_edge_instruction_title">Move your finger slightly</string>
   <string name="add_fingerprint_failed_retry_text">"Couldn't add fingerprint, try again"</string>
-  <string name="add_fingerprint_finished_button_text">Done</string>
+  <string name="add_fingerprint_finished_button_text">انجام شده</string>
   <string name="add_fingerprint_instruction_msg">Fingerprint sensor is built in the Home button of your device.</string>
   <string name="add_fingerprint_instruction_title">Add your fingerprint</string>
   <string name="add_fingerprint_move_fast">Keep your finger on the screen a bit longer</string>
@@ -510,7 +510,7 @@ Your admin has the ability to monitor and manage settings, access, apps, and dat
   <string name="app_notification_row_priority">Priority</string>
   <string name="app_notification_row_sensitive">Sensitive</string>
   <string name="app_notification_visibility_override_title">Lock screen</string>
-  <string name="app_notifications_dialog_done">Done</string>
+  <string name="app_notifications_dialog_done">انجام شده</string>
   <string name="app_notifications_off_desc">"At your request, Android is blocking this app's notifications from appearing on this device"</string>
   <string name="app_notifications_switch_label">Custom notification</string>
   <string name="app_notifications_title">App notifications</string>
@@ -1161,7 +1161,7 @@ Here's what might be wrong:
 
 To improve device experience, apps and services can still scan for nearby devices at any time, even when Bluetooth is off. This can be used, for example, to improve location-based features and services. you can change this in "&lt;annotation id="link"&gt;scanning settings&lt;/annotation&gt;.</string>
   <string name="bluetooth_search_for_devices">تازه سازی</string>
-  <string name="bluetooth_searching_for_devices">Searching…</string>
+  <string name="bluetooth_searching_for_devices">درحال جستجو...</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">Bluetooth audio aptX adaptive mode</string>
   <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"Trigger Bluetooth audio
 aptX adaptive: Codec mode"</string>
@@ -1360,7 +1360,7 @@ You can turn this feature off in the Settings &gt; Bluetooth &gt; Paired devices
   <string name="button_text_ok">باشه</string>
   <string name="button_text_ok_timer">OK (%d)</string>
   <string name="button_text_reboot_now">Reboot</string>
-  <string name="button_text_reject">Reject</string>
+  <string name="button_text_reject">رد کردن</string>
   <string name="byteShort">B</string>
   <string name="cache_header_label">Cache</string>
   <string name="cache_size_label">Cache</string>
@@ -2300,8 +2300,8 @@ If this keeps happening, you may need to uninstall the app to improve battery pe
   <string name="domain_urls_summary_one">Open %s</string>
   <string name="domain_urls_summary_some">Open %s and other URLs</string>
   <string name="domain_urls_title">Opening links</string>
-  <string name="done">Done</string>
-  <string name="done_button">Done</string>
+  <string name="done">انجام شده</string>
+  <string name="done_button">انجام شده</string>
   <string name="double_click_power_key">Double press the Power button</string>
   <string name="double_tap_power_for_camera_suggestion_title">Open camera quickly</string>
   <string name="double_tap_power_for_camera_summary">To quickly open camera, press the power button twice. Works from any screen.</string>
@@ -2548,7 +2548,7 @@ For more details, contact your organization's admin."</string>
   <string name="face_data_input_camera_fail">"Couldn't load camera"</string>
   <string name="face_data_input_camera_ok">Loading camera…</string>
   <string name="face_data_input_cancel_msg">"Couldn't add face data"</string>
-  <string name="face_data_input_ok">Done</string>
+  <string name="face_data_input_ok">انجام شده</string>
   <string name="face_data_input_ok_title">Added successfully</string>
   <string name="face_data_input_structure_title">3D face data</string>
   <string name="face_data_input_title">Add face data</string>
@@ -2772,7 +2772,7 @@ There seemed to be no horses nor animals of any kind; the men carried things aro
   <string name="force_stop_dlg_text">If you force stop an app, it may misbehave.</string>
   <string name="force_stop_dlg_title">Force stop?</string>
   <string name="foreground_traffic">Foreground %s</string>
-  <string name="forget">Forget</string>
+  <string name="forget">فراموش کردن</string>
   <string name="forget_passpoint_dialog_message">You may lose access to any remaining time or data. Check with your provider before removing.</string>
   <string name="forget_password_button_text">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="forget_password_dialog_button_text">برگشت</string>
@@ -3463,7 +3463,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="list_empty_text">خالی</string>
   <string name="live_caption_summary">Automatically caption media</string>
   <string name="live_caption_title">Live Caption</string>
-  <string name="load_networks_progress">Searching…</string>
+  <string name="load_networks_progress">درحال جستجو...</string>
   <string name="loading">یک لحظه...</string>
   <string name="loading_injected_setting_summary">درحال بارگذاری…</string>
   <string name="loading_notification_apps">Loading apps...</string>
@@ -3534,7 +3534,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="location_no_recent_accesses">No apps recently accessed location</string>
   <string name="location_no_recent_apps">No apps have requested location recently</string>
   <string name="location_recent_location_access_view_details">مشاهده جزئیات</string>
-  <string name="location_recent_location_requests_see_all">See all</string>
+  <string name="location_recent_location_requests_see_all">دیدن همه</string>
   <string name="location_scanning_bluetooth_always_scanning_description">Allow apps and services to scan for nearby devices at any time, even when Bluetooth is off. This can be used, for example, to improve location-based features and services.</string>
   <string name="location_scanning_bluetooth_always_scanning_title">Bluetooth scanning</string>
   <string name="location_scanning_screen_title">WLAN and Bluetooth scanning</string>
@@ -3543,7 +3543,7 @@ Open Xiaomi Cloud and restore items from there."</string>
   <string name="location_settings_loading_app_permission_stats">درحال بارگذاری…</string>
   <string name="location_settings_master_switch_title">Use location</string>
   <string name="location_settings_summary_location_off">خاموش</string>
-  <string name="location_settings_title">Location</string>
+  <string name="location_settings_title">مکان</string>
   <string name="location_sources_heading">Location sources</string>
   <string name="location_street_level">Let apps use GPS on your phone to pinpoint your location</string>
   <string name="location_title">My Location</string>
@@ -4657,7 +4657,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="page_layout_1">Sunday, 16 August</string>
   <string name="page_layout_10">تنظیمات</string>
   <string name="page_layout_11">آب و هوا</string>
-  <string name="page_layout_12">Security</string>
+  <string name="page_layout_12">امنیت</string>
   <string name="page_layout_13">ابزار</string>
   <string name="page_layout_18">Recents</string>
   <string name="page_layout_19">مخاطبین</string>
@@ -4956,7 +4956,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="prevent_ringing_option_vibrate_summary">On (vibrate)</string>
   <string name="preview_page_indicator_content_description">Preview, page %1$d of %2$d</string>
   <string name="preview_pager_content_description">Preview</string>
-  <string name="previous_connected_see_all">See all</string>
+  <string name="previous_connected_see_all">دیدن همه</string>
   <string name="print_blocked_state_title_template">Printer blocked %1$s</string>
   <string name="print_cancel">لغو</string>
   <string name="print_cancelling_state_title_template">Cancelling %1$s</string>
@@ -4966,7 +4966,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="print_feature_state_on">روشن</string>
   <string name="print_job_summary">"%1$s
 %2$s"</string>
-  <string name="print_menu_item_add_printer">Add printer</string>
+  <string name="print_menu_item_add_printer">افزودن چاپگر</string>
   <string name="print_menu_item_add_printers">Add printers</string>
   <string name="print_menu_item_add_service">Add service</string>
   <string name="print_menu_item_search">جستجو</string>
@@ -5115,7 +5115,7 @@ OTG turns off automatically after 10 minutes of inactivity."</string>
   <string name="provision_next">بعد</string>
   <string name="provision_page_layout_confirm_message">Your device needs to reboot to apply these changes. This takes about 1 minute.</string>
   <string name="provision_skip">پرش</string>
-  <string name="proxy_action_text">Done</string>
+  <string name="proxy_action_text">انجام شده</string>
   <string name="proxy_clear_text">پاک کردن</string>
   <string name="proxy_defaultView_text">Restore defaults</string>
   <string name="proxy_error">Attention</string>
@@ -5338,7 +5338,7 @@ Restart your device and try again."</string>
   <string name="restriction_bluetooth_config_summary">Allow modification of Bluetooth pairings and settings</string>
   <string name="restriction_bluetooth_config_title">بلوتوث</string>
   <string name="restriction_location_enable_summary">Let apps use your location information</string>
-  <string name="restriction_location_enable_title">Location</string>
+  <string name="restriction_location_enable_title">مکان</string>
   <string name="restriction_menu_change_pin">Change PIN</string>
   <string name="restriction_menu_reset">Remove restrictions</string>
   <string name="restriction_nfc_enable_summary">Allow data exchange when the phone touches another device</string>
@@ -5843,9 +5843,9 @@ To use screen pinning:
   <string name="security_passwords_title">Privacy</string>
   <string name="security_patch">Android security patch level</string>
   <string name="security_privacy_settings_title">Privacy</string>
-  <string name="security_relative">Security</string>
+  <string name="security_relative">امنیت</string>
   <string name="security_settings_face_enroll_dialog_ok">باشه</string>
-  <string name="security_settings_face_enroll_done">Done</string>
+  <string name="security_settings_face_enroll_done">انجام شده</string>
   <string name="security_settings_face_enroll_education_message" />
   <string name="security_settings_face_enroll_education_start">شروع</string>
   <string name="security_settings_face_enroll_education_title">How to set up Face unlock</string>
@@ -5902,7 +5902,7 @@ Your phone can be unlocked by someone who looks a lot like you, say, your child 
   <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" The screen lock option is disabled. To learn more, contact your organization's admin. "&lt;annotation id="admin_details"&gt;More details&lt;/annotation&gt;"
 
 You can still use your fingerprint to authorize purchases and app access. "&lt;annotation id="url"&gt;Learn more&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_done">Done</string>
+  <string name="security_settings_fingerprint_enroll_done">انجام شده</string>
   <string name="security_settings_fingerprint_enroll_enrolling_skip">Do it later</string>
   <string name="security_settings_fingerprint_enroll_error_dialog_title">Enrollment was not completed</string>
   <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">"Fingerprint enrollment didn't work. Try again or use a different finger."</string>
@@ -5938,7 +5938,7 @@ Note: You can’t use your fingerprint to unlock this device. For more informati
   <string name="security_settings_fingerprint_preference_summary_none" />
   <string name="security_settings_fingerprint_preference_title">Fingerprint</string>
   <string name="security_settings_summary">Set My Location, screen unlock, SIM card lock, credential storage lock</string>
-  <string name="security_settings_title">Security</string>
+  <string name="security_settings_title">امنیت</string>
   <string name="security_status">Security status</string>
   <string name="security_status_title">Security status</string>
   <string name="security_update">Security update</string>
@@ -6427,7 +6427,7 @@ This ^1 is formatted to work on this device only. It won&amp;#8217;t work on any
   <string name="storage_manager_indicator_off">خاموش</string>
   <string name="storage_manager_indicator_on">روشن</string>
   <string name="storage_menu_explore">Explore</string>
-  <string name="storage_menu_forget">Forget</string>
+  <string name="storage_menu_forget">فراموش کردن</string>
   <string name="storage_menu_format">Format</string>
   <string name="storage_menu_format_private">Format as internal</string>
   <string name="storage_menu_format_public">Format as portable</string>
@@ -7231,7 +7231,7 @@ Any user can update apps for all other users."</string>
   <string name="user_delete_user_description">Delete user</string>
   <string name="user_dict_settings_add_dialog_confirm">باشه</string>
   <string name="user_dict_settings_add_dialog_less_options">Less options</string>
-  <string name="user_dict_settings_add_dialog_more_options">More options</string>
+  <string name="user_dict_settings_add_dialog_more_options">گزینه های بیشتر</string>
   <string name="user_dict_settings_add_dialog_title">افزودن به فرهنگ لغت</string>
   <string name="user_dict_settings_add_locale_option_name">Language:</string>
   <string name="user_dict_settings_add_menu_title">افزودن</string>
@@ -7415,7 +7415,7 @@ Tap the plus to add words."</string>
   <string name="vpn_edit">Edit VPN profile</string>
   <string name="vpn_enable">VPN</string>
   <string name="vpn_first_always_on_vpn_message">"When this setting is on, you won't have an internet connection until the VPN successfully connects"</string>
-  <string name="vpn_forget">Forget</string>
+  <string name="vpn_forget">فراموش کردن</string>
   <string name="vpn_forget_long">Forget VPN</string>
   <string name="vpn_ipsec_ca_cert">IPSec CA certificate</string>
   <string name="vpn_ipsec_identifier">IPSec identifier</string>
@@ -7450,7 +7450,7 @@ Tap the plus to add words."</string>
   <string name="vpn_require_connection_title">Require VPN connection?</string>
   <string name="vpn_routes">Forwarding routes</string>
   <string name="vpn_routes_hint">e.g. 10.0.0.0/8</string>
-  <string name="vpn_safe">Security</string>
+  <string name="vpn_safe">امنیت</string>
   <string name="vpn_save">ذخیره</string>
   <string name="vpn_save_login">Save account information</string>
   <string name="vpn_search_domains">DNS search domains</string>
@@ -7538,7 +7538,7 @@ Emergency calls are only possible in areas with cellular coverage."</string>
   <string name="wfc_disclaimer_location_desc_text">"Your service provider may collect your location in order to provide this service.
 
 Please review your service provider’s privacy policy."</string>
-  <string name="wfc_disclaimer_location_title_text">Location</string>
+  <string name="wfc_disclaimer_location_title_text">مکان</string>
   <string name="wfc_disclaimer_title_text">Important information</string>
   <string name="wfc_provisioned_switch_string">Wifi Calling Provisioned</string>
   <string name="wfd_available_devices">Available devices</string>
@@ -7548,7 +7548,7 @@ Please review your service provider’s privacy policy."</string>
   <string name="wfd_enable_wifi_diag_title">Turn on WLAN?</string>
   <string name="wfd_enabler_title">Wireless display</string>
   <string name="wfd_menu_search">Search for devices</string>
-  <string name="wfd_menu_searching">Searching…</string>
+  <string name="wfd_menu_searching">درحال جستجو...</string>
   <string name="wfd_menu_teardown">توقف</string>
   <string name="wfd_settings_description">Connect to a display using WLAN</string>
   <string name="wfd_settings_title">Wireless display</string>
@@ -7664,7 +7664,7 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_context_menu_change_password">Change password</string>
   <string name="wifi_context_menu_change_wapi_certificate">Change WAPI certificate</string>
   <string name="wifi_context_menu_connect">Connect</string>
-  <string name="wifi_context_menu_forget">Forget</string>
+  <string name="wifi_context_menu_forget">فراموش کردن</string>
   <string name="wifi_coverage_extend">Turn on WLAN coverage extension</string>
   <string name="wifi_coverage_extend_summary">Extend WLAN coverage using hotspot</string>
   <string name="wifi_data_template">^1 WLAN data</string>
@@ -7698,8 +7698,8 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_display_listen_mode">Enable listen mode</string>
   <string name="wifi_display_no_devices_found">No nearby devices were found.</string>
   <string name="wifi_display_operating_channel">Operating channel</string>
-  <string name="wifi_display_options_done">Done</string>
-  <string name="wifi_display_options_forget">Forget</string>
+  <string name="wifi_display_options_done">انجام شده</string>
+  <string name="wifi_display_options_forget">فراموش کردن</string>
   <string name="wifi_display_options_name">نام</string>
   <string name="wifi_display_options_title">Wireless display options</string>
   <string name="wifi_display_pause">Pause</string>
@@ -7769,7 +7769,7 @@ Please review your service provider’s privacy policy."</string>
   <string name="wifi_failed_connect_message">Failed to connect to network</string>
   <string name="wifi_failed_forget_message">Failed to forget network</string>
   <string name="wifi_failed_save_message">Failed to save network</string>
-  <string name="wifi_forget">Forget</string>
+  <string name="wifi_forget">فراموش کردن</string>
   <string name="wifi_forget_dialog_message">All passwords for this network will be deleted</string>
   <string name="wifi_forget_dialog_title">Forget network?</string>
   <string name="wifi_frequency">Frequency</string>
@@ -7838,7 +7838,7 @@ Setting the network as hidden will not change your router settings."</string>
   <string name="wifi_menu_connect">Connect to network</string>
   <string name="wifi_menu_forget">Forget network</string>
   <string name="wifi_menu_modify">Modify network</string>
-  <string name="wifi_menu_more_options">More options</string>
+  <string name="wifi_menu_more_options">گزینه های بیشتر</string>
   <string name="wifi_menu_p2p">WLAN Direct</string>
   <string name="wifi_menu_remember">Remember network</string>
   <string name="wifi_menu_scan">Scan</string>
@@ -7880,7 +7880,7 @@ Setting the network as hidden will not change your router settings."</string>
   <string name="wifi_p2p_failed_rename_message">Failed to rename device.</string>
   <string name="wifi_p2p_menu_rename">Rename device</string>
   <string name="wifi_p2p_menu_search">Search for devices</string>
-  <string name="wifi_p2p_menu_searching">Searching…</string>
+  <string name="wifi_p2p_menu_searching">درحال جستجو...</string>
   <string name="wifi_p2p_peer_devices">Peer devices</string>
   <string name="wifi_p2p_persist_network">Remember this connection</string>
   <string name="wifi_p2p_remembered_groups">Remembered groups</string>
@@ -7927,7 +7927,7 @@ Allow this for all apps that want to scan?"</string>
   <string name="wifi_scan_notify_text_scanning_off">To improve location accuracy, turn on WLAN scanning in LINK_BEGINscanning settingsLINK_END.</string>
   <string name="wifi_scan_throttling">WLAN scan throttling</string>
   <string name="wifi_scan_throttling_summary">Reduces battery drain &amp; improves network performance</string>
-  <string name="wifi_security">Security</string>
+  <string name="wifi_security">امنیت</string>
   <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
   <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
   <string name="wifi_security_dpp">DPP</string>
@@ -8410,7 +8410,7 @@ Update settings to:
   <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
   <string name="zen_onboarding_new_setting_summary">You won’t see or hear notifications. Calls from starred contacts and repeat callers are allowed.</string>
   <string name="zen_onboarding_new_setting_title">No visuals or sound from notifications</string>
-  <string name="zen_onboarding_ok">Done</string>
+  <string name="zen_onboarding_ok">انجام شده</string>
   <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
   <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
   <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>

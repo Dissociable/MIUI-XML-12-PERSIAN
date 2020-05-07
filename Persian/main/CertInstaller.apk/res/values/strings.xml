@@ -45,7 +45,7 @@ Auth method: EAP-%5$s
   <string name="wifi_detail_label">جزئیات</string>
   <string name="wifi_detail_title">Details for %s</string>
   <string name="wifi_dismiss_label">Dismiss</string>
-  <string name="wifi_install_label">Install</string>
+  <string name="wifi_install_label">نصب</string>
   <string name="wifi_installer_detail">Install WLAN credentials to connect to networks available via %1$s.</string>
   <string name="wifi_installer_download_error">"Downloaded file has problems and can't be installed. Make sure you downloaded the file from the correct source."</string>
   <string name="wifi_installer_fail">"Can't install WLAN credentials. Try downloading the file again."</string>

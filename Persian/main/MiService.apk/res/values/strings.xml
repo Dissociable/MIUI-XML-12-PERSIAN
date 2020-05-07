@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -29,7 +29,7 @@
   <string name="abc_toolbar_collapse_description">جمع کردن</string>
   <string name="actionbar_button_up_description">برگشت</string>
   <string name="afternoon">Afternoon</string>
-  <string name="am">AM</string>
+  <string name="am">قبل از ظهر</string>
   <string name="app_name">app_main</string>
   <string name="chinese_day_1">初一</string>
   <string name="chinese_day_10">初十</string>
@@ -229,7 +229,7 @@
   <string name="miui_feedback_edit_discard_draft_dialog_title">Discard draft?</string>
   <string name="miui_feedback_edit_hint">Report bugs every time you encounter problems to help us solve them faster</string>
   <string name="miui_feedback_edit_hint_gone">Closed message</string>
-  <string name="miui_feedback_edit_hint_optional">Select</string>
+  <string name="miui_feedback_edit_hint_optional">انتخاب</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">Wait for Wi-Fi</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">Upload</string>
   <string name="miui_feedback_edit_mobile_data_note_dialog_content">"Looks like you're connected to a paid network. Uploading logs may generate additional fees."</string>
@@ -263,7 +263,7 @@
   <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data&gt;"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers. Logs may contain personal info and your location data. Selecting \"Agree\" means that you've read and agreed to our &amp;lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; and &amp;lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;amp;lang=%4$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="miui_feedback_edit_submit_dialog_not_show_again">"Don't show again"</string>
   <string name="miui_feedback_edit_submit_dialog_title">Send report</string>
-  <string name="miui_feedback_edit_submit_directly">Submit</string>
+  <string name="miui_feedback_edit_submit_directly">ثبت</string>
   <string name="miui_feedback_edit_title_occurrence_time">Select time</string>
   <string name="miui_feedback_edit_title_reproductivity">Select reproductivity</string>
   <string name="miui_feedback_edit_toast_description_required">You need to write a description</string>
@@ -280,7 +280,7 @@
   <string name="miui_feedback_main_search_footer_submit">立即提交问题</string>
   <string name="miui_feedback_main_search_issue">Enter keywords to search</string>
   <string name="miui_feedback_main_start_submit">Submit feedback</string>
-  <string name="miui_feedback_main_submit_dialog_confirm">Submit</string>
+  <string name="miui_feedback_main_submit_dialog_confirm">ثبت</string>
   <string name="miui_feedback_main_submit_dialog_content">"Looks like we couldn't find a solution to your problem. You can submit your feedback to us."</string>
   <string name="miui_feedback_main_submit_dialog_title">Submit feedback</string>
   <string name="miui_feedback_main_title">Feedback</string>
@@ -317,13 +317,13 @@
   <string name="miuix_appcompat_cloud_state_disabled">Sync with the cloud is off</string>
   <string name="miuix_appcompat_cloud_state_finished">Synced with the cloud successfully</string>
   <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud…</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="monday">Monday</string>
   <string name="monday_short">Mon</string>
@@ -388,8 +388,8 @@
   <string name="permission_storage">Storage</string>
   <string name="permission_storage_introduce">For saving items on your device</string>
   <string name="permission_user_protocol">User Agreement (mandatory)</string>
-  <string name="pm">PM</string>
-  <string name="public_loading_text">Just a sec…</string>
+  <string name="pm">بعد از ظهر</string>
+  <string name="public_loading_text">یک لحظه...</string>
   <string name="public_net_error_retry">تلاش دوباره</string>
   <string name="public_net_error_sub_title">Check your network settings and try again</string>
   <string name="public_net_error_title">"Couldn't connect to the network"</string>
@@ -481,11 +481,11 @@
   <string name="thursday">Thursday</string>
   <string name="thursday_short">Thu</string>
   <string name="thursday_shortest">Thu</string>
-  <string name="time_picker_dialog_title">Set time</string>
+  <string name="time_picker_dialog_title">تنظیم زمان</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="title_settings_dialog">Permissions Required</string>
-  <string name="today">Today</string>
+  <string name="today">امروز</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="tuesday">Tuesday</string>
   <string name="tuesday_short">Tue</string>
@@ -493,5 +493,5 @@
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
   <string name="wednesday_shortest">Wed</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="yesterday">دیروز</string>
 </resources>

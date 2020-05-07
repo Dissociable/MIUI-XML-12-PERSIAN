@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -71,8 +71,8 @@
   <string name="account_user_gender">Gender</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_id_show">Mi Account: %s</string>
-  <string name="account_user_name">Name</string>
-  <string name="account_user_name_dialog_title">Enter username</string>
+  <string name="account_user_name">نام</string>
+  <string name="account_user_name_dialog_title">نام کاربری را وارد نمایید</string>
   <string name="account_user_other_info">More sources</string>
   <string name="account_user_phone">Recovery phone</string>
   <string name="account_user_region">Region</string>
@@ -117,7 +117,7 @@ You can sign in to your Mi Account using %s now."</string>
   <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
   <string name="com_facebook_like_button_liked">Liked</string>
   <string name="com_facebook_like_button_not_liked">Like</string>
-  <string name="com_facebook_loading">Loading…</string>
+  <string name="com_facebook_loading">درحال بارگذاری…</string>
   <string name="com_facebook_loginview_cancel_action">لغو</string>
   <string name="com_facebook_loginview_log_in_button">Log in</string>
   <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
@@ -137,7 +137,7 @@ You can sign in to your Mi Account using %s now."</string>
   <string name="common_google_play_services_enable_button">Enable</string>
   <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
   <string name="common_google_play_services_enable_title">Enable Google Play services</string>
-  <string name="common_google_play_services_install_button">Install</string>
+  <string name="common_google_play_services_install_button">نصب</string>
   <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
   <string name="common_google_play_services_install_title">Get Google Play services</string>
   <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
@@ -183,7 +183,7 @@ Send this code to the supervisor."</string>
   <string name="error_invalid_bind_address">The email address you entered is invalid.</string>
   <string name="exceed_binded_phone_times_notice">This phone number is already associated with another Mi Account.</string>
   <string name="exit">خروج</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
   <string name="facebook">Facebook</string>
@@ -196,7 +196,7 @@ Send this code to the supervisor."</string>
   <string name="find_device_activate_account">Activate account</string>
   <string name="find_device_bad_response_error">A server error occurred, wait a minute or two and try again</string>
   <string name="find_device_clear_data">Erase data</string>
-  <string name="find_device_close">Off</string>
+  <string name="find_device_close">خاموش</string>
   <string name="find_device_error_password_not_confirmed">"Can't turn off Find device. Enter your Mi Account password again."</string>
   <string name="find_device_error_password_recently_changed">"You've changed your password within last 3 days. Can't turn off Find device now due to security reasons."</string>
   <string name="find_device_interrupted">Action was interrupted, wait a minute or two and try again</string>
@@ -206,7 +206,7 @@ Send this code to the supervisor."</string>
   <string name="find_device_locked_account_phone" formatted="false">%s, associated phone number: %s</string>
   <string name="find_device_message">Device is locked. Message: %1$s. Call %2$s.</string>
   <string name="find_device_null_credential_error">"Can't get device info, contact Xiaomi customer service"</string>
-  <string name="find_device_open">On</string>
+  <string name="find_device_open">روشن</string>
   <string name="find_device_operation_failed_error">A server error occurred, wait a minute or two and try again</string>
   <string name="find_device_operation_failed_error_unknown">An error occurred, try again later</string>
   <string name="find_device_owner_phone">Device is locked. Call %1$s.</string>
@@ -225,8 +225,8 @@ Send this code to the supervisor."</string>
   <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="google">Google</string>
   <string name="guest_account_label">Mi Guest Account</string>
-  <string name="health_action_activate">Activate</string>
-  <string name="health_action_install">Install</string>
+  <string name="health_action_activate">فعال سازی</string>
+  <string name="health_action_install">نصب</string>
   <string name="health_action_update">بروزرسانی</string>
   <string name="health_description_normal">Steps</string>
   <string name="health_state_not_activated">Not activated</string>
@@ -240,14 +240,14 @@ Send this code to the supervisor."</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
   <string name="input_new_pwd">Enter new password</string>
   <string name="io_error_title">Confirm your network</string>
-  <string name="just_a_second">Just a sec…</string>
+  <string name="just_a_second">یک لحظه...</string>
   <string name="kr_license_desc">You must agree to our User Agreement and Privacy Policy before using Mi Account and Xiaomi Cloud services.</string>
   <string name="kr_permission_contacts_desc">For accessing contact info</string>
   <string name="kr_permission_desc">Permissions required</string>
   <string name="kr_permission_phone_desc">For protecting your account</string>
   <string name="kr_permission_sms_desc">For autofilling verification codes</string>
   <string name="kr_permission_storage_desc">For saving diagnostics</string>
-  <string name="loading_micloud_sync_data">Just a sec…</string>
+  <string name="loading_micloud_sync_data">یک لحظه...</string>
   <string name="login_check_find_device">Getting device security info…</string>
   <string name="login_check_find_device_failed_title">"Couldn't check device security info"</string>
   <string name="login_find_device_bind">This device is associated with existing Mi Account ID (%s).</string>
@@ -264,15 +264,15 @@ Send this code to the supervisor."</string>
   <string name="mipay_identitiy_no">Not verified</string>
   <string name="mipay_identity">ID verification</string>
   <string name="mipay_indentity_done">Verified</string>
-  <string name="mipay_others">Other</string>
+  <string name="mipay_others">غیره</string>
   <string name="mipay_transit_card">Transport card</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">درحال تازه سازی</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">درحال تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="multi_user_not_show_sync_activity_message_1">"Looks like you're using your First space Mi Account."</string>
@@ -329,7 +329,7 @@ Send this code to the supervisor."</string>
   <string name="passport_confirm_recycle_account">Yes</string>
   <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red&gt;Looks like&lt;/font&gt; the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
   <string name="passport_continue">ادامه</string>
-  <string name="passport_copy_message_text_success">Copied successfully</string>
+  <string name="passport_copy_message_text_success">با موفقیت کپی شد</string>
   <string name="passport_copy_message_vcode">Copy code</string>
   <string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">国内:SIM卡激活取号失败,运营商取号失败</string>
   <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">国内:SIM卡激活取号失败,运营商取号成功(成功%s张)</string>
@@ -389,7 +389,7 @@ Send this code to the supervisor."</string>
   <string name="passport_imei_permission_denied_title">Request IMEI Permission</string>
   <string name="passport_input_captcha_hint">Enter code</string>
   <string name="passport_input_password_for_login">This number is associated with an existing account, enter your password</string>
-  <string name="passport_input_password_hint">Enter password</string>
+  <string name="passport_input_password_hint">گذرواژه را وارد نمایید</string>
   <string name="passport_input_phone_hint">Enter phone number</string>
   <string name="passport_input_phone_password">Enter the password for %s</string>
   <string name="passport_input_vcode_hint">Enter verification code</string>
@@ -397,7 +397,7 @@ Send this code to the supervisor."</string>
   <string name="passport_input_voice_hint">Enter voice code</string>
   <string name="passport_international_register_by_email">Create an account using email address</string>
   <string name="passport_license_host_unreachable">"Can't connect to the network. You can view this page at %s."</string>
-  <string name="passport_loading">Loading…</string>
+  <string name="passport_loading">درحال بارگذاری…</string>
   <string name="passport_login">ورود به حساب</string>
   <string name="passport_login_failed">"Can't sign in"</string>
   <string name="passport_login_instead_reg">Use this number</string>
@@ -418,7 +418,7 @@ Send this code to the supervisor."</string>
   <string name="passport_phone_num_hint_text">Phone number</string>
   <string name="passport_phone_ticket_login">Sign in with SMS</string>
   <string name="passport_prev">برگشت</string>
-  <string name="passport_privacy_policy">Privacy Policy</string>
+  <string name="passport_privacy_policy">سیاست حفظ حریم خصوصی</string>
   <string name="passport_privacy_policy_required">Privacy Policy (mandatory)</string>
   <string name="passport_pwd_generate_failure">"Couldn't generate password"</string>
   <string name="passport_pwd_generating">Generating…</string>
@@ -478,7 +478,7 @@ Send this code to the supervisor."</string>
   <string name="passport_send_too_many_code">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
   <string name="passport_send_vcode_failed">"Couldn't send code"</string>
   <string name="passport_sending_vcode">Sending code…</string>
-  <string name="passport_set">Set</string>
+  <string name="passport_set">تنظیم</string>
   <string name="passport_set_password_no_phone_msg">Add your phone number to protect your account.</string>
   <string name="passport_setting">Setting up…</string>
   <string name="passport_skip_login">پرش</string>
@@ -506,7 +506,7 @@ Send this code to the supervisor."</string>
   <string name="passport_uplink_slot2_reg">Use SIM 2</string>
   <string name="passport_use_generated_pwd_message">Make sure you remember your password. You can use it to sign in to other Mi services.</string>
   <string name="passport_use_generated_pwd_title">Remember your password!</string>
-  <string name="passport_user_agreement">User Agreement</string>
+  <string name="passport_user_agreement">توافقات کاربر</string>
   <string name="passport_user_agreement_link">&lt;Data&gt;"I've read and agreed to Xiaomi's &amp;lt;a href=%1$s&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=%2$s&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;."&lt;/Data&gt;</string>
   <string name="passport_user_agreement_required">User Agreement (mandatory)</string>
   <string name="passport_user_id_notice">Your Mi Account ID is %s.</string>
@@ -525,7 +525,7 @@ Send this code to the supervisor."</string>
   <string name="passport_wrong_voice">The code you entered is incorrect</string>
   <string name="passport_wx_bind_account_limit">"Can't create account now. Try other sign-in methods."</string>
   <string name="passport_yes">Yes</string>
-  <string name="password_toggle_content_description">Show password</string>
+  <string name="password_toggle_content_description">نمایش گذرواژه</string>
   <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
   <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
   <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -587,7 +587,7 @@ Send this code to the supervisor."</string>
   <string name="sms_send_success">Sent</string>
   <string name="sns_access_token_expired_warning">Account sign-in has expired. Sign in again to reconnect this account.</string>
   <string name="state_data_error">"Couldn't get data"</string>
-  <string name="state_loading">Just a sec…</string>
+  <string name="state_loading">یک لحظه...</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
   <string name="system_ad">Ads in system apps</string>
@@ -595,7 +595,7 @@ Send this code to the supervisor."</string>
   <string name="system_ad_summary">"Turn this feature on to allow showing a small number of ads in system apps. These ads help us develop and improve our products and services. You can choose to turn this feature off anytime. Thanks for your support! "</string>
   <string name="system_ad_switch">Ads in system apps</string>
   <string name="system_ad_switch_failed">"Couldn't apply setting"</string>
-  <string name="talkback_scan_barcode">Scan QR code</string>
+  <string name="talkback_scan_barcode">اسکن کد QR</string>
   <string name="temporary_not_available">"This feature isn't available yet."</string>
   <string name="turn_off_find_device_failed_title">"Can't turn off Find device"</string>
   <string name="turning_off_find_device">Turning off Find device…</string>
@@ -617,9 +617,9 @@ Send this code to the supervisor."</string>
   <string name="update_phone_number_notice_message">You need to verify your identity before you can update phone number.</string>
   <string name="used_cloud_storage_info">Used storage space %s</string>
   <string name="user_avatar_update_title">Change profile photo</string>
-  <string name="user_avatar_uploading">Just a sec…</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="user_avatar_uploading">یک لحظه...</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
   <string name="vip_account_settings">VIP Settings</string>
   <string name="vip_settings_info">VIP settings</string>
   <string name="weixin">WeChat</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
-  <string name="SMTP_password_text">Password</string>
+  <string name="SMTP_password_text">گذرواژه</string>
   <string name="SMTP_username_text">Username</string>
   <string name="account_add_title">Select email service</string>
   <string name="account_cache_provider">Account Cache Provider</string>
@@ -14,7 +14,7 @@
   <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_name_toast">An account with same name already exists</string>
   <string name="account_options_actionbar_title">Account settings</string>
-  <string name="account_options_sync_title">Sync</string>
+  <string name="account_options_sync_title">همگام سازی</string>
   <string name="account_password_spaces_error">"This password starts or ends with one or more
         space characters. Many servers don't support passwords with spaces."</string>
   <string name="account_security_dialog_content_fmt">"%s requires that you update your security
@@ -50,7 +50,7 @@
   <string name="account_settings_mail_check_frequency_label">Sync frequency</string>
   <string name="account_settings_mibill_resolve_label">Manage bills automatically</string>
   <string name="account_settings_name_label">Nickname</string>
-  <string name="account_settings_notifications">Notifications</string>
+  <string name="account_settings_notifications">اعلانات</string>
   <string name="account_settings_notify_label">Email notifications</string>
   <string name="account_settings_notify_summary">Show notification when new email arrives</string>
   <string name="account_settings_param">Account settings</string>
@@ -84,7 +84,7 @@
   <string name="account_setup_basics_login_gmail_without_proxy">Sign in using current network</string>
   <string name="account_setup_basics_manual_setup_action">Manual setup</string>
   <string name="account_setup_basics_mi_mail_login_help">You may need to verify your account via SMS to receive emails</string>
-  <string name="account_setup_basics_password_label">Password</string>
+  <string name="account_setup_basics_password_label">گذرواژه</string>
   <string name="account_setup_basics_password_label_authcode">Enter password or verification code</string>
   <string name="account_setup_basics_title">Add account</string>
   <string name="account_setup_check_settings_check_incoming_msg">Validating server settings…</string>
@@ -122,10 +122,10 @@
   <string name="account_setup_failed_tls_required">TLS required but not supported by server.</string>
   <string name="account_setup_failed_too_many_partnerships">"Couldn't sign in, too many connections."</string>
   <string name="account_setup_incoming_delete_policy_delete_label">When I delete from Trash</string>
-  <string name="account_setup_incoming_delete_policy_never_label">Never</string>
+  <string name="account_setup_incoming_delete_policy_never_label">هرگز</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Optional</string>
   <string name="account_setup_incoming_imap_path_prefix_label">IMAP path prefix</string>
-  <string name="account_setup_incoming_password_label">Password</string>
+  <string name="account_setup_incoming_password_label">گذرواژه</string>
   <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Security type</string>
   <string name="account_setup_incoming_security_none_label">هیچ یک</string>
@@ -143,9 +143,9 @@
   <string name="account_setup_options_mail_check_frequency_1hour">Every hour</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Every 4 hours</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automatic (Push)</string>
-  <string name="account_setup_options_mail_check_frequency_never">Never</string>
+  <string name="account_setup_options_mail_check_frequency_never">هرگز</string>
   <string name="account_setup_options_mail_check_frequency_push">Automatic (Push)</string>
-  <string name="account_setup_options_mail_window_1day">Yesterday</string>
+  <string name="account_setup_options_mail_window_1day">دیروز</string>
   <string name="account_setup_options_mail_window_1month">Past month</string>
   <string name="account_setup_options_mail_window_1quarter">Quarter</string>
   <string name="account_setup_options_mail_window_1week">Past week</string>
@@ -171,7 +171,7 @@
   <string name="account_smime_sign">S/MIME signature</string>
   <string name="account_sync_off">Account sync is off.</string>
   <string name="account_sync_settings_settings">Sync contacts and calendar</string>
-  <string name="account_sync_settingstip_description">Sync</string>
+  <string name="account_sync_settingstip_description">همگام سازی</string>
   <string name="account_waiting_for_folders_msg">Loading folders…</string>
   <string name="activity_folder_selection">Choose folder</string>
   <string name="activity_mailbox_selection">Choose account</string>
@@ -207,8 +207,8 @@
   <string name="att_file_not_exists">"Couldn't find %s"</string>
   <string name="att_mgr_no_attachment">No attachments.</string>
   <string name="att_mgr_title_order_mime">Format</string>
-  <string name="att_mgr_title_order_name">Name</string>
-  <string name="att_mgr_title_order_rev_date">Date</string>
+  <string name="att_mgr_title_order_name">نام</string>
+  <string name="att_mgr_title_order_rev_date">تاریخ</string>
   <string name="att_mgr_title_order_sender">Sender</string>
   <string name="att_mgr_title_order_size">File size</string>
   <string name="attached_message">Attached message</string>
@@ -285,11 +285,11 @@
   <string name="cc_heading">"Cc: "</string>
   <string name="certificate_add_failed">"Couldn't add \"%s\" certificate"</string>
   <string name="certificate_added">Added \"%s\" certificate successfully</string>
-  <string name="certificate_alias_prompt_certificate_name">Name</string>
+  <string name="certificate_alias_prompt_certificate_name">نام</string>
   <string name="certificate_alias_prompt_hit">please enter certificate alias</string>
   <string name="certificate_alias_prompt_title">Name this certificate</string>
   <string name="certificate_alias_prompt_w">A certificate with this name already exists</string>
-  <string name="certificate_password_hit">Enter password</string>
+  <string name="certificate_password_hit">گذرواژه را وارد نمایید</string>
   <string name="certificate_password_prompt_title">Get certificate</string>
   <string name="certificate_password_tips">Enter password to get certificate</string>
   <string name="certificate_password_tips_w">The password you entered is incorrect</string>
@@ -317,7 +317,7 @@
   <string name="compose_sent">Mail sent</string>
   <string name="config">139 Mailbox Phone Number Configured</string>
   <string name="config_cancel">لغو</string>
-  <string name="config_retry">Retry</string>
+  <string name="config_retry">امتحان دوباره</string>
   <string name="confirm">باشه</string>
   <string name="confirm_age">Confirm age</string>
   <string name="confirm_before_delete">Confirm before deleting</string>
@@ -363,10 +363,10 @@
   <string name="contextmenu_edit">Edit contact</string>
   <string name="contextmenu_feedback">Send feedback</string>
   <string name="contextmenu_help">Help</string>
-  <string name="contextmenu_map">Map</string>
+  <string name="contextmenu_map">نقشه</string>
   <string name="contextmenu_open">باز کردن</string>
-  <string name="contextmenu_openlink">Open in Browser</string>
-  <string name="contextmenu_send_mail">Send email</string>
+  <string name="contextmenu_openlink">بازکردن در مرورگر</string>
+  <string name="contextmenu_send_mail">ارسال ایمیل</string>
   <string name="contextmenu_sharelink">Share link</string>
   <string name="contextmenu_sms_dot">SMS…</string>
   <string name="conversation_cert_distrust">"Don't trust"</string>
@@ -416,7 +416,7 @@
   <string name="delete_message_flow">Delete message flow</string>
   <string name="delete_message_flow_keywords">delete message flow;delete redirect</string>
   <string name="deleted">Deleted</string>
-  <string name="device_activity_btn_str">Activate</string>
+  <string name="device_activity_btn_str">فعال سازی</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
   <string name="device_admin_description">Enables server-specified security policies</string>
   <string name="device_admin_label">Email</string>
@@ -486,7 +486,7 @@
   <string name="empty_trash_dialog_title">Empty Trash?</string>
   <string name="enable_sync_in_account_settings">Turn on in %1$s.</string>
   <string name="enumeration_delimiter">" | "</string>
-  <string name="error">Error</string>
+  <string name="error">خطا</string>
   <string name="exception_cancel">"
         This event has been canceled
         for:
@@ -599,7 +599,7 @@
   <string name="header_category_account">Accounts</string>
   <string name="header_category_general">@string/header_label_general_preferences</string>
   <string name="header_category_other">Feedback</string>
-  <string name="header_label_general_preferences">General</string>
+  <string name="header_label_general_preferences">عمومی</string>
   <string name="help_and_info">Help</string>
   <string name="help_email_title">MI Mail</string>
   <string name="help_me_get_qq_auth">Get authorization code</string>
@@ -632,9 +632,9 @@
   <string name="load_attachment">@string/load_more</string>
   <string name="load_from_remote">Search mailbox on server</string>
   <string name="load_more">Load more</string>
-  <string name="loading_conversation">Loading…</string>
-  <string name="loading_conversations">Loading…</string>
-  <string name="loading_from_remote">Loading…</string>
+  <string name="loading_conversation">درحال بارگذاری…</string>
+  <string name="loading_conversations">درحال بارگذاری…</string>
+  <string name="loading_from_remote">درحال بارگذاری…</string>
   <string name="local_search">Local search</string>
   <string name="log_save_path">Log path</string>
   <string name="login">ورود به حساب</string>
@@ -663,8 +663,8 @@
   <string name="mail_outlook_oauth_login">Sign in with OAuth</string>
   <string name="mail_outlook_psw_login">Sign in using password</string>
   <string name="mailbox_list_account_selector_combined_view">Combined account</string>
-  <string name="mailbox_name_display_ad">Ads</string>
-  <string name="mailbox_name_display_circular">Notifications</string>
+  <string name="mailbox_name_display_ad">تبلیغات</string>
+  <string name="mailbox_name_display_circular">اعلانات</string>
   <string name="mailbox_name_display_drafts">Drafts</string>
   <string name="mailbox_name_display_inbox">Inbox</string>
   <string name="mailbox_name_display_junk">Spam</string>
@@ -749,12 +749,12 @@
   <string name="menu_att_mgr">Attachments</string>
   <string name="menu_att_mgr_order_default">Recently viewed</string>
   <string name="menu_att_mgr_order_mime">Format</string>
-  <string name="menu_att_mgr_order_name">Name</string>
-  <string name="menu_att_mgr_order_rev_date">Date</string>
+  <string name="menu_att_mgr_order_name">نام</string>
+  <string name="menu_att_mgr_order_rev_date">تاریخ</string>
   <string name="menu_att_mgr_order_size">File size</string>
   <string name="menu_change_folders">Move</string>
   <string name="menu_compose">Compose</string>
-  <string name="menu_contact_edit">Edit</string>
+  <string name="menu_contact_edit">ویرایش</string>
   <string name="menu_discovery">Promotion</string>
   <string name="menu_folder_options">Sync options</string>
   <string name="menu_move_to">انتقال به</string>
@@ -782,7 +782,7 @@
   <string name="mi_sync_erroe_toast">"A network error occurred: "</string>
   <string name="mi_sync_erroe_toast_other">"A server error occurred: "</string>
   <string name="mi_sync_erroe_toast_other_details">-ERR:unknown_error</string>
-  <string name="mibill_privacy_policy_button1">Later</string>
+  <string name="mibill_privacy_policy_button1">بعدا</string>
   <string name="mibill_privacy_policy_button2">موافق</string>
   <string name="mibill_privacy_policy_description">Allow Mi Wallet to analyze and manage your bills automatically. This feature is turned off by default for work-related email addresses.</string>
   <string name="mibill_privacy_policy_link">"By using this feature, you're agreeing to our "&lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Terms of Service&lt;/a&gt;</string>
@@ -829,7 +829,7 @@ Try a different inbox."</string>
   <string name="notification_action_archive">Archive</string>
   <string name="notification_action_delete">حذف</string>
   <string name="notification_action_remove_label">Remove label</string>
-  <string name="notification_action_reply">Reply</string>
+  <string name="notification_action_reply">پاسخ</string>
   <string name="notification_action_reply_all">Reply all</string>
   <string name="notification_action_undo_archive">Archived</string>
   <string name="notification_action_undo_delete">Deleted</string>
@@ -857,7 +857,7 @@ Try a different inbox."</string>
   <string name="open_external_storage_and_contacts_permission">Allow Mail to access storage and contacts in the Settings</string>
   <string name="open_notification_kingagent">Turn on burial point notifications</string>
   <string name="optimization_suggestion">Optimization suggestions</string>
-  <string name="others_mail">Other</string>
+  <string name="others_mail">غیره</string>
   <string name="others_mail_des">Other private or corporate email services</string>
   <string name="outbox_alert_button_no_resend">"Don't send"</string>
   <string name="outbox_alert_button_resend">Resend</string>
@@ -879,7 +879,7 @@ Try a different inbox."</string>
   <string name="outbox_alert_rw_io_error">An error occurred. Wait a minute or two and try again.</string>
   <string name="outbox_alert_select_operation">Choose an action</string>
   <string name="outbox_alert_title_sent_failed">"Couldn't send mail"</string>
-  <string name="outbox_no_mails">Empty</string>
+  <string name="outbox_no_mails">خالی</string>
   <string name="outlook_login_failed_non_proxy_title">"Couldn't access Outlook server"</string>
   <string name="output_all_log">Output all logs</string>
   <string name="output_db_summary">About to output your database</string>
@@ -981,7 +981,7 @@ to receive reminders about payments and trips"</string>
   <string name="print">Print</string>
   <string name="print_scheduler_title">Print all schedulers</string>
   <string name="privacy_des">"Logs contain debugging info of the email client and your device info. This information is used to locate problems faster. By tapping \"%1$s\" below, you're agreeing to our \"%2$s\"."</string>
-  <string name="privacy_policy">Privacy Policy</string>
+  <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
   <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
   <string name="privacy_setting_agree">موافق</string>
   <string name="prompt_title">Prompt</string>
@@ -991,13 +991,13 @@ to receive reminders about payments and trips"</string>
   <string name="protocol_pop3">pop3</string>
   <string name="protocol_setting_toast">Tap the upper right corner to go to settings after you agree</string>
   <string name="pull_load_more">Pull up to load more</string>
-  <string name="pull_to_refresh">Pull down to refresh</string>
+  <string name="pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="push_wps_better_confirm_download">دریافت</string>
   <string name="push_wps_better_confirm_exit">Other apps</string>
   <string name="push_wps_better_confirm_message">Try using WPS Office to open this attachment.</string>
   <string name="push_wps_better_confirm_noshow_hint">"Don't show again"</string>
   <string name="push_wps_better_confirm_title">Try WPS Office</string>
-  <string name="push_wps_confirm_cancel">Not now</string>
+  <string name="push_wps_confirm_cancel">الان نه</string>
   <string name="push_wps_confirm_download">دریافت</string>
   <string name="push_wps_confirm_message">"Couldn't find an app for this attachment. Try using WPS Office."</string>
   <string name="push_wps_confirm_title">Try WPS Office</string>
@@ -1027,13 +1027,13 @@ to receive reminders about payments and trips"</string>
   <string name="qq_pwd_or_qq_auth_code">Enter the authorization code</string>
   <string name="qq_uthentication_failed">"Couldn't verify account, sign in again"</string>
   <string name="qq_verify_code">(Requires verification code from QQ)</string>
-  <string name="qq_webview_loading">Just a sec…</string>
+  <string name="qq_webview_loading">یک لحظه...</string>
   <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
   <string name="questionnair_confirm_delete">Remove account?</string>
   <string name="questionnair_instability">Crashes frequently</string>
   <string name="questionnair_not_send">"Can't send mail"</string>
   <string name="questionnair_not_sync">Unstable sync</string>
-  <string name="questionnair_other_reasons">Other</string>
+  <string name="questionnair_other_reasons">غیره</string>
   <string name="questionnair_title">Remove account?</string>
   <string name="questionnair_ui_not_pretty">"Don't like the app's design"</string>
   <string name="questionnair_waste_resource">Not enough storage space</string>
@@ -1109,14 +1109,14 @@ to receive reminders about payments and trips"</string>
   <string name="refresh">تازه سازی</string>
   <string name="refreshing">Refreshing…</string>
   <string name="refreshing_done">Done</string>
-  <string name="release_to_refresh">Release to refresh</string>
+  <string name="release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="remind_attachment_size_limit">Your emails should be less than %sMB</string>
   <string name="remote_search_body_too_large_prompt">"This email is too long.
 Wait until it's fully synced or view the message on your computer."</string>
   <string name="remove_account">Remove account</string>
   <string name="remove_folder">Remove from %1$s</string>
   <string name="remove_star">Unstar</string>
-  <string name="reply">Reply</string>
+  <string name="reply">پاسخ</string>
   <string name="reply_add_bodycontent">Add the reply to the message body?</string>
   <string name="reply_all">Reply all</string>
   <string name="reply_attribution">%2$s wrote on %1$s:</string>
@@ -1160,10 +1160,10 @@ Wait until it's fully synced or view the message on your computer."</string>
          met"</string>
   <string name="security_notification_content_update_title">Security update required</string>
   <string name="security_unsupported_ticker_fmt">"Account \"%s\" can't be synced due to security requirements."</string>
-  <string name="see_more_content">View more</string>
+  <string name="see_more_content">مشاهده بیشتر</string>
   <string name="select_attachment_type">Choose attachment from</string>
   <string name="select_no_file">No attachments selected</string>
-  <string name="select_path">Select path</string>
+  <string name="select_path">انتخاب مسیر</string>
   <string name="send">ارسال</string>
   <string name="send_encrypt_dialog_fail_content">"Looks like the recipient doesn't have the trusted certificate required for encrypting this email. Send a regular email instead?"</string>
   <string name="send_encrypt_dialog_fail_title">"Can't send encrypted email"</string>
@@ -1203,7 +1203,7 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="show_contact_address">Show contact email address</string>
   <string name="show_elided">▶ Show quoted text</string>
   <string name="show_images">Download and show pictures</string>
-  <string name="show_password">Show password</string>
+  <string name="show_password">نمایش گذرواژه</string>
   <string name="signature">"
 
 
@@ -1281,13 +1281,13 @@ Wait until it's fully synced or view the message on your computer."</string>
   <string name="toastbar_local_calendar_and_contacts_sync_switch_close">Turn on calendar and contacts sync to sync calendar and contacts</string>
   <string name="toastbar_local_calendar_sync_switch_close">Turn on calendar sync to receive calendar reminders</string>
   <string name="toastbar_local_contacts_sync_swtich_close">Turn on contacts sync to add contacts</string>
-  <string name="today_text">Today</string>
+  <string name="today_text">امروز</string>
   <string name="too_large_to_attach_additional">"File size can't exceed %1$s."</string>
   <string name="too_large_to_attach_multiple">"One or more files weren't attached. Size can't exceed %1$s."</string>
   <string name="too_large_to_attach_single">"Can't attach file larger than %1$s."</string>
   <string name="topic_merge">Display settings</string>
   <string name="topic_merge_summary">Group by subject</string>
-  <string name="translation_loading">Just a sec…</string>
+  <string name="translation_loading">یک لحظه...</string>
   <string name="translation_no_result">No results</string>
   <string name="translation_pronunciation_am">AmE</string>
   <string name="translation_pronunciation_cn">Pinyin</string>
@@ -1309,7 +1309,7 @@ Wait until it's fully synced or view the message on your computer."</string>
 Remove account?"</string>
   <string name="under_16_content">"Confirm that you aren't 16 years old yet?"</string>
   <string name="under_sixteen">"I'm not 16 years old yet."</string>
-  <string name="undo">Undo</string>
+  <string name="undo">خنثی کردن</string>
   <string name="unknow">ناشناخته</string>
   <string name="unread_string">conversation unread</string>
   <string name="unzip_file_failed">"Couldn't unzip file"</string>
@@ -1326,7 +1326,7 @@ Remove account?"</string>
   <string name="upload_log_yes">ارسال</string>
   <string name="upload_logs">Upload logs</string>
   <string name="upload_logs_keywords">upload logs</string>
-  <string name="uploading_logs">Just a sec…</string>
+  <string name="uploading_logs">یک لحظه...</string>
   <string name="user_new_auth_code">Sign in with a new authorization code</string>
   <string name="user_privacy_settings">Privacy settings</string>
   <string name="user_privacy_settings_agreement_authorization">"(By tapping \"Agree\", you're giving Mail all the required permissions)"</string>
@@ -1348,14 +1348,14 @@ Touch "&lt;b&gt;Sync Now&lt;/b&gt; to sync mail once, or &lt;b&gt;Change Sync Se
   <string name="wait_help_context">wait</string>
   <string name="wait_while_update_db">Updating database…</string>
   <string name="webview_logout">You can try to sign in again</string>
-  <string name="webview_logout_cancel">Not now</string>
+  <string name="webview_logout_cancel">الان نه</string>
   <string name="webview_logout_sure">تلاش دوباره</string>
   <string name="webview_sslerror_handle_cancel">لغو</string>
   <string name="webview_sslerror_handle_continue">ادامه</string>
   <string name="webview_sslerror_handle_hitmessage">A certificate error occurred, proceed anyway?</string>
   <string name="widget_all_mail">All Mail</string>
   <string name="widget_large_unread_count">%d+</string>
-  <string name="widget_other_views">Other</string>
+  <string name="widget_other_views">غیره</string>
   <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
   <string name="wipe_account_fail_description">مجاز</string>
   <string name="wipe_account_fail_description_remind">Due to data usage restrictions, there may be residual data in Calendar and Contacts after you delete the account. Delete these items manually.</string>

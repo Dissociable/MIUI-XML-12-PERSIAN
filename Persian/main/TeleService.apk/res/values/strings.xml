@@ -114,8 +114,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -163,7 +163,7 @@
   <string name="administrative_disable">Administrative disabled</string>
   <string name="administrative_enable">Administrative enabled</string>
   <string name="advanced_mobile_settings">Advanced settings</string>
-  <string name="advanced_options_title">Advanced</string>
+  <string name="advanced_options_title">پیشرفته</string>
   <string name="advanced_settings">Optional settings</string>
   <string name="advanced_settings_container">advanced settings container</string>
   <string name="advanced_settings_hide">▽ Touch to hide all</string>
@@ -221,7 +221,7 @@
   <string name="auto_answer_scenario_enteries_headset_only">Headset only</string>
   <string name="auto_answer_scenario_title">Auto-answer settings</string>
   <string name="auto_answer_setting_title">Auto-answer settings</string>
-  <string name="auto_answer_summary_not_enabled">Off</string>
+  <string name="auto_answer_summary_not_enabled">خاموش</string>
   <string name="auto_record_yellowpage">Directory</string>
   <string name="auto_redial_pref_summary">Redial automatically if the line is busy</string>
   <string name="auto_redial_pref_title">Redial automatically</string>
@@ -500,9 +500,9 @@ Selection"</string>
   <string name="call_record_auto_unknown_number">Unknown numbers</string>
   <string name="call_record_auto_whitelist">Custom list</string>
   <string name="call_record_auto_whitelist_no_item">Add a number by touching the add (+) button</string>
-  <string name="call_record_loading_content">Loading…</string>
-  <string name="call_record_off_summary">Off</string>
-  <string name="call_record_on_summary">On</string>
+  <string name="call_record_loading_content">درحال بارگذاری…</string>
+  <string name="call_record_off_summary">خاموش</string>
+  <string name="call_record_on_summary">روشن</string>
   <string name="call_record_setting">Call recording</string>
   <string name="call_record_whitelist_custom">Selected numbers</string>
   <string name="call_recording_notification_message">Tap to listen.</string>
@@ -705,7 +705,7 @@ Selection"</string>
   <string name="contactUpdateSuccess">Updated contact on SIM.</string>
   <string name="contactdeleteFailed">"Can't delete contact from SIM."</string>
   <string name="contactdeleteSuccess">Deleted contact from SIM.</string>
-  <string name="content_description_menu_button">Menu</string>
+  <string name="content_description_menu_button">منو</string>
   <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
@@ -735,7 +735,7 @@ Turn off mobile data?"</string>
   <string name="data_enable_warning_lgu">"Unless otherwise indicated in your carrier plan, using mobile data might generate additional carrier fees.
 
 Use mobile data anyway?"</string>
-  <string name="data_enabled">Mobile data</string>
+  <string name="data_enabled">داده همراه</string>
   <string name="data_plan">Mobile data plans</string>
   <string name="data_usage_disable_mobile">Turn off mobile data?</string>
   <string name="data_usage_ota">System updates</string>
@@ -810,7 +810,7 @@ Use mobile data anyway?"</string>
   <string name="dialog_alert_title">Attention</string>
   <string name="dialog_cancel">لغو</string>
   <string name="dialog_network_priority_title">Priority network</string>
-  <string name="dialog_report">Report</string>
+  <string name="dialog_report">گذارش</string>
   <string name="dialpad_0_letters">+</string>
   <string name="dialpad_1_letters" />
   <string name="dialpad_2_letters">ABC</string>
@@ -960,7 +960,7 @@ Use mobile data anyway?"</string>
   <string name="eps_only_set_title">this button is for setting eps only</string>
   <string name="error_updating_title">Call settings error</string>
   <string name="exception_error">Network or SIM card error.</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="external_source_trusted">Allowed</string>
   <string name="external_source_untrusted">Not allowed</string>
   <string name="failedToImportSingleContactMsg">Failed to import contact</string>
@@ -1142,8 +1142,8 @@ Switch to the new provider anyway?"</string>
   <string name="lable_all_outgoing">All outgoing calls</string>
   <string name="lable_all_outgoing_international">International outgoing calls</string>
   <string name="lable_call_barring">Call barring</string>
-  <string name="lable_disable">Off</string>
-  <string name="lable_enable">On</string>
+  <string name="lable_disable">خاموش</string>
+  <string name="lable_enable">روشن</string>
   <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
   <string name="lable_network_not_supported">"Network isn't supported"</string>
   <string name="lafs_disable">Local Airport Flight Schedules disabled</string>
@@ -1172,7 +1172,7 @@ Switch to the new provider anyway?"</string>
   <string name="list_language_summary">Select the news language</string>
   <string name="list_language_title">Language</string>
   <string name="load_networks_progress">Searching…</string>
-  <string name="loading_injected_setting_summary">Loading…</string>
+  <string name="loading_injected_setting_summary">درحال بارگذاری…</string>
   <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
   <string name="local_backup_password_title">Desktop backup password</string>
@@ -1209,7 +1209,7 @@ Switch to the new provider anyway?"</string>
   <string name="messageCFU">Always use this number</string>
   <string name="messageCFU_kr" formatted="false">A network service that diverts all incoming calls and text messages to a specified number. You have to subscribe to this service. You will be charged with monthly fee. Contact the customer center (114+[Send]) to subscribe or unsubscribe from this service. Enter %s+[number to forward calls to][Send] to enable, or %s[Send] to disable.</string>
   <string name="messageCW_kr" formatted="false">A free network service that allows you to answer a second call during a call, placing the first call on hold. Enter %s[Send] to enable, or %s[Send] to disable.</string>
-  <string name="messageCallBarring">Enter password</string>
+  <string name="messageCallBarring">گذرواژه را وارد نمایید</string>
   <string name="message_decode_error">There was an error while decoding the message.</string>
   <string name="mhh_disable">Medical, Health, and Hospital disabled</string>
   <string name="mhh_enable">Medical, Health, and Hospital enabled</string>
@@ -1231,13 +1231,13 @@ Switch to the new provider anyway?"</string>
   <string name="miui_network_selection_reset_text">Reset</string>
   <string name="miui_notification_network_selection_title">SIM: No service</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s: No service</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="mmiCancelled">MMI code canceled</string>
   <string name="mmiStarted">MMI code started</string>
@@ -1245,7 +1245,7 @@ Switch to the new provider anyway?"</string>
   <string name="mobile_advanced_ip_address_title">IP address</string>
   <string name="mobile_advanced_nr_network_title">5G network type</string>
   <string name="mobile_connection_management">Manage mobile network connection</string>
-  <string name="mobile_data">Mobile data</string>
+  <string name="mobile_data">داده همراه</string>
   <string name="mobile_data_activate_button">ADD DATA</string>
   <string name="mobile_data_activate_cancel_button">لغو</string>
   <string name="mobile_data_activate_diag_message">You may need to add data through %s</string>
@@ -1259,7 +1259,7 @@ Switch to the new provider anyway?"</string>
   <string name="mobile_data_always_on">Mobile data always active</string>
   <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
   <string name="mobile_data_settings_summary">Access data using mobile network</string>
-  <string name="mobile_data_settings_title">Mobile data</string>
+  <string name="mobile_data_settings_title">داده همراه</string>
   <string name="mobile_data_status_no_plan_subtext">No mobile data left</string>
   <string name="mobile_data_status_roaming_turned_off_subtext">Data roaming is turned off</string>
   <string name="mobile_data_status_roaming_turned_on_subtext">Data roaming is turned on</string>
@@ -1332,7 +1332,7 @@ Switch to the new provider anyway?"</string>
   <string name="msim_setting_categery_title">SIM card settings</string>
   <string name="msim_setting_default_data">Data card</string>
   <string name="msim_setting_default_voice">Default for calls</string>
-  <string name="msim_setting_install_virtual_sim_install">Install</string>
+  <string name="msim_setting_install_virtual_sim_install">نصب</string>
   <string name="msim_setting_install_virtual_sim_message">Install Mi Carrier Services to buy SIM cards and manage your carrier plan.</string>
   <string name="msim_setting_install_virtual_sim_tip">Mi Carrier Services</string>
   <string name="msim_setting_no_sim_indicator">No SIM card</string>
@@ -1344,12 +1344,12 @@ Switch to the new provider anyway?"</string>
   <string name="msim_setting_set_package">Select plan</string>
   <string name="msim_setting_sim_info_editor_title">Edit SIM info</string>
   <string name="msim_sim_lock">Locked</string>
-  <string name="msim_sim_radio_off">Off</string>
+  <string name="msim_sim_radio_off">خاموش</string>
   <string name="msim_switch_data_conn_toast">Swapped SIM cards. Network type has changed. View additional info in SIM cards and mobile networks in the Settings menu.</string>
   <string name="msim_switch_data_conn_toast_for_h2xct">SIM slot 2 only supports GSM networks. Preferred network type for this slot has been changed to 2G only.</string>
   <string name="multi_category_disable">Multi-category disabled</string>
   <string name="multi_category_enable">Multi-category enabled</string>
-  <string name="name">Name</string>
+  <string name="name">نام</string>
   <string name="national_disable">National news disabled</string>
   <string name="national_enable">National news enabled</string>
   <string name="netcheck_title">Mobile network diagnostics</string>
@@ -1386,7 +1386,7 @@ Switch to the new provider anyway?"</string>
   <string name="network_settings_select_automatic_hint">"Can't register on the network you selected.
 Using preferred network instead."</string>
   <string name="network_settings_title">Mobile networks</string>
-  <string name="network_settings_turn_off">Off</string>
+  <string name="network_settings_turn_off">خاموش</string>
   <string name="network_settings_warn_message">Your device will only connect to networks you select manually.</string>
   <string name="network_state_display">Show network status</string>
   <string name="network_state_display_title">Network status settings</string>
@@ -1466,7 +1466,7 @@ Using preferred network instead."</string>
   <string name="osu_opening_provider">Opening %1$s</string>
   <string name="osu_sign_up_complete">Sign-up complete. Connecting…</string>
   <string name="osu_sign_up_failed">Couldn’t complete sign-up. Tap to try again.</string>
-  <string name="ota_activate">Activate</string>
+  <string name="ota_activate">فعال سازی</string>
   <string name="ota_call_end">برگشت</string>
   <string name="ota_failure">"Couldn't program your phone"</string>
   <string name="ota_hfa_activation_dialog_message">"The phone is activating your mobile data service.
@@ -1495,13 +1495,13 @@ You may need to find an area with better coverage (near a window, or outside).
 Try again or call customer service for more options."</string>
   <string name="other_available_phone_accounts">Other available accounts</string>
   <string name="other_settings">Other call settings</string>
-  <string name="other_settings_category">Other</string>
+  <string name="other_settings_category">غیره</string>
   <string name="overlay_display_devices_title">Simulate secondary displays</string>
   <string name="overseas_roaming_setting">Data roaming</string>
   <string name="pane_title_emergency_dialpad">Emergency Dialpad</string>
-  <string name="password">Password</string>
+  <string name="password">گذرواژه</string>
   <string name="password_changed">Password changed</string>
-  <string name="password_title">Password</string>
+  <string name="password_title">گذرواژه</string>
   <string name="path_answer_state_setting_title">System apps/Phone/Incoming call settings</string>
   <string name="path_antispam_setting">System apps/Phone/Blocklist</string>
   <string name="path_app_name">System apps/Phone</string>
@@ -1612,11 +1612,11 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
   <string name="power_suggestion_extend_battery">Extend battery life past %1$s</string>
   <string name="prefered_network_type_3g_promp">You should turn off VoLTE before seleсting 3G as your preferred network type. Turn off now?</string>
-  <string name="preference_auto_ip_summary_disable">Off</string>
+  <string name="preference_auto_ip_summary_disable">خاموش</string>
   <string name="preference_category_ringtone">Ringtone &amp; Vibrate</string>
   <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="preference_dial_pad_touch_tone_default">Default</string>
-  <string name="preference_dial_pad_touch_tone_off">Off</string>
+  <string name="preference_dial_pad_touch_tone_off">خاموش</string>
   <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
   <string name="preference_dial_pad_touch_tone_title">Dial pad touch tones</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
@@ -1686,8 +1686,8 @@ Your phone will be locked automatically after another failed attempt"</string>
   <string name="preferred_network_type_title">Preferred network type</string>
   <string name="preferred_phone_account">Preferred calling account</string>
   <string name="preferred_wificall_title">Network preferences</string>
-  <string name="privacy_policy_title">Privacy Policy</string>
-  <string name="private_dns_mode_off">Off</string>
+  <string name="privacy_policy_title">سیاست حفظ حریم خصوصی</string>
+  <string name="private_dns_mode_off">خاموش</string>
   <string name="private_dns_mode_opportunistic">Automatic</string>
   <string name="private_dns_mode_provider">Private DNS provider hostname</string>
   <string name="private_dns_mode_provider_failure">"Couldn't connect"</string>
@@ -1774,7 +1774,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="retail_demo_reset_title">Password required</string>
   <string name="retail_directory_disable">Retail Directory disabled</string>
   <string name="retail_directory_enable">Retail Directory enabled</string>
-  <string name="retry_btn">Retry</string>
+  <string name="retry_btn">امتحان دوباره</string>
   <string name="reverting_settings">Reverting settings…</string>
   <string name="ringtone_silent">هیچ یک</string>
   <string name="ringtone_unknown">Unknown ringtone</string>
@@ -1893,7 +1893,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="sim_card_num">SIM %s</string>
   <string name="sim_change_data_message">Use %1$s instead of %2$s for mobile data?</string>
   <string name="sim_change_data_title">Change data SIM?</string>
-  <string name="sim_contact_name">Name</string>
+  <string name="sim_contact_name">نام</string>
   <string name="sim_contact_number">Number</string>
   <string name="sim_description_default">SIM card, slot: %s</string>
   <string name="sim_description_emergency_calls">Emergency calling only</string>
@@ -1919,7 +1919,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">Using 5G networks requires deactivating one of the SIM cards. If you want to continue using Dual SIM, select a different network type.</string>
   <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Attention</string>
   <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Only one SIM card can be activated for 5G networks. Tapping \"Activate\" below will deactivate the other SIM card.</string>
-  <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Activate</string>
+  <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">فعال سازی</string>
   <string name="sip_account_disable">"The account isn't active. Can't accept calls."</string>
   <string name="sip_account_list">SIP accounts</string>
   <string name="sip_accounts">SIP accounts</string>
@@ -1985,16 +1985,16 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="stock_quotes_enable">Stock Quotes enabled</string>
   <string name="strict_mode">Strict mode enabled</string>
   <string name="strict_mode_summary">Flash screen when apps do long operations on main thread</string>
-  <string name="sum_call_barring_disabled">Off</string>
-  <string name="sum_call_barring_enabled">On</string>
+  <string name="sum_call_barring_disabled">خاموش</string>
+  <string name="sum_call_barring_enabled">روشن</string>
   <string name="sum_cdma_call_settings">Additional CDMA only call settings</string>
-  <string name="sum_cfb_disabled">Off</string>
+  <string name="sum_cfb_disabled">خاموش</string>
   <string name="sum_cfb_enabled">Forwarding to {0}</string>
-  <string name="sum_cfnrc_disabled">Off</string>
+  <string name="sum_cfnrc_disabled">خاموش</string>
   <string name="sum_cfnrc_enabled">Forwarding to {0}</string>
-  <string name="sum_cfnry_disabled">Off</string>
+  <string name="sum_cfnry_disabled">خاموش</string>
   <string name="sum_cfnry_enabled">Forwarding to {0}</string>
-  <string name="sum_cfu_disabled">Off</string>
+  <string name="sum_cfu_disabled">خاموش</string>
   <string name="sum_cfu_enabled">Forwarding all calls to {0}</string>
   <string name="sum_cfu_enabled_indicator">Forwarding all calls</string>
   <string name="sum_cfu_enabled_indicator_by_sim">All calls to SIM %s will be forwarded</string>
@@ -2063,7 +2063,7 @@ Your SIM card will be locked after another unsuccessful attempt."</string>
   <string name="telocation_custom_empty">Add a number by touching the add (+) button</string>
   <string name="telocation_custom_location_summary">Manage saved area codes and group numbers</string>
   <string name="telocation_custom_location_title">My locations</string>
-  <string name="telocation_custom_name_hint">Name</string>
+  <string name="telocation_custom_name_hint">نام</string>
   <string name="telocation_custom_number_hint">Area code or group number</string>
   <string name="telocation_edit_custom_location_title">Configure location</string>
   <string name="telocation_enable_title">Show location</string>
@@ -2101,14 +2101,14 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="time_end">To</string>
   <string name="time_end_hour">time end hour</string>
   <string name="time_end_minute">time end minute</string>
-  <string name="time_formate_am">AM</string>
-  <string name="time_formate_pm">PM</string>
+  <string name="time_formate_am">قبل از ظهر</string>
+  <string name="time_formate_pm">بعد از ظهر</string>
   <string name="time_interval_char">:</string>
   <string name="time_next_day">next day</string>
   <string name="time_start">از</string>
   <string name="time_start_hour">time start hour</string>
   <string name="time_start_minute">time start minute</string>
-  <string name="time_unit_just_now">Just now</string>
+  <string name="time_unit_just_now">همین الان</string>
   <string name="title_cfu_enabled">Call forwarding is on</string>
   <string name="title_convert_fbe">Converting to file based encryption</string>
   <string name="track_frame_time">Profile HWUI rendering</string>
@@ -2127,7 +2127,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="tts_engine_security_warning">This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?</string>
   <string name="tts_engine_settings_button">Launch engine settings</string>
   <string name="tts_engine_settings_title">Settings for %s</string>
-  <string name="tts_general_section_title">General</string>
+  <string name="tts_general_section_title">عمومی</string>
   <string name="tts_install_data_summary">Install the voice data required for speech synthesis</string>
   <string name="tts_install_data_title">Install voice data</string>
   <string name="tts_lang_not_selected">Language not selected</string>
@@ -2138,7 +2138,7 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="tts_reset_speech_pitch_title">Reset speech pitch</string>
   <string name="tts_settings">Text-to-speech settings</string>
   <string name="tts_settings_title">Text-to-speech output</string>
-  <string name="tts_status_checking">Checking…</string>
+  <string name="tts_status_checking">درحال بررسی...</string>
   <string name="tts_status_not_supported">%1$s is not supported</string>
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
@@ -2176,8 +2176,8 @@ Next period starts in %2$d days (%3$s)"</string>
   <string name="ussd_dialog_sep">----------</string>
   <string name="ut_not_support">UT is not available</string>
   <string name="ut_unavailable_to_set_video_cf_toast">UT is unavailable to set call forwarding for video, please close this page and exit.</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
   <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
   <string name="verify_apps_over_usb_title">Verify apps over USB</string>
   <string name="vice_card_data_in_use_alert">Additional data fees may be generated.</string>
@@ -2222,7 +2222,7 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="voicemail_default">Your carrier</string>
   <string name="voicemail_notification_vibrate_when_title">Vibrate</string>
   <string name="voicemail_notifications_key">voicemail_notification_key</string>
-  <string name="voicemail_notifications_preference_title">Notifications</string>
+  <string name="voicemail_notifications_preference_title">اعلانات</string>
   <string name="voicemail_number_not_set">&lt;Not set&gt;</string>
   <string name="voicemail_provider">Service</string>
   <string name="voicemail_provider_summary">Choose voicemail service</string>
@@ -2235,7 +2235,7 @@ This tablet doesn't have an earpiece. You can switch to hands-free mode or use e
   <string name="voicemail_visual_voicemail_key">voicemail_visual_voicemail_key</string>
   <string name="voicemail_visual_voicemail_switch_title">Visual Voicemail</string>
   <string name="voip_setting">VoIP settings</string>
-  <string name="volte_provision_notification_activate">Activate</string>
+  <string name="volte_provision_notification_activate">فعال سازی</string>
   <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
   <string name="volte_provision_title">Activate VoLTE calls</string>
   <string name="volte_switch_not_support_summary">"VoLTE calls aren't supported for the mobile data SIM card."</string>
@@ -2401,6 +2401,6 @@ Credential storage might not enable"</string>
   <string name="zen_mode_duration_settings_title">Duration</string>
   <string name="zen_mode_enable_dialog_turn_on">روشن</string>
   <string name="zen_mode_forever">Until you turn off</string>
-  <string name="zen_mode_settings_summary_off">Never</string>
+  <string name="zen_mode_settings_summary_off">هرگز</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Turn on Do Not Disturb</string>
 </resources>

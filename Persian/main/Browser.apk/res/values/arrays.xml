@@ -1140,7 +1140,7 @@
     </string-array>
     <string-array name="pref_homepage_values">
         <item>miui_home</item>
-        <item>other</item>
+        <item>غیره</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Phone</item>
@@ -1201,12 +1201,12 @@
         <item>تاریخچه</item>
     </string-array>
     <string-array name="readmode_theme_background_color">
-        <item>white</item>
+        <item>سفید</item>
         <item>beige</item>
         <item>brown</item>
-        <item>green</item>
+        <item>سبز</item>
         <item>gray</item>
-        <item>black</item>
+        <item>سیاه</item>
     </string-array>
     <integer-array name="readmode_theme_bgcolors">
         <item>0xFFFFFFFF</item>

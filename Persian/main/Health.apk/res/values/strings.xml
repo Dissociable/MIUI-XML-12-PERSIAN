@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -53,12 +53,12 @@ Xiaomi Health supports devices you've previously added in the Mi Home app. If yo
 to add cards"</string>
   <string name="add_record">افزودن</string>
   <string name="added_data_source">Added sources</string>
-  <string name="afternoon">PM</string>
+  <string name="afternoon">بعد از ظهر</string>
   <string name="all_records">All records</string>
   <string name="allow_notice_periods">Active time period</string>
   <string name="altitude">Altitude</string>
   <string name="altitude_range">Altitude</string>
-  <string name="am">AM</string>
+  <string name="am">قبل از ظهر</string>
   <string name="app_name">plugin.health.analyze</string>
   <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
   <string name="audio_permission_dialog_desc">To analyze your sleep cycle and record talking and snoring, Xiaomi Health needs permission to record audio.</string>
@@ -226,7 +226,7 @@ to add cards"</string>
   <string name="completed_stand">You stood up</string>
   <string name="confirm_opening">روشن</string>
   <string name="copy">کپی</string>
-  <string name="copy_done">Copied successfully</string>
+  <string name="copy_done">با موفقیت کپی شد</string>
   <string name="copyright_statement">Copyright © Xiaomi Inc. All rights reserved.</string>
   <string name="cousume_unit_float_format">%1$.2f Cal</string>
   <string name="cross_hiking">Hiking</string>
@@ -251,7 +251,7 @@ If you decide to delete your health data after you choose to keep it, you can do
   <string name="data_source_list_description">"Xiaomi Health gets health data (%1$s) from these sources. If the data is duplicated in multiple sources, you'll see the data from the sources that appear first on the list in Xiaomi Health."</string>
   <string name="data_source_manage">Manage data sources</string>
   <string name="data_source_not_support_hm_description">"%1$s doesn't provide detailed step count. You can try switching to other data sources in More &gt; Data sources."</string>
-  <string name="date">Date</string>
+  <string name="date">تاریخ</string>
   <string name="date_format_h_m">H:mm</string>
   <string name="date_format_h_m_s">HH:mm:ss</string>
   <string name="date_format_m_d">M/d</string>
@@ -330,13 +330,13 @@ Xiaomi Health will only notify you about important items."</string>
   <string name="dialog_health_applicator">Xiaomi Health currently provides services only to adults.</string>
   <string name="dialog_juveniles_details">According to our Privacy Policy, the minimum age for using this product is 18 years old.</string>
   <string name="dialog_juveniles_link">According to our &lt;font color=\"#FE6D67\"&gt;&lt;a href=%1$s&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt;, the minimum age for using this product is 18 years old.</string>
-  <string name="dialog_keep">Keep</string>
+  <string name="dialog_keep">نگه داری</string>
   <string name="dialog_known">فهمیدم</string>
   <string name="dialog_menstruation_purpose">Welcome to Xiaomi Health! \"Menstruation\" allows you to record periods, determine estimated dates of upcoming periods, and receive reminders. All the related data will be stored locally on your device, which allows you to manage it easily.</string>
   <string name="dialog_no_more_prompt">"Don't show again"</string>
   <string name="dialog_ok">باشه</string>
   <string name="dialog_open">مجاز</string>
-  <string name="dialog_permission_loading_msg">Checking…</string>
+  <string name="dialog_permission_loading_msg">درحال بررسی...</string>
   <string name="dialog_privacy_policy_statement">Privacy Policy statement</string>
   <string name="dialog_privacy_title">Terms and conditions</string>
   <string name="dialog_read_phone_perm_desc">For identifying device features using OAID or Android ID</string>
@@ -348,7 +348,7 @@ Xiaomi Health will only notify you about important items."</string>
   <string name="dialog_sure">باشه</string>
   <string name="dialog_user_agreement_purpose">Welcome to Xiaomi Health! You can use this app to count steps, track sleep, periods, and weight, as well as sync your stats to the cloud.</string>
   <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
-  <string name="disable">Off</string>
+  <string name="disable">خاموش</string>
   <string name="dot">.</string>
   <string name="drag_sort">Rearrange</string>
   <string name="dream_talk">Talking %1$s</string>
@@ -356,7 +356,7 @@ Xiaomi Health will only notify you about important items."</string>
   <string name="dream_talk_title">Talking</string>
   <string name="drink_water">Drink some water and take a walk.</string>
   <string name="early">Early</string>
-  <string name="early_morning">AM</string>
+  <string name="early_morning">قبل از ظهر</string>
   <string name="earthly_branches_chen">辰</string>
   <string name="earthly_branches_chou">丑</string>
   <string name="earthly_branches_hai">亥</string>
@@ -370,19 +370,19 @@ Xiaomi Health will only notify you about important items."</string>
   <string name="earthly_branches_you">酉</string>
   <string name="earthly_branches_zi">子</string>
   <string name="edit_basic_info_desc">Basic info</string>
-  <string name="edit_sleep_record_button">Edit</string>
+  <string name="edit_sleep_record_button">ویرایش</string>
   <string name="empty" />
   <string name="empty_data">-</string>
-  <string name="enable">On</string>
-  <string name="enable_go_now">On</string>
-  <string name="enable_not_now">Off</string>
-  <string name="enable_right_now">On</string>
+  <string name="enable">روشن</string>
+  <string name="enable_go_now">روشن</string>
+  <string name="enable_not_now">خاموش</string>
+  <string name="enable_right_now">روشن</string>
   <string name="enough">Enough</string>
   <string name="enter_mi_health">Open Xiaomi Health</string>
   <string name="equivalent_exercise">≈%1$s km walk (%2$s kcal)</string>
   <string name="eras_ad">AD</string>
   <string name="eras_bc">BC</string>
-  <string name="evening">PM</string>
+  <string name="evening">بعد از ظهر</string>
   <string name="excessive">Too much</string>
   <string name="exercise">Workouts</string>
   <string name="exercise_consume">Burnt %1$d Cal</string>
@@ -428,7 +428,7 @@ If your device is listed here, you can add data sources manually in Xiaomi Healt
   <string name="exercise_sum">Exercise report</string>
   <string name="exercise_walk_description">According to the Dietary Guidelines for Chinese Residents, active physical activity should last at least 40 minutes a day, which is equivalent to walking 6000 steps. The steps you take each day to walk, run, and go upstairs are summarized here.</string>
   <string name="expand_all">Show all</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
   <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
   <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
@@ -506,7 +506,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="friday_shortest">F</string>
   <string name="gender_female">Female</string>
   <string name="gender_male">Male</string>
-  <string name="gender_other">Other</string>
+  <string name="gender_other">غیره</string>
   <string name="generate_body_weight_proposal">Weigh in to get health advice</string>
   <string name="getUp_time">Get up time</string>
   <string name="getUp_time_description">"Get up time is the moment when you get out of bed and start moving. It's estimated based on your bedtime schedule and device usage."</string>
@@ -515,7 +515,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="getUp_time_normal_description">You got up on time. Keep it up!</string>
   <string name="go_back_to_today">Back to today</string>
   <string name="go_on">ادامه</string>
-  <string name="go_open_sleep_detector">Start</string>
+  <string name="go_open_sleep_detector">شروع</string>
   <string name="go_setting">تنظیمات</string>
   <string name="go_to_open">روشن</string>
   <string name="goal_daily_exercise">Activity goal</string>
@@ -555,7 +555,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="history_statistics">Stats</string>
   <string name="home_page_card_setting">Start page cards</string>
   <string name="home_tip_open_data_sync">Turn on sync with the cloud</string>
-  <string name="home_tip_sync_done">Synced successfully</string>
+  <string name="home_tip_sync_done">باموفقیت همگام سازی شد</string>
   <string name="home_tip_sync_immediately">"Some items weren't synced. Tap to sync now."</string>
   <string name="home_tip_syncing">Syncing health data…</string>
   <string name="hour">H</string>
@@ -571,7 +571,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="instructions_provider">Instructions provided by Miao Health</string>
   <string name="insufficient">Not enough</string>
   <string name="jump_over">پرش</string>
-  <string name="just_recently">Just now</string>
+  <string name="just_recently">همین الان</string>
   <string name="key_sedentary_toggle">sedentary_toggle</string>
   <string name="label_average_daily_sleep_duration">Avg sleep duration</string>
   <string name="label_average_daily_sleep_time">Avg fall asleep time</string>
@@ -597,7 +597,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="label_sleep_intercept">Interrupted</string>
   <string name="label_sleep_time">Fell asleep</string>
   <string name="label_sleep_time2">Fell asleep time</string>
-  <string name="label_start_time">Start</string>
+  <string name="label_start_time">شروع</string>
   <string name="label_today_exercise_consumption">Burned</string>
   <string name="label_today_exercise_summary">"Today's steps"</string>
   <string name="label_today_sleep_summary">Sleep last night</string>
@@ -625,7 +625,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="manual_page_measure_date_title">Date and time</string>
   <string name="manual_record">Recorded manually</string>
   <string name="mark_end">Period ended</string>
-  <string name="mark_start">Start</string>
+  <string name="mark_start">شروع</string>
   <string name="max_altitude">Highest altitude</string>
   <string name="max_heart_rate">Highest heart rate</string>
   <string name="maximum">Maximum</string>
@@ -650,7 +650,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="menstruation_record">Recorded periods</string>
   <string name="menstruation_record_not_found">No records here yet</string>
   <string name="menstruation_setting">Menstruation settings</string>
-  <string name="menu">Menu</string>
+  <string name="menu">منو</string>
   <string name="menu_title_settings">تنظیمات</string>
   <string name="mesens_card_title_stop_today">Period ends today</string>
   <string name="mesens_card_title_today_begin">Period might start today</string>
@@ -659,7 +659,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="mi_health">Xiaomi Health</string>
   <string name="mi_sport">Mi Fit</string>
   <string name="mi_sports">Mi Fit</string>
-  <string name="midnight">AM</string>
+  <string name="midnight">قبل از ظهر</string>
   <string name="min_altitude">Lowest altitude</string>
   <string name="min_heart_rate">Lowest heart rate</string>
   <string name="min_pace">Lowest pace</string>
@@ -670,19 +670,19 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="miuix_appcompat_cloud_state_syncing">Syncing with the cloud</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">درحال تازه سازی</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">درحال تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="model_card_setting">Card settings</string>
-  <string name="modify">Edit</string>
+  <string name="modify">ویرایش</string>
   <string name="modify_end_date">Change end date</string>
   <string name="monday">Monday</string>
   <string name="monday_short">Mon</string>
   <string name="monday_shortest">M</string>
-  <string name="month">Month</string>
+  <string name="month">ماه</string>
   <string name="month_april">April</string>
   <string name="month_april_short">Apr</string>
   <string name="month_april_shortest">A</string>
@@ -742,14 +742,14 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="need_unrestricted_permission">To get more accurate stats, allow Xiaomi Health to always run in the background.</string>
   <string name="network_connect_failure">"Couldn't connect to the network. Check your network settings and try again."</string>
   <string name="next_step">بعد</string>
-  <string name="night">PM</string>
+  <string name="night">بعد از ظهر</string>
   <string name="no_available_device">No devices</string>
   <string name="no_body_weight_record">No records here yet</string>
   <string name="no_data">No data</string>
   <string name="no_records">No items here yet.</string>
   <string name="no_snore">"You didn't snore or talk in your sleep"</string>
   <string name="no_snore_1">"You didn't snore or talk in your sleep"</string>
-  <string name="noon">PM</string>
+  <string name="noon">بعد از ظهر</string>
   <string name="normal">Normal</string>
   <string name="not_achieve_stand_goals">"You haven't reached your goal"</string>
   <string name="not_added">Not added</string>
@@ -775,7 +775,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="passable">باشه</string>
   <string name="passport_oauth_actionbar_title">Mi Account</string>
   <string name="passport_oauth_sucess_tip">Authorized success</string>
-  <string name="password_toggle_content_description">Show password</string>
+  <string name="password_toggle_content_description">نمایش گذرواژه</string>
   <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
   <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
   <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -792,7 +792,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="picker_month">Selected month: %1$d. Swipe vertically to select.</string>
   <string name="picker_year">Selected year: %1$d. Swipe vertically to select.</string>
   <string name="play">Play</string>
-  <string name="pm">PM</string>
+  <string name="pm">بعد از ظهر</string>
   <string name="pool_swimming">Pool swim</string>
   <string name="predict_menstruation">Expected period</string>
   <string name="preference_about">About</string>
@@ -806,9 +806,9 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="preference_update_already_newest">Xiaomi Health is up to date.</string>
   <string name="preference_update_current_version">Current version: %1$s</string>
   <string name="preference_update_default_title">Version</string>
-  <string name="preference_update_find_new_version">Check for updates</string>
+  <string name="preference_update_find_new_version">بررسی برای بروزرسانی</string>
   <string name="preference_update_find_newer_version">An update is available: %1$s</string>
-  <string name="privacy_policy">Privacy Policy</string>
+  <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
   <string name="prompt_more_than_3h">More than 3 hours</string>
   <string name="prompt_sleep_time_night">Night sleep</string>
   <string name="prompt_sleep_time_noon">Daytime nap</string>
@@ -870,8 +870,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sending">Sending…</string>
   <string name="setting">تنظیمات</string>
   <string name="setting_data_cloud_sync_tip">Use this feature to back up items from this device and sync health data from other devices</string>
-  <string name="setting_sedentary_off">OFF</string>
-  <string name="setting_sedentary_on">ON</string>
+  <string name="setting_sedentary_off">خاموش</string>
+  <string name="setting_sedentary_on">روشن</string>
   <string name="setting_sedentary_title">Remind to move</string>
   <string name="share">اشتراک</string>
   <string name="skip">پرش</string>
@@ -879,7 +879,7 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
   <string name="sleep_and_get_up_time">Bedtime schedule</string>
   <string name="sleep_auto_start_perm_grant">Permissions granted</string>
   <string name="sleep_chart_empty">No data</string>
-  <string name="sleep_chart_loading">Just a sec…</string>
+  <string name="sleep_chart_loading">یک لحظه...</string>
   <string name="sleep_day">Day</string>
   <string name="sleep_deep">Deep sleep</string>
   <string name="sleep_deep_light_analysis">Light sleep and deep sleep</string>
@@ -939,7 +939,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
   <string name="sleep_management_content1">Set reminders for going to bed and getting up</string>
   <string name="sleep_management_exp_hours_minutes">"Current settings won't guarantee you %1$s %2$s of sleep daily. You need more than that."</string>
   <string name="sleep_management_label">Manage bedtime</string>
-  <string name="sleep_month">Month</string>
+  <string name="sleep_month">ماه</string>
   <string name="sleep_need_auto_start">Allow Xiaomi Health to autostart to make sleep data more accurate</string>
   <string name="sleep_need_background_run">Select \"No restrictions\" to make sleep data more accurate</string>
   <string name="sleep_need_necessary_permissions">Grant required permissions to make sleep data more accurate</string>
@@ -969,16 +969,16 @@ sleep data"</string>
   <string name="sleep_sober">Awake</string>
   <string name="sleep_sober_times_title">Woke up</string>
   <string name="sleep_status">Sleep status</string>
-  <string name="sleep_time_edit">Edit</string>
+  <string name="sleep_time_edit">ویرایش</string>
   <string name="sleep_time_standard_pattern">Standard: %1$dh</string>
   <string name="sleep_tip_default">Try to go to bed before 23:00</string>
   <string name="sleep_tip_keep_not_enough">"Looks like you aren't getting enough sleep."</string>
   <string name="sleep_tip_keep_on">Everything looks fine. Nice!</string>
-  <string name="sleep_today">Today</string>
+  <string name="sleep_today">امروز</string>
   <string name="sleep_tracing_operation">Tracking sleep…</string>
   <string name="sleep_track">Track sleep</string>
   <string name="sleep_turn_over_times_title">Turned</string>
-  <string name="sleep_week">Week</string>
+  <string name="sleep_week">هفته</string>
   <string name="snore">Snoring</string>
   <string name="snore_detection_abnormal_notification_button">ادامه</string>
   <string name="snore_detection_abnormal_notification_content">"Can't use microphone"</string>
@@ -1054,8 +1054,8 @@ sleep data"</string>
   <string name="standard_format">(standard: %1s)</string>
   <string name="standing_already">" You stood up"</string>
   <string name="state_agree">موافق</string>
-  <string name="state_auto_run_disenable">Off</string>
-  <string name="state_auto_run_enable">On</string>
+  <string name="state_auto_run_disenable">خاموش</string>
+  <string name="state_auto_run_enable">روشن</string>
   <string name="state_disagree">Restricted</string>
   <string name="state_disagree2">"Don't agree"</string>
   <string name="status_bar_notification_info_overflow">999+</string>
@@ -1084,7 +1084,7 @@ sleep data"</string>
   <string name="sustain_title">"You haven't moved for "</string>
   <string name="swim">Swimming</string>
   <string name="swim_type">Style</string>
-  <string name="sync_immediately">Sync</string>
+  <string name="sync_immediately">همگام سازی</string>
   <string name="sync_is_off">Sync is off</string>
   <string name="sync_set_network">Network settings</string>
   <string name="sync_status">Sync status</string>
@@ -1269,7 +1269,7 @@ sleep data"</string>
   <string name="time_duration_date">%1$s-%2$s</string>
   <string name="time_duration_number">%1$s:%2$s</string>
   <string name="time_format_hh_mm">HH:mm</string>
-  <string name="time_picker_dialog_title">Set time</string>
+  <string name="time_picker_dialog_title">تنظیم زمان</string>
   <string name="time_picker_label_hour">H</string>
   <string name="time_picker_label_minute">M</string>
   <string name="tips_default">No data</string>
@@ -1290,14 +1290,14 @@ sleep data"</string>
   <string name="title_select_height_description">This will make our stats more accurate</string>
   <string name="title_select_weight">Set weight</string>
   <string name="title_select_weight_description">This will make our stats more accurate</string>
-  <string name="title_start_use">Start</string>
+  <string name="title_start_use">شروع</string>
   <string name="title_start_use_menstruation_assistant">Record your menstrual cycle</string>
   <string name="title_today_exercise_detail">"Today's activity"</string>
-  <string name="today">Today</string>
+  <string name="today">امروز</string>
   <string name="today_hh_mm">Today HH:mm</string>
-  <string name="today_label">Today</string>
+  <string name="today_label">امروز</string>
   <string name="today_no_data">No data for today yet</string>
-  <string name="today_single">Today</string>
+  <string name="today_single">امروز</string>
   <string name="tomorrow">Tomorrow</string>
   <string name="too_little">Too little</string>
   <string name="total">Total</string>
@@ -1320,7 +1320,7 @@ sleep data"</string>
   <string name="unit_second">" s"</string>
   <string name="unit_thousand_format">%1$sK</string>
   <string name="unknown">ناشناخته</string>
-  <string name="update_notify_dialog_ignore">Later</string>
+  <string name="update_notify_dialog_ignore">بعدا</string>
   <string name="update_notify_dialog_msg">"An update is available: %1$s.
 What's new:
 %2$s
@@ -1329,11 +1329,11 @@ Update now?"</string>
   <string name="update_notify_dialog_title">An update is available</string>
   <string name="update_notify_no_update_log">Nothing here yet.</string>
   <string name="user_age_unit">Y.O.</string>
-  <string name="user_agreement">User Agreement</string>
+  <string name="user_agreement">توافقات کاربر</string>
   <string name="user_birthday_display_format">MM/dd/yyyy</string>
   <string name="user_invalid_value">--</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
   <string name="visceral_fat">Visceral fat</string>
   <string name="visceral_fat_descripe_content">Visceral fat is essential for stabilizing and protecting internal organs. However, high visceral fat increases the risk of cardiovascular and metabolic diseases.</string>
   <string name="walk">Walking</string>
@@ -1350,7 +1350,7 @@ Update now?"</string>
   <string name="welcome_sedentary_description">"Xiaomi Health can remind you to stand up when you're sitting for a long time"</string>
   <string name="welcome_sleep">Analyze sleep cycle</string>
   <string name="welcome_sleep_description">Put your phone next to you to learn about your sleep cycle in the morning</string>
-  <string name="welcome_start_use">Start</string>
+  <string name="welcome_start_use">شروع</string>
   <string name="well">Good</string>
   <string name="write_strorage_perm_description">For saving the info about the issues you encounter</string>
   <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
@@ -1363,6 +1363,6 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
   <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
-  <string name="year">Year</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="year">سال</string>
+  <string name="yesterday">دیروز</string>
 </resources>

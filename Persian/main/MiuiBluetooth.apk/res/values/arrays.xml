@@ -292,7 +292,7 @@
         <item>Standard</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
     </string-array>
@@ -311,7 +311,7 @@
         <item>0</item>
         <item>1</item>
         <item>systrace</item>
-        <item>error</item>
+        <item>خطا</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Never use HDCP checking</item>
@@ -324,7 +324,7 @@
         <item>Always check</item>
     </string-array>
     <string-array name="hdcp_checking_values">
-        <item>never</item>
+        <item>هرگز</item>
         <item>drm-only</item>
         <item>always</item>
     </string-array>
@@ -357,13 +357,13 @@
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>64K per log buffer</item>
         <item>256K per log buffer</item>
         <item>1M per log buffer</item>
@@ -371,7 +371,7 @@
         <item>16M per log buffer</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -387,13 +387,13 @@
         <item>16777216</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>All log buffers</item>
         <item>All but radio log buffers</item>
         <item>kernel log buffer only</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>All</item>
         <item>All but radio</item>
         <item>kernel only</item>
@@ -405,7 +405,7 @@
         <item>kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
@@ -429,7 +429,7 @@
         <item>3</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>

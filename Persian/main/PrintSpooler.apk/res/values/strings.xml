@@ -3,7 +3,7 @@
   <string name="activity_convert_pdf_alert_message">File conversion is provided by WPS Office</string>
   <string name="activity_convert_pdf_alert_title">Converting file before printing…</string>
   <string name="activity_jump_market_alert_install_message">"Install WPS Office to convert this file and prepare it for printing. You'll need to start printing again after installation is complete. Install now?"</string>
-  <string name="activity_jump_market_alert_install_positive_button">Install</string>
+  <string name="activity_jump_market_alert_install_positive_button">نصب</string>
   <string name="activity_jump_market_alert_title">Attention</string>
   <string name="activity_jump_market_alert_update_message">"Update WPS Office to convert this file and prepare it for printing. You'll need to start printing again after the new version is installed. Update now?"</string>
   <string name="activity_jump_market_alert_update_positive_button">بروزرسانی</string>
@@ -73,7 +73,7 @@
   <string name="print_error">"Can't print due to a printer error"</string>
   <string name="print_error_default_message">"Sorry, that didn't work. Try again."</string>
   <string name="print_error_printer_unavailable">"This printer isn't available right now."</string>
-  <string name="print_error_retry">Retry</string>
+  <string name="print_error_retry">امتحان دوباره</string>
   <string name="print_fail">"Couldn't print"</string>
   <string name="print_fail_network_error">"Couldn't print. Check your network settings and try again."</string>
   <string name="print_forget_printer">Forget printer</string>
@@ -112,7 +112,7 @@
   <string name="printing_successful">Printed successfully</string>
   <string name="reason_unknown">ناشناخته</string>
   <string name="recommended_services_title">Recommended services</string>
-  <string name="restart">Restart</string>
+  <string name="restart">راه اندازی مجدد</string>
   <string name="retry_connect">تلاش دوباره</string>
   <string name="save_as_pdf">Save as PDF</string>
   <string name="savetopdf_button">Save to PDF</string>

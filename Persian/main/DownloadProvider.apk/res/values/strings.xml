@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <resources>
-  <string name="app_label">Downloads</string>
+  <string name="app_label">بارگیری ها</string>
   <string name="auto_restart_under_wifi">WLAN will automatically download this file</string>
   <string name="button_cancel_download">لغو</string>
   <string name="button_download_now">Download now</string>
@@ -8,7 +8,7 @@
   <string name="button_start_now">Start now</string>
   <string name="button_wait_for_wifi">Wait</string>
   <string name="channel_active">Active download</string>
-  <string name="channel_complete">Download complete</string>
+  <string name="channel_complete">بارگیری کامل شد</string>
   <string name="channel_insufficient_space">Insufficient space</string>
   <string name="channel_waiting">Download waiting</string>
   <string name="dialog_button_cancel">لغو</string>
@@ -81,7 +81,7 @@
   <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
   <string name="recommended_file_size_download_in_mobile">Use %s of mobile data to download this file?</string>
   <string name="recommended_no_file_size_download_in_mobile">Use your mobile data connection to download this file?</string>
-  <string name="root_downloads">Downloads</string>
+  <string name="root_downloads">بارگیری ها</string>
   <string name="status_bar_notification_info_overflow">999+</string>
   <string name="task_already_exist">Task already exists</string>
   <string name="warning_tip_cancel">دریافت</string>

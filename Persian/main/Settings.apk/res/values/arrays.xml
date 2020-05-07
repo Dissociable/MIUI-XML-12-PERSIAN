@@ -365,7 +365,7 @@
         <item>4</item>
     </string-array>
     <string-array name="autofill_logging_level_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Debug</item>
         <item>Verbose</item>
     </string-array>
@@ -998,7 +998,7 @@
         <item>Face unlock</item>
         <item>Pattern</item>
         <item>PIN</item>
-        <item>Password</item>
+        <item>گذرواژه</item>
     </string-array>
     <string-array name="change_security_lock_picker_key">
         <item>facial</item>
@@ -1630,11 +1630,11 @@
     </string-array>
     <string-array name="color_picker">
         <item>Teal</item>
-        <item>Blue</item>
+        <item>آبی</item>
         <item>Indigo</item>
         <item>Purple</item>
         <item>Pink</item>
-        <item>Red</item>
+        <item>قرمز</item>
     </string-array>
     <string-array name="common_password_business_clickable_default">
         <item>true</item>
@@ -1744,7 +1744,7 @@
         <item>"Last month: "</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
     </string-array>
@@ -1812,7 +1812,7 @@
         <item>@string/dndm_vip_list_custom</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Never</item>
+        <item>هرگز</item>
         <item>15 seconds</item>
         <item>30 seconds</item>
         <item>1 minute</item>
@@ -1847,7 +1847,7 @@
         <item>0</item>
         <item>1</item>
         <item>systrace</item>
-        <item>error</item>
+        <item>خطا</item>
     </string-array>
     <string-array name="enabled_networks_4g_choices">
         <item>@string/network_4G</item>
@@ -2043,7 +2043,7 @@
         <item>3.5</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Light</item>
         <item>Medium</item>
         <item>Strong</item>
@@ -2065,7 +2065,7 @@
         <item>Always check</item>
     </string-array>
     <string-array name="hdcp_checking_values">
-        <item>never</item>
+        <item>هرگز</item>
         <item>drm-only</item>
         <item>always</item>
     </string-array>
@@ -2150,22 +2150,22 @@
         <item>2</item>
     </string-array>
     <string-array name="led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Yellow</item>
-        <item>Green</item>
-        <item>Cyan</item>
-        <item>White</item>
-        <item>Magenta</item>
+        <item>آبی</item>
+        <item>قرمز</item>
+        <item>زرد</item>
+        <item>سبز</item>
+        <item>فیروزه ای</item>
+        <item>سفید</item>
+        <item>ارغوانی</item>
     </string-array>
     <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>magenta</item>
+        <item>آبی</item>
+        <item>قرمز</item>
+        <item>زرد</item>
+        <item>سبز</item>
+        <item>فیروزه ای</item>
+        <item>سفید</item>
+        <item>ارغوانی</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 seconds</item>
@@ -2215,7 +2215,7 @@
         <item>After 1 minute</item>
         <item>After 2 minutes</item>
         <item>After 5 minutes</item>
-        <item>Never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_values">
         <item>0</item>
@@ -2313,20 +2313,20 @@
         <item>0</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
+        <item>آبی</item>
+        <item>قرمز</item>
+        <item>سبز</item>
         <item>Pink</item>
-        <item>Magenta</item>
+        <item>ارغوانی</item>
         <item>Purple</item>
     </string-array>
     <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
+        <item>آبی</item>
+        <item>قرمز</item>
+        <item>سبز</item>
         <item>\#FFFF0033</item>
         <item>\#FF5500FF</item>
-        <item>magenta</item>
+        <item>ارغوانی</item>
     </string-array>
     <string-array name="mi2_wifi_security">
         <item>@string/wifi_security_none</item>
@@ -2417,7 +2417,7 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="network_speed_slow_summary">
         <item>Network is slow due to too much traffic</item>
         <item>Network is slow due to weak signal strength</item>
-        <item>Moving…</item>
+        <item>درحال انتقال...</item>
     </string-array>
     <string-array name="new_dndm_vip_list_group_array">
         <item>@string/dndm_vip_list_contact</item>
@@ -2488,7 +2488,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ai</item>
         <item>ag</item>
         <item>ar</item>
-        <item>am</item>
+        <item>قبل از ظهر</item>
         <item>aw</item>
         <item>au</item>
         <item>at</item>
@@ -2646,7 +2646,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>sh</item>
         <item>kn</item>
         <item>lc</item>
-        <item>pm</item>
+        <item>بعد از ظهر</item>
         <item>vc</item>
         <item>ws</item>
         <item>sm</item>
@@ -2895,12 +2895,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Launcher</item>
         <item>Dial</item>
         <item>Messaging</item>
-        <item>Browser</item>
+        <item>مرورگر</item>
         <item>Camera</item>
         <item>Gallery</item>
-        <item>Music</item>
+        <item>موسیقی</item>
         <item>Email</item>
-        <item>Play video</item>
+        <item>پخش ویدئو</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>GSM/WCDMA preferred</item>
@@ -2963,7 +2963,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>9</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Internal storage</item>
+        <item>حافظه داخلی</item>
         <item>External storage</item>
     </string-array>
     <string-array name="priority_storage_value">
@@ -2998,7 +2998,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Service (running)</item>
         <item>Service (restarting)</item>
         <item>Receiver</item>
-        <item>Home</item>
+        <item>خانه</item>
         <item>Last activity</item>
         <item>Cached (activity)</item>
         <item>Cached (activity client)</item>
@@ -3097,7 +3097,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>2 minutes</item>
         <item>5 minutes</item>
         <item>10 minutes</item>
-        <item>Never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>15000</item>
@@ -3130,13 +3130,13 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Always allow</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>64K per log buffer</item>
         <item>256K per log buffer</item>
         <item>1M per log buffer</item>
@@ -3144,7 +3144,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>16M per log buffer</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -3160,21 +3160,21 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>16777216</item>
     </string-array>
     <string-array name="select_logd_system_levels">
-        <item>Off</item>
-        <item>Error</item>
+        <item>خاموش</item>
+        <item>خطا</item>
         <item>Warn</item>
         <item>Info</item>
         <item>Debug</item>
         <item>Verbose</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>All log buffers</item>
         <item>All but radio log buffers</item>
         <item>kernel log buffer only</item>
     </string-array>
     <string-array name="select_logpersist_titles">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>All</item>
         <item>All but radio</item>
         <item>kernel only</item>
@@ -3186,7 +3186,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>kernel</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
@@ -3359,7 +3359,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>All</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
@@ -3369,7 +3369,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>true</item>
     </string-array>
     <string-array name="traffic_balance_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Regular</item>
         <item>Extreme</item>
     </string-array>
@@ -3573,10 +3573,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>while_charging_only</item>
         <item>while_docked_only</item>
         <item>either_charging_or_docked</item>
-        <item>never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>Low</item>
         <item>Middle</item>
         <item>High</item>

@@ -7,8 +7,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -32,12 +32,12 @@
   <string name="adb_install_open">Opening…</string>
   <string name="adb_install_open_error">"Couldn't open. Check your network settings and try again."</string>
   <string name="additional_permissions">Additional permissions</string>
-  <string name="ads">Ads</string>
-  <string name="ads_install_button">Install</string>
+  <string name="ads">تبلیغات</string>
+  <string name="ads_install_button">نصب</string>
   <string name="ads_install_button_installed">باز کردن</string>
   <string name="ads_install_button_isDownloading">درحال دریافت</string>
   <string name="ads_install_button_isInstalling">درحال نصب</string>
-  <string name="ads_install_button_waiting">Waiting</string>
+  <string name="ads_install_button_waiting">در انتظار</string>
   <string name="ads_summary">People who installed %1$s also liked</string>
   <string name="allPerms">All</string>
   <string name="all_permissions">All permissions</string>
@@ -95,7 +95,7 @@ All your previous user data will be saved."</string>
 
 All your previous user data will be saved."</string>
   <string name="done">Done</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="external_sources_settings">تنظیمات</string>
   <string name="external_sources_settings_negative">Restrict</string>
   <string name="external_sources_settings_positive">Allow once</string>
@@ -118,7 +118,7 @@ All your previous user data will be saved."</string>
   <string name="increment_install_pathing">Verifying package…</string>
   <string name="increment_install_pause_for_wifi">Waiting for network</string>
   <string name="increment_preparing">Preparing…</string>
-  <string name="install">Install</string>
+  <string name="install">نصب</string>
   <string name="install_app_progress_clear_apk">Delete APK</string>
   <string name="install_confirm_question">Do you want to install this application? It will get access to:</string>
   <string name="install_confirm_question_no_perms">"Do you want to install this app? It doesn't require any special permissions."</string>
@@ -144,11 +144,11 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="install_finished_notification_title">Installed %1$s successfully. You can free up %2$s of storage space.</string>
   <string name="install_from_appstore_hint">We recommend you to install the app from &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
   <string name="installing">Installing…</string>
-  <string name="intercept_install">Install</string>
+  <string name="intercept_install">نصب</string>
   <string name="launch">باز کردن</string>
   <string name="lift_ban">مجاز</string>
   <string name="lift_ban_once">Allow once</string>
-  <string name="loading">Loading…</string>
+  <string name="loading">درحال بارگذاری…</string>
   <string name="location_settings">Location settings</string>
   <string name="location_warning">%1$s is a provider of location services for this device. Location access can be modified from location settings.</string>
   <string name="low_risk_perms">Low-risk permissions</string>
@@ -187,7 +187,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="miui_failed_miui_system_incompatible">"Installation package isn't compatible with MIUI"</string>
   <string name="miui_failed_newer_sdk">"SDK version isn't supported yet"</string>
   <string name="miui_failed_older_sdk">SDK version is too old</string>
-  <string name="miui_failed_other">Other</string>
+  <string name="miui_failed_other">غیره</string>
   <string name="miui_failed_parse">"Couldn't parse installation package"</string>
   <string name="miui_failed_permission_model_downgrade">"Can't downgrade permissions"</string>
   <string name="miui_failed_solution_1">Uninstall the current version of this app and install the app again.</string>
@@ -220,7 +220,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="miui_message_staging_3">Staging app...</string>
   <string name="miui_no_perms">No permissions required</string>
   <string name="miui_not_uninstall_system_app">"Can't uninstall system apps"</string>
-  <string name="miui_other_relative">Other</string>
+  <string name="miui_other_relative">غیره</string>
   <string name="miui_permission_manage_title">%s details</string>
   <string name="miui_please_clear">Delete viruses</string>
   <string name="miui_privacy_relative">Privacy</string>
@@ -242,11 +242,11 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="miui_virus_title">High risk</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">درحال تازه سازی</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">no data</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">not do that</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">refreshing</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">درحال تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="mobil_net_work_warning_cancel">لغو</string>
   <string name="mobil_net_work_warning_msg">"You're using mobile data now. Installing this app requires %1$s of mobile data. Install anyway?"</string>
@@ -263,7 +263,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="ok">باشه</string>
   <string name="old_sdk_deny_warning">This app was designed for an older version of Android. Denying permission may cause it to no longer function as intended.</string>
   <string name="other_permissions">Other app features</string>
-  <string name="other_relative">Other</string>
+  <string name="other_relative">غیره</string>
   <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
   <string name="out_of_space_dlg_title">Out of space</string>
   <string name="perm_action_accept">مجاز</string>
@@ -296,7 +296,7 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="permission_warning_template">Allow &lt;b&gt;%1$s&lt;/b&gt; to %2$s?</string>
   <string name="permlab_togglePermissions">toggle permissions</string>
   <string name="pref_ads">Recommendations</string>
-  <string name="pref_key_about_privacy_title">Privacy Policy</string>
+  <string name="pref_key_about_privacy_title">سیاست حفظ حریم خصوصی</string>
   <string name="pref_key_antivirus">Security check</string>
   <string name="pref_key_antivirus_summary">Check apps for viruses before installation</string>
   <string name="pref_key_app_store_summary">Prompt to download apps from secure sources before installation</string>
@@ -353,15 +353,15 @@ Alternatively, you can turn off Lite mode and try again."</string>
   <string name="unknown_apps_admin_dlg_text">"Your administrator doesn't allow installation of apps obtained from unknown sources."</string>
   <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
   <string name="unknown_installer">Unidentified PC tools</string>
-  <string name="unlike">No thanks</string>
+  <string name="unlike">نه ممنون</string>
   <string name="untrusted_external_source_always_click">Always allow</string>
   <string name="untrusted_external_source_title">Allow \"%1$s\" to install apps?</string>
   <string name="untrusted_external_source_warning">"For your security, your phone isn't allowed to install unknown apps from this source."</string>
   <string name="untrusted_external_source_warning_summary">"Your device and personal data are vulnerable to attacks by the apps installed from unknown sources. By allowing to install apps from this source, you agree to accept responsibility for any damage or data loss that might occur while you're using these apps."</string>
   <string name="user_is_not_allowed_dlg_text">The current user is not allowed to perform this uninstallation.</string>
   <string name="user_is_not_allowed_dlg_title">Not allowed</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
   <string name="virus_scan_caller_unknown">ناشناخته</string>
   <string name="virus_scan_clear">Remove</string>
   <string name="virus_scan_install">&lt;u&gt;Install anyway&lt;/u&gt;</string>

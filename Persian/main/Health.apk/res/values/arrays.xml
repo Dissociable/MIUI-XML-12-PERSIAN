@@ -271,8 +271,8 @@
     </integer-array>
     <string-array name="pager_titles">
         <item>Day</item>
-        <item>Week</item>
-        <item>Month</item>
+        <item>هفته</item>
+        <item>ماه</item>
     </string-array>
     <integer-array name="protein_rate_line_chart_default_y">
         <item>20</item>
@@ -318,7 +318,7 @@
         <item>No restrictions</item>
         <item>Limit background activity</item>
         <item>Stop after 10 minutes</item>
-        <item>Never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="solar_terms">
         <item>@string/empty</item>

@@ -8,8 +8,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
   <string name="abc_font_family_body_2_material">sans-serif-medium</string>
   <string name="abc_font_family_button_material">sans-serif-medium</string>
@@ -184,13 +184,13 @@
   <string name="got_it">فهمیدم</string>
   <string name="gps">Navigate</string>
   <string name="hide_bottom_view_on_scroll_behavior">android.support.design.behavior.HideBottomViewOnScrollBehavior</string>
-  <string name="history">History</string>
+  <string name="history">تاریخچه</string>
   <string name="image_file_name_format">"'scanner'_yyyyMMdd_HHmmss"</string>
   <string name="importFailed">"Couldn't import"</string>
   <string name="import_contact">Import contact</string>
   <string name="impunity_declaration_content">"Scanner needs to use your camera and process the images you take while using the app. Don't use Scanner to take photos of the objects containing your personal information. By tapping \"Agree\", you're agreeing to our &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; and allowing Scanner to connect to the internet."</string>
   <string name="impunity_declaration_negative_text">خروج</string>
-  <string name="impunity_declaration_title">Privacy Policy</string>
+  <string name="impunity_declaration_title">سیاست حفظ حریم خصوصی</string>
   <string name="jd_shopping_title">Search on JD</string>
   <string name="jingdong">JD</string>
   <string name="keywords_search_code">Scanner;Scan;QR code;QR;Recognition;Barcode;Barcodes;Product;Products;Alipay;WeChat;How to scan QR code;How to scan barcode;How to scan;MIUI Scanner</string>
@@ -231,7 +231,7 @@
   <string name="module_title_plant">Plant</string>
   <string name="module_title_shopping">Shopping</string>
   <string name="module_title_study">Homework</string>
-  <string name="module_title_translation">Translate</string>
+  <string name="module_title_translation">ترجمه</string>
   <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
   <string name="name">Name:</string>
   <string name="new_schedule">Create event</string>
@@ -246,14 +246,14 @@
   <string name="note">Remark:</string>
   <string name="now_state">"Current status: "</string>
   <string name="once">Only once</string>
-  <string name="open_url">Open URL</string>
-  <string name="password_toggle_content_description">Show password</string>
+  <string name="open_url">بازکردن آدرس</string>
+  <string name="password_toggle_content_description">نمایش گذرواژه</string>
   <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
   <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
   <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
   <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
   <string name="pay_no_tip">"Don't show again"</string>
-  <string name="pay_save_this_choose">Remember my choice</string>
+  <string name="pay_save_this_choose">بخاطر سپردن انتخابم</string>
   <string name="payment_text">Open with %s</string>
   <string name="phone">Phone:</string>
   <string name="place_barcode_into_rectangle">Place the code inside the frame</string>
@@ -296,7 +296,7 @@
   <string name="see_details">Tap to view details</string>
   <string name="select_dialog_confirm">باشه</string>
   <string name="select_from_album">Gallery</string>
-  <string name="send_mail">Send email</string>
+  <string name="send_mail">ارسال ایمیل</string>
   <string name="setting_alipay">Alipay</string>
   <string name="setting_choose_every_time">Always ask</string>
   <string name="setting_default_function">Default feature</string>
@@ -334,7 +334,7 @@
   <string name="toinstall">دریافت</string>
   <string name="translate_auto_lock">Lock translation</string>
   <string name="translate_auto_unlock">Unlock translation</string>
-  <string name="translate_copy_success">Copied successfully</string>
+  <string name="translate_copy_success">با موفقیت کپی شد</string>
   <string name="translate_dest_lang">Target language</string>
   <string name="translate_fail">"Couldn't translate"</string>
   <string name="translate_loading">Translating…</string>

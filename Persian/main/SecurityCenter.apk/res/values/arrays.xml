@@ -52,7 +52,7 @@
     <string-array name="applock_password_types">
         <item>Pattern</item>
         <item>PIN</item>
-        <item>Password</item>
+        <item>گذرواژه</item>
     </string-array>
     <string-array name="clean_cached_process_white_list">
         <item>com.miui.securitycenter</item>
@@ -244,7 +244,7 @@
         <item>Some third party apps may contain malware that puts your personal data at risk.</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>Internal storage</item>
+        <item>حافظه داخلی</item>
         <item>External storage</item>
     </string-array>
     <string-array name="priority_storage_value">
@@ -254,7 +254,7 @@
     <string-array name="roaming_network_type">
         <item>Always</item>
         <item>For exceptions only</item>
-        <item>Never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="sms_report_type">
         <item>Data Usage</item>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Home</item>
+        <item>خانه</item>
         <item>Work</item>
-        <item>Other</item>
+        <item>غیره</item>
         <item>Custom</item>
     </string-array>
     <string-array name="imProtocols">
@@ -18,23 +18,23 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Work</item>
-        <item>Other</item>
+        <item>غیره</item>
         <item>Custom</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Home</item>
+        <item>خانه</item>
         <item>Mobile</item>
         <item>Work</item>
         <item>Work Fax</item>
         <item>Home Fax</item>
         <item>Pager</item>
-        <item>Other</item>
+        <item>غیره</item>
         <item>Custom</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
+        <item>خانه</item>
         <item>Work</item>
-        <item>Other</item>
+        <item>غیره</item>
         <item>Custom</item>
     </string-array>
     <array name="config_keySystemUuidMapping" />
@@ -376,11 +376,11 @@
     <array name="config_face_acquire_vendor_keyguard_ignorelist" />
     <string-array name="config_globalActionsList">
         <item>power</item>
-        <item>restart</item>
+        <item>راه اندازی مجدد</item>
         <item>lockdown</item>
         <item>logout</item>
         <item>bugreport</item>
-        <item>screenshot</item>
+        <item>عکس از صفحه نمایش</item>
         <item>emergency</item>
     </string-array>
     <array name="config_hideWhenDisabled_packageNames" />
@@ -689,9 +689,9 @@
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
-        <item>Home</item>
+        <item>خانه</item>
         <item>Work</item>
-        <item>Other</item>
+        <item>غیره</item>
         <item>Custom</item>
     </string-array>
     <integer-array name="low_lux_level">
@@ -725,7 +725,7 @@
         <item>ethernet,9,9,4,-1,true</item>
     </string-array>
     <string-array name="network_switch_type_name">
-        <item>mobile data</item>
+        <item>داده همراه</item>
         <item>WLAN</item>
         <item>Bluetooth</item>
         <item>Ethernet</item>

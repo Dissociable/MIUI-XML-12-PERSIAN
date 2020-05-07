@@ -35,7 +35,7 @@
   <string name="call_contacts_deny_permission_msg">"You denied read contacts permission, can't show contacts info."</string>
   <string name="call_description_recording">Recording…</string>
   <string name="call_not_support_high_frequency_click">"Don't tap this button so frequently"</string>
-  <string name="call_record_wait_label">Waiting</string>
+  <string name="call_record_wait_label">در انتظار</string>
   <string name="call_recording_deny_permission_msg">"You denied record permission, can't record."</string>
   <string name="call_recording_error_low_storage">Not enough space on storage.</string>
   <string name="call_recording_error_privacy">"Can't record while you're in Guest mode"</string>
@@ -217,6 +217,6 @@
   <string name="volume_boost_text">Boosted volume successfully</string>
   <string name="wait_prompt_str">"Send the following tones?
 "</string>
-  <string name="waiting_close_airplane_mode">Just a sec…</string>
+  <string name="waiting_close_airplane_mode">یک لحظه...</string>
   <string name="wifi_call">VoWifi call</string>
 </resources>

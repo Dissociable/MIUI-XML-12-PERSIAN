@@ -12,8 +12,8 @@ this feature will be added to Second space automatically."</string>
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -45,7 +45,7 @@ this feature will be added to Second space automatically."</string>
   <string name="app_name">Security Core Component</string>
   <string name="back">برگشت</string>
   <string name="bind_device">Add devices</string>
-  <string name="button_input_password">Enter password</string>
+  <string name="button_input_password">گذرواژه را وارد نمایید</string>
   <string name="button_text_next_step">بعد</string>
   <string name="button_text_next_step_timer">Next step (%d)</string>
   <string name="button_touch">Put your finger on the sensor</string>
@@ -68,7 +68,7 @@ this feature will be added to Second space automatically."</string>
   <string name="close_kid_space_success">Deleted Kid space</string>
   <string name="close_second_space">Deleted Second space</string>
   <string name="close_second_space_success">Deleted Second space</string>
-  <string name="closed">Off</string>
+  <string name="closed">خاموش</string>
   <string name="complete_setting">پایان</string>
   <string name="complete_setting_sub_title">You can also come back later to adjust settings.</string>
   <string name="complete_setting_title">"You're all set!"</string>
@@ -121,8 +121,8 @@ to be able to view them anytime"</string>
   <string name="dir_switch_out_all_photos">Second space Gallery</string>
   <string name="disable">Turn off</string>
   <string name="do_not_ask">"Don't ask again"</string>
-  <string name="dont_import">Not now</string>
-  <string name="downloading_space">Downloading…</string>
+  <string name="dont_import">الان نه</string>
+  <string name="downloading_space">درحال بارگیری...</string>
   <string name="dual_animation">Launch animation</string>
   <string name="dual_animation_description">Show animation when dual apps are launched</string>
   <string name="enable">روشن</string>
@@ -134,7 +134,7 @@ to be able to view them anytime"</string>
   <string name="encrypt_space_delete_notification_message">Delete your Second space and create a new one to update your device successfully.</string>
   <string name="encrypt_space_delete_notification_title">Second space</string>
   <string name="ent_activating">Activating…</string>
-  <string name="ent_activation">Activate</string>
+  <string name="ent_activation">فعال سازی</string>
   <string name="ent_activation_hint">Enter your corporate code along with the license code to activate Enterprise mode. After this, custom enterprise services will be enabled.</string>
   <string name="ent_activation_hint_whit_licence">"Activate Enterprise mode to enable custom enterprise services.
 Make sure the name of your corporation is correct. Read and agree to the related privacy policies before activating."</string>
@@ -147,7 +147,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="ent_disallow_running">The app is forbidden to run</string>
   <string name="ent_download_install_dialog_content">You must install corporate apps to activate Enterprise mode. Install now?</string>
   <string name="ent_download_install_dialog_title">Download corporate apps</string>
-  <string name="ent_downloading_message">Downloading %d%%</string>
+  <string name="ent_downloading_message">درحال بارگیری %d%%</string>
   <string name="ent_error_dialog_content">At least one of the codes you entered was incorrect. Check your corporate and license codes, and enter them again.</string>
   <string name="ent_get_code_hint">You can get corporate and license codes from your supervisor</string>
   <string name="ent_install_dialog_content">Install apps and reboot your device now?</string>
@@ -177,7 +177,7 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="err_unknown">Unknown error</string>
   <string name="err_volume_not_enough">Not enough storage space</string>
   <string name="exit_private_space">Switch</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="experience_more_features">Add a device to view all features</string>
   <string name="facebook_login">Sign in using Facebook</string>
   <string name="facebook_send">Share to Facebook</string>
@@ -203,8 +203,8 @@ Make sure the name of your corporation is correct. Read and agree to the related
   <string name="greenguard_child_des_title">Scan QR code to add device</string>
   <string name="greenguard_functional_description">"Manage devices remotely, view location info,
 control installed apps and restrict usage"</string>
-  <string name="greenguard_install_cancle">No thanks</string>
-  <string name="greenguard_install_confirm">Install</string>
+  <string name="greenguard_install_cancle">نه ممنون</string>
+  <string name="greenguard_install_confirm">نصب</string>
   <string name="greenguard_install_message">"Family Guard is a system app. You don't need internet to install it."</string>
   <string name="greenguard_install_title">Install Family Guard</string>
   <string name="greenguard_parent_des">Manage the devices of your friends and family</string>
@@ -237,15 +237,15 @@ You can also download them separately."</string>
   <string name="input_space_finger">Set now</string>
   <string name="input_space_password">Set now</string>
   <string name="instagram_send">Share to Instagram</string>
-  <string name="install">Install</string>
+  <string name="install">نصب</string>
   <string name="install_error">"Couldn't install. Try again."</string>
   <string name="invalid_qr_code">Invalid QR code</string>
   <string name="kid_mode_label">Kid space</string>
-  <string name="list_empty_text">Empty</string>
+  <string name="list_empty_text">خالی</string>
   <string name="list_empty_text_xspace">Create more dual apps and try again.</string>
-  <string name="loading">Just a sec…</string>
+  <string name="loading">یک لحظه...</string>
   <string name="loading_apps">Loading apps…</string>
-  <string name="loading_space">Just a sec…</string>
+  <string name="loading_space">یک لحظه...</string>
   <string name="loading_success">Loaded successfully</string>
   <string name="lock_screen_open_second_space">Enter Second space from Lock screen</string>
   <string name="master_clear_apply_step_1">Revoking authorization requires performing a factory data reset on your device. It will permanently erase all files and data, including accounts, contacts, photos, and apps. Back up all important items to your computer before revoking authorization.</string>
@@ -253,15 +253,15 @@ You can also download them separately."</string>
   <string name="master_clear_apply_title">Attention</string>
   <string name="master_clear_not_available">Factory reset is restricted by your company.</string>
   <string name="master_clear_not_available_ep">"You aren't allowed to perform factory reset or revoke your authorization now. Contact your supervisor."</string>
-  <string name="menu_item_about_privacy_title">Privacy Policy</string>
+  <string name="menu_item_about_privacy_title">سیاست حفظ حریم خصوصی</string>
   <string name="messageData">Messages</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="more_settings">بیشتر</string>
   <string name="msg_switch_file">Delete these files in First space after they are moved?</string>
@@ -293,12 +293,12 @@ You can also download them separately."</string>
   <string name="ok_button">باشه</string>
   <string name="openPasswordGuard">Set Second space password</string>
   <string name="openSuccess">Turned on</string>
-  <string name="opened">On</string>
+  <string name="opened">روشن</string>
   <string name="optimize_now">Optimize</string>
-  <string name="other">Other</string>
+  <string name="other">غیره</string>
   <string name="otherSettings">Other settings</string>
   <string name="passWordGuardSummary">Enter Second space from Lock screen using a password</string>
-  <string name="passwordProtect">Password</string>
+  <string name="passwordProtect">گذرواژه</string>
   <string name="please_diff_finger_print">"Make sure different fingerprints are used in First space and Second space.
 Otherwise you may not be able to enter Second space from Lock screen."</string>
   <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
@@ -380,7 +380,7 @@ Separate and secure your data."</string>
   <string name="setting_fingerprint_title">Add Second space password</string>
   <string name="setting_is_show_text_contacts">Set up private contacts and messages</string>
   <string name="settings_cross_notification_summary">Receive notifications from the other space</string>
-  <string name="settings_cross_notification_title">Notifications</string>
+  <string name="settings_cross_notification_title">اعلانات</string>
   <string name="settings_msg_add_shortcut_to_owner_space">Added shortcut to First space</string>
   <string name="settings_msg_add_shortcut_to_second_space">Shortcut was created in Second space</string>
   <string name="settings_msg_remove_shortcut_from_owner_space">Removed shortcut from First space</string>
@@ -425,7 +425,7 @@ Separate and secure your data."</string>
   <string name="space_des_default">Isolated space with encrypted data</string>
   <string name="space_finger_sub_text">Set Second space fingerprint to switch faster</string>
   <string name="space_name_default">Work space</string>
-  <string name="startSet">Set</string>
+  <string name="startSet">تنظیم</string>
   <string name="startTransfer">Move</string>
   <string name="start_input_finger_print">Add fingerprint</string>
   <string name="start_new_fingerprint">Add a new fingerprint</string>
@@ -459,12 +459,12 @@ to enter Second space from Lock screen"</string>
   <string name="switch_success">Moved successfully</string>
   <string name="switch_to_first_space">Go to First space</string>
   <string name="switch_to_second_space">Go to Second space</string>
-  <string name="switching">Moving…</string>
+  <string name="switching">درحال انتقال...</string>
   <string name="switching_apps">Moving apps…</string>
   <string name="switching_contacts">Moving contacts…</string>
   <string name="switching_files">Moving files…</string>
   <string name="switching_photos">Moving photos…</string>
-  <string name="temporary_no_set">Not now</string>
+  <string name="temporary_no_set">الان نه</string>
   <string name="this_function_can_not_use_in_second_space">This feature can only be used in First space</string>
   <string name="title_choose_app_status">Select app type</string>
   <string name="title_switch_file">Delete these files?</string>
@@ -485,9 +485,9 @@ to enter Second space from Lock screen"</string>
   <string name="undo_success">Revoked successfully</string>
   <string name="use_google_open">Wake using Google Assistant</string>
   <string name="use_xiaoai_open">Wake using Mi AI</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
-  <string name="wating">Just a sec…</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
+  <string name="wating">یک لحظه...</string>
   <string name="weibo_send">Send to Weibo</string>
   <string name="weixin_pay">WeChat Pay</string>
   <string name="weixin_share_sign">Sign in and share</string>
@@ -525,7 +525,7 @@ Some dual apps require Google Services Framework support. In such cases, dual Go
   <string name="xspace_qq_title">QQ</string>
   <string name="xspace_remove">"Delete dual apps' accounts"</string>
   <string name="xspace_setting_label">Dual app settings</string>
-  <string name="xspace_settins">Set</string>
+  <string name="xspace_settins">تنظیم</string>
   <string name="xspace_uninstall_completed">Dual app uninstalled successfully</string>
   <string name="xspace_uninstall_dialog_content">Uninstalling dual app will remove all app data.</string>
   <string name="xspace_uninstall_dialog_title">Uninstall dual app</string>

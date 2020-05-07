@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -188,7 +188,7 @@ Selection"</string>
   <string name="connected_via_network_scorer">Automatically connected via %1$s</string>
   <string name="connected_via_network_scorer_default">Automatically connected via network rating provider</string>
   <string name="connected_via_passpoint">Connected via %1$s</string>
-  <string name="content_description_menu_button">Menu</string>
+  <string name="content_description_menu_button">منو</string>
   <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  !!Warning!! This will erase all your data.
  This feature is alpha, and may not work correctly.
@@ -246,7 +246,7 @@ Selection"</string>
   <string name="enable_terminal_summary">Enable terminal app that offers local shell access</string>
   <string name="enable_terminal_title">Local terminal</string>
   <string name="enabled_by_admin">Enabled by admin</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="external_source_trusted">Allowed</string>
   <string name="external_source_untrusted">Not allowed</string>
   <string name="failed_to_open_app_settings_toast">Failed to open settings for %1$s</string>
@@ -257,7 +257,7 @@ Selection"</string>
   <string name="fast_connect_device_box_name">%1$s Box</string>
   <string name="fast_connect_device_connect_cancel">لغو</string>
   <string name="fast_connect_device_connect_ok">Connect</string>
-  <string name="fast_connect_device_connect_retry">Retry</string>
+  <string name="fast_connect_device_connect_retry">امتحان دوباره</string>
   <string name="fast_connect_device_connect_setup">تنظیمات</string>
   <string name="fast_connect_device_connect_success">Done</string>
   <string name="fast_connect_device_headset_l">Left</string>
@@ -302,7 +302,7 @@ Selection"</string>
   <string name="keep_screen_on_summary">Screen will never sleep while charging</string>
   <string name="launch_defaults_none">No defaults set</string>
   <string name="launch_defaults_some">Some defaults set</string>
-  <string name="loading_injected_setting_summary">Loading…</string>
+  <string name="loading_injected_setting_summary">درحال بارگذاری…</string>
   <string name="local_backup_password_summary_change">Tap to change or remove the password for desktop full backups</string>
   <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
   <string name="local_backup_password_title">Desktop backup password</string>
@@ -340,13 +340,13 @@ Selection"</string>
   <string name="mihome_ignore_title">Ignore this device?</string>
   <string name="mihome_update_tips">Update the Mi Home app and then hold your phone close to the device.</string>
   <string name="mihome_update_title">Update Mi Home</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="mobile_data_always_on">Mobile data always active</string>
   <string name="mobile_data_always_on_summary">Always keep mobile data active, even when Wi‑Fi is active (for fast network switching).</string>
@@ -422,7 +422,7 @@ Selection"</string>
   <string name="power_suggestion_extend_battery">Extend battery life past %1$s</string>
   <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="preference_summary_default_combination">%1$s / %2$s</string>
-  <string name="private_dns_mode_off">Off</string>
+  <string name="private_dns_mode_off">خاموش</string>
   <string name="private_dns_mode_opportunistic">Automatic</string>
   <string name="private_dns_mode_provider">Private DNS provider hostname</string>
   <string name="private_dns_mode_provider_failure">"Couldn't connect"</string>
@@ -500,7 +500,7 @@ Selection"</string>
   <string name="tethering_hardware_offload">Tethering hardware acceleration</string>
   <string name="tethering_hardware_offload_summary">Use tethering hardware acceleration if available</string>
   <string name="tethering_settings_not_available">Tethering settings are not available for this user</string>
-  <string name="time_unit_just_now">Just now</string>
+  <string name="time_unit_just_now">همین الان</string>
   <string name="title_convert_fbe">Converting to file based encryption</string>
   <string name="track_frame_time">Profile HWUI rendering</string>
   <string name="transition_animation_scale_title">Transition animation scale</string>
@@ -516,7 +516,7 @@ Selection"</string>
   <string name="tts_engine_security_warning">This speech synthesis engine may be able to collect all the text that will be spoken, including personal data like passwords and credit card numbers. It comes from the %s engine. Enable the use of this speech synthesis engine?</string>
   <string name="tts_engine_settings_button">Launch engine settings</string>
   <string name="tts_engine_settings_title">Settings for %s</string>
-  <string name="tts_general_section_title">General</string>
+  <string name="tts_general_section_title">عمومی</string>
   <string name="tts_install_data_summary">Install the voice data required for speech synthesis</string>
   <string name="tts_install_data_title">Install voice data</string>
   <string name="tts_lang_not_selected">Language not selected</string>
@@ -527,7 +527,7 @@ Selection"</string>
   <string name="tts_reset_speech_pitch_title">Reset speech pitch</string>
   <string name="tts_settings">Text-to-speech settings</string>
   <string name="tts_settings_title">Text-to-speech output</string>
-  <string name="tts_status_checking">Checking…</string>
+  <string name="tts_status_checking">درحال بررسی...</string>
   <string name="tts_status_not_supported">%1$s is not supported</string>
   <string name="tts_status_ok">%1$s is fully supported</string>
   <string name="tts_status_requires_network">%1$s requires network connection</string>
@@ -541,14 +541,14 @@ Selection"</string>
   <string name="usb_audio_disable_routing_summary">Disable automatic routing to USB audio peripherals</string>
   <string name="use_system_language_to_select_input_method_subtypes">Use system languages</string>
   <string name="user_guest">Guest</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
   <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
   <string name="verify_apps_over_usb_title">Verify apps over USB</string>
   <string name="vpn_settings_not_available">VPN settings are not available for this user</string>
   <string name="wait_for_debugger">Wait for debugger</string>
   <string name="wait_for_debugger_summary">Debugged application waits for debugger to attach before executing</string>
-  <string name="wapi_all_sel_mode">Select</string>
+  <string name="wapi_all_sel_mode">انتخاب</string>
   <string name="wapi_auto_sel_cert">Select automatically</string>
   <string name="wapi_auto_sel_cert_fail">"Can't select certificates automatically. Select a certificate from the list, and then try to connect."</string>
   <string name="wapi_cert_is_not_exist">No available certificates. Add one first.</string>
@@ -560,7 +560,7 @@ Selection"</string>
   <string name="wapi_cert_select">WAPI certificate</string>
   <string name="wapi_no">No</string>
   <string name="wapi_no_vaild_cert">"Looks like required certificates aren't installed. Install now?"</string>
-  <string name="wapi_password_empty">Enter password</string>
+  <string name="wapi_password_empty">گذرواژه را وارد نمایید</string>
   <string name="wapi_password_hex_format_add">You must use an even number of hexadecimal characters</string>
   <string name="wapi_password_hex_format_invalid">Invalid password format</string>
   <string name="wapi_password_hex_length_invalid">The count of hexadecimal characters must be an even number</string>
@@ -670,7 +670,7 @@ Looks like credential storage isn't enabled."</string>
   <string name="zen_mode_duration_settings_title">Duration</string>
   <string name="zen_mode_enable_dialog_turn_on">روشن</string>
   <string name="zen_mode_forever">Until you turn off</string>
-  <string name="zen_mode_settings_summary_off">Never</string>
+  <string name="zen_mode_settings_summary_off">هرگز</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Turn on Do Not Disturb</string>
   <string name="zhiyun_name">SMOOTH Q2</string>
 </resources>

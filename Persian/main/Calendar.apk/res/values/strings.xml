@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -152,7 +152,7 @@
   <string name="countdown_notify_before_3_day_title">Countdown: %1$s in 3 days</string>
   <string name="countdown_notify_title">Countdown: %1$s</string>
   <string name="countdown_secondary_tag">Countdown</string>
-  <string name="countdown_today">Today</string>
+  <string name="countdown_today">امروز</string>
   <string name="creating_event">Event created</string>
   <string name="creating_event_with_guest">Sending invitations…</string>
   <string name="credit">信用卡</string>
@@ -170,7 +170,7 @@
   <string name="date_calculate_result">Result</string>
   <string name="date_calculate_tab">Calculate date</string>
   <string name="date_calculate_today">0 days</string>
-  <string name="date_calculate_when">Start</string>
+  <string name="date_calculate_when">شروع</string>
   <string name="date_interval_description">Learn how many days there are between 2 dates</string>
   <string name="date_interval_end">To</string>
   <string name="date_interval_start">از</string>
@@ -206,7 +206,7 @@
   <string name="edit_event_anniversary_name_hint">Event</string>
   <string name="edit_event_birthday_import_from_contact">Import birthday from contacts</string>
   <string name="edit_event_birthday_name_empty_hint">Enter a name</string>
-  <string name="edit_event_birthday_name_hint">Name</string>
+  <string name="edit_event_birthday_name_hint">نام</string>
   <string name="edit_event_calendar_label">Calendar</string>
   <string name="edit_event_choose_date">Choose date</string>
   <string name="edit_event_confirm_message">Discard changes?</string>
@@ -250,7 +250,7 @@
   <string name="event_account">Account</string>
   <string name="event_action_arrive_station">Destination</string>
   <string name="event_action_delete">حذف</string>
-  <string name="event_action_edit">Edit</string>
+  <string name="event_action_edit">ویرایش</string>
   <string name="event_all_day_label">All day</string>
   <string name="event_create">New event</string>
   <string name="event_created_fail_text">创建赛事提醒失败</string>
@@ -428,7 +428,7 @@
   <string name="live_text">直播</string>
   <string name="living_text">直播中</string>
   <string name="load_more_hint">Load events from %1$d</string>
-  <string name="loading">Just a sec…</string>
+  <string name="loading">یک لحظه...</string>
   <string name="loan">贷款还款</string>
   <string name="loan_event_delete_successfully">贷款还款事件删除成功</string>
   <string name="loan_event_title">贷款账单</string>
@@ -474,12 +474,12 @@
   <string name="menstruation_dialog_tips">经期助手功能由小米健康提供，点击继续使用日历会为您下载或更新小米健康应用。</string>
   <string name="menstruation_title">经期助手</string>
   <string name="menstruation_use_button">继续使用</string>
-  <string name="menu_general_preferences">General</string>
+  <string name="menu_general_preferences">عمومی</string>
   <string name="menu_reminder_preferences">Reminders</string>
   <string name="missing_name">(No name)</string>
   <string name="missing_required_permission">You have restricted required permissions.</string>
   <string name="miuishare_account_activate_confirmation">Activate Mi Account</string>
-  <string name="miuishare_account_activate_ok">Activate</string>
+  <string name="miuishare_account_activate_ok">فعال سازی</string>
   <string name="miuishare_account_login_cancel">لغو</string>
   <string name="miuishare_account_login_confirmation">Sign in to Mi Account</string>
   <string name="miuishare_account_login_ok">ورود به حساب</string>
@@ -498,11 +498,11 @@
   <string name="miuishare_weibo_title">Weibo</string>
   <string name="miuix_sb_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
   <string name="miuix_sb_tracking_progress_labe_refreshed">refresh completed</string>
-  <string name="miuix_sb_tracking_progress_labe_refreshing">refreshing</string>
-  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">release to refresh</string>
+  <string name="miuix_sb_tracking_progress_labe_refreshing">درحال تازه سازی</string>
+  <string name="miuix_sb_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sb_tracking_progress_labe_up_nodata">no data</string>
   <string name="miuix_sb_tracking_progress_labe_up_none">not do that</string>
-  <string name="miuix_sb_tracking_progress_labe_up_refresh">refreshing</string>
+  <string name="miuix_sb_tracking_progress_labe_up_refresh">درحال تازه سازی</string>
   <string name="miuix_sb_tracking_progress_labe_up_refresh_fail">fail</string>
   <string name="modify_all">Change all events in the series</string>
   <string name="modify_all_following">Change this and all future events</string>
@@ -519,7 +519,7 @@
   <string name="month_medium_november">Nov</string>
   <string name="month_medium_october">Oct</string>
   <string name="month_medium_september">Sep</string>
-  <string name="month_view">Month</string>
+  <string name="month_view">ماه</string>
   <string name="monthly">Monthly</string>
   <string name="monthly_on_day">Monthly (same date)</string>
   <string name="monthly_on_day_count">Monthly (%1$s)</string>
@@ -555,7 +555,7 @@ Check network settings and try again."</string>
   <string name="notification_channel_name_no_sound">Silenced reminders</string>
   <string name="notification_channel_name_no_vibration">Reminders without vibration</string>
   <string name="notification_channel_name_silent">DND reminders</string>
-  <string name="notification_open_setting_button_exit">No thanks</string>
+  <string name="notification_open_setting_button_exit">نه ممنون</string>
   <string name="notification_open_setting_button_ok">مجاز</string>
   <string name="notification_open_setting_message">"You won't be able to receive notifications about events unless you allow Calendar to send you notifications."</string>
   <string name="notification_open_setting_title">Allow Calendar notifications?</string>
@@ -575,8 +575,8 @@ Check network settings and try again."</string>
   <string name="permission_main_purpose">Viewing and managing calendar events, planning trips, receiving reminders, and subscribing to services</string>
   <string name="permission_storage">For saving reminders and ringtones</string>
   <string name="phone_num">تلفن</string>
-  <string name="prefDefault_alerts_vibrateWhen">never</string>
-  <string name="prefDefault_alerts_vibrate_false">never</string>
+  <string name="prefDefault_alerts_vibrateWhen">هرگز</string>
+  <string name="prefDefault_alerts_vibrate_false">هرگز</string>
   <string name="prefDefault_alerts_vibrate_true">always</string>
   <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
   <string name="pref_default_popup_alert_value">smart</string>
@@ -628,7 +628,7 @@ Check network settings and try again."</string>
   <string name="recommend_card_adding">订阅中</string>
   <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
   <string name="refresh">تازه سازی</string>
-  <string name="refreshing_hint">Just a sec…</string>
+  <string name="refreshing_hint">یک لحظه...</string>
   <string name="reminder_later">Remind later</string>
   <string name="reminder_overdue">Expired</string>
   <string name="repeat_activity_label">Repeat</string>
@@ -653,9 +653,9 @@ Check network settings and try again."</string>
   <string name="repeat_end_times_unit">" times"</string>
   <string name="repeat_interval_dialog_title">Every %1$s</string>
   <string name="repeat_interval_frequency_day_single">day</string>
-  <string name="repeat_interval_frequency_month_single">month</string>
-  <string name="repeat_interval_frequency_week_single">week</string>
-  <string name="repeat_interval_frequency_year_single">year</string>
+  <string name="repeat_interval_frequency_month_single">ماه</string>
+  <string name="repeat_interval_frequency_week_single">هفته</string>
+  <string name="repeat_interval_frequency_year_single">سال</string>
   <string name="repeat_label_choose_day">Choose day</string>
   <string name="repeat_label_choose_month">Choose month</string>
   <string name="repeat_label_choose_time">Choose reminder time</string>
@@ -663,7 +663,7 @@ Check network settings and try again."</string>
   <string name="repeat_label_day">Day</string>
   <string name="repeat_label_frequency">Frequency</string>
   <string name="repeat_label_interval">Every</string>
-  <string name="repeat_label_week">Week</string>
+  <string name="repeat_label_week">هفته</string>
   <string name="repeat_lunar_monthly" />
   <string name="repeat_lunar_monthly_chinese_calendar">农历每月</string>
   <string name="repeat_lunar_monthly_detail" />
@@ -692,7 +692,7 @@ Check network settings and try again."</string>
   <string name="search_calendar_subscribe_group" />
   <string name="search_menu_title">جستجو</string>
   <string name="select_date">Jump to date</string>
-  <string name="select_today_tip">Today</string>
+  <string name="select_today_tip">امروز</string>
   <string name="setting">تنظیمات</string>
   <string name="setting_about_calendar_version">Calendar version: %1$s-%2$s</string>
   <string name="setting_about_imei">IMEI: %1$s</string>
@@ -800,8 +800,8 @@ Check network settings and try again."</string>
   <string name="swipe_up_guide_hint_text">上滑发现更多</string>
   <string name="tab_title_agenda">Events</string>
   <string name="tab_title_day">Day</string>
-  <string name="tab_title_month">Month</string>
-  <string name="tab_title_week">Week</string>
+  <string name="tab_title_month">ماه</string>
+  <string name="tab_title_week">هفته</string>
   <string name="tag_action_bar_in_feed">action_bar_in_feed</string>
   <string name="tag_feed_list_container">feed_list_container</string>
   <string name="taishen">胎神</string>
@@ -845,7 +845,7 @@ Check network settings and try again."</string>
   <string name="time_zone">Time zone</string>
   <string name="timezone_label">Time zone</string>
   <string name="title_confirm_close_chinese_calendar">Turning off Chinese calendar</string>
-  <string name="today">Today</string>
+  <string name="today">امروز</string>
   <string name="today_at_time_fmt">Today at %s</string>
   <string name="today_icon_voice_contentdescription">Back to today</string>
   <string name="today_no_events">No events</string>
@@ -887,7 +887,7 @@ Check network settings and try again."</string>
   <string name="travel_item_weather_forecast">Destination forecast</string>
   <string name="travel_item_weather_now">Destination weather</string>
   <string name="travel_loaded">Powered by Veryzhun</string>
-  <string name="travel_loading">Just a sec…</string>
+  <string name="travel_loading">یک لحظه...</string>
   <string name="travel_local">Destination</string>
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>

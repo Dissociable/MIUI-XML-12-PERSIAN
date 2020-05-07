@@ -190,7 +190,7 @@ https://appleid.apple.com/#!&amp;page=signin to close"</string>
   <string name="error_permissions">"This app doesn't have the permissions required for it to access Calendar. Go to Settings and check permissions to continue."</string>
   <string name="every_day">Every day</string>
   <string name="exchange_account">Switch accounts</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="fail">Failed</string>
   <string name="failed_description">Failed</string>
   <string name="feature_title_account">Mi Account</string>
@@ -273,8 +273,8 @@ you should create an iCloud backup first."</string>
   <string name="local_button_restore_data">Restore to this device</string>
   <string name="local_button_restore_now">Restore</string>
   <string name="local_click_to_jump">Tap to view</string>
-  <string name="local_config_off">Off</string>
-  <string name="local_config_on">On</string>
+  <string name="local_config_off">خاموش</string>
+  <string name="local_config_on">روشن</string>
   <string name="local_home_title">Back up locally</string>
   <string name="local_main_auto_backup_title">پشتیبان گیری خودکار</string>
   <string name="local_main_backup">Local backups</string>
@@ -288,7 +288,7 @@ you should create an iCloud backup first."</string>
   <string name="local_main_date_format">MM/dd/yyyy HH:mm</string>
   <string name="local_main_encrypt_backup_summary">Encrypt the items you back up using your Mi Account</string>
   <string name="local_main_encrypt_backup_title">Encrypt backups</string>
-  <string name="local_main_latest_backup_time_loading">Just a sec…</string>
+  <string name="local_main_latest_backup_time_loading">یک لحظه...</string>
   <string name="local_no_backup">بدون پشتیبان.</string>
   <string name="local_no_backup_data">No backups here yet</string>
   <string name="local_restore_select_activity">Manage backups</string>
@@ -296,24 +296,24 @@ you should create an iCloud backup first."</string>
   <string name="local_restore_window_title">Local restore</string>
   <string name="local_select_account_contact">Accounts &amp; contacts</string>
   <string name="local_select_audio">Audio files</string>
-  <string name="local_select_doc">Documents</string>
-  <string name="local_select_files">SD card</string>
-  <string name="local_select_image">Images</string>
+  <string name="local_select_doc">اسناد</string>
+  <string name="local_select_files">کارت SD</string>
+  <string name="local_select_image">تصویر</string>
   <string name="local_select_sysdata">سیستم</string>
   <string name="local_select_userapp">برنامه ها</string>
-  <string name="local_select_video">Videos</string>
+  <string name="local_select_video">ویدئو ها</string>
   <string name="login">ورود به حساب</string>
   <string name="login_failed">"Couldn't sign in. Try again."</string>
   <string name="logining">Signing in…</string>
   <string name="miliao_account_guide">Use your Mi Account to sign in to Xiaomi Cloud, MIUI Themes, and other Mi services, from anywhere.</string>
   <string name="miliao_account_login">Sign in with Mi Talk</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="mms_title">Multimedia messaging</string>
   <string name="multi_select_title">%1$s selected</string>
@@ -321,13 +321,13 @@ you should create an iCloud backup first."</string>
   <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
   <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
   <string name="name_password_not_consistent">Username or password is wrong</string>
-  <string name="never">Never</string>
+  <string name="never">هرگز</string>
   <string name="new_backup">پشتیبان گیری</string>
   <string name="new_britem_audio">Audio</string>
   <string name="new_britem_doc">Files</string>
-  <string name="new_britem_other">Other</string>
-  <string name="new_britem_pic">Images</string>
-  <string name="new_britem_video">Videos</string>
+  <string name="new_britem_other">غیره</string>
+  <string name="new_britem_pic">تصویر</string>
+  <string name="new_britem_video">ویدئو ها</string>
   <string name="new_confirm_enable_encrypt_content">"MIUI associates encrypted backups with your Mi Account. You'll have to sign in to your Mi Account to restore items from such backups."</string>
   <string name="new_confirm_enable_encrypt_title">رمزنگاری</string>
   <string name="new_local_button_backup">پشتیبان گیری</string>
@@ -354,7 +354,7 @@ you should create an iCloud backup first."</string>
   <string name="new_pc_title">Copy backups</string>
   <string name="new_select_file">Audio, videos, and files</string>
   <string name="new_select_message">SMS, contacts, and call history</string>
-  <string name="new_select_pic">Images</string>
+  <string name="new_select_pic">تصویر</string>
   <string name="new_select_system">Other system app data</string>
   <string name="new_select_tencent">QQ and WeChat</string>
   <string name="new_select_third">Third party apps and app data</string>
@@ -407,8 +407,8 @@ you should create an iCloud backup first."</string>
   <string name="notif_trans_wait_for_reconnecting">Connection was interrupted. Connect again.</string>
   <string name="old_soft_name">Connect via QR code</string>
   <string name="old_way">You can also generate a QR code on your new device and scan it using the old one.</string>
-  <string name="page_loading">Just a sec…</string>
-  <string name="password">Password</string>
+  <string name="page_loading">یک لحظه...</string>
+  <string name="password">گذرواژه</string>
   <string name="password_null">"Password can't be empty"</string>
   <string name="pause">Pause</string>
   <string name="perm_camera">Camera</string>
@@ -450,7 +450,7 @@ you should create an iCloud backup first."</string>
   <string name="restore_report">Restore details</string>
   <string name="restore_telephony_hit">Restoring will restart the Phone app.</string>
   <string name="retry">تلاش دوباره</string>
-  <string name="reverse_all">Clear all</string>
+  <string name="reverse_all">پاک کردن همه</string>
   <string name="router_backup_hint">دستگاه خود را روشن نگه دارید</string>
   <string name="save_finish_with_failing_items">"Transfer was interrupted.r
 The data which wasn't imported must be imported again."</string>
@@ -500,9 +500,9 @@ Free up at least %s."</string>
   <string name="start_backup">پشتیبان گیری</string>
   <string name="start_restore">Restore</string>
   <string name="state_mounting">Accessing router storage…</string>
-  <string name="state_waiting">Just a sec…</string>
+  <string name="state_waiting">یک لحظه...</string>
   <string name="status_bar_notification_info_overflow">999+</string>
-  <string name="storage_sd_card">SD card</string>
+  <string name="storage_sd_card">کارت SD</string>
   <string name="storage_usb">USB drive</string>
   <string name="succ_description">Successfully</string>
   <string name="succeed">کامل شده</string>
@@ -598,7 +598,7 @@ Free up at least %s."</string>
   <string name="trans_generate_qr_code_failed">"Couldn't create QR code"</string>
   <string name="trans_generate_qrcode_failed">"Couldn't generate QR code. Close other apps and try again."</string>
   <string name="trans_generating_qrcode">Generating QR code…</string>
-  <string name="trans_install_guide_button_start">Start</string>
+  <string name="trans_install_guide_button_start">شروع</string>
   <string name="trans_install_guide_page_title">Install Mi Mover on your old phone</string>
   <string name="trans_install_guide_scan_install_tip">"Scan this QR code with your old phone
 to download and install Mi Mover."</string>
@@ -674,7 +674,7 @@ Then tap \"Connect again\" to create a QR code."</string>
 Then tap \"Connect again\" to scan the QR code."</string>
   <string name="trans_operate_tip_for_other_android">Open Mi Mover on your old phone, tap \"Start\" and scan the QR code above.</string>
   <string name="trans_pausing">Pausing…</string>
-  <string name="trans_please_waiting">Just a sec…</string>
+  <string name="trans_please_waiting">یک لحظه...</string>
   <string name="trans_progress_subdescript_br_receiver">Restoring %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender">Backing up %1$s, %2$s completed</string>
   <string name="trans_progress_subdescript_br_sender_finish">Backed up %s, waiting to send…</string>
@@ -723,7 +723,7 @@ Keep devices close to each other."</string>
   <string name="trans_show_qr_code_tips">Scan QR code using old device</string>
   <string name="trans_start_failed_message">"Couldn't start transfer, try again or reboot device."</string>
   <string name="trans_start_failed_title">"Couldn't start transfer"</string>
-  <string name="trans_success_dialog_button_market_comment">Comment</string>
+  <string name="trans_success_dialog_button_market_comment">نظر</string>
   <string name="trans_success_dialog_button_market_favourable_comment">Rate Mi Mover</string>
   <string name="trans_success_dialog_button_survey">Survey</string>
   <string name="trans_success_dialog_market_comment_and_survey_title">"You're ready to rock! Tell us what you think about Mi Mover."</string>
@@ -759,13 +759,13 @@ Free up space or transfer only important items."</string>
   <string name="user_notice_declaration_ignore">"Don't show again"</string>
   <string name="user_notice_message">Some features require internet connection to work normally.</string>
   <string name="user_notice_title">Attention</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
-  <string name="view_password_description">Show password</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
+  <string name="view_password_description">نمایش گذرواژه</string>
   <string name="wait_link">"Open Mi Mover on the old device,
 tap \"I'm a sender\" and select a hotspot to connect.
 Don't close the page before connection is established."</string>
-  <string name="waiting">Just a sec…</string>
+  <string name="waiting">یک لحظه...</string>
   <string name="wifi_title">WLAN settings</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>

@@ -32,7 +32,7 @@
   <string name="congratulation_title">Setup complete</string>
   <string name="content_description_complete">کامل شده</string>
   <string name="content_description_miui_version">MIUI 12</string>
-  <string name="content_description_start">Start</string>
+  <string name="content_description_start">شروع</string>
   <string name="content_introduction">Content Center aggregates content and services from multiple channels. Here you can read articles, watch videos, view daily featured items, and receive content recommendations.</string>
   <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
   <string name="data_traffic_enable_dialog_title">"If you aren't connected to WLAN now, your device will use mobile data. Using mobile data may generate additional carrier fees."</string>
@@ -100,7 +100,7 @@ Turn off personalized ads anyway?"</string>
   <string name="other_settings_auto_update_summary">MIUI will select the best time to download and install updates. Your device will be rebooted automatically to apply changes.</string>
   <string name="other_settings_enhanced_lockscreen">Wallpaper Carousel</string>
   <string name="other_settings_enhanced_lockscreen_for_india">Glance for Mi</string>
-  <string name="other_settings_enhanced_lockscreen_privacy_index">Privacy Policy</string>
+  <string name="other_settings_enhanced_lockscreen_privacy_index">سیاست حفظ حریم خصوصی</string>
   <string name="other_settings_enhanced_lockscreen_summary">Get curated images and stories delivered to your Lock screen daily. %1$s and %2$s</string>
   <string name="other_settings_enhanced_lockscreen_summary_index">End User Licence Agreement</string>
   <string name="other_settings_location">Location</string>
@@ -156,11 +156,11 @@ Turn off personalized ads anyway?"</string>
   <string name="poco_launcher_user_agreement">POCO Launcher User Agreement</string>
   <string name="pref_title_data_slot">Preferred data SIM card</string>
   <string name="pref_title_voice_slot">Preferred voice SIM card</string>
-  <string name="privacy_policy">Privacy Policy</string>
+  <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
   <string name="protect_persoanl_info_statement">We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.</string>
   <string name="provision_inputmethod_policy_description">"
 View the selected keyboard's Privacy Policy."</string>
-  <string name="provision_inputmethod_policy_description1">Privacy Policy</string>
+  <string name="provision_inputmethod_policy_description1">سیاست حفظ حریم خصوصی</string>
   <string name="recorder_introduction">You can use this app to record audio and back up recordings to the cloud.</string>
   <string name="require_authority_statement">To allow us to provide you with basic services, you need to grant the following permissions in order for us to collect your personal information:</string>
   <string name="require_network_authority_statement">To allow us to provide you with basic services, you need to connect to the internet and grant the following permissions in order for us to collect your personal information:</string>
@@ -176,7 +176,7 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="service_name_clock">Clock</string>
   <string name="service_name_compass">Compass</string>
   <string name="service_name_content_center">Content Center</string>
-  <string name="service_name_download">Downloads</string>
+  <string name="service_name_download">بارگیری ها</string>
   <string name="service_name_fast_application">Quick apps Framework</string>
   <string name="service_name_fast_pairing">Mi Link</string>
   <string name="service_name_game">Games plug-in</string>
@@ -190,7 +190,7 @@ View the selected keyboard's Privacy Policy."</string>
   <string name="service_name_service_framework">Mi Services Framework</string>
   <string name="service_policy">&lt;Data&gt;Read and agree to our &amp;lt;a href=%1$s&amp;gt;Privacy Policy&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
   <string name="service_policy_download">&lt;Data&gt;Before using our services, read and agree to &amp;lt;a href=%1$s&amp;gt;Xunlei Privacy Policy&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
-  <string name="service_privacy_index">Privacy Policy</string>
+  <string name="service_privacy_index">سیاست حفظ حریم خصوصی</string>
   <string name="servicestate_title">Statement on basic services</string>
   <string name="setting_locale">Setting region…</string>
   <string name="shut_down">Shut down</string>
@@ -240,7 +240,7 @@ You must agree to Mint Keyboard Privacy Policy before using this feature."</stri
   <string name="terms_privacy_policy_input_method_facemoji">Facemoji Privacy Policy</string>
   <string name="terms_privacy_policy_input_method_kika">Kika Privacy Policy</string>
   <string name="title_fingerprint">Set password</string>
-  <string name="user_agreement">User Agreement</string>
+  <string name="user_agreement">توافقات کاربر</string>
   <string name="user_agreement_declare">Before using MIUI, you must read and agree to our User Agreement and Privacy Policy. While your device is being activated, Mi SIM Activation Service, Xiaomi Cloud, Find device, Home screen, Frequent phrases, Translation Service, MIUI Daemon, HTML Viewer, AI Assistant, Battery and performance, Power Detector, Joyose, OS AI Setting, Permissions Manager, and Updater will connect to the network. Smart services will connect to the network and access your location.</string>
   <string name="voice_assist_advice">Mi AI allows you to use voice controls, but it consumes more power (+1% every hour).</string>
   <string name="voice_assist_condition">"You'll be able to use Mi AI in these cases:r

@@ -102,7 +102,7 @@
     <string-array name="other_settings_auto_update_entries">
         <item>WLAN and mobile data</item>
         <item>WLAN only</item>
-        <item>Off</item>
+        <item>خاموش</item>
     </string-array>
     <string-array name="popular_language_locales">
         <item>en_IN</item>

@@ -90,7 +90,7 @@
         <item>2</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location">
-        <item>Internal storage</item>
+        <item>حافظه داخلی</item>
         <item>External storage</item>
     </string-array>
     <string-array name="screenrecorder_settings_storage_location_values">

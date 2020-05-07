@@ -249,7 +249,7 @@
     <string-array name="feedback_tag_list">
         <item>Bug</item>
         <item>Suggestion</item>
-        <item>Other</item>
+        <item>غیره</item>
     </string-array>
     <string-array name="lang_detect">
         <item>中</item>

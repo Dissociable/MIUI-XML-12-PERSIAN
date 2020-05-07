@@ -23,7 +23,7 @@
         <item quantity="one">in 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">همین الان</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d mins ago</item>
@@ -66,7 +66,7 @@
         <item quantity="one">%d week ago</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+        <item quantity="other">همین الان</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d new notifications</item>

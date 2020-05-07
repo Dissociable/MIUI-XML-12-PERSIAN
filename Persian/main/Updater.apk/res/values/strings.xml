@@ -16,7 +16,7 @@
   <string name="btn_yes">Yes</string>
   <string name="channel_downloading">Downloading progress</string>
   <string name="channel_update">New version available</string>
-  <string name="check_new_version">Check for updates</string>
+  <string name="check_new_version">بررسی برای بروزرسانی</string>
   <string name="chengelog">%1$s</string>
   <string name="default_filedownloader_notification_content">FileDownloader is running.</string>
   <string name="default_filedownloader_notification_title">FileDownloader</string>
@@ -51,7 +51,7 @@ Data will not be wiped."</string>
   <string name="no_xioamieu">"You are not using MIUI Rom created by Xiaomi.eu team!
 Updates are not available for you!"</string>
   <string name="notif_cancel">لغو</string>
-  <string name="notif_install">Install</string>
+  <string name="notif_install">نصب</string>
   <string name="notif_new_summary">Tap to get details</string>
   <string name="notif_new_title">New version available!</string>
   <string name="notifications_switch">Show notifications</string>

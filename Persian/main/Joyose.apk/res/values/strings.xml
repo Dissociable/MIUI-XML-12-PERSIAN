@@ -19,7 +19,7 @@
   <string name="permstep_description">Allow this app to access your step count</string>
   <string name="permstep_label">Access step count</string>
   <string name="restart_details">Turning this feature on or off requires rebooting your device. Reboot now?</string>
-  <string name="restart_later">Later</string>
+  <string name="restart_later">بعدا</string>
   <string name="restart_now">Reboot now</string>
   <string name="stop_sync">Stop syncing automatically?</string>
   <string name="support_forbidden_fakecell">Note: Restricting connection to fake base stations may lower the signal in areas with poor coverage.</string>

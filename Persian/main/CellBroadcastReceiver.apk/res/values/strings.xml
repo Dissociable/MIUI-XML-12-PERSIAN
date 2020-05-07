@@ -60,7 +60,7 @@
   <string name="cb_menu_add_channel">Add Channel</string>
   <string name="cb_menu_channel_list">Channel list</string>
   <string name="cb_menu_delete">Delete broadcast</string>
-  <string name="cb_menu_edit">Edit</string>
+  <string name="cb_menu_edit">ویرایش</string>
   <string name="cb_menu_tile">Channel Operation</string>
   <string name="cb_other_message_identifiers">Cell broadcast</string>
   <string name="cell_broadcast_setting">Cell Broadcast settings</string>
@@ -76,7 +76,7 @@
   <string name="cmas_category_health">Health</string>
   <string name="cmas_category_infra">Infrastructure</string>
   <string name="cmas_category_met">Meteorological</string>
-  <string name="cmas_category_other">Other</string>
+  <string name="cmas_category_other">غیره</string>
   <string name="cmas_category_rescue">Rescue</string>
   <string name="cmas_category_safety">Safety</string>
   <string name="cmas_category_security">Security</string>

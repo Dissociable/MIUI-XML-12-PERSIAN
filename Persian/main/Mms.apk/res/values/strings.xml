@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -133,12 +133,12 @@
   <string name="cloud_state_syncing">Syncing with Xiaomi Cloud…</string>
   <string name="cm_privacy_dialog_allow">موافق</string>
   <string name="cm_privacy_dialog_cancel">لغو</string>
-  <string name="cm_privacy_dialog_spannable_tips">Privacy Policy</string>
+  <string name="cm_privacy_dialog_spannable_tips">سیاست حفظ حریم خصوصی</string>
   <string name="cm_privacy_dialog_tips">"Smart messaging services are provided by your carrier. Messaging needs to connect to the Internet and access your location in order to provide these services. You must agree to your carrier's %1s before you start using these services. Agree?"</string>
   <string name="cm_privacy_dialog_title">Attention</string>
   <string name="cmcc_privacy">China Mobile Carrier Privacy Agreement</string>
   <string name="com.crashlytics.android.build_id">4be4c77d-3924-43bd-8ba4-9919c5e78322</string>
-  <string name="complain_message_title">Report</string>
+  <string name="complain_message_title">گذارش</string>
   <string name="compressing">Picture is too large. Compressing…</string>
   <string name="confirm">باشه</string>
   <string name="confirm_add_blacklist_dialog_dspt">Add this number to your blocklist?</string>
@@ -154,7 +154,7 @@
   <string name="confirm_dlg_title">Device management</string>
   <string name="confirm_export_dialog_description">Previous conversations with this contact will no longer be hidden.</string>
   <string name="confirm_export_dialog_title">Remove from private contacts</string>
-  <string name="confirm_no_block_positive">Unblock</string>
+  <string name="confirm_no_block_positive">رفع انسداد</string>
   <string name="confirm_no_block_title">Stop blocking such messages? Previously blocked messages will appear in your inbox.</string>
   <string name="confirm_rate_limit">A large number of multimedia messages are being sent.</string>
   <string name="confirm_restore_all_title">Restore all messages sent from this number?</string>
@@ -175,7 +175,7 @@
   <string name="context_menu_copy">کپی</string>
   <string name="context_menu_copy_notice">Copied to clipboard</string>
   <string name="context_menu_new_contact">New contact</string>
-  <string name="context_menu_send_mail">Send email</string>
+  <string name="context_menu_send_mail">ارسال ایمیل</string>
   <string name="context_menu_send_sms">Send message</string>
   <string name="context_menu_view_contact">View contact</string>
   <string name="context_menu_view_mms">View MMS</string>
@@ -186,7 +186,7 @@
   <string name="converting_vcard_failed">"Couldn't convert contact"</string>
   <string name="copy">کپی</string>
   <string name="copy_message_text">کپی</string>
-  <string name="copy_message_text_success">Copied successfully</string>
+  <string name="copy_message_text_success">با موفقیت کپی شد</string>
   <string name="copy_to_sdcard">Save attachment</string>
   <string name="copy_to_sdcard_fail">"Couldn't save attachment"</string>
   <string name="copy_to_sdcard_success">Attachment saved as %s</string>
@@ -223,7 +223,7 @@
   <string name="dialog_title_mx_rcs">Mi Message</string>
   <string name="dialog_title_networking">Terms and Conditions</string>
   <string name="disable_notifications_dialog_message">Stop duplicate text message notifications from default Messaging app?</string>
-  <string name="disabled">Off</string>
+  <string name="disabled">خاموش</string>
   <string name="discard">Discard</string>
   <string name="discard_message">Discard</string>
   <string name="discard_message_reason">Your message will be discarded because it has no valid recipients.</string>
@@ -240,11 +240,11 @@
   <string name="duration_selector_title">"Duration for slide "</string>
   <string name="duration_zero">Duration must be greater than 0 seconds</string>
   <string name="earlier">Earlier</string>
-  <string name="edit">Edit</string>
+  <string name="edit">ویرایش</string>
   <string name="edit_phrase">Edit quick replies</string>
   <string name="edit_slide_activity">Edit slide</string>
   <string name="edit_slideshow_activity">Edit slideshow</string>
-  <string name="enabled">On</string>
+  <string name="enabled">روشن</string>
   <string name="english_subject_limit">40 characters</string>
   <string name="enter_edit_mode">Edit messages</string>
   <string name="error_code_label">"Error code: "</string>
@@ -261,7 +261,7 @@
   <string name="exceed_message_size_limitation">Message size limit reached.</string>
   <string name="exceed_message_size_limitation_add_slide">Message size is not enough to add a slide</string>
   <string name="exceed_message_text_limitation">Message text length limit reached.</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="expire_on">Expires: %s</string>
   <string name="exporting_progress_private_message">Exporting…</string>
   <string name="fail_to_add_attachment">"Couldn't add attachment"</string>
@@ -279,7 +279,7 @@
   <string name="feature_mx_summary">&lt;b&gt;Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges&lt;/b&gt;. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;User Agreement&lt;/a&gt;&lt;/font&gt; and &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; before using this feature.</string>
   <string name="feature_smart_sms">Smart Messaging</string>
   <string name="feature_smart_sms_summary">&lt;b&gt;Smart Messaging provides Sender ID recognition and smart menus&lt;/b&gt;". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; before using this feature.</string>
-  <string name="festival_sms_loading">Loading…</string>
+  <string name="festival_sms_loading">درحال بارگذاری…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Created:</string>
   <string name="file_size">Size:</string>
@@ -334,12 +334,12 @@
   <string name="hybrid_network_access_denied">Network access denied</string>
   <string name="hybrid_network_unavaliable">"Can't connect to the network"</string>
   <string name="hybrid_pull_to_refresh_pull_label">Pull to refresh…</string>
-  <string name="hybrid_pull_to_refresh_refreshing_label">Just a sec…</string>
+  <string name="hybrid_pull_to_refresh_refreshing_label">یک لحظه...</string>
   <string name="hybrid_pull_to_refresh_release_label">Release to refresh…</string>
   <string name="hybrid_service_unavailiable">Service unavailable</string>
   <string name="hybrid_try_again">تلاش دوباره</string>
   <string name="i_know">فهمیدم</string>
-  <string name="ignore">Not now</string>
+  <string name="ignore">الان نه</string>
   <string name="imageview_ad">Ad</string>
   <string name="importing_progress_private_message">Importing…</string>
   <string name="in_sms">Message</string>
@@ -351,9 +351,9 @@
   <string name="is_composing">Typing…</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slideshow layout "</string>
-  <string name="loading_all_messages">Just a sec…</string>
-  <string name="loading_conversations">Just a sec…</string>
-  <string name="loading_mms">Just a sec…</string>
+  <string name="loading_all_messages">یک لحظه...</string>
+  <string name="loading_conversations">یک لحظه...</string>
+  <string name="loading_mms">یک لحظه...</string>
   <string name="manage_permission_app_label">Device permissions</string>
   <string name="mark_number_by_own_dialog_subtitle">Marked as %1$s</string>
   <string name="me">Me</string>
@@ -365,7 +365,7 @@
   <string name="menu_correct_as_ad">Move to promotional</string>
   <string name="menu_correct_as_normal">Move to regular</string>
   <string name="menu_delete_messages">Delete messages</string>
-  <string name="menu_edit">Edit</string>
+  <string name="menu_edit">ویرایش</string>
   <string name="menu_forward">Forward</string>
   <string name="menu_lock">افزودن به مورد علاقه ها</string>
   <string name="menu_make_call">Call</string>
@@ -407,13 +407,13 @@
   <string name="messaging">Messaging</string>
   <string name="mi_message_title">Mi Message</string>
   <string name="millionbyte">MB</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="mms">MMS</string>
   <string name="mms_block_alert_message">All MMS except the messages sent from authorized senders will be blocked. Authorized senders include network carriers, national railway booking systems, etc.</string>
@@ -467,14 +467,14 @@ This message might be unsolicited."</string>
   <string name="mx_auto_resend_mms_summary">"Send multimedia messages as MMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">"Send messages as SMS over mobile data connection when you're not connected to Wi-Fi. You will incur regular charges from your carrier."</string>
-  <string name="mx_btn_enable">Activate</string>
-  <string name="mx_btn_enable_now">Activate</string>
+  <string name="mx_btn_enable">فعال سازی</string>
+  <string name="mx_btn_enable_now">فعال سازی</string>
   <string name="mx_count_dspt">"You've sent %1$d SMS and %2$d MMS for free"</string>
   <string name="mx_current_status">تنظیمات</string>
   <string name="mx_dspt">"Send SMS and MMS messages to other MIUI devices without incurring charges when you're connected to Wi-Fi."</string>
   <string name="mx_dspt_listview">Send messages to other MIUI devices without incurring charges</string>
   <string name="mx_dspt_provision">Mi Message lets you send messages to other MIUI users over the internet without incurring charges. An outgoing SMS message may be required to reactivate Mi Message. Your carrier will charge you for this message. Besides, when this feature is on, a small amount of mobile data is required to check whether the other user is online. Agree?</string>
-  <string name="mx_dspt_provision_ex2">Privacy Policy</string>
+  <string name="mx_dspt_provision_ex2">سیاست حفظ حریم خصوصی</string>
   <string name="mx_enable">Mi Message</string>
   <string name="mx_enable_ex">Mi Message &amp; Voice</string>
   <string name="mx_enable_popup_msg">Mi Message lets you send messages to other MIUI devices without incurring charges.</string>
@@ -510,7 +510,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="new_phrase">Add reply</string>
   <string name="new_phrase_hint">Enter new reply</string>
   <string name="no">لغو</string>
-  <string name="no_block_button_msg">Unblock</string>
+  <string name="no_block_button_msg">رفع انسداد</string>
   <string name="no_conversations">No conversations</string>
   <string name="no_delivery_report">No delivery report</string>
   <string name="no_longer_recommend">"Don't show again"</string>
@@ -527,7 +527,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="notification_channel_msg_description">Notifications about messages</string>
   <string name="notification_channel_msg_name">Messages</string>
   <string name="notification_channel_other_description">Other notifications</string>
-  <string name="notification_channel_other_name">Other</string>
+  <string name="notification_channel_other_name">غیره</string>
   <string name="notification_channel_sim1_description">Notifications about SIM 1 messages</string>
   <string name="notification_channel_sim1_name">SIM 1 messages</string>
   <string name="notification_channel_sim2_description">Notifications about SIM 2 messages</string>
@@ -559,8 +559,8 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="pick_too_many_recipients">Too many recipients</string>
   <string name="play">Play</string>
   <string name="playing_failed">"Can't play"</string>
-  <string name="prefDefault_vibrateWhen">never</string>
-  <string name="prefDefault_vibrate_false">never</string>
+  <string name="prefDefault_vibrateWhen">هرگز</string>
+  <string name="prefDefault_vibrate_false">هرگز</string>
   <string name="prefDefault_vibrate_true">always</string>
   <string name="pref_advanced_settings_title">Additional settings</string>
   <string name="pref_allow_network_access_summary">Get the latest info on delivery and other services</string>
@@ -573,7 +573,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="pref_messages_to_save">Set number of messages to save</string>
   <string name="pref_mms_settings_title">Multimedia (MMS) messages</string>
   <string name="pref_msg_trash_bin_title">Deleted messages</string>
-  <string name="pref_notification_settings_title">Notifications</string>
+  <string name="pref_notification_settings_title">اعلانات</string>
   <string name="pref_other_title">Additional settings</string>
   <string name="pref_show_blocked_messages_summary">Show blocked SMS in conversations list</string>
   <string name="pref_show_list_avatar_summary">Show profile photos and contact info in list view</string>
@@ -621,7 +621,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="pref_title_msg_blocked">Blocklist</string>
   <string name="pref_title_notification_body_enabled">Show messages on Lock screen</string>
   <string name="pref_title_privacy_authority">Authorization</string>
-  <string name="pref_title_privacy_policy_detail">Privacy Policy</string>
+  <string name="pref_title_privacy_policy_detail">سیاست حفظ حریم خصوصی</string>
   <string name="pref_title_ringtone_repeat">Notification sounds</string>
   <string name="pref_title_ringtone_repeat_summary">Play a notification sound when message is received while display is off</string>
   <string name="pref_title_send_delivery_reports">Send delivery messages</string>
@@ -645,13 +645,13 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="privacy_password_message1">Privacy protection password works for photos, notes, and hidden folders.</string>
   <string name="privacy_password_message2">Use Privacy protection password. It works for photos, notes and hidden folders.</string>
   <string name="privacy_password_message3">Messaging password will be replaced with Privacy protection password which works for photos, notes, and hidden folders.</string>
-  <string name="privacy_password_set_password">Set</string>
+  <string name="privacy_password_set_password">تنظیم</string>
   <string name="privacy_password_title1">Set password</string>
   <string name="privacy_password_title2">Use Privacy protection password</string>
   <string name="privacy_password_title3">Upgrade your password</string>
   <string name="privacy_password_title4">Password upgraded</string>
-  <string name="privacy_policy">Privacy Policy</string>
-  <string name="privacy_term">Privacy Policy</string>
+  <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+  <string name="privacy_term">سیاست حفظ حریم خصوصی</string>
   <string name="private_entry_available">Release to open private folder</string>
   <string name="private_entry_default">Slide down to open private folder</string>
   <string name="private_message">Private messaging</string>
@@ -667,7 +667,7 @@ An outgoing SMS message is required to activate Mi Message. Your carrier will ch
   <string name="prompt_title">Sign in to RCS</string>
   <string name="prompt_user_agreement">By signing in, you agree to the RCS User Agreement and Privacy Policy.</string>
   <string name="prvate_contact">Private contacts</string>
-  <string name="quick_reply">Reply</string>
+  <string name="quick_reply">پاسخ</string>
   <string name="rate_limit_surpassed">باشه</string>
   <string name="rcs_auto_resend_as_sms_remind_change">Change settings</string>
   <string name="rcs_auto_resend_as_sms_remind_desp">"Messages up to 900B can be converted and sent as SMS when network signal is poor. Tap \"Change settings\" if you don't want to convert your messages to SMS."</string>
@@ -703,7 +703,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_chatbot_normal_message">You received a message. Tap to view details.</string>
   <string name="rcs_chatbot_notification">Mini app: %s</string>
   <string name="rcs_chatbot_progress_failed">"Couldn't load info. Tap to try again."</string>
-  <string name="rcs_chatbot_progress_loading">Just a sec…</string>
+  <string name="rcs_chatbot_progress_loading">یک لحظه...</string>
   <string name="rcs_chatbot_recommend_tab_empty">No recommended apps here yet.</string>
   <string name="rcs_chatbot_send_message">Share data from your device with %s?</string>
   <string name="rcs_chatbot_server_error">"Couldn't get data. Open this page again."</string>
@@ -721,13 +721,13 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_chatdetail_menu_delete_error">"Couldn't remove. Try again."</string>
   <string name="rcs_chatdetail_menu_delete_success">Removed successfully</string>
   <string name="rcs_chatdetail_menu_more_chabot">More info</string>
-  <string name="rcs_chatdetail_menu_post">Report</string>
-  <string name="rcs_chatdetail_menu_remove_black">Unblock</string>
+  <string name="rcs_chatdetail_menu_post">گذارش</string>
+  <string name="rcs_chatdetail_menu_remove_black">رفع انسداد</string>
   <string name="rcs_chatdetail_menu_save_black_fail">"Couldn't block. Try again."</string>
   <string name="rcs_chatdetail_menu_save_black_success">Blocked successfully</string>
   <string name="rcs_chatdetail_more_adddress">Address</string>
   <string name="rcs_chatdetail_more_email">Email</string>
-  <string name="rcs_chatdetail_more_email_send">Send email</string>
+  <string name="rcs_chatdetail_more_email_send">ارسال ایمیل</string>
   <string name="rcs_chatdetail_more_href">Website</string>
   <string name="rcs_chatdetail_more_id">Owner ID</string>
   <string name="rcs_chatdetail_more_number">Phone number (messages)</string>
@@ -749,7 +749,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_group_chat_closed">(Closed)</string>
   <string name="rcs_group_notification_invitation">Group chat invitation</string>
   <string name="rcs_hello_from_pc">Sign in to Fetion on your computer to transfer files.</string>
-  <string name="rcs_list_bottom_loading">Just a sec…</string>
+  <string name="rcs_list_bottom_loading">یک لحظه...</string>
   <string name="rcs_list_bottom_search">Searching…</string>
   <string name="rcs_main_purpose">This feature allows you to send and receive RCS messages. RCS Messaging is provided by China Mobile.</string>
   <string name="rcs_message">RCS messages</string>
@@ -782,7 +782,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_recipient_type_contact">Forward to contact</string>
   <string name="rcs_recipient_type_group">Forward to group chat</string>
   <string name="rcs_recipient_type_pc">Forward to computer</string>
-  <string name="rcs_remember_my_choice">Remember my choice</string>
+  <string name="rcs_remember_my_choice">بخاطر سپردن انتخابم</string>
   <string name="rcs_resend_not_online">"Can't use China Mobile Messaging"</string>
   <string name="rcs_resend_sim_card_not_insert">"Looks like your SIM card isn't installed"</string>
   <string name="rcs_search_group_local">My mini apps</string>
@@ -839,9 +839,9 @@ Take a look at the recommended ones!"</string>
   <string name="repayment_network_error">Something went wrong with your network</string>
   <string name="repayment_title">Repayment</string>
   <string name="repayment_way">Repayment method</string>
-  <string name="replace">Replace</string>
+  <string name="replace">جایگزینی</string>
   <string name="replace_image">Replace picture</string>
-  <string name="reply_button_msg">Reply</string>
+  <string name="reply_button_msg">پاسخ</string>
   <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.CALL_PHONE;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.RECEIVE_SMS;android.permission.RECEIVE_MMS;android.permission.SEND_SMS;android.permission.READ_SMS;android.permission.WRITE_SMS;android.permission.READ_PHONE_STATE;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.CAMERA;android.permission.READ_CALL_LOG;android.permission.GET_ACCOUNTS;</string>
   <string name="resent_message">Resend</string>
   <string name="resize_image_error_information">This picture is too large to send, even when resized.</string>
@@ -895,7 +895,7 @@ Take a look at the recommended ones!"</string>
  "&lt;/font&gt;</string>
   <string name="security_alert_desc_highlight">Report this number</string>
   <string name="security_alert_dialog_desc">Send this number (%s) and message to Xiaomi for review.</string>
-  <string name="security_alert_dialog_title">Report</string>
+  <string name="security_alert_dialog_title">گذارش</string>
   <string name="select_audio">Choose audio</string>
   <string name="select_bottom_text">Text on bottom</string>
   <string name="select_copy_text">Select and copy text</string>
@@ -930,7 +930,7 @@ Take a look at the recommended ones!"</string>
   <string name="service_message_not_found">Message expired or unavailable</string>
   <string name="service_network_problem">"Couldn't send due to network problem"</string>
   <string name="service_not_activated">Service not activated on network</string>
-  <string name="set">Set</string>
+  <string name="set">تنظیم</string>
   <string name="share">اشتراک</string>
   <string name="share_img">اشتراک</string>
   <string name="shortcut_new_msg">New message</string>
@@ -977,7 +977,7 @@ Take a look at the recommended ones!"</string>
   <string name="sp_category_all">All service messages</string>
   <string name="sp_category_bank">Bank notification messages</string>
   <string name="sp_category_title_prefix">%s</string>
-  <string name="sp_conversation_title">Notifications</string>
+  <string name="sp_conversation_title">اعلانات</string>
   <string name="sp_mark_as_read_menu_title">Mark as read</string>
   <string name="sqlite_disk_full">Storage space on your device is full.</string>
   <string name="sqlite_low_memory">Not enough storage space</string>
@@ -1055,7 +1055,7 @@ If you don't agree to grant such permissions or share and upload your personal i
   <string name="to_send_wrapper">Will send at %s</string>
   <string name="toast_failed_to_close_priv_auth">"Couldn't revoke authorization. Check your network settings and try again."</string>
   <string name="toast_pending_hangup_msg">Message will be sent after the call ends</string>
-  <string name="today">Today</string>
+  <string name="today">امروز</string>
   <string name="too_many_attachments">"Can't exceed %1$s attachments. Only the first %2$s will be added."</string>
   <string name="too_many_recipients">"Message has too many recipients (%1$s). You can't have more than %2$s recipients."</string>
   <string name="too_many_unsent_mms">"Can't send message right now. Too many unsent multimedia messages."</string>
@@ -1089,10 +1089,10 @@ Attempt made: %s."</string>
   <string name="url_result_safe">This URL is safe</string>
   <string name="url_scan_again">Check again</string>
   <string name="url_scanning">Checking URL…</string>
-  <string name="user_agreement">User Agreement</string>
-  <string name="user_term">User Agreement</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
+  <string name="user_agreement">توافقات کاربر</string>
+  <string name="user_term">توافقات کاربر</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
   <string name="verification_code_icon_name">V</string>
   <string name="verification_code_list_title">Verification codes</string>
   <string name="view">View</string>
@@ -1104,10 +1104,10 @@ Attempt made: %s."</string>
   <string name="wild_msg_title">Choose phone numbers to sync</string>
   <string name="yellowpage_recommend_msg">"Check out MIUI's messaging features"</string>
   <string name="yes">باشه</string>
-  <string name="yesterday">Yesterday</string>
+  <string name="yesterday">دیروز</string>
   <string name="you_have_new_message">You have new messages</string>
-  <string name="yulore_term">Privacy Policy</string>
+  <string name="yulore_term">سیاست حفظ حریم خصوصی</string>
   <string name="zero_sms_feedback_message">Reported messages are uploaded to our servers along with the phone numbers of their senders. These messages are only used to improve Blocklist functionality.</string>
   <string name="zero_sms_feedback_success">Reported successfully</string>
-  <string name="zero_sms_feedback_title">Report</string>
+  <string name="zero_sms_feedback_title">گذارش</string>
 </resources>

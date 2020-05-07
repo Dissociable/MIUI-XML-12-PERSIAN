@@ -8,8 +8,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
   <string name="abc_font_family_body_2_material">sans-serif-medium</string>
   <string name="abc_font_family_button_material">sans-serif-medium</string>
@@ -58,7 +58,7 @@
   <string name="account_user_gender">Gender</string>
   <string name="account_user_id">Mi Account ID</string>
   <string name="account_user_name">Nickname</string>
-  <string name="account_user_name_dialog_title">Enter username</string>
+  <string name="account_user_name_dialog_title">نام کاربری را وارد نمایید</string>
   <string name="account_user_other_info">جزئیات</string>
   <string name="account_user_phone">Recovery phone</string>
   <string name="account_user_region">Region</string>
@@ -107,13 +107,13 @@ Send this code to the supervisor."</string>
   <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
   <string name="input_new_pwd">Enter new password</string>
   <string name="isornot_your_mi_account">Is this your Mi Account?</string>
-  <string name="just_a_second">Just a sec…</string>
-  <string name="loading">Just a sec…</string>
+  <string name="just_a_second">یک لحظه...</string>
+  <string name="loading">یک لحظه...</string>
   <string name="logout_account">Sign out</string>
   <string name="mibi_all_license_message">"You're about to use Mi Coin, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service. Touch OK if you agree to the terms and conditions described in the %1$s and %2$s. You need to connect to the internet, locate you device to use Mi Coin."</string>
   <string name="mibi_app_name">Mi Coin</string>
   <string name="mibi_applock_config">"Can't set App lock while using Split screen."</string>
-  <string name="mibi_applock_dialog_cancel">Not now</string>
+  <string name="mibi_applock_dialog_cancel">الان نه</string>
   <string name="mibi_applock_dialog_content">Due to system upgrade, your current pattern lock has been expired. Please set a new pattern lock.</string>
   <string name="mibi_applock_dialog_ok">Set up</string>
   <string name="mibi_applock_dialog_title">Set a new Patten lock</string>
@@ -129,7 +129,7 @@ Send this code to the supervisor."</string>
   <string name="mibi_btn_count_down_auto">Inquire after %1$d seconds</string>
   <string name="mibi_btn_finish">پایان</string>
   <string name="mibi_btn_mili_center_recharge">Top-up Mi Coin</string>
-  <string name="mibi_btn_net_connection_retry">Retry</string>
+  <string name="mibi_btn_net_connection_retry">امتحان دوباره</string>
   <string name="mibi_btn_next">بعد</string>
   <string name="mibi_btn_prev">Previous</string>
   <string name="mibi_btn_query">Inquire</string>
@@ -148,7 +148,7 @@ Send this code to the supervisor."</string>
   <string name="mibi_button_next">بعد</string>
   <string name="mibi_button_pay">Confirm</string>
   <string name="mibi_button_reget">Resend</string>
-  <string name="mibi_button_retry">Retry</string>
+  <string name="mibi_button_retry">امتحان دوباره</string>
   <string name="mibi_camera_open_failed">Camera open failed</string>
   <string name="mibi_cancel">لغو</string>
   <string name="mibi_change_security_lock">More screen locks</string>
@@ -345,7 +345,7 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_error_denomination">Select amount</string>
   <string name="mibi_prepaid_error_password">Card password invalid.</string>
   <string name="mibi_prepaid_number_edit_hint">Number</string>
-  <string name="mibi_prepaid_password_edit_hint">Password</string>
+  <string name="mibi_prepaid_password_edit_hint">گذرواژه</string>
   <string name="mibi_prepaid_picker_hint_1_1">1.</string>
   <string name="mibi_prepaid_picker_hint_1_2">Only supports one-time charge;</string>
   <string name="mibi_prepaid_picker_hint_2_1">2.</string>
@@ -353,14 +353,14 @@ Please check your local date and try again."</string>
   <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red&gt;￥%1$s&lt;/font&gt;, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
   <string name="mibi_prepaid_picker_title_default">Select amount</string>
   <string name="mibi_prepaid_picker_title_selected">amount</string>
-  <string name="mibi_privacy_license_name">Privacy Policy</string>
-  <string name="mibi_privacy_policy">Privacy Policy</string>
+  <string name="mibi_privacy_license_name">سیاست حفظ حریم خصوصی</string>
+  <string name="mibi_privacy_policy">سیاست حفظ حریم خصوصی</string>
   <string name="mibi_privacy_tip_message">"You can't use Mi Coins after authorization has been revoked."</string>
   <string name="mibi_privacy_tip_title">Grant authorization first</string>
   <string name="mibi_process_expired">"Where'd you go? This operation has timed out."</string>
   <string name="mibi_progress_creating">Retrieving order info…</string>
   <string name="mibi_progress_deduct_creating">Activating %1$s automatic payment protocol​…</string>
-  <string name="mibi_progress_downloading">Loading…</string>
+  <string name="mibi_progress_downloading">درحال بارگذاری…</string>
   <string name="mibi_progress_error_pay_summary">%1$s Mi Coins recharged, but payment failed, please retry later.</string>
   <string name="mibi_progress_error_pay_title">Payment failed</string>
   <string name="mibi_progress_error_recharge_summary">Top-up failed, please retry later.</string>
@@ -431,7 +431,7 @@ Customer service center：400-100-3399"</string>
   <string name="mibi_title_mili_center">Mi Coins</string>
   <string name="mibi_title_nopassword">"Don't require for small payments"</string>
   <string name="mibi_title_nopassword_dialog">Daily limit</string>
-  <string name="mibi_title_password">Password</string>
+  <string name="mibi_title_password">گذرواژه</string>
   <string name="mibi_title_password_threshold">Daily limit = ￥%1$s</string>
   <string name="mibi_title_sms_code">Please enter the mobile phone verification code</string>
   <string name="mibi_unit">Mi Coins</string>
@@ -487,10 +487,10 @@ Customer service center：400-100-3399"</string>
   <string name="passport_error_user_name">The username you entered is invalid</string>
   <string name="passport_forget_password">&lt;u&gt;Forgot password&lt;/u&gt;</string>
   <string name="passport_get_verify_code">Get code</string>
-  <string name="passport_getting_verify_code">Just a sec…</string>
+  <string name="passport_getting_verify_code">یک لحظه...</string>
   <string name="passport_identification_expired">Verification code expired. Start over.</string>
   <string name="passport_input_captcha_hint">Enter code</string>
-  <string name="passport_input_password_hint">Enter password</string>
+  <string name="passport_input_password_hint">گذرواژه را وارد نمایید</string>
   <string name="passport_input_phone_hint">Enter phone number</string>
   <string name="passport_input_vcode_hint">Enter verification code</string>
   <string name="passport_input_voice_captcha_hint">Enter voice verification code</string>
@@ -553,7 +553,7 @@ Customer service center：400-100-3399"</string>
   <string name="phone_num_use_for">Phone number is used for:</string>
   <string name="phone_number">Phone number</string>
   <string name="photoPickerNotFoundText">No photos available.</string>
-  <string name="psw_hint">Password</string>
+  <string name="psw_hint">گذرواژه</string>
   <string name="psw_sign_in">Sign in using password</string>
   <string name="qq_application_id" />
   <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
@@ -589,7 +589,7 @@ Customer service center：400-100-3399"</string>
   <string name="update_phone_notice">Change security settings</string>
   <string name="upload_error_log">Upload log</string>
   <string name="user_avatar_update_title">Change profile photo</string>
-  <string name="user_avatar_uploading">Just a sec…</string>
+  <string name="user_avatar_uploading">یک لحظه...</string>
   <string name="user_id_hint">Email/Phone/Mi Account ID</string>
   <string name="v_code_title">Enter verification code</string>
   <string name="web_sso_login_fail">You need to sign in again</string>

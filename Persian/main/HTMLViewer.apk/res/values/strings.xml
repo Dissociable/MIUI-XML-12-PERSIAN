@@ -9,15 +9,15 @@
   <string name="legal_written_offer">Written Offer</string>
   <string name="license_host_unreachable">"Couldn't connect to the network. To view this information now,
 go to %s on another connected device."</string>
-  <string name="loading">Just a sec…</string>
+  <string name="loading">یک لحظه...</string>
   <string name="mibi_license">Mi Credits User Agreement</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="open_wifi_connect_and_use_data_summary">Using mobile data. Tap to switch to WLAN.</string>
   <string name="open_wifi_connect_summary">Tap to view details.</string>
@@ -29,12 +29,12 @@ go to %s on another connected device."</string>
   <string name="policy_name">Protocol: %s</string>
   <string name="pre_installed_apps">Pre-installed apps</string>
   <string name="privacy_station_title">Privacy at Xiaomi</string>
-  <string name="settings_ad_loading">Just a sec…</string>
+  <string name="settings_ad_loading">یک لحظه...</string>
   <string name="settings_ad_loading_unavailable">"Couldn't load info."</string>
-  <string name="settings_license_activity_loading">Just a sec…</string>
+  <string name="settings_license_activity_loading">یک لحظه...</string>
   <string name="settings_license_activity_title">Open source licenses</string>
   <string name="settings_license_activity_unavailable">"Couldn't load licenses."</string>
-  <string name="settings_safetylegal_activity_loading">Just a sec…</string>
+  <string name="settings_safetylegal_activity_loading">یک لحظه...</string>
   <string name="settings_safetylegal_activity_title">Security information</string>
   <string name="settings_safetylegal_activity_unreachable">"Couldn't connect to the network. To view this information now, go to %s from any computer connected to the Internet."</string>
   <string name="settings_safetylegal_title">Security information</string>

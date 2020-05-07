@@ -145,7 +145,7 @@
         <item>@string/chinese_symbol_animals_pig</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
+        <item>نام</item>
         <item>Nickname</item>
         <item>Phone</item>
         <item>E-mail</item>

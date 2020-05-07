@@ -57,7 +57,7 @@
         <item>Severe</item>
     </string-array>
     <string-array name="auto_silence_entries">
-        <item>Never</item>
+        <item>هرگز</item>
         <item>1 minute</item>
         <item>5 minutes</item>
         <item>10 minutes</item>
@@ -958,8 +958,8 @@
         <item>America/Panama</item>
     </string-array>
     <string-array name="clock_bg_setting_entries">
-        <item>White</item>
-        <item>Black</item>
+        <item>سفید</item>
+        <item>سیاه</item>
         <item>Auto</item>
     </string-array>
     <string-array name="clock_bg_setting_values">

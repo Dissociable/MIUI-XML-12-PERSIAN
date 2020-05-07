@@ -64,7 +64,7 @@
         <item>FR</item>
     </string-array>
     <string-array name="contact_entries">
-        <item>Name</item>
+        <item>نام</item>
         <item>Nickname</item>
         <item>Phone</item>
         <item>Email</item>
@@ -166,12 +166,12 @@
     <string-array name="prefEntries_vibrateWhen">
         <item>Always</item>
         <item>Only in Silent mode</item>
-        <item>Never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
         <item>always</item>
         <item>silent</item>
-        <item>never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="rcs_fallback_value">
         <item>0</item>
@@ -325,7 +325,7 @@
         <item>8 seconds</item>
         <item>9 seconds</item>
         <item>10 seconds</item>
-        <item>Other</item>
+        <item>غیره</item>
     </string-array>
     <string-array name="switch_sdk">
         <item>Mi Message</item>

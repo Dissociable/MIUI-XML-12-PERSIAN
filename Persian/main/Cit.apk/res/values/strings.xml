@@ -2,7 +2,7 @@
 <resources>
   <string name="FpTest">FpTest Run</string>
   <string name="FpTest_result">FpTest result:</string>
-  <string name="SDCard">SD Card</string>
+  <string name="SDCard">کارت SD</string>
   <string name="SD_INTERNAL_SDCard_mounted">Detect Internal SDCard</string>
   <string name="SD_INTERNAL_SDCard_unmounted">Internal SDCard unavailable</string>
   <string name="SD_SDCard_available_szie">Available size</string>
@@ -15,8 +15,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
   <string name="abc_font_family_body_2_material">sans-serif-medium</string>
   <string name="abc_font_family_button_material">sans-serif-medium</string>
@@ -222,11 +222,11 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
   <string name="cit_battery_check_title">Battery info</string>
   <string name="cit_battery_temp_fail">Battery temperature is not normal (value=%d)</string>
   <string name="cit_battery_temp_pass">Battery temperature is normal</string>
-  <string name="cit_batterylight_blue">Blue</string>
-  <string name="cit_batterylight_green">Green</string>
-  <string name="cit_batterylight_red">Red</string>
+  <string name="cit_batterylight_blue">آبی</string>
+  <string name="cit_batterylight_green">سبز</string>
+  <string name="cit_batterylight_red">قرمز</string>
   <string name="cit_batterylight_rgb">Battery light</string>
-  <string name="cit_batterylight_white">White</string>
+  <string name="cit_batterylight_white">سفید</string>
   <string name="cit_blue_tooth_address_check_summary">The Bluetooth address of this device should be displayed below.</string>
   <string name="cit_blue_tooth_address_check_title">Get Bluetooth address</string>
   <string name="cit_blue_tooth_scan_check_summary">Below is the info of the Bluetooth devices that were detected nearby.</string>
@@ -882,7 +882,7 @@ test fail!"</string>
   <string name="enrolQuality">EnrolQuality</string>
   <string name="enroll_category">注册策略</string>
   <string name="enroll_time">注册耗时:</string>
-  <string name="error">Error</string>
+  <string name="error">خطا</string>
   <string name="error_app_internal">Internal application error</string>
   <string name="error_app_unsupported">Unsupported format</string>
   <string name="error_bad_parameters">参数错误</string>
@@ -1276,7 +1276,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="security_settings_fingerprint_enroll_repeat_message">略微移动您的手指，以便添加您指纹的所有其他部分</string>
   <string name="security_settings_fingerprint_enroll_repeat_title">很好！现在重复此操作</string>
   <string name="security_settings_fingerprint_enroll_start_message">将您的手指放在指纹传感器上，感觉到振动后移开手指</string>
-  <string name="select">Select</string>
+  <string name="select">انتخاب</string>
   <string name="select_all">انتخاب همه</string>
   <string name="select_automatic">Select Automatic</string>
   <string name="select_manual">Select Manual</string>
@@ -1292,7 +1292,7 @@ After calibrate success, control the fixture close and away from the phone"</str
   <string name="size_min">最小</string>
   <string name="software_version">软件版本：</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
-  <string name="start">Start</string>
+  <string name="start">شروع</string>
   <string name="start_extract_sample">start to extract samples</string>
   <string name="start_extract_template">start to extract templates</string>
   <string name="start_far">Start FAR</string>

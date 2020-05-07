@@ -8,8 +8,8 @@
   <string name="auth_fingerprint_title">Verify your fingerprint</string>
   <string name="autofill_description">"MIUI can encrypt and store your passwords so you could enter them whenever you need automatically. Xiaomi won't be able to read your encrypted passwords."</string>
   <string name="autofill_hint_email_address">Email</string>
-  <string name="autofill_hint_name">Name</string>
-  <string name="autofill_hint_password">Password</string>
+  <string name="autofill_hint_name">نام</string>
+  <string name="autofill_hint_password">گذرواژه</string>
   <string name="autofill_hint_phone">Phone number</string>
   <string name="autofill_hint_username">Username</string>
   <string name="autofill_item_activity_label">App passwords</string>

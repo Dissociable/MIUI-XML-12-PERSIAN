@@ -316,7 +316,7 @@
         <item>mm</item>
         <item>um</item>
         <item>nm</item>
-        <item>pm</item>
+        <item>بعد از ظهر</item>
         <item>dm</item>
         <item>nmi</item>
         <item>mi</item>
@@ -353,7 +353,7 @@
     </string-array>
     <string-array name="unit_data_order_time_">
         <item>yr</item>
-        <item>week</item>
+        <item>هفته</item>
         <item>day</item>
         <item>h</item>
         <item>min</item>

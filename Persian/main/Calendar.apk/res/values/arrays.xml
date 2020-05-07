@@ -292,14 +292,14 @@
         <item>2/19 - 3/20</item>
     </string-array>
     <string-array name="prefEntries_alerts_popup_new">
-        <item>Off</item>
+        <item>خاموش</item>
         <item>For all events</item>
         <item>For time-sensitive events</item>
     </string-array>
     <string-array name="prefEntries_alerts_vibrateWhen">
         <item>Always</item>
         <item>Only when ringer is silenced</item>
-        <item>Never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="prefValues_alerts_popup">
         <item>هیچ یک</item>
@@ -309,7 +309,7 @@
     <string-array name="prefValues_alerts_vibrateWhen">
         <item>always</item>
         <item>silent</item>
-        <item>never</item>
+        <item>هرگز</item>
     </string-array>
     <string-array name="preferences_default_reminder_later_time_values">
         <item>300000</item>
@@ -386,7 +386,7 @@
         <item>31st</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>Never</item>
+        <item>هرگز</item>
         <item>زمان</item>
         <item>Count</item>
     </string-array>
@@ -406,7 +406,7 @@
     </string-array>
     <string-array name="repeat_choose_week_left">
         <item>first</item>
-        <item>second</item>
+        <item>ثانیه</item>
         <item>third</item>
         <item>fourth</item>
         <item>last</item>
@@ -426,15 +426,15 @@
         <item>Sun</item>
     </string-array>
     <string-array name="repeat_countdown">
-        <item>Never</item>
+        <item>هرگز</item>
         <item>Monthly</item>
         <item>Yearly</item>
     </string-array>
     <string-array name="repeat_frequency_spinner">
         <item>day</item>
-        <item>week</item>
-        <item>month</item>
-        <item>year</item>
+        <item>هفته</item>
+        <item>ماه</item>
+        <item>سال</item>
     </string-array>
     <string-array name="repeat_monthly_on_day_count_values">
         <item>first Monday</item>

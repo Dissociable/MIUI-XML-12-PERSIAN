@@ -46,7 +46,7 @@ Contact your sales agent for details."</string>
   <string name="passport_trust_device">Trust this device</string>
   <string name="passport_vcode_prompt_long">Enter verification code</string>
   <string name="passport_verify">Verify</string>
-  <string name="password">Password</string>
+  <string name="password">گذرواژه</string>
   <string name="phone_locked">This device may be associated with existing Mi Account (%s). Sign in to activate this device.</string>
   <string name="phone_locked_account_email">, associated email: %s</string>
   <string name="phone_locked_account_phone">, associated phone number: %s</string>
@@ -60,7 +60,7 @@ Contact your sales agent for details."</string>
   <string name="sys_notification_async_verify_title">Reactivate Find device</string>
   <string name="time_correction_failure">"Can't correct time. %s"</string>
   <string name="time_correction_success">Time corrected</string>
-  <string name="unlock">Activate</string>
+  <string name="unlock">فعال سازی</string>
   <string name="unlock_access_denied">Access denied</string>
   <string name="unlock_bad_authentication">Invalid username or password</string>
   <string name="unlock_error_abort">Canceled by user</string>

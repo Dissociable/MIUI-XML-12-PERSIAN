@@ -7,8 +7,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_font_family_body_1_material">sans-serif</string>
   <string name="abc_font_family_body_2_material">sans-serif-medium</string>
   <string name="abc_font_family_button_material">sans-serif-medium</string>
@@ -87,10 +87,10 @@
   <string name="delete_kid_mode">删除儿童空间</string>
   <string name="delete_space_loading">正在删除儿童空间...</string>
   <string name="dialog_market_score_cancel">لغو</string>
-  <string name="dialog_market_score_dislike">Comment</string>
+  <string name="dialog_market_score_dislike">نظر</string>
   <string name="dialog_market_score_like">5 stars!</string>
-  <string name="dialog_market_score_positive_button">Comment</string>
-  <string name="dialog_market_score_submit">Submit</string>
+  <string name="dialog_market_score_positive_button">نظر</string>
+  <string name="dialog_market_score_submit">ثبت</string>
   <string name="dialog_market_score_subtitle_step1">Tap the stars to rate this app</string>
   <string name="dialog_market_score_subtitle_step2">You can leave a comment as well.</string>
   <string name="dialog_market_score_subtitle_step3">Rate this app</string>
@@ -216,7 +216,7 @@
   <string name="no_net_dialog_title">提示</string>
   <string name="no_network_btn">تلاش دوباره</string>
   <string name="ok_button">باشه</string>
-  <string name="open_browser">Open in browser</string>
+  <string name="open_browser">بازکردن در مرورگر</string>
   <string name="parent_center">家长中心</string>
   <string name="parent_control_center">家长中心</string>
   <string name="parent_page_menu_advice">意见反馈</string>
@@ -259,7 +259,7 @@
   <string name="superpower_app_add">افزودن</string>
   <string name="superpower_app_contact">مخاطبین</string>
   <string name="superpower_app_delete">حذف</string>
-  <string name="superpower_app_edit">Edit</string>
+  <string name="superpower_app_edit">ویرایش</string>
   <string name="superpower_app_exit">خروج</string>
   <string name="superpower_app_finish">Done</string>
   <string name="superpower_app_isadded">Added</string>
@@ -298,7 +298,7 @@
   <string name="toast_text_kid_space_deleted">儿童空间已删除</string>
   <string name="toast_text_kid_space_deleting">正在删除空间</string>
   <string name="uninstall">应用卸载</string>
-  <string name="usage_sorted_loading_text">Just a sec…</string>
+  <string name="usage_sorted_loading_text">یک لحظه...</string>
   <string name="vertical_text_divider">|</string>
   <string name="xunyou_pay_webview">Xunyou services</string>
 </resources>

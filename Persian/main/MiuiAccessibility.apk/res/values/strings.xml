@@ -6,8 +6,8 @@
   <string name="abc_action_mode_done">Done</string>
   <string name="abc_activity_chooser_view_see_all">See all</string>
   <string name="abc_activitychooserview_choose_application">Choose an app</string>
-  <string name="abc_capital_off">OFF</string>
-  <string name="abc_capital_on">ON</string>
+  <string name="abc_capital_off">خاموش</string>
+  <string name="abc_capital_on">روشن</string>
   <string name="abc_menu_alt_shortcut_label">Alt+</string>
   <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
   <string name="abc_menu_delete_shortcut_label">حذف</string>
@@ -44,7 +44,7 @@
   <string name="detail_how_to_save_messages">You can tap the button at the bottom of the screen to save transcribed items to Notes.</string>
   <string name="detail_how_to_switch_float_window">Tap the button on the lower left to minimize Mi Ditto. It will allow you to use other apps.</string>
   <string name="detail_how_to_use_reg">About Mi Ditto</string>
-  <string name="dialog_download_notes_negative_button">Not now</string>
+  <string name="dialog_download_notes_negative_button">الان نه</string>
   <string name="dialog_download_notes_positive_button">دریافت</string>
   <string name="dialog_download_notes_title">Install Notes</string>
   <string name="dialog_install_notes_message">"Looks like you've uninstalled Notes. Download and install Notes again."</string>
@@ -53,11 +53,11 @@
   <string name="dialog_title_need_create_shortcut">Home screen shortcut</string>
   <string name="dialog_title_revoke_authorization">Revoking authorization</string>
   <string name="dialog_update_notes_message">"Looks like you haven't updated your Notes app in a while. To be able to save transcribed text to Notes, install the latest version of the app first."</string>
-  <string name="dialog_update_notes_negative_button">Not now</string>
+  <string name="dialog_update_notes_negative_button">الان نه</string>
   <string name="dialog_update_notes_positive_button">بروزرسانی</string>
   <string name="dialog_update_notes_title">Update Notes</string>
   <string name="exit_content_description">Exit Mi Ditto</string>
-  <string name="expand_button_title">Advanced</string>
+  <string name="expand_button_title">پیشرفته</string>
   <string name="fw_title_bar_content_description">Drag minimized app</string>
   <string name="guide_text1">Mi Ditto will transcribe whatever the other person is saying and place the text here.</string>
   <string name="guide_text2">You can type your replies and allow Mi Ditto to read them to the other person. You can save the whole conversation as transcribed text to Notes.</string>
@@ -70,14 +70,14 @@
   <string name="iv_fw_fullscreen_content_description">Maximize the app</string>
   <string name="iv_fw_resize_content_description">Adjust the size of the minimized app</string>
   <string name="iv_speaking_content_description">Play</string>
-  <string name="loading">Just a sec…</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+  <string name="loading">یک لحظه...</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه سازی به پایین بکشید</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">رها کردن برای تازه سازی</string>
   <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">یک لحظه...</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
   <string name="new_permission_agree">&lt;Data&gt;Before using our services, read and agree to our &amp;lt;a href=\"%1$s\"&amp;gt;User Agreement&amp;lt;/a&amp;gt; and &amp;lt;a href=\"%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt;.&lt;/Data&gt;</string>
   <string name="new_permission_agree_explain">"If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases."</string>
@@ -87,9 +87,9 @@ Note that this app needs to connect to the internet and requires the following p
   <string name="not_remind">"Don't show again"</string>
   <string name="not_set">Not set</string>
   <string name="notification_content_asr_recoginzing">Transcribing…</string>
-  <string name="permission_allow_content_policy1">Privacy Policy</string>
-  <string name="preference_authorization_title">Privacy Policy</string>
-  <string name="preference_category_authorization__title">Privacy Policy</string>
+  <string name="permission_allow_content_policy1">سیاست حفظ حریم خصوصی</string>
+  <string name="preference_authorization_title">سیاست حفظ حریم خصوصی</string>
+  <string name="preference_category_authorization__title">سیاست حفظ حریم خصوصی</string>
   <string name="preference_category_function_title">Features</string>
   <string name="preference_category_help_and_feedback_title">Services and feedback</string>
   <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
@@ -136,8 +136,8 @@ Note that this app needs to connect to the internet and requires the following p
   <string name="tutorial_sub_open_asr">Dictate using your voice or transcribe items played on your device in real time.</string>
   <string name="tutorial_sub_open_keyboard">Open keyboard to type quick replies</string>
   <string name="tutorial_sub_save_to_note">Save transcribed items to Notes</string>
-  <string name="user_agreement_policy">User Agreement</string>
-  <string name="v7_preference_off">OFF</string>
-  <string name="v7_preference_on">ON</string>
-  <string name="vendor_permission_allow_content_policy1">User Agreement</string>
+  <string name="user_agreement_policy">توافقات کاربر</string>
+  <string name="v7_preference_off">خاموش</string>
+  <string name="v7_preference_on">روشن</string>
+  <string name="vendor_permission_allow_content_policy1">توافقات کاربر</string>
 </resources>

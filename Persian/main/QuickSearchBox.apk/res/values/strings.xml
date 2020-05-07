@@ -12,13 +12,13 @@
   <string name="baidu_suggest_base">http://m.baidu.com/su?wd=%s&amp;action=opensearch</string>
   <string name="barcode_install_back">برگشت</string>
   <string name="barcode_install_cancel">لغو</string>
-  <string name="barcode_install_confirm">Install</string>
+  <string name="barcode_install_confirm">نصب</string>
   <string name="barcode_system_unmatch">Update MIUI before you install Scanner</string>
   <string name="barcode_to_install">Install Scanner to continue</string>
   <string name="barcode_uninstalled">Scanner is uninstalled</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="choose_search_engine">Select default web search engine</string>
-  <string name="clear_history">Clear history</string>
+  <string name="clear_history">پاک کردن تاریخچه</string>
   <string name="clear_shortcuts">Clear shortcuts</string>
   <string name="clear_shortcuts_agree">Clear shortcuts</string>
   <string name="clear_shortcuts_disagree">"Don't clear shortcuts"</string>
@@ -55,7 +55,7 @@ To clear your Browser history, use the Browser's settings."</string>
   <string name="google_settings_category_title">Google Search</string>
   <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
   <string name="hot_search">Popular</string>
-  <string name="loading">Just a sec…</string>
+  <string name="loading">یک لحظه...</string>
   <string name="local_app">برنامه ها</string>
   <string name="local_setting">تنظیمات</string>
   <string name="menu_help">Help</string>
@@ -77,7 +77,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="recent_delete_negative">لغو</string>
   <string name="recent_delete_positive">باشه</string>
   <string name="recent_delete_title">Hide apps</string>
-  <string name="recent_edit">Edit</string>
+  <string name="recent_edit">ویرایش</string>
   <string name="recent_edit_done">Done</string>
   <string name="recent_filter_functions">Turned off features</string>
   <string name="recent_function">Features</string>
@@ -90,7 +90,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_button">جستجو</string>
   <string name="search_group_fold">مخفی کردن</string>
   <string name="search_group_unfold">بیشتر</string>
-  <string name="search_history">History</string>
+  <string name="search_history">تاریخچه</string>
   <string name="search_in_app_store">Search Mi App Store</string>
   <string name="search_in_web">Search the web</string>
   <string name="search_keyword_quicksearchbox">جستجو</string>
@@ -104,7 +104,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="search_videos_url">mivideo://video/search?id=%s&amp;ref=migs-local-video</string>
   <string name="search_widget">جستجو</string>
   <string name="send_secret_code">Send code</string>
-  <string name="setting_other">Other</string>
+  <string name="setting_other">غیره</string>
   <string name="setting_version">App version</string>
   <string name="setting_version_title">App version</string>
   <string name="settings_description">Names of installed apps</string>
@@ -113,7 +113,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="swipe_up_summary">Swipe up to open global search</string>
   <string name="swipe_up_title">Swipe up</string>
   <string name="switch_application">برنامه ها</string>
-  <string name="switch_browser">Browser</string>
+  <string name="switch_browser">مرورگر</string>
   <string name="switch_contacts">مخاطبین</string>
   <string name="switch_email">Mail</string>
   <string name="switch_file">Files</string>
@@ -127,7 +127,7 @@ You can change this in Settings &gt; Installed apps &gt; Search"</string>
   <string name="switch_setting">تنظیمات</string>
   <string name="system_search_category_title">تلفن</string>
   <string name="top_clicked">Frequent items</string>
-  <string name="update_check">Check for updates</string>
+  <string name="update_check">بررسی برای بروزرسانی</string>
   <string name="update_right_now">بروزرسانی</string>
   <string name="update_title">Update available</string>
   <string name="update_version_alpha">Alpha</string>

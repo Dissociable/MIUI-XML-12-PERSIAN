@@ -1014,7 +1014,7 @@ It will be added to exceptions, but previously blocked items won't appear in cal
   <string name="dual_setting_simcard2">SIM 2</string>
   <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
   <string name="ellipsis">…</string>
-  <string name="email">Email</string>
+  <string name="email">ایمیل</string>
   <string name="empty_activity_title">" "</string>
   <string name="empty_app">No apps</string>
   <string name="empty_title_auto_start_list">No apps can autostart.</string>
@@ -2550,7 +2550,7 @@ Try using another Ethernet cable to connect your router. If you suspect there's 
   <string name="preferred_app_entries_browser">مرورگر</string>
   <string name="preferred_app_entries_camera">Camera</string>
   <string name="preferred_app_entries_dial">Dial</string>
-  <string name="preferred_app_entries_email">Email</string>
+  <string name="preferred_app_entries_email">ایمیل</string>
   <string name="preferred_app_entries_gallery">Gallery</string>
   <string name="preferred_app_entries_launcher">Launcher</string>
   <string name="preferred_app_entries_messaging">Messaging</string>

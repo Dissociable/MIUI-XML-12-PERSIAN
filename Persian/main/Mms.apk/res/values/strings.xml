@@ -726,7 +726,7 @@ Take a look at the recommended ones!"</string>
   <string name="rcs_chatdetail_menu_save_black_fail">"Couldn't block. Try again."</string>
   <string name="rcs_chatdetail_menu_save_black_success">Blocked successfully</string>
   <string name="rcs_chatdetail_more_adddress">Address</string>
-  <string name="rcs_chatdetail_more_email">Email</string>
+  <string name="rcs_chatdetail_more_email">ایمیل</string>
   <string name="rcs_chatdetail_more_email_send">ارسال ایمیل</string>
   <string name="rcs_chatdetail_more_href">Website</string>
   <string name="rcs_chatdetail_more_id">Owner ID</string>

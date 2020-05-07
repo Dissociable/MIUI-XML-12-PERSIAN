@@ -2899,7 +2899,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Camera</item>
         <item>Gallery</item>
         <item>موسیقی</item>
-        <item>Email</item>
+        <item>ایمیل</item>
         <item>پخش ویدئو</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">

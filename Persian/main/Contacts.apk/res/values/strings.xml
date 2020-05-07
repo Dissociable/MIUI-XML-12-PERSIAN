@@ -587,12 +587,12 @@ To avoid frequent queries, we update balance info once a day."</string>
   <string name="edit_contact_card_title">Select items to share</string>
   <string name="edit_contact_photo">Edit contact photo</string>
   <string name="eight_letter">TUV</string>
-  <string name="email">Email</string>
-  <string name="emailLabelsGroup">Email</string>
+  <string name="email">ایمیل</string>
+  <string name="emailLabelsGroup">ایمیل</string>
   <string name="email_custom">Email %s</string>
   <string name="email_home">Email home</string>
   <string name="email_mobile">Email mobile</string>
-  <string name="email_other">Email</string>
+  <string name="email_other">ایمیل</string>
   <string name="email_work">Email work</string>
   <string name="emergency_number_label">Emergency number</string>
   <string name="empty" />

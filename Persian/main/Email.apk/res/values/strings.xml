@@ -77,7 +77,7 @@
   <string name="account_settings_vibrate_when_label">Vibrate</string>
   <string name="account_setup_account_type_instructions">What type of account is this?</string>
   <string name="account_setup_account_type_title">Account setup</string>
-  <string name="account_setup_address_label">Email</string>
+  <string name="account_setup_address_label">ایمیل</string>
   <string name="account_setup_autodiscover_dlg_authfail_message">Confirm username, password, and account settings are correct.</string>
   <string name="account_setup_autodiscover_dlg_authfail_title">"Couldn't set up account"</string>
   <string name="account_setup_basics_email_label">Email address</string>
@@ -419,7 +419,7 @@
   <string name="device_activity_btn_str">فعال سازی</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate security settings</string>
   <string name="device_admin_description">Enables server-specified security policies</string>
-  <string name="device_admin_label">Email</string>
+  <string name="device_admin_label">ایمیل</string>
   <string name="device_not_activiey_lint1">Device manager is not activated</string>
   <string name="device_not_activiey_lint2">Mail service does not work with Exchange</string>
   <string name="dialog_account_auto_sync_setting_no_open">You chose to sync emails manually. Refresh to sync.</string>

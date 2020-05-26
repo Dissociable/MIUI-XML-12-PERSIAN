@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_button_up_description">بازگشت</string>
+    <string name="app_name">clientSDK</string>
+    <string name="app_pkg_name">com.milink.service</string>
+    <string name="app_ver_code">۱</string>
+    <string name="app_ver_name">۱.۰</string>
+    <string name="casting_tips">درحال بازتاباندن…</string>
+    <string name="console_guide_btn_got_it">فهمیدم</string>
+    <string name="console_guide_subtitle_hang_up">می‌توانید بازتاباندن را هنگام خاموش بودن صفحه گوشی خود ادامه دهید. این ویژگی مصرف برق را کاهش می‌دهد.</string>
+    <string name="console_guide_subtitle_private">اعلان‌های شناور، تماس‌های دریافتی و سایر موارد خصوصی روی نمایشگر نمایش داده نمی‌شوند</string>
+    <string name="console_guide_subtitle_small_window">با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است از سایر ویژگی‌های گوشی خود استفاده کنید</string>
+    <string name="dialog_can_not_find_device">دستگاهی در نزدیکی یافت نشد</string>
+    <string name="dialog_cancle">لغو</string>
+    <string name="dialog_connect_fail">وصل نشد</string>
+    <string name="dialog_connect_retry">برای تلاش دوباره ضربه بزنید</string>
+    <string name="dialog_connect_verify_perssion">ابتدا در تلویزیون خود بازتاباندن تصویر را مجاز کنید</string>
+    <string name="dialog_connect_verify_perssion_fail">بازتاباندن در تلویزیون شما مجاز نشد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
+    <string name="dialog_connected">وصل شد</string>
+    <string name="dialog_connecting">درحال وصل شدن…</string>
+    <string name="dialog_nfc_cast_wifi_off">برای امکان بازتاباندن با استفاده از NFC، Wi-Fi را روشن کنید. روشن شود؟</string>
+    <string name="dialog_ok">تأیید</string>
+    <string name="dialog_only_suport_content">پخش عکس‌ها، ویدئوها یا موسیقی</string>
+    <string name="dialog_open_wifi_bt">روشن</string>
+    <string name="dialog_please_make_sure_tv_ok_or_help">&quot;مطمئن شوید که ویژگی بازتاباندن بی‌سیم در دستگاه هدف روشن است.
+در صورت برخورد با اشکال اتصال راهنما را ببینید.&quot;</string>
+    <string name="dialog_recent_connected">موارد تازه</string>
+    <string name="dialog_retry">تلاش دوباره</string>
+    <string name="dialog_scanning_device">درحال جستجوی دستگاه‌های نزدیک…</string>
+    <string name="dialog_scanning_precondition">برای استفاده از نمایش بی‌سیم Wi-Fi و بلوتوث گوشی خود را روشن کنید.</string>
+    <string name="dialog_select_tv">انتخاب دستگاه (%d)</string>
+    <string name="dialog_show_help">راهنما</string>
+    <string name="disconnect">توقف بازتاباندن</string>
+    <string name="hang_up">بازتاباندن با صفحه خاموش</string>
+    <string name="hang_up_alert_dialog_content">هنگام خاموش بودن صفحه گوشی شما بازتاباندن ادامه داده می‌شود. این ویژگی مصرف برق را کاهش می‌دهد. برای روشن کردن دوباره صفحه، دکمه خاموش/روشن را فشار دهید.</string>
+    <string name="hang_up_alert_dialog_neg">لغو</string>
+    <string name="hang_up_alert_dialog_pos">تأیید</string>
+    <string name="hang_up_alert_dialog_title">آماده بازتاباندن با صفحه خاموش…</string>
+    <string name="help_page_text_01">راهنما</string>
+    <string name="help_page_text_02">بازتاباندن چیست؟</string>
+    <string name="help_page_text_03">بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است. به شما امکان همرسانی تصاویر و ویدئوها با دوستان و خانواده‌تان بدون استفاده از اینترنت همراه را می‌دهد.</string>
+    <string name="help_page_text_04">چگونه موارد را روی یک نمایشگر بزرگ‌تر بازتاب دهیم؟</string>
+    <string name="help_page_text_05">گام ۱: وضعیت دستگاه‌ها و شبکه را بررسی کنید</string>
+    <string name="help_page_text_06">&quot;۱. برای بازتاباندن موارد از یک گوشی Mi به یک تلویزیون Mi نیازی به اتصال به اینترنت ندارید.
+۲. در صورتی کهه نمی‌توانید بین دو دستگاهه اتصال برقرار کنید، تلاش کنید هر دو را به یک شبکه Wi-Fi وصل کنید.&quot;</string>
+    <string name="help_page_text_06_global">&quot;۱. تلویزیون‌های Mi، گیرنده‌های دیجیتال Mi و پروژکتورهای Mi:
+برای تأثیر بهتر، گوشی و نمایشگر خارجی خود را به شبکه Wi-Fi مشابه وصل کنید. در صورت اتصال به شبکه‌های مختلف، ممکن است یافتن نمایشگر خارجی و اتصال به آن زمان بیشتری ببرد.
+نکته: تلوزیو‌ن‌های Mi قدیمی ممکن است از بازتاباندن به وسیله شبکه‌های مختلف پشتیبانی نکنند.
+۲. اگر از تلویزیون، گیرنده دیجیتال یا پروژکتور برندهای دیگر استفاده می‌کنید، گوشی و نمایشگر خارجی خود را به شبکه Wi-Fi مشابه متصل کنید.
+اگر هر دو دستگاه نتوانستند به شبکه مشابه متصل شوند، Miracast را در نمایشگر خارجی خود روشن کنید. نام‌گذاری کارایی Miracast ممکن است متنوع باشد.&quot;</string>
+    <string name="help_page_text_08">گام ۲: بازتاباندن را روشن کنید</string>
+    <string name="help_page_text_09">گزینه \&quot;بازتاباندن\&quot; را در کرکره اعلان خود روشن کنید. برای اتصال پایدارتر Wi-Fi و بلوتوث را نیز روشن کنید.</string>
+    <string name="help_page_text_10">در صورتی که می‌خواهید مواردی را از گالری یا ویدئوی Mi بازتاب دهید، می‌توانید از ویژگی بازتاباندن در داخل این برنامه‌ها استفاده کنید.</string>
+    <string name="help_page_text_11">گام ۳: دستگاه را انتخاب کنید</string>
+    <string name="help_page_text_12">برای آغاز بازتاباندن یک دستگاه خارجی را از فهرست دستگاه‌های موجود انتخاب کنید.</string>
+    <string name="help_page_text_13">نمی‌توان به یک دستگاه خارجی وصل شد؟</string>
+    <string name="help_page_text_14">&quot;۱. در صورتی که می‌خواهید از یک دستگاه Xiaomi استفاده کنید اما آن را نمی‌توانید در فهرست دستگاه‌های موجود بیابید،‌ موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید. در صورتی که هیچ شبکه Wi-Fi موجود نبوده و یا نتوانید هر دو دستگاه را به یک شبکه وصل کنید، بررسی کرده که آیا ویژگی بازتاباندن نمایشگر خارجی‌تان به‌روز است یا نه، سپس بلوتوث گوشی و نمایشگر خارجی را روشن کرده و Miracast را در تلویزیون خود روشن کنید. 
+۲. اگر نخستین بار است که روی یک دستگاه Xiaomi بازتاب می‌دهید، لازم است تا مراحل تأیید هویت را کامل کنید. 
+۳. اگر می‌خواهید از یک دستگاه غیر Xiaomi استفاده کنید ولی آن را در فهرست دستگاه‌های موجود نمی‌یابید، موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید. در صورتی که انجام نشد، برنامه بازتاباندن LeEco را روی تلویزیون خود نصب کرده و دستورالعمل را دنبال کنید.&quot;</string>
+    <string name="help_page_text_14_global">&quot;۱. در صورتی که می‌خواهید از یک دستگاه Xiaomi استفاده کنید اما آن را نمی‌توانید در فهرست دستگاه‌های موجود بیابید،‌ موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید. در صورتی که هیچ شبکه Wi-Fi موجود نبوده و یا نتوانید هر دو دستگاه را به یک شبکه وصل کنید، بررسی کرده که آیا ویژگی بازتاباندن نمایشگر خارجی‌تان به‌روز است یا نه، سپس بلوتوث گوشی و نمایشگر خارجی را روشن کرده و Miracast را در تلویزیون خود روشن کنید.
+۲. اگر نخستین بار است که روی یک دستگاه Xiaomi بازتاب می‌دهید، لازم است تا مراحل تأیید هویت را کامل کنید.
+۳. اگر می‌خواهید از یک دستگاه غیر Xiaomi استفاده کنید ولی آن را در فهرست دستگاه‌های موجود نمی‌یابید، موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید.&quot;</string>
+    <string name="help_page_text_15">ویژگی Miracast در دستگاه‌های مختلف</string>
+    <string name="help_page_text_16">تلویزیون Mi/فراتاب Mi</string>
+    <string name="help_page_text_17">&quot;شما می‌توانید بدون نیاز به روشن کردن Miracast به‌صورت دستی، موارد را از گوشی Mi خود بر روی بیشتر مدل‌های تلویزیون Mi دارای بلوتوث بیافکنید.
+در صورت نیاز به روشن کردن دکمه [MENU] را فشرده و برنامه‌های من &gt; بازتاباندن &gt; Miracast را انتخاب کنید.&quot;</string>
+    <string name="help_page_text_17_1">پشتیبانی مشتریان Xiaomi: ۴۰۰-۱۰۰-۵۶۷۸</string>
+    <string name="help_page_text_18">تلویزیون سامسونگ</string>
+    <string name="help_page_text_19">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SOURCE] روی کنترل از راه دور را زده و سپس \&quot;آینه کردن تصویر (Screen Mirroring)\&quot; را انتخاب کنید. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
+    <string name="help_page_text_20">پشتیبانی مشتریان سامسونگ: ۵۸۵۸-۸۱۰-۴۰۰</string>
+    <string name="help_page_text_21">تلویزیون LG</string>
+    <string name="help_page_text_22">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
+    <string name="help_page_text_23">پشتیبانی مشتریان LG: ۴۰۰-۸۱۰-۹۹۹۹</string>
+    <string name="help_page_text_24">تلویزیون Philips</string>
+    <string name="help_page_text_25">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
+    <string name="help_page_text_26">پشتیبانی مشتریان Philips: ۴۰۰-۸۸۰-۰۰۰۸</string>
+    <string name="help_page_text_27">TPV</string>
+    <string name="help_page_text_28">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [MENU] روی کنترل از راه دور را زده و سپس تنظیمات &gt; اتصال &gt; شبکه &gt; صفحات چندگانه را انتخاب کنید.</string>
+    <string name="help_page_text_29">پشتیبانی مشتریان TPV: ۴۰۰-۸۸۷-۸۰۰۷</string>
+    <string name="help_page_text_30">Hisense</string>
+    <string name="help_page_text_31">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SMART] روی کنترل از راه دور را زده و سپس بازتاباندن &gt; نمایشگر بی‌سیم را انتخاب کنید. برخی مدل‌ها نیز از بازتاباندن بازی‌ها پشتیبانی می‌کنند: Hi Cast &gt; Cast games &gt; Android.</string>
+    <string name="help_page_text_32">پشتیبانی مشتریان Hisense: ۴۰۰-۶۱۱-۱۱۱۱</string>
+    <string name="help_page_text_33">Skyworth</string>
+    <string name="help_page_text_34">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها &gt; بازتاباندن &gt; دستگاه‌های اندرویدی &gt; Miracast را انتخاب کنید.</string>
+    <string name="help_page_text_35">پشتیبانی مشتریان Skyworth: ۹۵۱۰۵۵۵۵</string>
+    <string name="help_page_text_36">Sony</string>
+    <string name="help_page_text_37">بتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SOURCE] روی کنترل از راه دور را زده و سپس \&quot;آینه کردن تصویر (Screen Mirroring)\&quot; را انتخاب کنید. در برخی از مدل‌ها این ویژگی را می توانید در شبکه‌ها &gt; Wi-Fi بی‌واسطه روشن کنید. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
+    <string name="help_page_text_38">پشتیبانی مشتریان Sony: ۴۰۰-۸۱۰-۹۰۰۰</string>
+    <string name="help_page_text_39">Panasonic</string>
+    <string name="help_page_text_40">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها برنامه‌ها &gt; آینه کردن تصویر (Screen Mirroring) را انتخاب کنید.</string>
+    <string name="help_page_text_41">پشتیبانی مشتریان Panasonic: ۴۰۰-۸۸۱-۱۳۱۵</string>
+    <string name="help_page_text_42">Changhong</string>
+    <string name="help_page_text_43">تنظیمات تلویزیون خود را بررسی کرده تا مطمئن شوید نمایشگر خارجی شما از کارایی Miracast پشتیبانی می‌کند.</string>
+    <string name="help_page_text_44">پشتیبانی مشتریان Changhong: ۴۰۰-۸۱۱-۱۶۶۶</string>
+    <string name="help_page_text_45">TCL</string>
+    <string name="help_page_text_46">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها برنامه‌ها &gt; نمایش بی‌سیم را انتخاب کنید.</string>
+    <string name="help_page_text_47">پشتیبانی مشتریان TCL: ۴۰۰-۸۱۲-۳۴۵۶</string>
+    <string name="help_page_text_48">AODIN</string>
+    <string name="help_page_text_49">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. برای روشن کردن این ویژگی به برنامه‌های من &gt; نمایش بی‌سیم بروید.</string>
+    <string name="help_page_text_50">پشتیبانی مشتریان AODIN: ۴۰۰-۸۱۰-۵۸۵۸</string>
+    <string name="help_page_text_51">LeEco</string>
+    <string name="help_page_text_52">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید این ویژگی را در تنظیمات &gt; شبکه‌ها &gt; صفحات چندگانه &gt; نمایش بی‌سیم رونش کنید.</string>
+    <string name="help_page_text_53">پشتیبانی مشتریان LeEco: ۱۰۱۰۹۰۰۰</string>
+    <string name="help_page_text_55">&quot;اگر نمی‌توانید به شبکه متصل شوید، مطمئن شوید نمایشگر خارجی شما از ویژگی Miracast پشتیبانی کرده و روشن است. در برخی از مدل‌ها، این ویژگی نمایش بی‌سیم (Wireless Display)، آینه کردن تصویر (Screen Mirroring) و یا صفحات چندگانه (Multiple screens) نام دارد. اطلاعات زیر را خوانده تا درباره چگونگی روشن کردن Miracast بیشتر بدانید.
+۴. در صورت رویارویی با هرگونه اشکال، با استفاده از برنامه \&quot;خدمات و بازخوردها\&quot; می‌توانید آن‌ها را گزارش کنید.&quot;</string>
+    <string name="help_page_text_55_global">&quot;اگر نمی‌توانید به شبکه متصل شوید، مطمئن شوید نمایشگر خارجی شما از ویژگی Miracast پشتیبانی کرده و روشن است. در برخی از مدل‌ها، این ویژگی نمایش بی‌سیم (Wireless Display)، آینه کردن تصویر (Screen Mirroring) و یا صفحات چندگانه (Multiple screens) نام دارد.
+۴. در صورت رویارویی با هرگونه اشکال، با استفاده از برنامه \&quot;خدمات و بازخوردها\&quot; می‌توانید آن‌ها را گزارش کنید.&quot;</string>
+    <string name="help_page_text_end">در صورتی که برند دستگاه شما در اینجا فهرست نشده است، با تولید کننده آن تماس گرفته تا درباره کارایی بازتاباندن بیشتر بدانید.</string>
+    <string name="nfc_connect_failed_toast">بازتابانده نشد. دوباره تلاش کنید.</string>
+    <string name="notification_rc_title">دستیار تلویزیون Xiaomi</string>
+    <string name="notification_show_more">برای دیدن ویژگی‌های بیشتر ضربه بزنید</string>
+    <string name="privacy_agree">پذیرفتن</string>
+    <string name="privacy_detail">&lt;Data&gt;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#24847;&amp;#24212;&amp;#29992;&amp;#32852;&amp;#32593;&amp;#21450;&amp;#20197;&amp;#19978;&amp;#24517;&amp;#35201;&amp;#26435;&amp;#38480;&amp;#65292;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;#25105;&amp;#20204;&amp;#30340;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#65292;&amp;#20102;&amp;#35299;&amp;#24744;&amp;#30340;&amp;#29992;&amp;#25143;&amp;#26435;&amp;#30410;&amp;#21450;&amp;#30456;&amp;#20851;&amp;#20351;&amp;#29992;&amp;#25968;&amp;#25454;&amp;#30340;&amp;#22788;&amp;#29702;&amp;#26041;&amp;#27861;&amp;#12290;&lt;/Data&gt;</string>
+    <string name="privacy_detail_extra">&lt;Data&gt;&amp;#37096;&amp;#20998;&amp;#25237;&amp;#23631;&amp;#21151;&amp;#33021;&amp;#26377;&amp;#31532;&amp;#19977;&amp;#26041;&amp;#20844;&amp;#21496;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#25552;&amp;#20379;&amp;#25903;&amp;#25345;&amp;#65292;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#26102;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+    <string name="privacy_explain">欢迎使用投屏，您可使用本应用将手机画面实时同步至电视/电视盒子/投影等大屏设备。在使用本应用的过程中，我们将联网并向您申请以下权限：</string>
+    <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+    <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+    <string name="privacy_negative">退出</string>
+    <string name="privacy_permission_ble">开启/关闭蓝牙</string>
+    <string name="privacy_permission_ble_desc">使用蓝牙扫描附近可投屏的设备</string>
+    <string name="privacy_permission_location">获取设备的位置信息</string>
+    <string name="privacy_permission_location_desc">获取附近可投屏的设备信息</string>
+    <string name="privacy_permission_necessary">必要权限</string>
+    <string name="privacy_permission_necessary_desc">用于该应用的基本服务与功能</string>
+    <string name="privacy_permission_nfc">NFC</string>
+    <string name="privacy_permission_nfc_desc">使用NFC关联您要投屏的设备</string>
+    <string name="privacy_permission_optional">可选权限</string>
+    <string name="privacy_permission_optional_desc">用于附加功能，将在您使用相关功能时向您申请</string>
+    <string name="privacy_permission_wlan">开启/关闭WLAN</string>
+    <string name="privacy_permission_wlan_desc">使用WLAN扫描附近可投屏的设备</string>
+    <string name="privacy_positive">同意</string>
+    <string name="privacy_text_1">&quot;&lt;Data&gt;به بازتاباندن خوش آمدید! بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است.
+ما بر اساس قوانین و مقررات مربوطه و سیاست حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم. برخی ویژگی‌ها توسط یک ارائه دهنده خدمات سوم‌شخص LeEco ارائه شده‌اند. پیش از استفاده از این ویژگی &lt;a href=%2$s&gt;اعلامیه حقوقی HappyCast&lt;/a&gt; و &lt;a href=%1$s&gt;سیاست حفظ حریم خصوصی HappyCast&lt;/a&gt; را خوانده و بپذیرید.
+برای کارکرد عادی، این برنامه نیاز به اتصال به اینترنت و مجوزهای زیر برای گردآوری اطلاعات شخصی شما دارد.&lt;/Data&gt;&quot;</string>
+    <string name="privacy_text_2">&quot;&lt;Data&gt;در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که این برنامه را حذف، از حساب خارج و یا مجوزها را در تنظیمات محدود کنید.
+پیش از استفاده از این ویژگی &lt;a href=%1$s&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=%2$s&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;&quot;</string>
+    <string name="privacy_text_pemission">&quot;　　•دسترسی و ذخیره تصاویر دستگاه شما به منظور افکندن این موارد روی نمایشگر‌های خارجی
+　　•ضبط همه تماس‌ها و صداها به منظور پخش صدا روی دستگاه‌های خارجی
+　　•دسترسی به شماره تلفن، IMEI و IMSI برای شناسایی دستگاه شما
+　　•دسترسی به موقعیت شما برای یافتن دستگاه‌های نزدیک&quot;</string>
+    <string name="privacy_title">用户须知</string>
+    <string name="private_protect">پنهان کردن موارد خصوصی</string>
+    <string name="san_wait_msg_1">بازتاباندن بی‌سیم را در دستگاه هدف روشن کنید</string>
+    <string name="san_wait_msg_2">جستجو برای دستگاه‌ها ممکن است کمی طول بکشد…</string>
+    <string name="san_wait_msg_3">دستگاه‌های خارجی اگر به همان شبکه که گوشی شما وصل است متصل شوند آسان‌تر پیدا می‌شوند</string>
+    <string name="san_wait_msg_4">در صورت نیافتن دستگاه \&quot;راهنما\&quot; را ببینید</string>
+    <string name="sdk_name">lebo</string>
+    <string name="small_window">کوچک‌سازی پنجره</string>
+    <string name="small_window_not_supported">برنامه هنگام بازتاباندن کوچک نمی‌شود</string>
+    <string name="status_bar_in_casting">درحال بازتاباندن…</string>
+    <string name="status_bar_in_casting_long">برای دیدن ویژگی‌های بیشتر بازتاباندن ضربه بزنید</string>
+    <string name="tile_label">بازتاباندن</string>
+    <string name="toast_guide_show_more">اطلاعات بیشتر</string>
+    <string name="toast_guide_title">ویژگی‌های جدید ما را اینجا کشف کنید</string>
+    <string name="toast_msg_for_multi_window">این ویژگی با تجزیه نمایشگر کار نمی‌کند</string>
+    <string name="toast_msg_for_small_window">شما می‌توانید با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است بدون قطع فرآیند بازتاباندن از سایر ویژگی‌های گوشی خود استفاده کنید.</string>
+    <string name="toast_nfc_dont_move">گوشی خود را دور نکنید</string>
+    <string name="toast_title_for_small_window">در برنامه \&quot;کوچک‌سازی پنجره\&quot; را انتخاب کنید</string>
+    <string name="toast_turn_off_hotspot_before_cast">پیش از بازتاباندن کانون داغ همراه را خاموش کنید</string>
+</resources>

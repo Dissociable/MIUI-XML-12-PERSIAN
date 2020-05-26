@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<array name="app_locating_animation_scaler">
+<item>1.0</item>
+<item>1.4</item>
+<item>0.9</item>
+<item>1.1</item>
+<item>1.0</item>
+</array>
+<string-array name="cell_layout_size_entries">
+<item>۴x۴</item>
+<item>۴x۵</item>
+</string-array>
+<string-array name="cell_layout_size_values">
+<item>۴x۴</item>
+<item>۴x۵</item>
+</string-array>
+<string-array name="drawer_alpha">
+<item>0%</item>
+<item>25%</item>
+<item>50%</item>
+<item>75%</item>
+<item>100%</item>
+</string-array>
+<string-array name="editing_mode_entries">
+<item>تصویر زمینه</item>
+<item>ابزارک‌ها</item>
+<item>تنظیمات</item>
+</string-array>
+<string-array name="editing_mode_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="elderly_man_like_apps">
+<item>com.tencent.mm</item>
+<item>com.eg.android.AlipayGphone</item>
+<item>com.ss.android.ugc.aweme</item>
+<item>com.xunmeng.pinduoduo</item>
+<item>com.taobao.taobao</item>
+<item>com.smile.gifmaker</item>
+<item>com.ss.android.article.news</item>
+<item>com.baidu.searchbox</item>
+<item>com.tencent.mobileqq</item>
+<item>com.baidu.haokan</item>
+<item>com.autonavi.minimap</item>
+</string-array>
+<string-array name="gadget_weather_image">
+<item>صاف</item>
+<item>ابری</item>
+<item>مه‌آلود</item>
+<item>مه‌آلود</item>
+<item>رگبار شدید</item>
+<item>رگبار</item>
+<item>بارش بسیار سنگین</item>
+<item>رعد و برق</item>
+<item>بارندگی</item>
+<item>بارش سنگین باران‌</item>
+<item>بارانی</item>
+<item>نم‌نم باران</item>
+<item>برف و باران</item>
+<item>کولاک</item>
+<item>بارش پراکنده برف</item>
+<item>بارش سنگین برف</item>
+<item>بارش برف</item>
+<item>بارش سبک برف</item>
+<item>توفان شدید شن</item>
+<item>توفان شن</item>
+<item>توفان سبک شن</item>
+<item>توفان شن</item>
+<item>تگرگ</item>
+<item>گرد و غبار معلق</item>
+<item>مه</item>
+</string-array>
+<string-array name="gadget_weather_theme_type_entries">
+<item>پیش‌فرض</item>
+<item>کلاسیک</item>
+</string-array>
+<string-array name="global_elderly_man_like_apps">
+<item>com.whatsapp</item>
+<item>com.google.android.youtube</item>
+<item>com.facebook.katana</item>
+<item>com.instagram.android</item>
+<item>com.facebook.orca</item>
+<item>com.zhiliaoapp.musically</item>
+<item>com.facebook.lite</item>
+<item>com.mxtech.videoplayer.ad</item>
+<item>com.viber.voip</item>
+<item>com.nemo.vidmate</item>
+<item>org.telegram.messenger</item>
+<item>com.UCMobile.intl</item>
+<item>app.buzz.share</item>
+<item>com.lenovo.anyshare.gps</item>
+<item>video.like</item>
+<item>com.imo.android.imoim</item>
+<item>com.vkontakte.android</item>
+<item>com.snapchat.android</item>
+<item>in.startv.hotstar</item>
+<item>com.phonepe.app</item>
+<item>com.tencent.ig</item>
+<item>com.dts.freefireth</item>
+<item>com.twitter.android</item>
+<item>com.king.candycrushsaga</item>
+<item>com.flipkart.android</item>
+<item>com.spotify.music</item>
+<item>com.jio.myjio</item>
+<item>ru.sberbankmobile</item>
+<item>ru.ok.android</item>
+<item>net.one97.paytm</item>
+<item>in.amazon.mShop.android.shopping</item>
+<item>jp.naver.line.android</item>
+</string-array>
+<string-array name="icon_size">
+<item>XS</item>
+<item>S</item>
+<item>M</item>
+<item>L</item>
+<item>XL</item>
+</string-array>
+<array name="item_shake_animation_scaler">
+<item>0.0dip</item>
+<item>-4.0dip</item>
+<item>2.0dip</item>
+<item>-1.0dip</item>
+<item>0.0dip</item>
+</array>
+<string-array name="quality_business_devices">
+<item>lithium</item>
+</string-array>
+<string-array name="recents_thumbnail_blur_white_pkgs">
+<item>com.android.camera</item>
+<item>com.mt.mtxx.mtxx</item>
+<item>com.gorgeous.lite</item>
+<item>com.lemon.faceu</item>
+<item>com.campmobile.snowcamera</item>
+<item>com.meitu.meiyancamera</item>
+<item>com.benqu.wuta</item>
+<item>vStudio.Android.Camera360</item>
+<item>com.chinamworld.bocmbci</item>
+<item>cmb.pb</item>
+<item>com.chinamworld.main</item>
+<item>com.icbc</item>
+<item>com.android.bankabc</item>
+<item>com.bankcomm.Bankcomm</item>
+<item>com.ecitic.bank.mobile</item>
+<item>cn.com.cmbc.newmbank</item>
+<item>com.cebbank.mobile.cemb</item>
+<item>cn.com.spdb.mobilebank.per</item>
+</string-array>
+<string-array name="transformation_entries">
+<item>اسلاید</item>
+<item>محو شدن از مرکز</item>
+<item>غلطیدن</item>
+<item>ورق زدن</item>
+<item>آبشاری</item>
+<item>چرخشی</item>
+<item>مکعبی</item>
+</string-array>
+<string-array name="transformation_values">
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>5</item>
+<item>7</item>
+<item>8</item>
+<item>4</item>
+</string-array>
+<string-array name="wallpaper_scroll_entries">
+<item>تم پیش‌فرض</item>
+<item>مرکز</item>
+<item>چپ</item>
+<item>راست</item>
+</string-array>
+<string-array name="wallpaper_scroll_values">
+<item>byTheme</item>
+<item>center</item>
+<item>left</item>
+<item>right</item>
+</string-array>
+<string-array name="widget_sizes">
+<item>home_edit_box_area_1_1</item>
+<item>home_edit_box_area_1_2</item>
+<item>home_edit_box_area_1_3</item>
+<item>home_edit_box_area_1_4</item>
+<item>home_edit_box_area_2_1</item>
+<item>home_edit_box_area_2_2</item>
+<item>home_edit_box_area_2_3</item>
+<item>home_edit_box_area_2_4</item>
+<item>home_edit_box_area_3_1</item>
+<item>home_edit_box_area_3_2</item>
+<item>home_edit_box_area_3_3</item>
+<item>home_edit_box_area_3_4</item>
+<item>home_edit_box_area_4_1</item>
+<item>home_edit_box_area_4_2</item>
+<item>home_edit_box_area_4_3</item>
+<item>home_edit_box_area_4_4</item>
+</string-array>
+<string-array name="global_search_mode_entries">
+<item>None</item>
+<item>Swipe up</item>
+<item>Search bar</item>
+</string-array>
+<string-array name="global_search_mode_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+<string-array name="global_search_provider_entries">
+<item>Default</item>
+<item>Google</item>
+</string-array>
+<string-array name="global_search_provider_values">
+<item>0</item>
+<item>1</item>
+</string-array>
+</resources>

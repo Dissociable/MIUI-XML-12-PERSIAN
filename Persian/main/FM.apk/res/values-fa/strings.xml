@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">سرویس رادیو FM</string>
+  <string name="frequency_mhz_fomart">%sMHZ</string>
+  <string name="notification_rec_title">ضربه برای ظبط</string>
+  <string name="record_completed">ظبط کامل شد</string>
+  <string name="station_freq_format">%sMHz</string>
+  <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

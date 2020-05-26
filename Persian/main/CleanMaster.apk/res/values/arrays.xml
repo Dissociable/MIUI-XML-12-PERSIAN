@@ -13,7 +13,7 @@
     </string-array>
     <string-array name="cache_sort_type">
         <item>Size</item>
-        <item>نام</item>
+        <item>Name</item>
     </string-array>
     <array name="dialog_delete_finish_res">
         <item>@drawable/delete_file_animation_31</item>
@@ -107,10 +107,10 @@
     </string-array>
     <string-array name="large_file_sort_type">
         <item>Size</item>
-        <item>نام</item>
+        <item>Name</item>
     </string-array>
     <string-array name="wechat_sort">
-        <item>تاریخ</item>
+        <item>Date</item>
         <item>Size</item>
     </string-array>
     <string-array name="white_list_ad">

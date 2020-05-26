@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">%d روز مانده تا دوره افزایش سرعت شبکه به پایان برسد. دوره را تمدید کرده تا از مشکلات سرعت شبکه پیشگیری شود.</item>
+        <item quantity="one">%d روز مانده تا دوره افزایش سرعت شبکه به پایان برسد. دوره را تمدید کرده تا از مشکلات سرعت شبکه پیشگیری شود.</item>
+    </plurals>
+</resources>

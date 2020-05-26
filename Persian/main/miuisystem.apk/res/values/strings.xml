@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="acousticguitar">Acoustic guitar</string>
   <string name="alarmclock">Alarm clock</string>
   <string name="android_ringtone_default_with_actual">Default ringtone (%1$s)</string>
-  <string name="android_ringtone_silent">هیچ یک</string>
+  <string name="android_ringtone_silent">None</string>
   <string name="android_ringtone_unknown">Unknown ringtone</string>
   <string name="anniversary_of_lifting_martial_law">解嚴紀念</string>
   <string name="anti_aggression_day">反侵略日</string>
   <string name="arbor_day">植树节</string>
   <string name="armed_forces_day">軍人節</string>
-  <string name="asend">ارسال</string>
+  <string name="asend">Send</string>
   <string name="atlantis">Atlantis (stereo)</string>
   <string name="autumn_begins">立秋</string>
   <string name="autumn_equinox">秋分</string>
@@ -44,8 +44,8 @@
   <string name="countryside">Countryside</string>
   <string name="cowboy">Cowboy</string>
   <string name="crystal">Crystal</string>
-  <string name="cta_button_continue">موافق</string>
-  <string name="cta_button_quit">خروج</string>
+  <string name="cta_button_continue">Agree</string>
+  <string name="cta_button_quit">Exit</string>
   <string name="cta_check_reminder">"Don't show again"</string>
   <string name="cta_message_license">By using this product, you agree to the terms stated in our Terms of Service and Privacy Policy.</string>
   <string name="cta_message_permission">This app needs to %2$s to work normally.</string>
@@ -101,7 +101,7 @@
   <string name="great_cold">大寒</string>
   <string name="great_heat">大暑</string>
   <string name="greenandblue">Rainbow</string>
-  <string name="group_name_contacts">مخاطبین</string>
+  <string name="group_name_contacts">Contacts</string>
   <string name="group_name_coworkers">Colleagues</string>
   <string name="group_name_family">Family</string>
   <string name="group_name_friends">Friends</string>
@@ -227,7 +227,7 @@ mm"</string>
   <string name="vip_achievements">Achievements</string>
   <string name="vip_level">LV%d</string>
   <string name="vip_login">Tap to sign in</string>
-  <string name="vip_not_login">وارد حساب نشده اید</string>
+  <string name="vip_not_login">Not signed in</string>
   <string name="vip_sign">Signature:</string>
   <string name="wallpaper_group_black_white_title">Black and white</string>
   <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>

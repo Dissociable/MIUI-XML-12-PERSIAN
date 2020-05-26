@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_phrases">
+        <item>عنوان رسید: شرکت ***</item>
+        <item>نشانی: کشور/استان، شهر، منطقه، خیابان، پلاک، کد پستی</item>
+        <item>لطفاً بسته را کنار در بگذارید. ممنون!</item>
+        <item>چند لحظه صبر کنید بر می‌گردم.</item>
+        <item>من داخل جلسه هستم. لطفاً پیام متنی بفرستید.</item>
+        <item>الآن نمی‌توانم صحبت کنم. در اسرع وقت با شما تماس خواهم گرفت.</item>
+        <item>ممنون!</item>
+    </string-array>
+</resources>

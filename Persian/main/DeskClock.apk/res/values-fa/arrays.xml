@@ -1,0 +1,1374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="alarm_in_furture">
+<item>هشدار در کمتر از ۱ دقیقه</item>
+<item>هشدار در%1$s</item>
+<item>هشدار در%2$s</item>
+<item>هشدار در%1$s %2$s</item>
+<item>هشدار در%3$s</item>
+<item>هشدار در%1$s %3$s</item>
+<item>هشدار در %2$s %3$s</item>
+<item>هشدار در %1$s %2$s %3$s</item>
+</string-array>
+<string-array name="alarm_repeat_type">
+<item>یکبار</item>
+<item>روزانه</item>
+<item>روزهای کاری</item>
+<item>روزهای تعطیل</item>
+<item>دوشنبه تا جمعه</item>
+<item>سفارشی</item>
+</string-array>
+<string-array name="alarm_repeat_type_no_workdays">
+<item>یکبار</item>
+<item>روزانه</item>
+<item>دوشنبه تا جمعه</item>
+<item>سفارشی</item>
+</string-array>
+<integer-array name="alarm_repeat_type_no_workdays_values">
+<item>0</item>
+<item>1</item>
+<item>4</item>
+<item>5</item>
+</integer-array>
+<integer-array name="alarm_repeat_type_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+<item>3</item>
+<item>4</item>
+<item>5</item>
+</integer-array>
+<string-array name="alarm_set">
+<item>صدای زنگ در کمتر از ۱ دقیقه خاموش می‌شود.</item>
+<item>هشدار تا %1$s دیگر به صدا در خواهد آمد.</item>
+<item>هشدار تا %2$s دیگر به صدا در خواهد آمد.</item>
+<item>هشدار تا %1$s و %2$s دیگر به صدا در خواهد آمد.</item>
+<item>هشدار تا %3$s دیگر به صدا در خواهد آمد.</item>
+<item>هشدار تا %1$s و %3$s دیگر به صدا در خواهد آمد.</item>
+<item>هشدار تا %2$s و %3$s دیگر به صدا در خواهد آمد.</item>
+<item>هشدار تا %1$s و %2$s و %3$s دیگر به صدا در خواهد آمد.</item>
+</string-array>
+<string-array name="aqi_value">
+<item>خوب</item>
+<item>رضایت‌بخش</item>
+<item>کمی آلوده</item>
+<item>بد</item>
+<item>خیلی بد</item>
+<item>خراب</item>
+</string-array>
+<string-array name="auto_silence_entries">
+<item>هرگز</item>
+<item>۱ دقیقه</item>
+<item>۵ دقیقه</item>
+<item>۱۰ دقیقه</item>
+<item>۱۵ دقیقه</item>
+<item>۲۰ دقیقه</item>
+<item>۲۵ دقیقه</item>
+<item>۳۰ دقیقه</item>
+</string-array>
+<string-array name="auto_silence_values">
+<item>-1</item>
+<item>1</item>
+<item>5</item>
+<item>10</item>
+<item>15</item>
+<item>20</item>
+<item>25</item>
+<item>30</item>
+</string-array>
+<string-array name="bedtime_guide_repeat_type">
+<item>دوشنبه تا جمعه</item>
+<item>هر روز</item>
+<item>روزهای کاری</item>
+</string-array>
+<string-array name="bedtime_repeat_entries">
+<item>هر روز</item>
+<item>دوشنبه تا جمعه</item>
+<item>روزهای کاری</item>
+<item>سفارشی</item>
+</string-array>
+<integer-array name="bedtime_repeat_values">
+<item>1</item>
+<item>4</item>
+<item>2</item>
+<item>5</item>
+</integer-array>
+<string-array name="cities_id_miui">
+<item>C1</item>
+<item>C2</item>
+<item>C3</item>
+<item>C4</item>
+<item>C5</item>
+<item>C6</item>
+<item>C7</item>
+<item>C8</item>
+<item>C9</item>
+<item>C10</item>
+<item>C11</item>
+<item>C12</item>
+<item>C13</item>
+<item>C14</item>
+<item>C15</item>
+<item>C16</item>
+<item>C17</item>
+<item>C19</item>
+<item>C20</item>
+<item>C21</item>
+<item>C22</item>
+<item>C23</item>
+<item>C24</item>
+<item>C25</item>
+<item>C26</item>
+<item>C27</item>
+<item>C28</item>
+<item>C29</item>
+<item>C30</item>
+<item>C32</item>
+<item>C33</item>
+<item>C34</item>
+<item>C35</item>
+<item>C36</item>
+<item>C37</item>
+<item>C38</item>
+<item>C39</item>
+<item>C40</item>
+<item>C41</item>
+<item>C42</item>
+<item>C43</item>
+<item>C44</item>
+<item>C45</item>
+<item>C46</item>
+<item>C47</item>
+<item>C48</item>
+<item>C49</item>
+<item>C51</item>
+<item>C52</item>
+<item>C53</item>
+<item>C54</item>
+<item>C55</item>
+<item>C56</item>
+<item>C57</item>
+<item>C58</item>
+<item>C59</item>
+<item>C60</item>
+<item>C61</item>
+<item>C62</item>
+<item>C63</item>
+<item>C64</item>
+<item>C65</item>
+<item>C66</item>
+<item>C67</item>
+<item>C68</item>
+<item>C69</item>
+<item>C70</item>
+<item>C72</item>
+<item>C73</item>
+<item>C74</item>
+<item>C75</item>
+<item>C76</item>
+<item>C77</item>
+<item>C78</item>
+<item>C79</item>
+<item>C80</item>
+<item>C81</item>
+<item>C82</item>
+<item>C83</item>
+<item>C84</item>
+<item>C85</item>
+<item>C88</item>
+<item>C89</item>
+<item>C90</item>
+<item>C91</item>
+<item>C92</item>
+<item>C93</item>
+<item>C94</item>
+<item>C95</item>
+<item>C96</item>
+<item>C98</item>
+<item>C99</item>
+<item>C100</item>
+<item>C101</item>
+<item>C102</item>
+<item>C103</item>
+<item>C104</item>
+<item>C105</item>
+<item>C106</item>
+<item>C107</item>
+<item>C108</item>
+<item>C109</item>
+<item>C110</item>
+<item>C111</item>
+<item>C112</item>
+<item>C113</item>
+<item>C114</item>
+<item>C115</item>
+<item>C116</item>
+<item>C118</item>
+<item>C119</item>
+<item>C120</item>
+<item>C121</item>
+<item>C122</item>
+<item>C123</item>
+<item>C124</item>
+<item>C125</item>
+<item>C126</item>
+<item>C127</item>
+<item>C128</item>
+<item>C129</item>
+<item>C130</item>
+<item>C131</item>
+<item>C133</item>
+<item>C134</item>
+<item>C135</item>
+<item>C136</item>
+<item>C137</item>
+<item>C138</item>
+<item>C139</item>
+<item>C140</item>
+<item>C141</item>
+<item>C142</item>
+<item>C143</item>
+<item>C144</item>
+<item>C145</item>
+<item>C146</item>
+<item>C147</item>
+<item>C148</item>
+<item>C149</item>
+<item>C150</item>
+<item>C151</item>
+<item>C152</item>
+<item>C153</item>
+<item>C154</item>
+<item>C155</item>
+<item>C156</item>
+<item>C157</item>
+<item>C158</item>
+<item>C159</item>
+<item>C160</item>
+<item>C161</item>
+<item>C162</item>
+<item>C163</item>
+<item>C164</item>
+<item>C165</item>
+<item>C166</item>
+<item>C167</item>
+<item>C168</item>
+<item>C169</item>
+<item>C170</item>
+<item>C171</item>
+<item>C172</item>
+<item>C173</item>
+<item>C174</item>
+<item>C175</item>
+<item>C176</item>
+<item>C177</item>
+<item>C178</item>
+<item>C180</item>
+<item>C181</item>
+<item>C182</item>
+<item>C183</item>
+<item>C184</item>
+<item>C185</item>
+<item>C186</item>
+<item>C187</item>
+<item>C188</item>
+<item>C189</item>
+<item>C190</item>
+<item>C191</item>
+<item>C192</item>
+<item>C193</item>
+<item>C194</item>
+<item>C195</item>
+<item>C196</item>
+<item>C197</item>
+<item>C198</item>
+<item>C199</item>
+<item>C200</item>
+<item>C201</item>
+<item>C202</item>
+<item>C203</item>
+<item>C204</item>
+<item>C205</item>
+<item>C206</item>
+<item>C207</item>
+<item>C208</item>
+<item>C209</item>
+<item>C211</item>
+<item>C213</item>
+<item>C215</item>
+<item>C216</item>
+<item>C217</item>
+<item>C218</item>
+<item>C219</item>
+<item>C220</item>
+<item>C221</item>
+<item>C222</item>
+<item>C223</item>
+<item>C224</item>
+<item>C225</item>
+<item>C226</item>
+<item>C227</item>
+<item>C228</item>
+<item>C229</item>
+<item>C230</item>
+<item>C231</item>
+<item>C232</item>
+<item>C233</item>
+<item>C234</item>
+<item>C235</item>
+<item>C236</item>
+<item>C237</item>
+<item>C238</item>
+<item>C239</item>
+<item>C240</item>
+<item>C241</item>
+<item>C242</item>
+<item>C243</item>
+<item>C244</item>
+<item>C245</item>
+<item>C246</item>
+<item>C247</item>
+<item>C248</item>
+<item>C249</item>
+<item>C250</item>
+<item>C251</item>
+<item>C252</item>
+<item>C253</item>
+<item>C254</item>
+<item>C255</item>
+<item>C256</item>
+<item>C257</item>
+<item>C258</item>
+<item>C300</item>
+<item>C259</item>
+<item>C260</item>
+<item>C261</item>
+<item>C262</item>
+<item>C263</item>
+<item>C264</item>
+<item>C265</item>
+<item>C266</item>
+<item>C267</item>
+<item>C268</item>
+<item>C269</item>
+<item>C270</item>
+<item>C271</item>
+<item>C272</item>
+<item>C273</item>
+<item>C274</item>
+<item>C275</item>
+<item>C276</item>
+<item>C277</item>
+<item>C278</item>
+<item>C279</item>
+<item>C280</item>
+<item>C281</item>
+<item>C282</item>
+<item>C283</item>
+<item>C284</item>
+<item>C285</item>
+<item>C287</item>
+<item>C288</item>
+<item>C289</item>
+<item>C290</item>
+<item>C291</item>
+<item>C292</item>
+<item>C293</item>
+<item>C294</item>
+<item>C295</item>
+<item>C296</item>
+<item>C297</item>
+<item>C298</item>
+<item>C299</item>
+</string-array>
+<string-array name="cities_names_miui">
+<item>ابیجان</item>
+<item>آکرا</item>
+<item>آدیس آبابا</item>
+<item>الجزایر</item>
+<item>بلانتیر</item>
+<item>برازاویل</item>
+<item>قاهره</item>
+<item>کازابلانکا</item>
+<item>کوناکری</item>
+<item>داکار</item>
+<item>دارالسلام</item>
+<item>جیبوتی</item>
+<item>فری‌تون</item>
+<item>گابورون</item>
+<item>حراره</item>
+<item>ژوهانسبورگ</item>
+<item>کامپالا</item>
+<item>کیگالی</item>
+<item>کینشاسا</item>
+<item>لاگوس</item>
+<item>ماسرو</item>
+<item>موگادیشو</item>
+<item>نایروبی</item>
+<item>سائو تومه</item>
+<item>تیمبوکتو</item>
+<item>طرابلس</item>
+<item>تونس</item>
+<item>انکوریج</item>
+<item>مندوزا</item>
+<item>اسونسیون</item>
+<item>بریجتاون</item>
+<item>بلیز</item>
+<item>بوگوتا</item>
+<item>بوینس آیرس</item>
+<item>کانکون</item>
+<item>کاراکاس</item>
+<item>جورج تاون</item>
+<item>شیکاگو</item>
+<item>سان خوزه</item>
+<item>ویلمستاد</item>
+<item>داوسون کریک</item>
+<item>دنور</item>
+<item>دیترویت</item>
+<item>سانتو دومینگو</item>
+<item>ادمونتون</item>
+<item>السالوادور</item>
+<item>فورتالزا</item>
+<item>سنت جورج</item>
+<item>گواتمالا</item>
+<item>جورج تاون</item>
+<item>هالیفاکس</item>
+<item>هاوانا</item>
+<item>ایندیاناپولیس</item>
+<item>ناکس</item>
+<item>مارنگو</item>
+<item>پترزبورگ</item>
+<item>شهر تل</item>
+<item>وِوای</item>
+<item>وینسنس</item>
+<item>ویناماک</item>
+<item>کینگستون</item>
+<item>نئسترا سینرا د لا پاز</item>
+<item>لیما</item>
+<item>لس آنجلس</item>
+<item>لوئیزویل</item>
+<item>ماناگوئه</item>
+<item>فورت دو فرانسه</item>
+<item>متلاکتلا</item>
+<item>مکزیکوسیتی</item>
+<item>مونتری</item>
+<item>مونته ویدئو</item>
+<item>مونترال</item>
+<item>ناسائو</item>
+<item>نیویورک</item>
+<item>بولاه</item>
+<item>سنتر</item>
+<item>نیو سالم</item>
+<item>پاناما</item>
+<item>فونیکس</item>
+<item>بندر اسپانیا</item>
+<item>پورتو پرینس</item>
+<item>سائو پائولو</item>
+<item>سنت جان</item>
+<item>سنت کیتس</item>
+<item>کاستریس</item>
+<item>سنت توماس</item>
+<item>تیهوانا</item>
+<item>تورنتو</item>
+<item>ونکوور</item>
+<item>وینیپگ</item>
+<item>لونگیرباین</item>
+<item>آلماتی</item>
+<item>عَمان</item>
+<item>آنادیر</item>
+<item>آکتاو</item>
+<item>بغداد</item>
+<item>ماناما</item>
+<item>باکو</item>
+<item>بانکوک</item>
+<item>بیروت</item>
+<item>کلکته</item>
+<item>دمشق</item>
+<item>داکا</item>
+<item>دوبی</item>
+<item>غزه</item>
+<item>حبرون</item>
+<item>هوشی مین</item>
+<item>هنگ کنگ</item>
+<item>جاکارتا</item>
+<item>قدس</item>
+<item>کابل</item>
+<item>کراچی</item>
+<item>کاتماندو</item>
+<item>سنگاپور</item>
+<item>کویت</item>
+<item>ماکائو</item>
+<item>مانیل</item>
+<item>مسقط</item>
+<item>پنوم پن</item>
+<item>پیونگ یانگ</item>
+<item>دوحه</item>
+<item>رانگون</item>
+<item>ریاض</item>
+<item>سئول</item>
+<item>شانگهای</item>
+<item>سنگاپور</item>
+<item>تایپه</item>
+<item>تهران</item>
+<item>تل آویو</item>
+<item>توکیو</item>
+<item>اولانباتار</item>
+<item>همیلتون</item>
+<item>جزایر قناری</item>
+<item>پرائیا</item>
+<item>ریکیاویک</item>
+<item>استنلی</item>
+<item>آدلاید</item>
+<item>بریزبن</item>
+<item>کانبرا</item>
+<item>داروین</item>
+<item>ملبورن</item>
+<item>نیو ساوت ولز</item>
+<item>پرت</item>
+<item>کوئینزلند</item>
+<item>سیدنی</item>
+<item>ویکتوریا</item>
+<item>نیوفاوندلند</item>
+<item>ساسکاچوان</item>
+<item>جزیره ایستر</item>
+<item>آمستردام</item>
+<item>آندورا لا ولا</item>
+<item>آتن</item>
+<item>بلفاست</item>
+<item>بلگراد</item>
+<item>برلین</item>
+<item>براتیسلاوا</item>
+<item>بروکسل</item>
+<item>بخارست</item>
+<item>بوداپست</item>
+<item>کیشینئو</item>
+<item>کپنهاگ</item>
+<item>دوبلین</item>
+<item>جبل‌الطارق</item>
+<item>هلسینکی</item>
+<item>جزیره من</item>
+<item>استانبول</item>
+<item>لیسبون</item>
+<item>لندن</item>
+<item>لوکزامبورگ</item>
+<item>مادرید</item>
+<item>والتا</item>
+<item>مینسک</item>
+<item>موناکو</item>
+<item>موسکو</item>
+<item>اسلو</item>
+<item>پاریس</item>
+<item>پراگ</item>
+<item>ریگا</item>
+<item>رم</item>
+<item>سن مارینو</item>
+<item>سارایوو</item>
+<item>سیمفروپول</item>
+<item>اسکوپیه</item>
+<item>صوفیه</item>
+<item>استکهلم</item>
+<item>تالین</item>
+<item>واتیکان</item>
+<item>وین</item>
+<item>ویلنیوس</item>
+<item>ورشو</item>
+<item>زاگرب</item>
+<item>زوریخ</item>
+<item>آنتاناناریوو</item>
+<item>ماله</item>
+<item>پورت لوئیس</item>
+<item>اوکلند</item>
+<item>سووا</item>
+<item>گوام</item>
+<item>هونولولو</item>
+<item>نووما</item>
+<item>تاهیتی</item>
+<item>آستین</item>
+<item>بوستون</item>
+<item>کلگری</item>
+<item>کلمبوس</item>
+<item>دالاس</item>
+<item>ناکسویل</item>
+<item>ممفیس</item>
+<item>میامی</item>
+<item>مینیاپولیس</item>
+<item>اتاوا</item>
+<item>فیلادلفیا</item>
+<item>پورتلند</item>
+<item>سن دیگو</item>
+<item>سان فرانسیسکو</item>
+<item>سالت لیک سیتی</item>
+<item>سان خوزه</item>
+<item>سان سالوادور</item>
+<item>سیاتل</item>
+<item>سنت لوئیس</item>
+<item>واشنگتن دی سی</item>
+<item>هوستون</item>
+<item>سن آنتونیو</item>
+<item>جکسونویل</item>
+<item>بالتیمور</item>
+<item>نشویل</item>
+<item>میلواکی</item>
+<item>شهر اوکلاهما</item>
+<item>لاس وگاس</item>
+<item>آلبوکرک</item>
+<item>توسان</item>
+<item>ساکرامنتو</item>
+<item>آتلانتا</item>
+<item>کلیولند</item>
+<item>نیواورلئان</item>
+<item>تمپا</item>
+<item>پیتسبورگ</item>
+<item>سینسینتی</item>
+<item>ماوتن ویو</item>
+<item>رنو</item>
+<item>بلاک راک سیتی</item>
+<item>دوحه</item>
+<item>پکن</item>
+<item>بمبئی</item>
+<item>دهلی</item>
+<item>دهلی نو</item>
+<item>اوزاکا</item>
+<item>لاهور</item>
+<item>صنعا</item>
+<item>بارسلونا</item>
+<item>مونیخ</item>
+<item>میلان</item>
+<item>فرانکفورت</item>
+<item>هانوی</item>
+<item>آنکارا</item>
+<item>بنگلور</item>
+<item>برازیلیا</item>
+<item>کیپ تاون</item>
+<item>اسلام آباد</item>
+<item>ریو دو ژانیرو</item>
+<item>آن آربور</item>
+<item>بولدر</item>
+<item>کمبریج</item>
+<item>کرکلند</item>
+<item>مدیسون</item>
+<item>گوانگژو</item>
+<item>حیدرآباد</item>
+<item>رستون</item>
+<item>بلو هوریزونته</item>
+<item>سانتیاگو</item>
+<item>مونروویا</item>
+<item>کلمبو</item>
+<item>چیهواهوا</item>
+<item>گورگاون</item>
+<item>منچستر</item>
+<item>کیف</item>
+<item>سنت پترزبورگ</item>
+<item>کراکوف</item>
+<item>روتسلاو</item>
+<item>هامبورگ</item>
+<item>اولو</item>
+<item>حیفا</item>
+<item>سان خوان</item>
+<item>تگوسیگالپا</item>
+<item>پاراماریبو</item>
+<item>کویتو</item>
+</string-array>
+<string-array name="cities_tz_miui">
+<item>Africa/Abidjan</item>
+<item>Africa/Accra</item>
+<item>Africa/Addis_Ababa</item>
+<item>Africa/Algiers</item>
+<item>Africa/Blantyre</item>
+<item>Africa/Brazzaville</item>
+<item>Africa/Cairo</item>
+<item>Africa/Casablanca</item>
+<item>Africa/Conakry</item>
+<item>Africa/Dakar</item>
+<item>Africa/Dar_es_Salaam</item>
+<item>Africa/Djibouti</item>
+<item>Africa/Freetown</item>
+<item>Africa/Gaborone</item>
+<item>Africa/Harare</item>
+<item>Africa/Johannesburg</item>
+<item>Africa/Kampala</item>
+<item>Africa/Kigali</item>
+<item>Africa/Kinshasa</item>
+<item>Africa/Lagos</item>
+<item>Africa/Maseru</item>
+<item>Africa/Mogadishu</item>
+<item>Africa/Nairobi</item>
+<item>Africa/Sao_Tome</item>
+<item>Africa/Timbuktu</item>
+<item>Africa/Tripoli</item>
+<item>Africa/Tunis</item>
+<item>America/Anchorage</item>
+<item>America/Argentina/Mendoza</item>
+<item>America/Asuncion</item>
+<item>America/Barbados</item>
+<item>America/Belize</item>
+<item>America/Bogota</item>
+<item>America/Buenos_Aires</item>
+<item>America/Cancun</item>
+<item>America/Caracas</item>
+<item>America/Cayman</item>
+<item>America/Chicago</item>
+<item>America/Costa_Rica</item>
+<item>America/Curacao</item>
+<item>America/Dawson_Creek</item>
+<item>America/Denver</item>
+<item>America/Detroit</item>
+<item>America/Dominica</item>
+<item>America/Edmonton</item>
+<item>America/El_Salvador</item>
+<item>America/Fortaleza</item>
+<item>America/Grenada</item>
+<item>America/Guatemala</item>
+<item>America/Guyana</item>
+<item>America/Halifax</item>
+<item>America/Havana</item>
+<item>America/Indiana/Indianapolis</item>
+<item>America/Indiana/Knox</item>
+<item>America/Indiana/Marengo</item>
+<item>America/Indiana/Petersburg</item>
+<item>America/Indiana/Tell_City</item>
+<item>America/Indiana/Vevay</item>
+<item>America/Indiana/Vincennes</item>
+<item>America/Indiana/Winamac</item>
+<item>America/Jamaica</item>
+<item>America/La_Paz</item>
+<item>America/Lima</item>
+<item>America/Los_Angeles</item>
+<item>America/Louisville</item>
+<item>America/Managua</item>
+<item>America/Martinique</item>
+<item>America/Metlakatla</item>
+<item>America/Mexico_City</item>
+<item>America/Monterrey</item>
+<item>America/Montevideo</item>
+<item>America/Montreal</item>
+<item>America/Nassau</item>
+<item>America/New_York</item>
+<item>America/North_Dakota/Beulah</item>
+<item>America/North_Dakota/Center</item>
+<item>America/North_Dakota/New_Salem</item>
+<item>America/Panama</item>
+<item>America/Phoenix</item>
+<item>America/Port_of_Spain</item>
+<item>America/Port-au-Prince</item>
+<item>America/Sao_Paulo</item>
+<item>America/St_Johns</item>
+<item>America/St_Kitts</item>
+<item>America/St_Lucia</item>
+<item>America/St_Thomas</item>
+<item>America/Tijuana</item>
+<item>America/Toronto</item>
+<item>America/Vancouver</item>
+<item>America/Winnipeg</item>
+<item>Arctic/Longyearbyen</item>
+<item>Asia/Almaty</item>
+<item>Asia/Amman</item>
+<item>Asia/Anadyr</item>
+<item>Asia/Aqtau</item>
+<item>Asia/Baghdad</item>
+<item>Asia/Bahrain</item>
+<item>Asia/Baku</item>
+<item>Asia/Bangkok</item>
+<item>Asia/Beirut</item>
+<item>Asia/Calcutta</item>
+<item>Asia/Damascus</item>
+<item>Asia/Dhaka</item>
+<item>Asia/Dubai</item>
+<item>Asia/Gaza</item>
+<item>Asia/Hebron</item>
+<item>Asia/Ho_Chi_Minh</item>
+<item>Asia/Hong_Kong</item>
+<item>Asia/Jakarta</item>
+<item>Asia/Jerusalem</item>
+<item>Asia/Kabul</item>
+<item>Asia/Karachi</item>
+<item>Asia/Kathmandu</item>
+<item>Asia/Kuala_Lumpur</item>
+<item>Asia/Kuwait</item>
+<item>Asia/Macau</item>
+<item>Asia/Manila</item>
+<item>Asia/Muscat</item>
+<item>Asia/Phnom_Penh</item>
+<item>Asia/Seoul</item>
+<item>Asia/Qatar</item>
+<item>Asia/Rangoon</item>
+<item>Asia/Riyadh</item>
+<item>Asia/Seoul</item>
+<item>Asia/Shanghai</item>
+<item>Asia/Singapore</item>
+<item>Asia/Taipei</item>
+<item>Asia/Tehran</item>
+<item>Asia/Tel_Aviv</item>
+<item>Asia/Tokyo</item>
+<item>Asia/Ulaanbaatar</item>
+<item>Atlantic/Bermuda</item>
+<item>Atlantic/Canary</item>
+<item>Atlantic/Cape_Verde</item>
+<item>Atlantic/Reykjavik</item>
+<item>Atlantic/Stanley</item>
+<item>Australia/Adelaide</item>
+<item>Australia/Brisbane</item>
+<item>Australia/Canberra</item>
+<item>Australia/Darwin</item>
+<item>Australia/Melbourne</item>
+<item>Australia/NSW</item>
+<item>Australia/Perth</item>
+<item>Australia/Queensland</item>
+<item>Australia/Sydney</item>
+<item>Australia/Victoria</item>
+<item>Canada/Newfoundland</item>
+<item>Canada/Saskatchewan</item>
+<item>Chile/EasterIsland</item>
+<item>Europe/Amsterdam</item>
+<item>Europe/Andorra</item>
+<item>Europe/Athens</item>
+<item>Europe/Belfast</item>
+<item>Europe/Belgrade</item>
+<item>Europe/Berlin</item>
+<item>Europe/Bratislava</item>
+<item>Europe/Brussels</item>
+<item>Europe/Bucharest</item>
+<item>Europe/Budapest</item>
+<item>Europe/Chisinau</item>
+<item>Europe/Copenhagen</item>
+<item>Europe/Dublin</item>
+<item>Europe/Gibraltar</item>
+<item>Europe/Helsinki</item>
+<item>Europe/Isle_of_Man</item>
+<item>Europe/Istanbul</item>
+<item>Europe/Lisbon</item>
+<item>Europe/London</item>
+<item>Europe/Luxembourg</item>
+<item>Europe/Madrid</item>
+<item>Europe/Malta</item>
+<item>Europe/Minsk</item>
+<item>Europe/Monaco</item>
+<item>Europe/Moscow</item>
+<item>Europe/Oslo</item>
+<item>Europe/Paris</item>
+<item>Europe/Prague</item>
+<item>Europe/Riga</item>
+<item>Europe/Rome</item>
+<item>Europe/San_Marino</item>
+<item>Europe/Sarajevo</item>
+<item>Europe/Simferopol</item>
+<item>Europe/Skopje</item>
+<item>Europe/Sofia</item>
+<item>Europe/Stockholm</item>
+<item>Europe/Tallinn</item>
+<item>Europe/Vatican</item>
+<item>Europe/Vienna</item>
+<item>Europe/Vilnius</item>
+<item>Europe/Warsaw</item>
+<item>Europe/Zagreb</item>
+<item>Europe/Zurich</item>
+<item>Indian/Antananarivo</item>
+<item>Indian/Maldives</item>
+<item>Indian/Mauritius</item>
+<item>Pacific/Auckland</item>
+<item>Pacific/Fiji</item>
+<item>Pacific/Guam</item>
+<item>Pacific/Honolulu</item>
+<item>Pacific/Noumea</item>
+<item>Pacific/Tahiti</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Denver</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>America/Denver</item>
+<item>America/Los_Angeles</item>
+<item>America/Guatemala</item>
+<item>America/Los_Angeles</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/Chicago</item>
+<item>America/Chicago</item>
+<item>America/Los_Angeles</item>
+<item>America/Denver</item>
+<item>MST</item>
+<item>America/Los_Angeles</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Chicago</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/New_York</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>America/Los_Angeles</item>
+<item>Asia/Riyadh</item>
+<item>Asia/Shanghai</item>
+<item>Asia/Kolkata</item>
+<item>Asia/Kolkata</item>
+<item>Asia/Kolkata</item>
+<item>Asia/Tokyo</item>
+<item>Asia/Karachi</item>
+<item>Asia/Riyadh</item>
+<item>Europe/Madrid</item>
+<item>Europe/Berlin</item>
+<item>Europe/Rome</item>
+<item>Europe/Berlin</item>
+<item>Asia/Bangkok</item>
+<item>Europe/Istanbul</item>
+<item>Asia/Kolkata</item>
+<item>America/Sao_Paulo</item>
+<item>Africa/Johannesburg</item>
+<item>Asia/Karachi</item>
+<item>America/Sao_Paulo</item>
+<item>America/Detroit</item>
+<item>America/Denver</item>
+<item>Europe/London</item>
+<item>America/Los_Angeles</item>
+<item>America/Chicago</item>
+<item>Asia/Shanghai</item>
+<item>Asia/Kolkata</item>
+<item>America/New_York</item>
+<item>America/Sao_Paulo</item>
+<item>America/Santiago</item>
+<item>Africa/Monrovia</item>
+<item>Asia/Colombo</item>
+<item>America/Chihuahua</item>
+<item>Asia/Kolkata</item>
+<item>Europe/London</item>
+<item>Europe/Bucharest</item>
+<item>Europe/Moscow</item>
+<item>Europe/Warsaw</item>
+<item>Europe/Warsaw</item>
+<item>Europe/Berlin</item>
+<item>Europe/Bucharest</item>
+<item>Asia/Jerusalem</item>
+<item>America/Puerto_Rico</item>
+<item>America/Tegucigalpa</item>
+<item>America/Paramaribo</item>
+<item>America/Panama</item>
+</string-array>
+<string-array name="clock_bg_setting_entries">
+<item>سفید</item>
+<item>سیاه</item>
+<item>خودکار</item>
+</string-array>
+<string-array name="clock_bg_setting_values">
+<item>1</item>
+<item>2</item>
+<item>-1</item>
+</string-array>
+<string-array name="countries_names_miui">
+<item>ساحل عاج</item>
+<item>غنا</item>
+<item>اتیوپی</item>
+<item>الجزایر</item>
+<item>مالاوی</item>
+<item>جمهوری کنگو</item>
+<item>مصر</item>
+<item>مراکش</item>
+<item>گینه</item>
+<item>سنگال</item>
+<item>تانزانیا</item>
+<item>جیبوتی</item>
+<item>سیرالئون</item>
+<item>بوتسوانا</item>
+<item>زیمبابوه</item>
+<item>آفریقای جنوبی</item>
+<item>اوگاندا</item>
+<item>رواندا</item>
+<item>جمهوری دموکراتیک کنگو</item>
+<item>نیجریه</item>
+<item>لسوتو</item>
+<item>سومالی</item>
+<item>کنیا</item>
+<item>سائو تومه و پرینسیپه</item>
+<item>مالی</item>
+<item>لیبی</item>
+<item>تونس</item>
+<item>ایالات متحده</item>
+<item>آرژانتین</item>
+<item>پاراگوئه</item>
+<item>باربادوس</item>
+<item>بلیز</item>
+<item>کلمبیا</item>
+<item>آرژانتین</item>
+<item>مکزیک</item>
+<item>ونزوئلا</item>
+<item>جزایر کیمن</item>
+<item>ایالات متحده</item>
+<item>کاستاریکا</item>
+<item>کوراسائو</item>
+<item>کانادا</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>جمهوری دومینیکن</item>
+<item>کانادا</item>
+<item>السالوادور</item>
+<item>برزیل</item>
+<item>گرانادا</item>
+<item>گواتمالا</item>
+<item>گویان</item>
+<item>کانادا</item>
+<item>کوبا</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>جامائیکا</item>
+<item>بولیوی</item>
+<item>پرو</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>نیکاراگوئه</item>
+<item>مارتینیک</item>
+<item>ایالات متحده</item>
+<item>مکزیک</item>
+<item>ایالات متحده</item>
+<item>اروگوئه</item>
+<item>کانادا</item>
+<item>باهاما</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>پاناما</item>
+<item>ایالات متحده</item>
+<item>ترینیداد و توباگو</item>
+<item>هائیتی</item>
+<item>برزیل</item>
+<item>کانادا</item>
+<item>سنت کیتس و نویس</item>
+<item>سنت لوسیا</item>
+<item>جزایر ویرجین ایالات متحده</item>
+<item>مکزیک</item>
+<item>کانادا</item>
+<item>کانادا</item>
+<item>کانادا</item>
+<item>اسوالبارد و جان ماین</item>
+<item>قزاقستان</item>
+<item>اردن</item>
+<item>روسیه</item>
+<item>قزاقستان</item>
+<item>عراق</item>
+<item>بحرین</item>
+<item>آذربایجان</item>
+<item>تایلند</item>
+<item>لبنان</item>
+<item>هندوستان</item>
+<item>سوریه</item>
+<item>بنگلادش</item>
+<item>امارات متحده عربی</item>
+<item>فلسطین</item>
+<item>فلسطین</item>
+<item>ویتنام</item>
+<item>چین</item>
+<item>اندونزی</item>
+<item/>
+<item>افغانستان</item>
+<item>پاکستان</item>
+<item>نپال</item>
+<item>مالزی</item>
+<item>کویت</item>
+<item>چین</item>
+<item>فیلیپین</item>
+<item>عمان</item>
+<item>کامبوج</item>
+<item>کره شمالی</item>
+<item>قطر</item>
+<item>میانمار</item>
+<item>عربستان سعودی</item>
+<item>کره جنوبی</item>
+<item>چین</item>
+<item>سنگاپور</item>
+<item>چین</item>
+<item>ایران</item>
+<item>اسرائیل</item>
+<item>ژاپن</item>
+<item>مغولستان</item>
+<item>برمودا</item>
+<item>اسپانیا</item>
+<item>کیپ ورد</item>
+<item>ایسلند</item>
+<item>جزایر فالکلند</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>استرالیا</item>
+<item>کانادا</item>
+<item>کانادا</item>
+<item>کانادا</item>
+<item>شیلی</item>
+<item>هلند</item>
+<item>آندورا</item>
+<item>یونان</item>
+<item>انگلستان</item>
+<item>صربستان</item>
+<item>آلمان</item>
+<item>اسلواکی</item>
+<item>بلژیک</item>
+<item>رومانی</item>
+<item>مجارستان</item>
+<item>مولداوی</item>
+<item>دانمارک</item>
+<item>ایرلند</item>
+<item>جبل‌الطارق</item>
+<item>فنلاند</item>
+<item>جزیره من</item>
+<item>ترکیه</item>
+<item>پرتغال</item>
+<item>انگلستان</item>
+<item>لوکزامبورگ</item>
+<item>اسپانیا</item>
+<item>مالت</item>
+<item>بلاروس</item>
+<item>موناکو</item>
+<item>روسیه</item>
+<item>نروژ</item>
+<item>فرانسه</item>
+<item>چکیا</item>
+<item>لتونی</item>
+<item>ایتالیا</item>
+<item/>
+<item>بوسنی و هرزگوین</item>
+<item/>
+<item>مقدونیه</item>
+<item>بلغارستان</item>
+<item>سوئد</item>
+<item>استونی</item>
+<item/>
+<item>اتریش</item>
+<item>لیتوانی</item>
+<item>لهستان</item>
+<item>کرواسی</item>
+<item>سوئیس</item>
+<item>ماداگاسکار</item>
+<item>مالدیو</item>
+<item>موریس</item>
+<item>نیوزیلند</item>
+<item>فیجی</item>
+<item>گوام</item>
+<item>ایالات متحده</item>
+<item>کالدونیای جدید</item>
+<item>پلینزی فرانسه</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>کانادا</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>کانادا</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>السالوادور</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>قطر</item>
+<item>چین</item>
+<item>هندوستان</item>
+<item>هندوستان</item>
+<item>هندوستان</item>
+<item>ژاپن</item>
+<item>پاکستان</item>
+<item>هندوستان</item>
+<item>اسپانیا</item>
+<item>آلمان</item>
+<item>ایتالیا</item>
+<item>آلمان</item>
+<item>ویتنام</item>
+<item>ترکیه</item>
+<item>هندوستان</item>
+<item>برزیل</item>
+<item>آفریقای جنوبی</item>
+<item>پاکستان</item>
+<item>برزیل</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>انگلستان</item>
+<item>ایالات متحده</item>
+<item>ایالات متحده</item>
+<item>چین</item>
+<item>هندوستان</item>
+<item>ایالات متحده</item>
+<item>برزیل</item>
+<item>شیلی</item>
+<item>لیبریا</item>
+<item>سری لانکا</item>
+<item>مکزیک</item>
+<item>هندوستان</item>
+<item>انگلستان</item>
+<item>اوکراین</item>
+<item>روسیه</item>
+<item>لهستان</item>
+<item>لهستان</item>
+<item>آلمان</item>
+<item>فنلاند</item>
+<item>اسرائیل</item>
+<item>پورتوریکو</item>
+<item>هندوراس</item>
+<item>سورینام</item>
+<item>اکوادور</item>
+</string-array>
+<string-array name="days_of_week">
+<item>یک‌شنبه</item>
+<item>دوشنبه</item>
+<item>سه‌شنبه</item>
+<item>چهارشنبه</item>
+<item>پنج‌شنبه</item>
+<item>جمعه</item>
+<item>شنبه</item>
+</string-array>
+<string-array name="minute_spinner">
+<item>00</item>
+<item>05</item>
+<item>10</item>
+<item>15</item>
+<item>20</item>
+<item>25</item>
+<item>30</item>
+<item>35</item>
+<item>40</item>
+<item>45</item>
+<item>50</item>
+<item>55</item>
+</string-array>
+<string-array name="notification_adv_time_entries">
+<item>به موقع</item>
+<item>۱۵ دقیقه زودتر</item>
+<item>۳۰ دقیقه زودتر</item>
+<item>۱ ساعت زودتر</item>
+<item>هیچ کدام</item>
+</string-array>
+<string-array name="notification_adv_time_values">
+<item>0</item>
+<item>15</item>
+<item>30</item>
+<item>60</item>
+<item>-1</item>
+</string-array>
+<string-array name="snooze_duration_entries">
+<item>۱ دقیقه</item>
+<item>۵ دقیقه</item>
+<item>۱۰ دقیقه</item>
+<item>۱۵ دقیقه</item>
+<item>۲۰ دقیقه</item>
+<item>۲۵ دقیقه</item>
+<item>۳۰ دقیقه</item>
+</string-array>
+<string-array name="snooze_duration_values">
+<item>1</item>
+<item>5</item>
+<item>10</item>
+<item>15</item>
+<item>20</item>
+<item>25</item>
+<item>30</item>
+</string-array>
+<string-array name="stat_volume_button_behaviors">
+<item>无</item>
+<item>稍后再响</item>
+<item>关闭</item>
+</string-array>
+<string-array name="time">
+<item>%1$s</item>
+<item>%2$s</item>
+<item>%1$s%2$s</item>
+<item>%3$s</item>
+<item>%1$s%3$s</item>
+<item>%2$s%3$s</item>
+<item>%1$s%2$s%3$s</item>
+</string-array>
+<string-array name="timer_duration">
+<item>در کل %1$s</item>
+<item>در کل %2$s</item>
+<item>در کل %1$s و %2$s</item>
+<item>در کل %3$s</item>
+<item>در کل %1$s و %3$s</item>
+<item>در کل %2$s و %3$s</item>
+<item>در کل %1$s و %2$s و %3$s</item>
+</string-array>
+<string-array name="timezone_alphabet_table">
+<item>A</item>
+<item>B</item>
+<item>C</item>
+<item>D</item>
+<item>E</item>
+<item>F</item>
+<item>G</item>
+<item>H</item>
+<item>I</item>
+<item>J</item>
+<item>K</item>
+<item>L</item>
+<item>M</item>
+<item>N</item>
+<item>O</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>S</item>
+<item>T</item>
+<item>U</item>
+<item>V</item>
+<item>W</item>
+<item>X</item>
+<item>Y</item>
+<item>Z</item>
+</string-array>
+<string-array name="volume_button_setting_entries">
+<item>کاری انجام نشود</item>
+<item>چرت</item>
+<item>نادیده گرفتن</item>
+</string-array>
+<string-array name="volume_button_setting_values">
+<item>0</item>
+<item>1</item>
+<item>2</item>
+</string-array>
+</resources>

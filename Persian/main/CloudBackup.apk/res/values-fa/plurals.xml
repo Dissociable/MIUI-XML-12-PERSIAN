@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_backup_detail_frequence_day">
+        <item quantity="other">پشتیبان‌گیری هر %d روز</item>
+        <item quantity="one">پشتیبان‌گیری روزانه</item>
+    </plurals>
+    <plurals name="cloud_backup_detail_manage_summary">
+        <item quantity="other">%1$s نسخه پشتیبان (%2$s)</item>
+        <item quantity="one">%1$s نسخه پشتیبان (%2$s)</item>
+    </plurals>
+    <plurals name="restore_app_order_installed">
+        <item quantity="other">%d برنامه در این دستگاه</item>
+        <item quantity="one">%d برنامه در این دستگاه</item>
+    </plurals>
+    <plurals name="restore_app_order_normal">
+        <item quantity="other">اولویت عادی: %d برنامه</item>
+        <item quantity="one">اولویت عادی: %d برنامه</item>
+    </plurals>
+    <plurals name="restore_app_order_prior">
+        <item quantity="other">اولویت بالا: %d برنامه</item>
+        <item quantity="one">اولویت بالا: %d برنامه</item>
+    </plurals>
+    <plurals name="restoring_file_tile">
+        <item quantity="other">درحال بازیابی %d فایل</item>
+        <item quantity="one">درحال بازیابی %d فایل</item>
+    </plurals>
+</resources>

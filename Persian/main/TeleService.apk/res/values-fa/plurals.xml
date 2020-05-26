@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="alert_dialog_exit_ecm">
+<item quantity="other">گوشی برای مدت %s دقیقه در حالت تماس بازگشتی اضطراری خواهد بود. وقتی در این حالت است از برنامه‌هایی که از اینترنت همراه استفاده می‌کنند نمی‌توان استفاده کرد. آیا می‌خواهید هم اکنون خارج شوید؟</item>
+<item quantity="one">تلفن برای مدت %s دقیقه در حالت برگشت تماس خواهد بود. وقتی در این حالت است از برنامه هابی که از اینترنت همراه استفاده می کند نمی توان استفاده کرد. آیا می خواهید هم اکنون خارج شوید؟</item>
+</plurals>
+<plurals name="alert_dialog_not_avaialble_in_ecm">
+<item quantity="other">اقدام انتخاب شده در حالت تماس بازگشتی اضطراری در دسترس نیست. گوشی برای مدت %s دقیقه در این حالت خواهد بود. آیا می‌خواهید هم اکنون خارج شوید؟</item>
+<item quantity="one">عملکرد انتخابی در حالت برگشت تماس اضطراری در دسترس نیست. تلفن برای مدت %s دقیقه در این حالت خواهد بود. آیا می خواهید هم اکنون خارج شوید؟</item>
+</plurals>
+<plurals name="auto_answer_summary_delay">
+<item quantity="other">delay: %d seconds</item>
+<item quantity="one">delay: %d second</item>
+</plurals>
+<plurals name="call_record_add_white_list_over_reminder">
+<item quantity="other">You can add up to %s people, select again.</item>
+<item quantity="one">You can add up to %s person, select again.</item>
+</plurals>
+<plurals name="call_record_auto_whitelist_summary">
+<item quantity="other">%d numbers</item>
+<item quantity="one">%d number</item>
+</plurals>
+<plurals name="call_remove_exception_numbers_confirm">
+<item quantity="other">%d numbers will be deleted.</item>
+<item quantity="one">%d number will be deleted.</item>
+</plurals>
+<plurals name="day">
+<item quantity="other">%s days</item>
+<item quantity="one">%s day</item>
+</plurals>
+<plurals name="hour">
+<item quantity="other">%s hours</item>
+<item quantity="one">%s hour</item>
+</plurals>
+<plurals name="pin_attempts">
+<item quantity="other">&quot;
+%d attempts remaining.&quot;</item>
+<item quantity="one">&quot;
+%d attempt remaining.&quot;</item>
+</plurals>
+<plurals name="wifi_tether_connected_summary">
+<item quantity="other">‏%1$d دستگاه متصل</item>
+<item quantity="one">‏%1$d دستگاه متصل</item>
+</plurals>
+</resources>

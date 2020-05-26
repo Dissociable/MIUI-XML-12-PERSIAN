@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="actionbar_large_unread_count">
+<item quantity="other">%1$d+ خوانده نشده</item>
+<item quantity="one">%1$d+ خوانده نشده</item>
+</plurals>
+<plurals name="actionbar_unread_messages">
+<item quantity="other">%1$dخوانده نشده</item>
+<item quantity="one">%1$dخوانده نشده</item>
+</plurals>
+<plurals name="confirm_archive_conversation">
+<item quantity="other">این %1$d گفتگو بایگانی شوند؟</item>
+<item quantity="one">این گفتگو بایگانی شود؟</item>
+</plurals>
+<plurals name="confirm_delete_conversation">
+<item quantity="other">این %1$d گفتگو حذف شوند؟</item>
+<item quantity="one">این گفتگو حذف شود؟</item>
+</plurals>
+<plurals name="confirm_delete_conversation_with_sub">
+<item quantity="other">این گفتگوها دارای موارد ادغام شده اند. در هر صورت حذف شوند؟</item>
+<item quantity="one">این گفتگو دارای موارد ادغام شده است. در هر صورت حذف شود؟</item>
+</plurals>
+<plurals name="confirm_delete_draft">
+<item quantity="other">%1$d پیشنویس حذف شود؟</item>
+<item quantity="one">%1$d پیشنویس حذف شود؟</item>
+</plurals>
+<plurals name="contact_num_selected">
+<item quantity="other">%dانتخاب شد</item>
+<item quantity="one">%dانتخاب شد</item>
+</plurals>
+<plurals name="conversation_archived">
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; بایگانی شد.</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; بایگانی شد.</item>
+</plurals>
+<plurals name="conversation_deleted">
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; حذف شد.</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; حذف شد.</item>
+</plurals>
+<plurals name="conversation_folder_changed">
+<item quantity="other">پوشه‌ها را تغییر داد.</item>
+<item quantity="one">پوشه را تغییر داد.</item>
+</plurals>
+<plurals name="conversation_msg_header_count">
+<item quantity="other">+%1$d نفر دیگر</item>
+<item quantity="one">+%1$d نفر دیگر</item>
+</plurals>
+<plurals name="conversation_muted">
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; بی‌صدا شد</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; بی‌صدا شد.</item>
+</plurals>
+<plurals name="conversation_not_important">
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;&quot; پیام از پوشه 'مهم' حذف شدند&quot;</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;&quot; از پوشه 'مهم' حذف شد&quot;</item>
+</plurals>
+<plurals name="conversation_not_spam">
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; از پوشه \&quot;هرزنامه\&quot; حذف شد</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; از پوشه \&quot;اهرزنامه\&quot; حذف شد</item>
+</plurals>
+<plurals name="conversation_phished">
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; پیام به عنوان هرزنامه گزارش شد</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; پیام به عنوان هرزنامه گزارش شد</item>
+</plurals>
+<plurals name="conversation_spammed">
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; مورد به عنوان هرزنامه علامت‌گذاری شد</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; مورد به عنوان هرزنامه علامت‌گذاری شد</item>
+</plurals>
+<plurals name="day">
+<item quantity="other">%d روز</item>
+<item quantity="one">%d روز</item>
+</plurals>
+<plurals name="day_after">
+<item quantity="other">در %d روز</item>
+<item quantity="one">در %d روز</item>
+</plurals>
+<plurals name="day_before">
+<item quantity="other">%d روز پیش</item>
+<item quantity="one">%d روز پیش</item>
+</plurals>
+<plurals name="draft">
+<item quantity="other">پیش‌نویس</item>
+<item quantity="one">پیش‌نویس</item>
+</plurals>
+<plurals name="empty_folder_dialog_message">
+<item quantity="other">%1$dپیام برای همیشه پاک شود</item>
+<item quantity="one">%1$dپیام برای همیشه پاک شود</item>
+</plurals>
+<plurals name="hide_atts_remaining">
+<item quantity="other">پنهان ک دن %1$d پیوست</item>
+<item quantity="one">پنهان ک دن %1$d پیوست</item>
+</plurals>
+<plurals name="local_search_result">
+<item quantity="other">%s نتیجه در پیام‌های همگام‌سازی شده</item>
+<item quantity="one">%s نتیجه در پیام‌های همگام‌سازی شده</item>
+</plurals>
+<plurals name="month">
+<item quantity="other">%d ماه</item>
+<item quantity="one">%d ماه</item>
+</plurals>
+<plurals name="more_atts_remaining">
+<item quantity="other">%1$d پیوست باقی مانده است</item>
+<item quantity="one">%1$d پیوست باقی مانده است</item>
+</plurals>
+<plurals name="move_conversation">
+<item quantity="other">انتقال %1$d گفتگو</item>
+<item quantity="one">انتقال گفتگو</item>
+</plurals>
+<plurals name="new_incoming_messages_many">
+<item quantity="other">نمایش %1$d پیام جدید.</item>
+<item quantity="one">نمایش %1$d پیام جدید.</item>
+</plurals>
+<plurals name="new_messages">
+<item quantity="other">%1$d پیام جدید</item>
+<item quantity="one">%1$d پیام جدید</item>
+</plurals>
+<plurals name="num_selected">
+<item quantity="other">%dانتخاب شد</item>
+<item quantity="one">%dانتخاب شد</item>
+</plurals>
+<plurals name="quick_reply_hint">
+<item quantity="other">پاسخ به %1$d نفر</item>
+<item quantity="one">پاسخ به %1$d نفر</item>
+</plurals>
+<plurals name="remote_search_result">
+<item quantity="other">%s نتیجه در همه حساب‌ها</item>
+<item quantity="one">%s نتیجه در همه حساب‌ها</item>
+</plurals>
+<plurals name="show_messages_read">
+<item quantity="other">%1$dپیام قدیمی تر</item>
+<item quantity="one">%1$dپیام قدیمی تر</item>
+</plurals>
+<plurals name="unsent_messages_in_outbox">
+<item quantity="other">&quot;%1$s  پیام فرستاده نشده در %2$s &quot;</item>
+<item quantity="one">&quot;%1$s  پیام فرستاده نشده در %2$s &quot;</item>
+</plurals>
+</resources>

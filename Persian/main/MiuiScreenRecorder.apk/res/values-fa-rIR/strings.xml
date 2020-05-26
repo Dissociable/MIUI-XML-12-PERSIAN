@@ -31,7 +31,7 @@
     <string name="app_notification_info">ضبط نمایشگر در پس‌زمینه درحال کار کردن است</string>
     <string name="app_notification_title">ضبط نمایشگر</string>
     <string name="auto_stop_title">ویدئو با موفقیت ذخیره شد</string>
-    <string name="battery_not_allowed">هنگامی که باتری کمتر از %۳ باشد، نمی‌توان ضبط کرد. مطمئن شوید باتری حداقل %۲۰ شارژ شده است.</string>
+    <string name="battery_not_allowed" formatted="false">هنگامی که باتری کمتر از %۳ باشد، نمی‌توان ضبط کرد. مطمئن شوید باتری حداقل %۲۰ شارژ شده است.</string>
     <string name="bit_rate">کیفیت ویدئو</string>
     <string name="bit_rate_summary">کیفیت بالاتر یعنی اندازه بیشتر فایل</string>
     <string name="bubble_text">ضربه زده تا ضبط آغاز شود</string>

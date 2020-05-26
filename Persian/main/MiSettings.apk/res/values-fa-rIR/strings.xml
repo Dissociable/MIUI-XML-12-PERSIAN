@@ -207,7 +207,7 @@
     <string name="focus_mode_timer_add_limit">می‌توانید تا %d زمان‌سنج سفارشی بیافزایید</string>
     <string name="focus_mode_timer_delete">حذف</string>
     <string name="focus_mode_timer_exist">این مدت از پیش موجود است</string>
-    <string name="focus_mode_timer_pick_dialog_summary">%d تا %d دقیقه</string>
+    <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d تا %d دقیقه</string>
     <string name="focus_mode_timer_pick_dialog_title">وارد کردن مدت</string>
     <string name="focus_time_exception_tip">به نظر می‌رسد زمان سیستم تغییر کرده است. حالت تمرکز خاموش شد.</string>
     <string name="follow_sim1">به‌کارگیری تنظیمات سیم‌کارت ۱</string>

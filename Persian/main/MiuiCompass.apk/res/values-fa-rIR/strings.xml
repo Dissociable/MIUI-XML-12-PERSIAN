@@ -29,7 +29,6 @@
     <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="allow">اجازه دادن</string>
     <string name="altitude">%.1f</string>
-    <string name="altitude_longitude_Degree_format">&quot;%d°%d&apos;%d\&quot;&quot;</string>
     <string name="altitude_title">ارتفاع</string>
     <string name="altitude_uncalibrate_cancel">لغو</string>
     <string name="altitude_uncalibrate_msg">نمی‌توان ارتفاع را بدون GPS یا اتصال به اینترنت همراه به‌طور دقیق درجه‌بندی کرد.</string>

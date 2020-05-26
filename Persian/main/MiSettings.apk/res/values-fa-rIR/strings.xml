@@ -150,7 +150,7 @@
     <string name="evening">Afternoon</string>
     <string name="exit_easymode">خاموش کردن حالت ساده</string>
     <string name="expand_button_title">پیشرفته</string>
-    <string name="first_unlock_time">&quot;نخستین گشودن قفل: &quot;</string>
+    <string name="first_unlock_time">"نخستین گشودن قفل: "</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
@@ -293,7 +293,7 @@
     <string name="more_ringtone">همه صداهای زنگ</string>
     <string name="more_settings">تنظیمات</string>
     <string name="morning">Morning</string>
-    <string name="most_unlock_week_day">&quot;بیشترین تعداد گشودن قفل: &quot;</string>
+    <string name="most_unlock_week_day">"بیشترین تعداد گشودن قفل: "</string>
     <string name="network_error">یک خطای شبکه رخ داد. دوباره تلاش کنید.</string>
     <string name="night">Evening</string>
     <string name="no_matching">برنامه‌ای برای باز کردن این پیوند یافت نشد</string>
@@ -341,8 +341,8 @@
     <string name="several_days_use_time">مدت استفاده از نمایشگر: %2$s</string>
     <string name="shortcut_created">این میان‌بر از پیش وجود دارد</string>
     <string name="silent_ringtone_hint">Audio is silenced now. Turn up the volume and try again.</string>
-    <string name="sim_slot_1">&quot; (سیم‌کارت ۱)&quot;</string>
-    <string name="sim_slot_2">&quot; (سیم‌کارت ۲)&quot;</string>
+    <string name="sim_slot_1">" (سیم‌کارت ۱)"</string>
+    <string name="sim_slot_2">" (سیم‌کارت ۲)"</string>
     <string name="sms_delivered_sound_title">پیام رسیده</string>
     <string name="sms_received_sound_title">پیام دریافتی</string>
     <string name="solar_term_autumn_begins">Autumn begins</string>
@@ -392,7 +392,7 @@
     <string name="the_arbor_day">Arbor Day</string>
     <string name="the_armed_forces_day">Armed Forces Day</string>
     <string name="the_armys_day">PLA Day</string>
-    <string name="the_childrens_day">&quot;Children&apos;s Day&quot;</string>
+    <string name="the_childrens_day">"Children's Day"</string>
     <string name="the_chinese_youth_day">Youth Day</string>
     <string name="the_christmas_day">Christmas</string>
     <string name="the_double_ninth_festival">Double Ninth Festival</string>
@@ -400,16 +400,16 @@
     <string name="the_easter_day">Easter</string>
     <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
     <string name="the_fifth_day">Fifth day of Chinese New Year</string>
-    <string name="the_fools_day">&quot;April Fool&apos;s Day&quot;</string>
+    <string name="the_fools_day">"April Fool's Day"</string>
     <string name="the_forth_day">Fourth day of Chinese New Year</string>
     <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
-    <string name="the_international_womens_day">&quot;Women&apos;s Day&quot;</string>
+    <string name="the_international_womens_day">"Women's Day"</string>
     <string name="the_laba_festival">Laba Festival</string>
     <string name="the_labour_day">Labor Day</string>
     <string name="the_lantern_festival">Lantern Festival</string>
     <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
     <string name="the_national_day">National Day</string>
-    <string name="the_national_father_day">&quot;Sun Yat-sen&apos;s Birthday&quot;</string>
+    <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
     <string name="the_new_years_day">New Year</string>
     <string name="the_night_of_sevens">Qixi Festival</string>
     <string name="the_partys_day">CPC Day</string>
@@ -420,12 +420,12 @@
     <string name="the_sixth_day">Sixth day of Chinese New Year</string>
     <string name="the_spirit_festival">Ghost Festival</string>
     <string name="the_spring_festival">Chinese New Year</string>
-    <string name="the_teachers_day">&quot;Teachers&apos; Day&quot;</string>
+    <string name="the_teachers_day">"Teachers' Day"</string>
     <string name="the_third_day">Third day of Chinese New Year</string>
-    <string name="the_tw_childrens_day">&quot;Children&apos;s Day&quot;</string>
+    <string name="the_tw_childrens_day">"Children's Day"</string>
     <string name="the_tw_youth_day">Youth Day</string>
     <string name="the_united_nations_day">United Nations Day</string>
-    <string name="the_valentines_day">&quot;Valentine&apos;s Day&quot;</string>
+    <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="thememanager_not_found">تم‌ها باز نشدند. مطمئن شوید این برنامه روی دستگاه شما نصب است.</string>
     <string name="thursday">Thursday</string>
@@ -450,8 +450,8 @@
     <string name="tuesday">Tuesday</string>
     <string name="tuesday_short">Tue</string>
     <string name="tuesday_shortest">Tue</string>
-    <string name="unlock_times_per_day">&quot;میانگین روزانه: &quot;</string>
-    <string name="unlock_times_per_hour">&quot;گشودن قفل در هر ساعت: &quot;</string>
+    <string name="unlock_times_per_day">"میانگین روزانه: "</string>
+    <string name="unlock_times_per_hour">"گشودن قفل در هر ساعت: "</string>
     <string name="usage_agree">پذیرفتن</string>
     <string name="usage_app_get_it">فهمیدم</string>
     <string name="usage_app_limit_alter_summary">به نظر می‌رسد این محدودیت زمان کوتاه‌تر از مدت زمانی است که امروز از این برنامه استفاده کرده‌اید. در هر صورت محدودیت تنظیم شود؟</string>
@@ -500,19 +500,19 @@
     <string name="usage_home_permission_phone_summary">برای شناسایی دستگاه شما با استفاده از VAID</string>
     <string name="usage_home_permission_phone_title">دسترسی به اطلاعات دستگاه</string>
     <string name="usage_home_premission_main_summary">به مدت استفاده از نمایشگر خوش آمدید! شما از این برنامه می‌توانید برای تنظیم محدودیت‌های مدت استفاده از نمایشگر، نمایش آمار و تعویض به حالت تمرکز استفاده کنید. این برنامه برای کارکرد عادی نیاز به گردآوری اطلاعات مدت استفاده از نمایشگر (مانند تعداد دفعات گشودن قفل گوشی و روشن کردن نمایشگر و همچنین طول مدت استفاده از برنامه‌ها) دارد.</string>
-    <string name="usage_home_premission_main_summary_new">&quot;به برنامه مدت استفاده از نمایشگر خوش آمدید!
+    <string name="usage_home_premission_main_summary_new">"به برنامه مدت استفاده از نمایشگر خوش آمدید!
 برای استفاده عادی، این برنامه نیاز به گردآوری اطلاعات مدت استفاده از نمایشگر دارد: تعداد دفعاتی که قفل گوشی خود را باز کردید، نام برنامه‌ها و مدت مصرف برنامه برای تولید آمار مدت استفاده از نمایشگر لازم است؛ تنظیمات حالت تمرکز برای تولید آمار حالت تمرکز لازم است.
-این برنامه همچنین نیاز به اتصال به اینترنت داشته و به مجوزهای زیر به منظور گردآوری اطلاعات شخصی شما نیاز دارد:&quot;</string>
-    <string name="usage_home_premission_main_summary_new_o">&quot;ه مدت استفاده از نمایشگر خوش آمدید!
+این برنامه همچنین نیاز به اتصال به اینترنت داشته و به مجوزهای زیر به منظور گردآوری اطلاعات شخصی شما نیاز دارد:"</string>
+    <string name="usage_home_premission_main_summary_new_o">"ه مدت استفاده از نمایشگر خوش آمدید!
 برای استفاده عادی، این برنامه نیاز به گردآوری اطلاعات مدت استفاده از نمایشگر دارد: تعداد دفعاتی که قفل گوشی خود را باز کردید، نام برنامه‌ها و مدت مصرف برنامه برای تولید آمار مدت استفاده از نمایشگر لازم است.
-این برنامه همچنین نیاز به اتصال به اینترنت داشته و به مجوزهای زیر به منظور گردآوری اطلاعات شخصی شما نیاز دارد:&quot;</string>
+این برنامه همچنین نیاز به اتصال به اینترنت داشته و به مجوزهای زیر به منظور گردآوری اطلاعات شخصی شما نیاز دارد:"</string>
     <string name="usage_home_premission_second_summary">برای امکان استفاده عادی، این برنامه نیاز به گردآوری اطلاعات شخصی شما دارد. ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">ما بر اساس قوانین و مقررات مربوطه و سیاست‌های حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم. در صورت نپذیرفتن دادن چنین مجوزهایی یا همرسانی و بارگذاری اطلاعات شخصی خود، دیگر نمی‌توانید از این برنامه استفاده کنید. در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. شما می‌توانید در مدت استفاده از نمایشگر &gt; تنظیمات &gt; خاموش کردن مدت استفاده از نمایشگر مجوز داده شده خود را باطل کنید.</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix">&quot;&lt;Data&gt;پیش از استفاده از این برنامه، &lt;a href=&apos;%1s&apos;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=&apos;%2s&apos;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;&quot;</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix">"&lt;Data&gt;پیش از استفاده از این برنامه، &lt;a href='%1s'&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href='%2s'&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;"</string>
     <string name="usage_home_premission_second_summary_new">ما بر اساس قوانین و مقررات مربوطه و سیاست‌های حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم.در صورت نپذیرفتن دادن چنین مجوزهایی یا همرسانی و بارگذاری اطلاعات شخصی خود، دیگر نمی‌توانید از این برنامه استفاده کنید. در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. شما می‌توانید در مدت استفاده از نمایشگر &gt; تنظیمات &gt; خاموش کردن مدت استفاده از نمایشگر مجوز داده شده خود را باطل کنید. در صورت داشتن هرگونه پرسش درباره حریم خصوصی، می‌توانید با ما به نشانی privacy@xiaomi.com تماس بگیرید.</string>
     <string name="usage_new_home_app_limit_summary">Set a daily screen time limit for this app</string>
     <string name="usage_new_home_app_limit_title">Limit screen time</string>
-    <string name="usage_new_home_average">&quot;میانگین &quot;</string>
+    <string name="usage_new_home_average">"میانگین "</string>
     <string name="usage_new_home_avg_usage_day">Avg %s daily</string>
     <string name="usage_new_home_category">دسته‌‌بندی</string>
     <string name="usage_new_home_classify_manage">Manage app categories</string>
@@ -529,7 +529,7 @@
     <string name="usage_new_home_name">نام</string>
     <string name="usage_new_home_show_more_data_summary">همچنین می‌توانید مدت استفاده از نمایشگر را برای برنامه‌های خاص محدود کنید</string>
     <string name="usage_new_home_show_more_data_title">نمایش آمار بیشتر</string>
-    <string name="usage_new_home_sys_no_limit_summary">&quot;Can&apos;t limit screen time for system apps&quot;</string>
+    <string name="usage_new_home_sys_no_limit_summary">"Can't limit screen time for system apps"</string>
     <string name="usage_new_home_unlock_equals_text">همانند روز گذشته</string>
     <string name="usage_new_home_unused">استفاده نشد</string>
     <string name="usage_new_home_update">تغییر</string>
@@ -547,7 +547,7 @@
     <string name="usage_optional_title">مجوزهای اختیاری</string>
     <string name="usage_permisison_agree_desc_o">برای تهیه آمار مدت استفاده از نمایشگر برای شما، این برنامه نیاز به گردآوری داده‌های زیر دارد: تعداد دفعاتی که دستگاه را قفل کرده‌اید، فهرست برنامه‌های شما به همراه مدت زمان استفاده از آن‌ها.</string>
     <string name="usage_permisison_agree_desc_p">برای تهیه آمار مدت استفاده از نمایشگر و حالت تمرکز برای شما، این برنامه نیاز به گردآوری داده‌های زیر دارد: تعداد دفعاتی که دستگاه را قفل کرده‌اید، فهرست برنامه‌های شما به همراه مدت زمان استفاده از آن‌ها، تعداد دفعات روشن شدن صفحه نمایش شما، و تنظیمات حالت تمرکز.</string>
-    <string name="usage_permission_double_link">&quot;&lt;Data&gt;این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و گردآوری داده‌های شخصی لازم دارد. به منظور درک کامل حقوق خود به عنوان یک کاربر و همچنین این که داده‌های شما را در چه راهی استفاده می‌کنیم، &lt;a href=&apos;%1s&apos;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=&apos;%2s&apos;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;&quot;</string>
+    <string name="usage_permission_double_link">"&lt;Data&gt;این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و گردآوری داده‌های شخصی لازم دارد. به منظور درک کامل حقوق خود به عنوان یک کاربر و همچنین این که داده‌های شما را در چه راهی استفاده می‌کنیم، &lt;a href='%1s'&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href='%2s'&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;"</string>
     <string name="usage_permission_main_desc">به برنامه مدت استفاده از نمایشگر خوش آمدید! این برنامه برای کارکرد عادی نیازمند اتصال به اینترنت و مجوزهای زیر است:</string>
     <string name="usage_permission_title">توجه</string>
     <string name="usage_reach_device_limit">زمان به پایان رسید! شما به محدودیت خود رسیدید.</string>
@@ -579,7 +579,7 @@
     <string name="usage_state_app_use_time">زمان استفاده از صفحه برنامه</string>
     <string name="usage_state_card_add">افزودن</string>
     <string name="usage_state_card_cancel">لغو</string>
-    <string name="usage_state_card_summary">کارت \&quot;مدت استفاده از نمایشگر\&quot; را به قفسه برنامه افزوده تا زمان خود را بهتر مدیریت کنید.</string>
+    <string name="usage_state_card_summary">کارت \"مدت استفاده از نمایشگر\" را به قفسه برنامه افزوده تا زمان خود را بهتر مدیریت کنید.</string>
     <string name="usage_state_category">دسته‌‌بندی</string>
     <string name="usage_state_channel_mouth">۳۰ روز اخیر</string>
     <string name="usage_state_channel_week">۷ روز اخیر</string>
@@ -614,7 +614,7 @@
     <string name="usage_state_noti_mourth_day">اعلان‌ها در %s</string>
     <string name="usage_state_notification">مدیریت اعلان‌ها</string>
     <string name="usage_state_notification_manager">مدیریت اعلان برنامه‌ها</string>
-    <string name="usage_state_num_level">&quot;سطح %d: &quot;</string>
+    <string name="usage_state_num_level">"سطح %d: "</string>
     <string name="usage_state_open_focus_mode">روشن کردن حالت تمرکز</string>
     <string name="usage_state_over_p">بهتر از</string>
     <string name="usage_state_percent">%%%s</string>

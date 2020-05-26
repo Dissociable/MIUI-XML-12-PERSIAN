@@ -67,8 +67,8 @@
     <string name="accelerometer_title">چرخش خودکار صفحه</string>
     <string name="access_control_app_entry_multiple">باز کردن %s</string>
     <string name="access_control_app_entry_single">باز کردن برنامه</string>
-    <string name="access_control_need_password">&quot;%s محافظت شده است
-&quot;</string>
+    <string name="access_control_need_password">"%s محافظت شده است
+"</string>
     <string name="access_control_need_to_unlock">نیازمند گذرواژه است:</string>
     <string name="access_control_no_back_footer">برای خروج [icon] را بزنید</string>
     <string name="access_control_password_title">گذرواژه</string>
@@ -83,9 +83,9 @@
     <string name="accessibility_category_personal">حساب‌های نمایه شخصی</string>
     <string name="accessibility_category_work">حساب‌های نمایه کاری - %s</string>
     <string name="accessibility_close_tab">بستن زبانه کنونی</string>
-    <string name="accessibility_control_timeout_preference_summary">&quot;مدت‌زمان موردنظرتان را برای نمایش پیام‌هایی که می‌خواهند اقدامی بکنید، اما به‌طور موقت نمایش داده می‌شوند، انتخاب کنید.
+    <string name="accessibility_control_timeout_preference_summary">"مدت‌زمان موردنظرتان را برای نمایش پیام‌هایی که می‌خواهند اقدامی بکنید، اما به‌طور موقت نمایش داده می‌شوند، انتخاب کنید.
 
-همه برنامه‌ها از این تنظیم پشتیبانی نمی‌کنند.&quot;</string>
+همه برنامه‌ها از این تنظیم پشتیبانی نمی‌کنند."</string>
     <string name="accessibility_control_timeout_preference_title">زمان لازم برای اقدام</string>
     <string name="accessibility_daltonizer_master_switch_title">استفاده از تصحیح رنگ</string>
     <string name="accessibility_description_state_stopped">این سرویس درست کار نمی‌کند.</string>
@@ -113,9 +113,9 @@
     <string name="accessibility_long_press_timeout_preference_title">تأخیر لمس کردن و نگه داشتن</string>
     <string name="accessibility_manual_zen_less_time">زمان کمتر.</string>
     <string name="accessibility_manual_zen_more_time">زمان بیشتر.</string>
-    <string name="accessibility_menu_description">&quot;منوی دسترسی‌پذیری میان‌برهای آسانی را ارائه می‌کند که اجازه می‌دهد دستگاه خود را کنترل کنید.
+    <string name="accessibility_menu_description">"منوی دسترسی‌پذیری میان‌برهای آسانی را ارائه می‌کند که اجازه می‌دهد دستگاه خود را کنترل کنید.
 
-این ویژگی را روشن کرده و برای باز کردن منو روی دکمه دسترسی‌پذیری در پایین صفحه خود ضربه بزنید.&quot;</string>
+این ویژگی را روشن کرده و برای باز کردن منو روی دکمه دسترسی‌پذیری در پایین صفحه خود ضربه بزنید."</string>
     <string name="accessibility_menu_item_settings">تنظیمات</string>
     <string name="accessibility_menu_service_name">منوی دسترسی‌پذیری</string>
     <string name="accessibility_menu_summary">دستگاه خود را با استفاده از میان‌برهای آسان کنترل کنید</string>
@@ -132,29 +132,29 @@
     <string name="accessibility_screen_magnification_gestures_title">درشت‌نمایی با سه ضربه</string>
     <string name="accessibility_screen_magnification_navbar_configuration_warning">دکمه دسترس‌پذیری روی %1$s تنظیم شده است. برای استفاده از درشت‌نمایی، دکمه دسترس‌پذیری را لمس کنید و نگه‌دارید، سپس درشت‌نمایی را انتخاب کنید.</string>
     <string name="accessibility_screen_magnification_navbar_short_summary">برای بزرگ‌نمایی، روی دکمه‌ای ضربه بزنید</string>
-    <string name="accessibility_screen_magnification_navbar_summary">&quot;با روشن کردن درشت‌نمایی، می‌توانید روی صفحه بزرگ‌نمایی کنید.
+    <string name="accessibility_screen_magnification_navbar_summary">"با روشن کردن درشت‌نمایی، می‌توانید روی صفحه بزرگ‌نمایی کنید.
 
-&quot;برای بزرگ‌نمایی&quot;، درشت‌نمایی را روشن کنید و روی جایی از صفحه ضربه بزنید.
-&quot;• برای پیمایش، دو یا چند انگشتتان را روی صفحه بکشید &quot;
-&quot;• برای تنظیم بزرگ‌نمایی، دو یا چند انگشتتان را به‌هم نزدیک کنید&quot;
+"برای بزرگ‌نمایی"، درشت‌نمایی را روشن کنید و روی جایی از صفحه ضربه بزنید.
+"• برای پیمایش، دو یا چند انگشتتان را روی صفحه بکشید "
+"• برای تنظیم بزرگ‌نمایی، دو یا چند انگشتتان را به‌هم نزدیک کنید"
 
-&quot;برای بزرگ‌نمایی موقت&quot;، درشت‌نمایی را روشن کنید، سپس جایی از صفحه را لمس کنید و نگه‌دارید.
-&quot;• برای حرکت در صفحه، انگشتتان را روی صفحه بکشید&quot;
-&quot;• برای کوچک کردن، انگشتتان را بردارید&quot;
+"برای بزرگ‌نمایی موقت"، درشت‌نمایی را روشن کنید، سپس جایی از صفحه را لمس کنید و نگه‌دارید.
+"• برای حرکت در صفحه، انگشتتان را روی صفحه بکشید"
+"• برای کوچک کردن، انگشتتان را بردارید"
 
-نمی‌توانید صفحه‌کلید یا نوار پیمایش را کوچک کنید.&quot;</string>
+نمی‌توانید صفحه‌کلید یا نوار پیمایش را کوچک کنید."</string>
     <string name="accessibility_screen_magnification_navbar_title">درشت‌نمایی بااستفاده از میان‌بر</string>
     <string name="accessibility_screen_magnification_short_summary">برای بزرگ‌نمایی، ۳ بار ضربه بزنید</string>
     <string name="accessibility_screen_magnification_state_navbar_gesture">درشت‌نمایی بااستفاده از میان‌بر و سه ضربه</string>
-    <string name="accessibility_screen_magnification_summary">برای بزرگ کردن&quot;، ۳ ضربه سریع روی صفحه بزنید.
-&quot;برای پیمایش، دو یا چند انگشتتان را روی صفحه بکشید&quot;
-&quot;برای تنظیم بزرگ‌نمایی، دو یا چند انگشتتان را نزدیک یا دور کنید&quot;
+    <string name="accessibility_screen_magnification_summary">برای بزرگ کردن"، ۳ ضربه سریع روی صفحه بزنید.
+"برای پیمایش، دو یا چند انگشتتان را روی صفحه بکشید"
+"برای تنظیم بزرگ‌نمایی، دو یا چند انگشتتان را نزدیک یا دور کنید"
 
-&quot;برای بزرگ‌نمایی موقت&quot;، ۳ ضربه سریع روی صفحه بزنید و ضربه سوم انگشتتان را نگه‌دارید.
-&quot;برای حرکت در صفحه، روی صفحه بکشید&quot;
-&quot;برای کوچک کردن صفحه، انگشتتان را بردارید&quot;
+"برای بزرگ‌نمایی موقت"، ۳ ضربه سریع روی صفحه بزنید و ضربه سوم انگشتتان را نگه‌دارید.
+"برای حرکت در صفحه، روی صفحه بکشید"
+"برای کوچک کردن صفحه، انگشتتان را بردارید"
 
-برای بزرگ کردن صفحه، نمی‌توانید از صفحه‌کلید و نواز پیمایش استفاده کنید.&quot;</string>
+برای بزرگ کردن صفحه، نمی‌توانید از صفحه‌کلید و نواز پیمایش استفاده کنید."</string>
     <string name="accessibility_screen_magnification_title">بزرگ‌نمایی</string>
     <string name="accessibility_service_action_perform_description">این عملکرد می‌تواند با برنامه یا حسگری سخت‌افزاری تعاملاتتان را ردیابی کند و ازطرف شما با برنامه‌ها تعامل داشته باشد.</string>
     <string name="accessibility_service_action_perform_title">مشاهده و انجام کنش‌ها</string>
@@ -196,21 +196,21 @@
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">به‌روزرسانی خودکار بزرگ‌نمایی صفحه</string>
     <string name="accessibility_touch_vibration_title">بازخورد لمسی</string>
     <string name="accessibility_tutorial_dialog_button">متوجه شدم</string>
-    <string name="accessibility_tutorial_dialog_message_button">&quot;برای روشن یا خاموش کردن این سرویس، در پایین صفحه، روی دکمه دسترس‌پذیری%sضربه بزنید.
+    <string name="accessibility_tutorial_dialog_message_button">"برای روشن یا خاموش کردن این سرویس، در پایین صفحه، روی دکمه دسترس‌پذیری%sضربه بزنید.
 
-برای جابه‌جایی بین سرویس‌ها، دکمه دسترس‌پذیری را لمس کنید و نگه‌دارید.&quot;</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">&quot;برای روشن یا خاموش کردن سرویس‌های دسترس‌پذیری، با سه انگشت، از پایین صفحه تند به بالا بکشید.
+برای جابه‌جایی بین سرویس‌ها، دکمه دسترس‌پذیری را لمس کنید و نگه‌دارید."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_settings_with_talkback">"برای روشن یا خاموش کردن سرویس‌های دسترس‌پذیری، با سه انگشت، از پایین صفحه تند به بالا بکشید.
 
-برای جابه‌جایی بین سرویس‌ها، با سه انگشت تند به بالا بکشید و نگه‌دارید.&quot;</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">&quot;برای روشن یا خاموش کردن سرویس‌های دستری‌پذیری، با دو انگشت، از پایین صفحه تند به بالا بکشید.
+برای جابه‌جایی بین سرویس‌ها، با سه انگشت تند به بالا بکشید و نگه‌دارید."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_settings_without_talkback">"برای روشن یا خاموش کردن سرویس‌های دستری‌پذیری، با دو انگشت، از پایین صفحه تند به بالا بکشید.
 
-برای جابه‌جایی بین سرویس‌ها، با دو انگشت تند به بالا بکشید و نگه‌دارید.&quot;</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">&quot;برای روشن یا خاموش کردن این سرویس، با سه انگشت، از پایین صفحه تند به بالا بکشید.
+برای جابه‌جایی بین سرویس‌ها، با دو انگشت تند به بالا بکشید و نگه‌دارید."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_with_talkback">"برای روشن یا خاموش کردن این سرویس، با سه انگشت، از پایین صفحه تند به بالا بکشید.
 
-برای جابه‌جایی بین سرویس‌ها، با سه انگشت تند به بالا بکشید و نگه‌دارید.&quot;</string>
-    <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">&quot;برای روشن یا خاموش کردن این سرویس، با دو انگشت، از پایین صفحه تند به بالا بکشید.
+برای جابه‌جایی بین سرویس‌ها، با سه انگشت تند به بالا بکشید و نگه‌دارید."</string>
+    <string name="accessibility_tutorial_dialog_message_gesture_without_talkback">"برای روشن یا خاموش کردن این سرویس، با دو انگشت، از پایین صفحه تند به بالا بکشید.
 
-برای جابه‌جایی بین سرویس‌ها، با دو انگشت تند به بالا بکشید و نگه‌دارید.&quot;</string>
+برای جابه‌جایی بین سرویس‌ها، با دو انگشت تند به بالا بکشید و نگه‌دارید."</string>
     <string name="accessibility_tutorial_dialog_title_button">استفاده از دکمه دسترس‌پذیری برای باز کردن</string>
     <string name="accessibility_tutorial_dialog_title_gesture">استفاده از اشاره برای باز کردن</string>
     <string name="accessibility_tutorial_dialog_title_gesture_settings">استفاده از اشاره دسترس‌پذیری جدید</string>
@@ -307,9 +307,9 @@
     <string name="add_new">افزودن</string>
     <string name="add_rule">افزودن قاعده</string>
     <string name="add_virtual_keyboard">مدیریت صفحه‌کلیدها</string>
-    <string name="adding_profile_owner_warning">&quot;با ادامه دادن، کاربرتان توسط سرپرست مدیریت می‌شود، که همچنین ممکن است بتواند داده‌های کاربر و نیز داده‌های شخصی شما را ذخیره کند.
+    <string name="adding_profile_owner_warning">"با ادامه دادن، کاربرتان توسط سرپرست مدیریت می‌شود، که همچنین ممکن است بتواند داده‌های کاربر و نیز داده‌های شخصی شما را ذخیره کند.
 
-سرپرستتان می‌تواند بر تنظیمات، دسترسی‌ها، برنامه‌ها و داده‌ها مربوط به این کاربر (ازجمله فعالیت شبکه و اطلاعات مکان دستگاه) نظارت داشته باشد و آن‌ها را مدیریت کند.&quot;</string>
+سرپرستتان می‌تواند بر تنظیمات، دسترسی‌ها، برنامه‌ها و داده‌ها مربوط به این کاربر (ازجمله فعالیت شبکه و اطلاعات مکان دستگاه) نظارت داشته باشد و آن‌ها را مدیریت کند."</string>
     <string name="additional_battery_info">هشدارهای استفاده</string>
     <string name="additional_permissions">مجوزهای بیشتر</string>
     <string name="additional_permissions_more">%1$d مورد دیگر</string>
@@ -610,9 +610,9 @@
     <string name="auto_brightness_very_low_title">بسیار کم</string>
     <string name="auto_caps">بزرگ‌کردن خودکار حروف</string>
     <string name="auto_caps_summary">حرف اول در جمله ها بزرگ نوشته شود</string>
-    <string name="auto_clean_description">&quot;درباره این ویژگی
+    <string name="auto_clean_description">"درباره این ویژگی
 ۱. در صورتی که دریافتید بلندگوی گوشی شما توسط مقدار کمی گرد و غبار مسدود شده است این ویژگی را یک یا دو بار اجرا کنید.
-۲. اگر بلندگو به شدت مسدود شده است، درحالی که گوشی خود را رو به پایین تکان می‌دهید این ویژگی را ۲ تا ۵ بار اجرا کنید.&quot;</string>
+۲. اگر بلندگو به شدت مسدود شده است، درحالی که گوشی خود را رو به پایین تکان می‌دهید این ویژگی را ۲ تا ۵ بار اجرا کنید."</string>
     <string name="auto_clean_summary">یک صدای ۳۰ ثانیه‌ای پخش می‌شود تا بلندگو تمیز شود</string>
     <string name="auto_clean_title">پاک‌سازی بلندگو</string>
     <string name="auto_disable_screenbuttons_ask">برای غیرفعال کردن سوال شود</string>
@@ -631,7 +631,7 @@
     <string name="auto_launch_label">باز کردن به صورت پیش‌فرض</string>
     <string name="auto_launch_label_generic">پیش‌فرض‌ها</string>
     <string name="auto_punctuate">علامت‌گذاری خودکار</string>
-    <string name="auto_punctuate_summary">برای وارد کردن \&quot;.\&quot;، کلید فاصله را دو بار فشار دهید.</string>
+    <string name="auto_punctuate_summary">برای وارد کردن \".\"، کلید فاصله را دو بار فشار دهید.</string>
     <string name="auto_replace">جایگزینی خودکار</string>
     <string name="auto_replace_summary">تصحیح کلمات دارای اشتباه املایی</string>
     <string name="auto_restore_summary">هنگام نصب مجدد یک برنامه، تنظیمات و داده‌های پشتیبان‌گیری شده بازیابی شود</string>
@@ -655,9 +655,9 @@
     <string name="automatic_storage_manager_activation_warning">حافظه شما اکنون توسط مدیر حافظه مدیریت می‌شود</string>
     <string name="automatic_storage_manager_days_title">پاک کردن عکس‌ها و ویدئوها</string>
     <string name="automatic_storage_manager_deactivation_warning">مدیر فضای ذخیره‌سازی خاموش شود؟</string>
-    <string name="automatic_storage_manager_freed_bytes">&quot;%1$s کل فضای آزادشده
+    <string name="automatic_storage_manager_freed_bytes">"%1$s کل فضای آزادشده
 
-آخرین اجرا در %2$s&quot;</string>
+آخرین اجرا در %2$s"</string>
     <string name="automatic_storage_manager_master_switch_title">استفاده از مدیر حافظه</string>
     <string name="automatic_storage_manager_preference_title">مدیر فضای ذخیره‌سازی</string>
     <string name="automatic_storage_manager_settings">مدیریت حافظه</string>
@@ -674,12 +674,12 @@
     <string name="awake">زمان بیداری دستگاه</string>
     <string name="back_button">بازگشت</string>
     <string name="back_key">برگشت</string>
-    <string name="back_sensitivity_dialog_message">&quot;
-حساسیت بالاتر ممکن است با اشاره‌های برنامه در راستای لبه صفحه تداخل داشته باشد.&quot;</string>
+    <string name="back_sensitivity_dialog_message">"
+حساسیت بالاتر ممکن است با اشاره‌های برنامه در راستای لبه صفحه تداخل داشته باشد."</string>
     <string name="back_sensitivity_dialog_title">حساسیت برگشت</string>
-    <string name="background_activity_disabled_dialog_text">&quot;از آنجا که این برنامه برای بهینه کردن باتری تنظیم نشده است، نمی‌توانید آن را محدود کنید.
+    <string name="background_activity_disabled_dialog_text">"از آنجا که این برنامه برای بهینه کردن باتری تنظیم نشده است، نمی‌توانید آن را محدود کنید.
 
-برای محدود کردن برنامه، ابتدا بهینه‌سازی باتری را روشن کنید.&quot;</string>
+برای محدود کردن برنامه، ابتدا بهینه‌سازی باتری را روشن کنید."</string>
     <string name="background_activity_summary">به برنامه اجازه دهید در پس‌زمینه اجرا شود</string>
     <string name="background_activity_summary_disabled">به برنامه اجازه اجرا شدن در پس‌زمینه داده نشد</string>
     <string name="background_activity_summary_whitelisted">استفاده در پس‌زمینه نمی‌تواند محدود شود</string>
@@ -703,12 +703,12 @@
     <string name="backup_data_management_title">مدیریت حساب پشتیبان</string>
     <string name="backup_data_summary">پشتیبان‌گیری از داده‌های برنامه، گذرواژه‌های Wi-Fi، و سایر تنظیمات در سرورهای Google</string>
     <string name="backup_data_title">پشتیبان‌گیری از داده‌های من</string>
-    <string name="backup_difference_content">&quot;پشتیبان‌گیری‌های محلی:
+    <string name="backup_difference_content">"پشتیبان‌گیری‌های محلی:
 پشتیبان‌گیری‌های محلی می‌توانند شامل داده‌های برنامه و به صورت عادی دارای موارد بیشتری باشند. فایل‌های پشتیبان‌گیری در MIUI-backup-AllBackup ذخیره شده و لازم است پس از تکمیل فرایند پشتیبان‌گیری در رایانه کپی شوند.
 
 پشتیبان‌گیری‌های فضای ابری:
 پشتیبان‌گیری‌های ذخیره شده در فضای ابری Xiaomi به صورت بی‌سیم قابل دسترسی هستند. این روش سریع‌تر و آسان‌تر از پشتیبان‌گیری‌های محلی است، اما داده‌های برنامه‌ها را در فضای ابری Xiaomi پشتیبان‌گیری نمی‌کند.
-&quot;</string>
+"</string>
     <string name="backup_difference_title">پشتیبان‌گیری‌های محلی چه تفاوتی با پشتیبان‌گیری‌های فضای ابری دارند؟</string>
     <string name="backup_disabled">پشتیبان‌گیری غیرفعال است</string>
     <string name="backup_erase_dialog_message">پشتیبان‌گیری از گذرواژه‌های Wi-Fi، نشانک‌ها، تنظیمات دیگر، و داده‌های برنامه متوقف و تمام نسخه‌های موجود در سرورهای Google پاک شوند؟</string>
@@ -717,8 +717,8 @@
     <string name="backup_more_settings">تنظیمات</string>
     <string name="backup_pw_cancel_button_text">لغو</string>
     <string name="backup_pw_set_button_text">تنظیم گذرواژه پشتیبان‌گیری</string>
-    <string name="backup_restore_data_content">&quot;پشتیبان‌گیری‌های شما می‌توانند حاوی مخاطبین، پیام‌ها (پیامک و MMS)، تاریخچه تماس، رویدادهای سالنامه، عکس‌ها، فایل‌های صوتی، ویدئوها، اسناد، برنامه‌ها، داده‌های برنامه‌ها و چیدمان صفحه اصلی باشند.
-&quot;</string>
+    <string name="backup_restore_data_content">"پشتیبان‌گیری‌های شما می‌توانند حاوی مخاطبین، پیام‌ها (پیامک و MMS)، تاریخچه تماس، رویدادهای سالنامه، عکس‌ها، فایل‌های صوتی، ویدئوها، اسناد، برنامه‌ها، داده‌های برنامه‌ها و چیدمان صفحه اصلی باشند.
+"</string>
     <string name="backup_restore_data_title">چه مواردی را می‌توانم پشتیبان‌گیری یا بازنشانی کنم؟</string>
     <string name="backup_section_title">تهیهٔ نسخهٔ پشتیبان و بازیابی</string>
     <string name="backup_set_clear_success">گذرواژه پشتیبان‌گیری با موفقیت خاموش شد</string>
@@ -741,8 +741,8 @@
     <string name="backup_summary_state_off">خاموش</string>
     <string name="backup_summary_state_on">روشن</string>
     <string name="badge_title">نمایش نشان‌های آیکون برنامه</string>
-    <string name="band_24G">&quot; (باند ۲.۴ گیگاهرتزی)&quot;</string>
-    <string name="band_5G">&quot; (باند ۵ گیگاهرتزی)&quot;</string>
+    <string name="band_24G">" (باند ۲.۴ گیگاهرتزی)"</string>
+    <string name="band_5G">" (باند ۵ گیگاهرتزی)"</string>
     <string name="band_mode_failed">ناموفق</string>
     <string name="band_mode_loading">در حال بار کردن فهرست باند…</string>
     <string name="band_mode_set">تنظیم</string>
@@ -883,13 +883,13 @@
     <string name="battery_suggestion_summary"></string>
     <string name="battery_suggestion_title">بهبود عمر باتری تلفن</string>
     <string name="battery_summary">%1$s استفاده از آخرین شارژ کامل</string>
-    <string name="battery_tip_dialog_message">&quot;از تلفنتان بیش‌ازحد معمول استفاده شده است. ممکن است باتری آن زودتر از موعد موردانتظار تمام شود.
+    <string name="battery_tip_dialog_message">"از تلفنتان بیش‌ازحد معمول استفاده شده است. ممکن است باتری آن زودتر از موعد موردانتظار تمام شود.
 
-برنامه‌های برتر براساس مصرف باتری:&quot;</string>
+برنامه‌های برتر براساس مصرف باتری:"</string>
     <string name="battery_tip_dialog_message_footer">شامل فعالیت پس‌زمینه با شارژ بالا</string>
-    <string name="battery_tip_dialog_summary_message">&quot;میزان باتری مصرفی توسط برنامه‌هایتان معمولی است. اگر برنامه‌ها بیش‌ازحد باتری مصرف کنند، تلفنتان کنش‌هایی پیشنهاد می‌کند که می‌توانید انجام دهید.
+    <string name="battery_tip_dialog_summary_message">"میزان باتری مصرفی توسط برنامه‌هایتان معمولی است. اگر برنامه‌ها بیش‌ازحد باتری مصرف کنند، تلفنتان کنش‌هایی پیشنهاد می‌کند که می‌توانید انجام دهید.
 
-اگر باتری رو به اتمام باشد، همیشه می‌توانید بهینه‌سازی باتری را روشن کنید.&quot;</string>
+اگر باتری رو به اتمام باشد، همیشه می‌توانید بهینه‌سازی باتری را روشن کنید."</string>
     <string name="battery_tip_early_heads_up_done_summary">ممکن است بعضی از ویژگی‌ها محدود شود</string>
     <string name="battery_tip_early_heads_up_done_title">بهینه‌سازی باتری روشن است</string>
     <string name="battery_tip_early_heads_up_summary">ممکن است شارژ باتری زودتر از معمول تمام شود</string>
@@ -900,13 +900,13 @@
     <string name="battery_tip_low_battery_title">ظرفیت باتری پایین</string>
     <string name="battery_tip_restrict_app_dialog_message">برای صرفه‌جویی در شارژ باتری،‌ مصرف پس‌زمینه‌ای %1$s از باتری را متوقف کنید. ممکن است این برنامه درست کار نکند و اعلان‌ها با تأخیر همراه باشد.</string>
     <string name="battery_tip_restrict_app_dialog_ok">محدود کردن</string>
-    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">&quot;برای صرفه‌جویی در شارژ باتری،‌ مصرف پس‌زمینه‌ای این برنامه‌ها از باتری را متوقف کنید. ممکن است برنامه‌های محدودشده درست کار نکند و اعلان‌ها با تأخیر همراه باشد.
+    <string name="battery_tip_restrict_apps_less_than_5_dialog_message">"برای صرفه‌جویی در شارژ باتری،‌ مصرف پس‌زمینه‌ای این برنامه‌ها از باتری را متوقف کنید. ممکن است برنامه‌های محدودشده درست کار نکند و اعلان‌ها با تأخیر همراه باشد.
 
-برنامه‌ها:&quot;</string>
-    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">&quot;برای صرفه‌جویی در شارژ باتری،‌ مصرف پس‌زمینه‌ای این برنامه‌ها از باتری را متوقف کنید. ممکن است برنامه‌های محدودشده درست کار نکند و اعلان‌ها با تأخیر همراه باشد.
+برنامه‌ها:"</string>
+    <string name="battery_tip_restrict_apps_more_than_5_dialog_message">"برای صرفه‌جویی در شارژ باتری،‌ مصرف پس‌زمینه‌ای این برنامه‌ها از باتری را متوقف کنید. ممکن است برنامه‌های محدودشده درست کار نکند و اعلان‌ها با تأخیر همراه باشد.
 
 برنامه‌ها:
-%1$s.&quot;</string>
+%1$s."</string>
     <string name="battery_tip_smart_battery_summary">مدیر باتری را روشن کنید</string>
     <string name="battery_tip_smart_battery_title">عمر باتری تلفنتان را بهبود ببخشید</string>
     <string name="battery_tip_summary_summary">میزان مصرف باتری تلفن در پس‌زمینه معمولی است</string>
@@ -953,12 +953,12 @@
     <string name="bluetooth_ask_discovery_no_name">برنامه‌ای می‌خواهد تلفن شما را برای سایر دستگاه‌های بلوتوث به مدت %1$d ثانیه قابل‌مشاهده کند.</string>
     <string name="bluetooth_ask_enablement">%1$s می‌خواهد بلوتوث را روشن کند</string>
     <string name="bluetooth_ask_enablement_and_discovery">%1$s می‌خواهد بلوتوث را روشن کند و تلفتنان را برای سایر دستگاه‌ها به مدت %2$d ثانیه قابل‌مشاهده کند.</string>
-    <string name="bluetooth_ask_enablement_and_discovery_detected">&quot; می‌خواهد بلوتوث را روشن کند و گوشی شما را به مدت %1$d ثانیه برای سایر دستگاه‌ها قابل مشاهده نماید.&quot;</string>
+    <string name="bluetooth_ask_enablement_and_discovery_detected">" می‌خواهد بلوتوث را روشن کند و گوشی شما را به مدت %1$d ثانیه برای سایر دستگاه‌ها قابل مشاهده نماید."</string>
     <string name="bluetooth_ask_enablement_and_discovery_no_name">برنامه‌ای می‌خواهد بلوتوث را روشن کند و تلفن شما را برای سایر دستگاه‌ها به مدت %1$d ثانیه قابل‌مشاهده کند.</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s می‌خواهد بلوتوث را روشن کند و تلفنتان را برای سایر دستگاه‌ها قابل‌مشاهده کند. می‌توانید بعداً این مورد را در تنظیمات بلوتوث تغییر دهید.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">&quot; می‌خواهد بلوتوث را روشن کند و گوشی شما را برای سایر دستگاه‌ها قابل مشاهده نماید. شما می‌توانید بعداً آن را در تنظیمات بلوتوث تغییر دهید.&quot;</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" می‌خواهد بلوتوث را روشن کند و گوشی شما را برای سایر دستگاه‌ها قابل مشاهده نماید. شما می‌توانید بعداً آن را در تنظیمات بلوتوث تغییر دهید."</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery_no_name">برنامه‌ای می‌خواهد بلوتوث را روشن کند و تلفن شما را برای سایر دستگاه‌ها قابل‌مشاهده کند. می‌توانید بعداً این مورد را در تنظیمات بلوتوث تغییر دهید.</string>
-    <string name="bluetooth_ask_enablement_detected">&quot; می‌خواهد بلوتوث را روشن کند.&quot;</string>
+    <string name="bluetooth_ask_enablement_detected">" می‌خواهد بلوتوث را روشن کند."</string>
     <string name="bluetooth_ask_enablement_no_name">برنامه‌ای می‌خواهد بلوتوث را روشن کند</string>
     <string name="bluetooth_ask_lasting_discovery">%1$s می‌خواهد تلفتنان را برای سایر دستگاه‌های بلوتوث قابل‌مشاهده کند. می‌توانید بعداً این مورد را در تنظیمات بلوتوث تغییر دهید.</string>
     <string name="bluetooth_ask_lasting_discovery_no_name">برنامه‌ای می‌خواهد تلفن شما را برای سایر دستگاه‌های بلوتوث قابل‌مشاهده کند. می‌توانید بعداً این مورد را در تنظیمات بلوتوث تغییر دهید.</string>
@@ -982,7 +982,7 @@
     <string name="bluetooth_connected_summary">متصل به %1$s</string>
     <string name="bluetooth_connecting">درحال اتصال…</string>
     <string name="bluetooth_connecting_error_message">اتصال به %1$s ممکن نیست.</string>
-    <string name="bluetooth_connection_dialog_text">آیا می‌خواهید به \&quot;%1$s\&quot; وصل شوید؟</string>
+    <string name="bluetooth_connection_dialog_text">آیا می‌خواهید به \"%1$s\" وصل شوید؟</string>
     <string name="bluetooth_connection_notif_message">برای اتصال به «%1$s» ضربه بزنید.</string>
     <string name="bluetooth_connection_permission_request">درخواست اتصال بلوتوث</string>
     <string name="bluetooth_device">دستگاه بلوتوث بدون نام</string>
@@ -1056,11 +1056,11 @@
     <string name="bluetooth_hid_profile_summary_connected">به دستگاه ورودی وصل شد</string>
     <string name="bluetooth_hid_profile_summary_use_for">استفاده برای ورودی</string>
     <string name="bluetooth_incoming_pairing_msg">‏از::&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;با این دستگاه مرتبط‌سازی شود؟</string>
-    <string name="bluetooth_inform_messgae">&quot;به %1$s متصل نشد.
+    <string name="bluetooth_inform_messgae">"به %1$s متصل نشد.
 ممکن است در این موارد دچار اشتباه شده باشید:
 ۱. بلوتوث این دستگاه خاموش شده و یا از محدوده خارج است.
 ۲. این دستگاه در حالت قابل شناسایی قرار ندارد.
-۳. این دستگاه به دستگاه‌های دیگر متصل است. قطع کرده و سپس دوباره تلاش کنید.&quot;</string>
+۳. این دستگاه به دستگاه‌های دیگر متصل است. قطع کرده و سپس دوباره تلاش کنید."</string>
     <string name="bluetooth_inform_messgae_title">متصل نشد</string>
     <string name="bluetooth_is_disconnect_question">ارتباط %1$s قطع شود؟</string>
     <string name="bluetooth_is_discoverable">قابل مشاهده برای تمام دستگاه‌های بلوتوث اطراف (%1$s)</string>
@@ -1158,32 +1158,32 @@
     <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی به سیم‌کارت</string>
     <string name="bluetooth_sap_request">درخواست دسترسی به سیم‌‌کارت</string>
     <string name="bluetooth_scan_for_devices">اسکن برای دستگاه‌ها</string>
-    <string name="bluetooth_scanning_on_info_message">&quot;وقتی بلوتوث روشن است،‌ دستگاهتان می‌تواند با سایر دستگاه‌های بلوتوث این اطراف ارتباط برقرار کند.
+    <string name="bluetooth_scanning_on_info_message">"وقتی بلوتوث روشن است،‌ دستگاهتان می‌تواند با سایر دستگاه‌های بلوتوث این اطراف ارتباط برقرار کند.
 
-برای بهبود تجربه دستگاه، برنامه‌ها و سرویس‌ها همچنان می‌توانند در هرزمانی دستگاه‌های اطراف را اسکن کنند (حتی وقتی بلوتوث خاموش است). می‌توان از این ویژگی مثلاً برای بهبود ویژگی‌ها و سرویس‌های مکان‌مبنا استفاده کرد. می‌توانید انتخابتان را در &quot;تنظمیات اسکن تغییر دهید.</string>
+برای بهبود تجربه دستگاه، برنامه‌ها و سرویس‌ها همچنان می‌توانند در هرزمانی دستگاه‌های اطراف را اسکن کنند (حتی وقتی بلوتوث خاموش است). می‌توان از این ویژگی مثلاً برای بهبود ویژگی‌ها و سرویس‌های مکان‌مبنا استفاده کرد. می‌توانید انتخابتان را در "تنظمیات اسکن تغییر دهید.</string>
     <string name="bluetooth_search_for_devices">بازخوانی</string>
     <string name="bluetooth_searching_for_devices">در حال جستجو...</string>
     <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode">حالت سازگاری aptX صدای بلوتوث</string>
-    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">&quot;راه‌اندازی صدای بلوتوث
-سازگاری با aptX: حالت کدک&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_aptxadaptive_mode_dialog_title">"راه‌اندازی صدای بلوتوث
+سازگاری با aptX: حالت کدک"</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">بیت‌های صدای بلوتوث به ازای نمونه</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-بیت‌ها به ازای نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"انتخاب کدک صدای بلوتوث:
+بیت‌ها به ازای نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">حالت کانال صدای بلوتوث</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-حالت کانال&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"انتخاب کدک صدای بلوتوث:
+حالت کانال"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">کدک LDAC صدای بلوتوث: کیفیت بازپخش</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">&quot;انتخاب کدک LDAC صدای بلوتوث:
-کیفیت بازپخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"انتخاب کدک LDAC صدای بلوتوث:
+کیفیت بازپخش"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_latency">کدک LHDC صدای بلوتوث: تأخیر</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">&quot;انتخاب کدک LHDC صدای بلوتوث:
-تأخیر پخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"انتخاب کدک LHDC صدای بلوتوث:
+تأخیر پخش"</string>
     <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">کدک LHDC صدای بلوتوث: کیفیت بازپخش</string>
-    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">&quot;انتخاب کدک LHDC صدای بلوتوث:
-کیفیت بازپخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"انتخاب کدک LHDC صدای بلوتوث:
+کیفیت بازپخش"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">نرخ نمونه صدای بلوتوث</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-نرخ نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"انتخاب کدک صدای بلوتوث:
+نرخ نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">درحال پخش: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">کدک صوتی بلوتوث</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">انتخاب رها‌سازی کدک صوتی بلوتوث</string>
@@ -1229,7 +1229,7 @@
     <string name="bluetooth_unlock_settings_unlock_device">باز کردن قفل دستگاه</string>
     <string name="bluetooth_unlock_state_disconnected">قطع شد</string>
     <string name="bluetooth_unlock_state_key_error">خطای کلید</string>
-    <string name="bluetooth_unlock_state_label">&quot;وضعیت: &quot;</string>
+    <string name="bluetooth_unlock_state_label">"وضعیت: "</string>
     <string name="bluetooth_unlock_state_ok">قفل باز شد</string>
     <string name="bluetooth_unlock_state_too_far">به حد کافی نزدیک نیست</string>
     <string name="bluetooth_unlock_title">باز کردن قفل با دستگاه بلوتوث</string>
@@ -1264,12 +1264,12 @@
     <string name="bootloader_device_bind_sim_invalid">سیم‌کارت معتبر نیست. جایگزین کرده و دوباره تلاش کنید.</string>
     <string name="bootloader_locked_answer_1">ما دستگاه‌ها را قفل می‌کنیم تا مطمئن شویم آن‌ها ایمن هستند و اطلاعات شخصی شما برای سوم شخص‌ها فاش نشده است. اگر لازم است که وارد حالت بوت سریع شده و دستگاه خود را فلش کنید، ابتدا قفل آن را باز کنید.</string>
     <string name="bootloader_locked_answer_1_warning">به یاد داشته باشید: پس از باز کردن قفل دستگاه نمی‌توانید از «یافتن دستگاه» استفاده کنید.</string>
-    <string name="bootloader_locked_answer_2">&quot;۱. مطمئن شوید که یک سیم‌کارت در داخل دستگاه خود قرار داده‌اید.
+    <string name="bootloader_locked_answer_2">"۱. مطمئن شوید که یک سیم‌کارت در داخل دستگاه خود قرار داده‌اید.
 ۲. WiFi را خاموش و اینترنت همراه را روشن کنید. مطمئن شوید دستگاه شما با اینترنت همراه می‌تواند به اینترنت وصل شود.
 ۳. روی «افزودن حساب» در زیر زده تا حساب Mi خود را با این دستگاه پیوند دهید.
-۳. ابزار باز کردن قفل را از تارنمای ما دانلود کنید. به یاد داشته باشید که برای باز کردن قفل دستگاه‌ها باید از رایانه استفاده کنید. از اینجا دانلود کنید:&quot;</string>
-    <string name="bootloader_locked_answer_2_no_sim">&quot;۱. روی «افزودن حساب» در زیر زده تا حساب Mi خود را با این دستگاه پیوند دهید.
-۲. ابزار باز کردن قفل را از تارنمای ما دانلود کنید. به یاد داشته باشید که برای باز کردن قفل دستگاه‌ها باید از رایانه استفاده کنید. از اینجا دانلود کنید:&quot;</string>
+۳. ابزار باز کردن قفل را از تارنمای ما دانلود کنید. به یاد داشته باشید که برای باز کردن قفل دستگاه‌ها باید از رایانه استفاده کنید. از اینجا دانلود کنید:"</string>
+    <string name="bootloader_locked_answer_2_no_sim">"۱. روی «افزودن حساب» در زیر زده تا حساب Mi خود را با این دستگاه پیوند دهید.
+۲. ابزار باز کردن قفل را از تارنمای ما دانلود کنید. به یاد داشته باشید که برای باز کردن قفل دستگاه‌ها باید از رایانه استفاده کنید. از اینجا دانلود کنید:"</string>
     <string name="bootloader_locked_check_status">افزودن حساب و دستگاه</string>
     <string name="bootloader_locked_question_1">چرا دستگاه‌ها باید قفل باشد؟</string>
     <string name="bootloader_locked_question_2">من متوجه خطرات هستم،‌ اما همچنان می‌خواهم قفل دستگاه خود را باز کنم.</string>
@@ -1286,9 +1286,9 @@
     <string name="bootloader_status_unlocked">باز</string>
     <string name="bootloader_status_unlocked_info">قفل این دستگاه باز است</string>
     <string name="bootloader_summary">دستگاه خود را با استفاده از USB فلش کنید</string>
-    <string name="bootloader_tips">&quot;%s
+    <string name="bootloader_tips">"%s
 
-در صورتی که هر کدام از موارد بالا را انجام داده‌اید، حساب Mi خود را دوباره بیافزایید؛ در غیر این صورت دیگر نمی‌توانید قفل دستگاه خود را باز کنید.&quot;</string>
+در صورتی که هر کدام از موارد بالا را انجام داده‌اید، حساب Mi خود را دوباره بیافزایید؛ در غیر این صورت دیگر نمی‌توانید قفل دستگاه خود را باز کنید."</string>
     <string name="bootloader_tips_ok">فهمیدم</string>
     <string name="bootloader_tips_warning">اتصال شبکه را قطع نکرده، از حساب Mi خود خارج نشده، به تنظیمات کارخانه بازنشانی نکرده و داده‌های سیستمی را پاک نکنید.</string>
     <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
@@ -1304,11 +1304,11 @@
     <string name="brightness_summary">تنظیم روشنایی صفحه</string>
     <string name="brightness_title">روشنایی</string>
     <string name="bssid_label">BSSID:</string>
-    <string name="bt_aac_dialog_summary">&quot;دستگاه کنونی از کدک AAC پشتیبانی می‌کند. با این وجود، AAC ممکن است به دلیل اشکالات سازگاری در پخش صدا نا موفق باشد. دستگاه شما به صورت خودکار به کدک SBC تعویض شد.
-شما می‌توانید این کار را در تنظیمات تغییر دهید.&quot;</string>
+    <string name="bt_aac_dialog_summary">"دستگاه کنونی از کدک AAC پشتیبانی می‌کند. با این وجود، AAC ممکن است به دلیل اشکالات سازگاری در پخش صدا نا موفق باشد. دستگاه شما به صورت خودکار به کدک SBC تعویض شد.
+شما می‌توانید این کار را در تنظیمات تغییر دهید."</string>
     <string name="bt_aac_dialog_title">اتصال بلوتوث</string>
-    <string name="bt_aac_open_dialog_summary">&quot;AAC ممکن است به دلیل اشکالات سازگاری در پخش صدا نا موفق باشد.
-می‌توانید این ویژگی را در تنظیمات &gt; بلوتوث &gt; دستگاه‌های جفت شده خاموش کنید.&quot;</string>
+    <string name="bt_aac_open_dialog_summary">"AAC ممکن است به دلیل اشکالات سازگاری در پخش صدا نا موفق باشد.
+می‌توانید این ویژگی را در تنظیمات &gt; بلوتوث &gt; دستگاه‌های جفت شده خاموش کنید."</string>
     <string name="bt_aac_open_dialog_title">درحال تعویض به کدک AAC</string>
     <string name="bt_aac_pre_title">AAC</string>
     <string name="bt_dialog_remember_choice">به یاد داشتن گزینه</string>
@@ -1723,10 +1723,10 @@
     <string name="controls_label">کنترل ها</string>
     <string name="controls_subtitle">تنظیم استفاده از نیرو</string>
     <string name="convenience_key_category_title">کنترل سیستم</string>
-    <string name="convert_to_fbe_warning">&quot;بخش داده‌ها را به فایل رمزگذاری شده تبدیل کنید.
+    <string name="convert_to_fbe_warning">"بخش داده‌ها را به فایل رمزگذاری شده تبدیل کنید.
  هشدار: این کار باعث پاک کردن همه داده‌های شما می‌شود.
  این ویژگی درحال توسعه است و ممکن است به درستی کار نکند.
- گزینه &apos;پاک‌سازی و تبدیل…&apos; را زده تا ادامه یابد.&quot;</string>
+ گزینه 'پاک‌سازی و تبدیل…' را زده تا ادامه یابد."</string>
     <string name="convert_to_file_encryption">تبدیل به رمزگذاری فایل</string>
     <string name="convert_to_file_encryption_done">فایل‌ها رمزگذاری شده‌اند</string>
     <string name="convert_to_file_encryption_enabled">تبدیل…</string>
@@ -1765,24 +1765,24 @@
     <string name="crypt_keeper_confirm_title">رمزگذاری؟</string>
     <string name="crypt_keeper_content">شما می‌توانید همه حساب‌ها، تنظیمات، برنامه‌های دانلود شده و سایر اطلاعات، رسانه‌ها و فایل‌ها را رمزگذاری کنید.</string>
     <string name="crypt_keeper_content_title">رمزگذاری دستگاه</string>
-    <string name="crypt_keeper_data_corrupt_summary">&quot;‏گذروا‌ژه‌ای که وارد کردید درست است، اما متأسفانه داده‌ها مخدوش است. 
+    <string name="crypt_keeper_data_corrupt_summary">"‏گذروا‌ژه‌ای که وارد کردید درست است، اما متأسفانه داده‌ها مخدوش است. 
 
-برای ازسرگیری استفاده از تلفنتان، باید بازنشانی به تنظیمات کارخانه را انجام دهید. وقتی پس از بازنشانی، تلفنتان را راه‌اندازی می‌کنید، فرصت دارید تا هر داده‌ای را که در حساب Google شما پشتیبان گرفته شده بود، بازیابی کنید.&quot;</string>
+برای ازسرگیری استفاده از تلفنتان، باید بازنشانی به تنظیمات کارخانه را انجام دهید. وقتی پس از بازنشانی، تلفنتان را راه‌اندازی می‌کنید، فرصت دارید تا هر داده‌ای را که در حساب Google شما پشتیبان گرفته شده بود، بازیابی کنید."</string>
     <string name="crypt_keeper_data_corrupt_title">رمزگشایی انجام نشد</string>
     <string name="crypt_keeper_decrypt_methods">پس از رمزگذاری گوشی خود، با فرض این که شما قفل صفحه تنظیم کرده‌اید (یک الگو، کد عددی یا گذرواژه) لازم است قفل صفحه گوشی را در هر بار روشن کردن برای رمزگشایی باز کنید. تنها راه رمزگشایی بازگشت به تنظیمات کارخانه و پاک کرن تمام اطلاعات است.</string>
     <string name="crypt_keeper_decrypt_methods_cannot_decrypt">اگر گوشی خود را رمزگذاری کرده‌اید، لازم است که گذرواژه، PIN یا الگوی خود را هر بار که دستگاه را دوباره راه‌اندازی می‌کنید وارد کرده تا آن را رمزگشایی کنید.</string>
     <string name="crypt_keeper_decrypt_methods_title">دستگاه خود را رمزگشایی کنید</string>
-    <string name="crypt_keeper_desc">&quot;می‌توانید حساب‌ها، تنظیمات، برنامه‌های بارگیری شده به‌علاوه داده‌های آنها، رسانه‌ها و سایر فایل‌هایتان را رمزگذاری کنید. بعد از رمزگذاری تلفنتان، با فرض اینکه یک قفل صفحه تنظیم کرده‌اید (که می‌تواند یک الگو، پین عددی یا گذرواژه باشد)، باید هر بار که تلفن را روشن می‌کنید، قفل صفحه را برای رمزگشایی از تلفن باز کنید. تنها راه دیگر برای رمزگشایی بازنشانی داده‌های کارخانه و پاک کردن همه داده‌هایتان می‌باشد.
+    <string name="crypt_keeper_desc">"می‌توانید حساب‌ها، تنظیمات، برنامه‌های بارگیری شده به‌علاوه داده‌های آنها، رسانه‌ها و سایر فایل‌هایتان را رمزگذاری کنید. بعد از رمزگذاری تلفنتان، با فرض اینکه یک قفل صفحه تنظیم کرده‌اید (که می‌تواند یک الگو، پین عددی یا گذرواژه باشد)، باید هر بار که تلفن را روشن می‌کنید، قفل صفحه را برای رمزگشایی از تلفن باز کنید. تنها راه دیگر برای رمزگشایی بازنشانی داده‌های کارخانه و پاک کردن همه داده‌هایتان می‌باشد.
 
-رمزگذاری یک ساعت یا بیشتر طول می‌کشد. باید این کار را زمانی آغاز کنید که باتری شارژ کامل باشد و در طول این مدت تلفنتان همچنان به برق وصل باشد. اگر وقفه‌ای در فرآیند به وجود آید، بعضی از داده‌هایتان یا همه آنها را از دست خواهید داد.&quot;</string>
+رمزگذاری یک ساعت یا بیشتر طول می‌کشد. باید این کار را زمانی آغاز کنید که باتری شارژ کامل باشد و در طول این مدت تلفنتان همچنان به برق وصل باشد. اگر وقفه‌ای در فرآیند به وجود آید، بعضی از داده‌هایتان یا همه آنها را از دست خواهید داد."</string>
     <string name="crypt_keeper_dialog_need_password_message">قبل از شروع به رمزگذاری باید یک پین صفحه قفل یا گذرواژه تنظیم کنید.</string>
     <string name="crypt_keeper_dialog_need_password_title">هیچ پین صفحه قفل یا گذرواژه‌ای وجود ندارد</string>
     <string name="crypt_keeper_encrypt_title">رمزگذاری تلفن</string>
     <string name="crypt_keeper_encrypted_summary">رمز گذاری شده</string>
     <string name="crypt_keeper_enter_password">گذرواژه‌تان را تایپ کنید</string>
-    <string name="crypt_keeper_failed_summary">&quot;‏رمزگذاری متوقف شد و امکان تکمیل آن وجود ندارد. در نتیجه، داده‌های موجود در تلفن شما دیگر قابل دسترسی نیستند. 
+    <string name="crypt_keeper_failed_summary">"‏رمزگذاری متوقف شد و امکان تکمیل آن وجود ندارد. در نتیجه، داده‌های موجود در تلفن شما دیگر قابل دسترسی نیستند. 
 
-برای ادامه استفاده از تلفن خود، باید تنظیمات کارخانه را بازنشانی کنید. با راه‌اندازی تلفن پس از بازنشانی، این فرصت را خواهید داشت تا هرگونه داده‌ای را که از آن در حساب Google نسخهٔ پشتیبان تهیه شده بازیابی کنید.&quot;</string>
+برای ادامه استفاده از تلفن خود، باید تنظیمات کارخانه را بازنشانی کنید. با راه‌اندازی تلفن پس از بازنشانی، این فرصت را خواهید داشت تا هرگونه داده‌ای را که از آن در حساب Google نسخهٔ پشتیبان تهیه شده بازیابی کنید."</string>
     <string name="crypt_keeper_failed_title">رمزگذاری ناموفق</string>
     <string name="crypt_keeper_final_desc">عملیات رمزگذاری غیر قابل بازگشت است و در صورت ایجاد وقفه در آن، داده‌های خود را از دست خواهید داد. رمزگذاری یک ساعت یا بیشتر طول می‌کشد که در طول آن، تلفن چندین بار راه‌اندازی مجدد می‌شود.</string>
     <string name="crypt_keeper_force_power_cycle">برای باز کردن قفل تلفنتان، آن را خاموش و سپس روشن کنید.</string>
@@ -1865,18 +1865,18 @@
     <string name="data_usage_app_restrict_background">داده‌های پس‌زمینه</string>
     <string name="data_usage_app_restrict_background_summary">فعال کردن مصرف داده تلفن همراه در پس‌زمینه</string>
     <string name="data_usage_app_restrict_background_summary_disabled">برای محدود کردن داده پس‌زمینه برای این برنامه، حدمجاز داده تلفن همراه تنظیم کنید.</string>
-    <string name="data_usage_app_restrict_dialog">&quot;این ویژگی سبب می‌شود زمانی‌که فقط شبکه‌های تلفن همراه در دسترس است، برنامه‌ای که به داده پس‌زمینه وابسته است متوقف شود. 
+    <string name="data_usage_app_restrict_dialog">"این ویژگی سبب می‌شود زمانی‌که فقط شبکه‌های تلفن همراه در دسترس است، برنامه‌ای که به داده پس‌زمینه وابسته است متوقف شود. 
 
-در تنظیمات موجود در برنامه می‌توانید کنترل‌های مناسب‌تری را برای مصرف داده ببینید.&quot;</string>
+در تنظیمات موجود در برنامه می‌توانید کنترل‌های مناسب‌تری را برای مصرف داده ببینید."</string>
     <string name="data_usage_app_restrict_dialog_title">محدود کردن داده‌های پس‌زمینه؟</string>
     <string name="data_usage_app_restricted">محدود شده</string>
     <string name="data_usage_app_settings">تنظیمات برنامه</string>
     <string name="data_usage_app_summary_title">‏داده تلفن همراه و Wi‑Fi</string>
     <string name="data_usage_auto_sync_off_dialog">با این کار، در مصرف باتری و استفاده از داده‌ها صرفه‌جویی می‌شود؛ اما برای جمع‌آوری اطلاعات اخیر باید هر حساب را به صورت دستی همگام‌سازی کنید. به‌علاوه در حین به‌روزرسانی‌ها هم اعلان دریافت نمی‌کنید.</string>
     <string name="data_usage_auto_sync_off_dialog_title">همگام‌سازی خودکار داده غیرفعال شود؟</string>
-    <string name="data_usage_auto_sync_on_dialog">&quot;‏هر تغییری که در حساب‌هایتان در وب بدهید به‌صورت خودکار در تلفنتان کپی می‌شود.
+    <string name="data_usage_auto_sync_on_dialog">"‏هر تغییری که در حساب‌هایتان در وب بدهید به‌صورت خودکار در تلفنتان کپی می‌شود.
 
-بعضی از حساب‌ها هم ممکن است به‌صورت خودکار هر تغییری را که در تلفنتان می‌دهید در وب کپی کنند. حساب Google به‌این‌صورت کار می‌کند.&quot;</string>
+بعضی از حساب‌ها هم ممکن است به‌صورت خودکار هر تغییری را که در تلفنتان می‌دهید در وب کپی کنند. حساب Google به‌این‌صورت کار می‌کند."</string>
     <string name="data_usage_auto_sync_on_dialog_title">همگام‌سازی خودکار داده فعال شود؟</string>
     <string name="data_usage_background_label">پس‌زمینه:</string>
     <string name="data_usage_cellular_data">داده شبکه تلفن همراه</string>
@@ -1900,9 +1900,9 @@
     <string name="data_usage_forground_label">پیش‌زمینه:</string>
     <string name="data_usage_label_background">پس‌زمینه</string>
     <string name="data_usage_label_foreground">پیش‌زمینه</string>
-    <string name="data_usage_limit_dialog_mobile">&quot;وقتی تلفنتان به محدودیتی که تنظیم کرده‌اید برسد، تلفن داده‌ شبکه همراه را خاموش می‌کند.
+    <string name="data_usage_limit_dialog_mobile">"وقتی تلفنتان به محدودیتی که تنظیم کرده‌اید برسد، تلفن داده‌ شبکه همراه را خاموش می‌کند.
 
-از آنجا که تلفن شما مصرف داد‌ه را محاسبه می‌کند و ممکن است شرکت مخابراتی‌تان مصرف داده را به روش دیگری محاسبه کند، سعی کنید محدودیت محتاطانه‌تری تنظیم کنید.&quot;</string>
+از آنجا که تلفن شما مصرف داد‌ه را محاسبه می‌کند و ممکن است شرکت مخابراتی‌تان مصرف داده را به روش دیگری محاسبه کند، سعی کنید محدودیت محتاطانه‌تری تنظیم کنید."</string>
     <string name="data_usage_limit_dialog_title">محدود کردن مصرف داده</string>
     <string name="data_usage_limit_editor_title">تنظیم حدمجاز مصرف داده</string>
     <string name="data_usage_list_mobile">تلفن همراه</string>
@@ -1936,10 +1936,10 @@
     <string name="data_usage_restrict_denied_dialog">محدود کردن داده‌‌های پس‌زمینه فقط زمانی امکان‌پذیر است که حدمجاز داده تلفن همراه تنظیم کرده باشید.</string>
     <string name="data_usage_summary_format">%1$s داده استفاده‌شده</string>
     <string name="data_usage_summary_title">مصرف داده</string>
-    <string name="data_usage_sweep_limit">^1^2&quot;
-&quot;محدودیت</string>
-    <string name="data_usage_sweep_warning">^1^2&quot;
-&quot;هشدار</string>
+    <string name="data_usage_sweep_limit">^1^2"
+"محدودیت</string>
+    <string name="data_usage_sweep_warning">^1^2"
+"هشدار</string>
     <string name="data_usage_tab_3g">2G-3G</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_ethernet">اترنت</string>
@@ -1959,8 +1959,8 @@
     <string name="data_used_template">%1$s مصرف شده</string>
     <string name="data_warning">هشدار داده</string>
     <string name="data_warning_footnote">دستگاهتان هشدار داده و محدویت داده را محاسبه می‌کند که ممکن است با داده‌های شرکت مخابراتی تفاوت داشته باشد.</string>
-    <string name="datasize_decrease_content">&quot;مخاطبین، پیام‌ها و داده‌های سیستمی هنگام پشتیبان‌گیری فشرده شده‌اند که در نتیجه اندازه فایلشان کوچک‌تر شده است.
-&quot;</string>
+    <string name="datasize_decrease_content">"مخاطبین، پیام‌ها و داده‌های سیستمی هنگام پشتیبان‌گیری فشرده شده‌اند که در نتیجه اندازه فایلشان کوچک‌تر شده است.
+"</string>
     <string name="datasize_decrease_title">چرا برخی فایل‌های پشتیبان‌گیری از موارد واقعی کوچک‌ترند؟</string>
     <string name="date_and_time">تاریخ و زمان</string>
     <string name="date_and_time_settings_summary">تنظیم تاریخ، ساعت، منطقهٔ زمانی و قالب‌ها</string>
@@ -2128,17 +2128,17 @@
     <string name="devices_title">دستگاه‌ها</string>
     <string name="dial_application_title">شماره‌گیری</string>
     <string name="dial_pad_tones_title">آهنگ‌های صفحه شماره‌گیری</string>
-    <string name="dialog_background_check_message">&quot;تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا %1$s مرتب تلفنتان را بیدار می‌کند.
+    <string name="dialog_background_check_message">"تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا %1$s مرتب تلفنتان را بیدار می‌کند.
 
-برای برطرف کردن این مشکل، می‌توانید %1$s را متوقف کنید و از اجرا شدن آن در پس‌زمینه جلوگیری کنید.&quot;</string>
+برای برطرف کردن این مشکل، می‌توانید %1$s را متوقف کنید و از اجرا شدن آن در پس‌زمینه جلوگیری کنید."</string>
     <string name="dialog_background_check_ok">خاموش کردن</string>
     <string name="dialog_background_check_title">استفاده در پس‌زمینه خاموش شود و برنامه متوقف شود؟</string>
     <string name="dialog_backup_title">پیش از بازنشانی به تنظیمات کارخانه پشتیبان‌گیری‌ها به‌روز شوند؟</string>
     <string name="dialog_chose_item">یک مورد را برای نمایش انتخاب کنید</string>
     <string name="dialog_content_login">آیا برای به‌روزرسانی وارد حساب Mi خود می‌شوید؟</string>
-    <string name="dialog_location_message">&quot;تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا زیرا وقتی درحال استفاده از %1$s نیستید مرتب مکان شما را درخواست می‌کند.
+    <string name="dialog_location_message">"تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا زیرا وقتی درحال استفاده از %1$s نیستید مرتب مکان شما را درخواست می‌کند.
 
-برای برطرف کردن این مشکل، می‌توانید مکان را برای این برنامه خاموش کنید.&quot;</string>
+برای برطرف کردن این مشکل، می‌توانید مکان را برای این برنامه خاموش کنید."</string>
     <string name="dialog_location_ok">خاموش کردن</string>
     <string name="dialog_location_title">مکان خاموش شود؟</string>
     <string name="dialog_no">خیر</string>
@@ -2151,16 +2151,16 @@
     <string name="dialog_speaker_auto_clean_button">فهمیدم</string>
     <string name="dialog_speaker_auto_clean_content">پاک‌سازی ۳۰ ثانیه طول می‌کشد. این صفحه را ترک نکنید. برای اثرگذاری بهتر صدای گوشی را تا آخر زیاد کنید.</string>
     <string name="dialog_speaker_auto_clean_title">توجه</string>
-    <string name="dialog_stop_message">&quot;تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا %1$s آن را بیدار نگه می‌دارد.
+    <string name="dialog_stop_message">"تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا %1$s آن را بیدار نگه می‌دارد.
 
 برای برطرف کردن این مشکل، می‌توانید برنامه را متوقف کنید.
 
-اگر مشکل ادامه داشت، ممکن است لازم باشد برنامه را حذف نصب کنید تا عملکرد باتری بهبود یابد.&quot;</string>
-    <string name="dialog_stop_message_wakeup_alarm">&quot;تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا %1$s مرتب تلفنتان را بیدار می‌کند.
+اگر مشکل ادامه داشت، ممکن است لازم باشد برنامه را حذف نصب کنید تا عملکرد باتری بهبود یابد."</string>
+    <string name="dialog_stop_message_wakeup_alarm">"تلفنتان نمی‌تواند به‌طور عادی میزان استفاده از شارژ باتری را مدیریت کند، زیرا %1$s مرتب تلفنتان را بیدار می‌کند.
 
 برای برطرف کردن این مشکل، می‌توانید %1$s را متوقف کنید.
 
-اگر مشکل ادامه پیدا کرد، ممکن است لازم باشد برنامه را حذف نصب کنید تا عملکرد باتری بهبود یابد.&quot;</string>
+اگر مشکل ادامه پیدا کرد، ممکن است لازم باشد برنامه را حذف نصب کنید تا عملکرد باتری بهبود یابد."</string>
     <string name="dialog_stop_ok">متوقف کردن برنامه</string>
     <string name="dialog_stop_title">برنامه متوقف شود؟</string>
     <string name="dialog_title_color_calibration">اصلاح رنگ از پیش تعیین شده</string>
@@ -2277,7 +2277,7 @@
     <string name="dndm_wristband">فعال‌سازی با مچ‌بند Mi</string>
     <string name="dndm_wristband_detailed">اگر مچ‌بند Mi ظرف یک ساعت پیش از آغاز زمان برنامه‌ریزی شده تشخیص داد که خواب هستید، حالت «مزاحم نشوید» روشن گردد</string>
     <string name="do_disclosure_generic">این دستگاه را سازمانتان مدیریت می‌کند.</string>
-    <string name="do_disclosure_learn_more_separator">&quot; &quot;</string>
+    <string name="do_disclosure_learn_more_separator">" "</string>
     <string name="do_disclosure_with_name">این دستگاه توسط %s مدیریت می‌شود.</string>
     <string name="do_not_disturb_mode">مزاحم نشوید</string>
     <string name="dock_audio_media_disabled">فقط صوت</string>
@@ -2352,8 +2352,8 @@
     <string name="dual_wifi_switching_prompt">تعویض بین شبکه‌ها</string>
     <string name="dual_wifi_switching_summary">افزاینده سرعت Wi-Fi دو بانده به Wi-Fi با دو باند متفاوت نیاز دارد. در صورت اتصال به یک شبکه اصلی دیگر،‌ اتصال شبکه کمکی از بین خواهد رفت.</string>
     <string name="dump_log">دریافت گزارشات مربوط به اشکال</string>
-    <string name="dump_log_summary">&quot;این ویژگی برای تولید گزارش ۲۸۴ در نسخه‌های آلفا و بتای MIUI طراحی شده است. از آن با احتیاط استفاده کنید.
-می‌توانید گزارشات تولید شده را در مدیریت فایل ببینید.&quot;</string>
+    <string name="dump_log_summary">"این ویژگی برای تولید گزارش ۲۸۴ در نسخه‌های آلفا و بتای MIUI طراحی شده است. از آن با احتیاط استفاده کنید.
+می‌توانید گزارشات تولید شده را در مدیریت فایل ببینید."</string>
     <string name="dump_log_title">درباره این ویژگی</string>
     <string name="eab_provisioned_switch_string">‏EAB/حضور مشروط است</string>
     <string name="easymode_hint">برای خاموش کردن حالت ساده ضربه بزنید</string>
@@ -2387,7 +2387,7 @@
     <string name="emergency_tone_title">سیگنال شماره‌گیری اضطراری</string>
     <string name="emergency_tone_vibrate">لرزش‌ها</string>
     <string name="empty_networks_list">شبکه‌ای پیدا نشد.</string>
-    <string name="empty_title">&quot; &quot;</string>
+    <string name="empty_title">" "</string>
     <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">اشکال‌زدایی USB</string>
     <string name="enable_adb_summary">حالت عیب‌یابی هنگامی که USB متصل است</string>
@@ -2430,33 +2430,33 @@
     <string name="encryption_and_credential_settings_title">رمزگذاری و اطلاعات کاربری</string>
     <string name="encryption_continue_button">ادامه</string>
     <string name="encryption_interstitial_header">راه‌اندازی امن</string>
-    <string name="encryption_interstitial_message_password">&quot;برای محافظت بیشتر از دستگاه، می‌توانید راه‌اندازی آن را به وارد کردن گذرواژه‌ موکول کنید. تا‌ زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس، پیام یا اعلان (ازجمله هشدار) دریافت کند. 
+    <string name="encryption_interstitial_message_password">"برای محافظت بیشتر از دستگاه، می‌توانید راه‌اندازی آن را به وارد کردن گذرواژه‌ موکول کنید. تا‌ زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس، پیام یا اعلان (ازجمله هشدار) دریافت کند. 
 
-این امر به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن گذرواژه الزامی است؟&quot;</string>
-    <string name="encryption_interstitial_message_password_for_face">&quot;علاوه بر استفاده از چهره‌تان برای باز کردن قفل دستگاه، به‌منظور محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن گذرواژه موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
+این امر به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن گذرواژه الزامی است؟"</string>
+    <string name="encryption_interstitial_message_password_for_face">"علاوه بر استفاده از چهره‌تان برای باز کردن قفل دستگاه، به‌منظور محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن گذرواژه موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
 
-این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. وارد کردن گذرواژه برای راه‌اندازی دستگاهتان الزامی شود؟&quot;</string>
-    <string name="encryption_interstitial_message_password_for_fingerprint">&quot;علاوه بر استفاده از اثرانگشت برای باز کردن قفل دستگاه، برای محافظت بیشتر می‌توانید وارد کردن گذرواژه را برای راه‌اندازی آن لازم کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
+این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. وارد کردن گذرواژه برای راه‌اندازی دستگاهتان الزامی شود؟"</string>
+    <string name="encryption_interstitial_message_password_for_fingerprint">"علاوه بر استفاده از اثرانگشت برای باز کردن قفل دستگاه، برای محافظت بیشتر می‌توانید وارد کردن گذرواژه را برای راه‌اندازی آن لازم کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
 
-این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. وارد کردن گذرواژه برای راه‌اندازی دستگاهتان الزامی شود؟&quot;</string>
-    <string name="encryption_interstitial_message_pattern">&quot;برای محافظت بیشتر از دستگاه، می‌توانید راه‌اندازی آن را به وارد کردن الگو موکول کنید. تا‌ زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس، پیام یا اعلان (ازجمله هشدار) دریافت کند. 
+این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. وارد کردن گذرواژه برای راه‌اندازی دستگاهتان الزامی شود؟"</string>
+    <string name="encryption_interstitial_message_pattern">"برای محافظت بیشتر از دستگاه، می‌توانید راه‌اندازی آن را به وارد کردن الگو موکول کنید. تا‌ زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس، پیام یا اعلان (ازجمله هشدار) دریافت کند. 
 
-این امر به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن الگو الزامی است؟&quot;</string>
-    <string name="encryption_interstitial_message_pattern_for_face">&quot;علاوه بر استفاده از چهره برای باز کردن قفل دستگاه، به‌منظور محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن الگو موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
+این امر به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن الگو الزامی است؟"</string>
+    <string name="encryption_interstitial_message_pattern_for_face">"علاوه بر استفاده از چهره برای باز کردن قفل دستگاه، به‌منظور محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن الگو موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
 
-این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن الگو الزامی است؟&quot;</string>
-    <string name="encryption_interstitial_message_pattern_for_fingerprint">&quot;علاوه بر استفاده از اثر انگشت برای باز کردن قفل دستگاه، برای محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن الگو موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
+این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن الگو الزامی است؟"</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"علاوه بر استفاده از اثر انگشت برای باز کردن قفل دستگاه، برای محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن الگو موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
 
-این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن الگو الزامی است؟&quot;</string>
-    <string name="encryption_interstitial_message_pin">&quot;برای محافظت بیشتر از دستگاه، می‌توانید راه‌اندازی آن را به وارد کردن پین موکول کنید. تا‌ زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس، پیام یا اعلان (ازجمله هشدار) دریافت کند. 
+این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن الگو الزامی است؟"</string>
+    <string name="encryption_interstitial_message_pin">"برای محافظت بیشتر از دستگاه، می‌توانید راه‌اندازی آن را به وارد کردن پین موکول کنید. تا‌ زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس، پیام یا اعلان (ازجمله هشدار) دریافت کند. 
 
-این امر به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن پین الزامی است؟&quot;</string>
-    <string name="encryption_interstitial_message_pin_for_face">&quot;علاوه بر استفاده از چهره رای باز کردن قفل دستگاه، به‌منظور محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن پین موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
+این امر به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن پین الزامی است؟"</string>
+    <string name="encryption_interstitial_message_pin_for_face">"علاوه بر استفاده از چهره رای باز کردن قفل دستگاه، به‌منظور محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن پین موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
 
-این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن پین الزامی است؟&quot;</string>
-    <string name="encryption_interstitial_message_pin_for_fingerprint">&quot;علاوه بر استفاده از اثر انگشت برای باز کردن قفل دستگاه، برای محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن پین موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
+این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن پین الزامی است؟"</string>
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"علاوه بر استفاده از اثر انگشت برای باز کردن قفل دستگاه، برای محافظت بیشتر می‌توانید راه‌اندازی آن را به وارد کردن پین موکول کنید. تا زمانی‌که دستگاه راه‌اندازی نشود، نمی‌تواند تماس تلفنی، پیام یا اعلان (ازجمله هشدار) دریافت کند.
 
-این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن پین الزامی است؟&quot;</string>
+این کار به محافظت از داده‌ها در دستگاه‌های گم‌شده یا به‌سرقت‌رفته کمک می‌کند. برای راه‌اندازی دستگاهتان وارد کردن پین الزامی است؟"</string>
     <string name="encryption_interstitial_no">نه</string>
     <string name="encryption_interstitial_yes">بله</string>
     <string name="encryption_progress_summary">درحال رمزگذاری، دستگاه خود را دوباره راه‌اندازی نفرمایید.</string>
@@ -2488,9 +2488,9 @@
     <string name="enterprise_privacy_failed_password_wipe_device">ورود گذرواژه ناموفق، پیش از حذف همه اطلاعات دستگاه</string>
     <string name="enterprise_privacy_failed_password_wipe_work">ورود گذرواژه ناموفق، پیش از حذف داده‌های نمایه کاری</string>
     <string name="enterprise_privacy_global_http_proxy">‏تنظیم پروکسی HTTP جهانی</string>
-    <string name="enterprise_privacy_header">&quot;برای تامین دسترسی به داده‌های کاری، ممکن است سازمانتان تنظیمات دستگاه شما را تغییر دهد و در آن نرم‌افزار نصب کند.
+    <string name="enterprise_privacy_header">"برای تامین دسترسی به داده‌های کاری، ممکن است سازمانتان تنظیمات دستگاه شما را تغییر دهد و در آن نرم‌افزار نصب کند.
 
-برای جزئیات بیشتر، با سرپرست سازمانتان تماس بگیرید.&quot;</string>
+برای جزئیات بیشتر، با سرپرست سازمانتان تماس بگیرید."</string>
     <string name="enterprise_privacy_input_method">صفحه‌کلید پیش‌فرض</string>
     <string name="enterprise_privacy_input_method_name">تنظیم روی %s</string>
     <string name="enterprise_privacy_installed_packages">فهرست برنامه‌های دستگاه شما</string>
@@ -2743,20 +2743,20 @@
     <string name="font_size_normal">کوچک</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_preview_text">Servez à ce monsieur une bière et des kiwis.</string>
-    <string name="font_size_preview_text_body">&quot;با وجودی که دورتی و دوستانش عینک‌هایی سبز به چشم داشتند چشمانشان در اولین نگاه از درخشندگی این شهر فوق‌العاده خیره شد. خیابان‌ها با ردیف خانه‌هایی که همه از مرمر سبز ساخته شده بودند و در همه جای آن با زمردهای درخشنده تزئین شده بود می‌درخشید. آنها در پیاده‌رویی از همان مرمر سبز راه می‌رفتند و سنگفرش‌های پیاده‌رو با ردیف‌های زمردی که نزدیک به هم قرار گرفته بودند و در نور خورشید می‌درخشیدند به هم پیوسته بود. قاب‌های پنجره‌ها از شیشه سبز بود؛ حتی آسمان بالای شهر رنگ‌مایه سبز داشت و اشعه خورشید سبزرنگ بود. 
+    <string name="font_size_preview_text_body">"با وجودی که دورتی و دوستانش عینک‌هایی سبز به چشم داشتند چشمانشان در اولین نگاه از درخشندگی این شهر فوق‌العاده خیره شد. خیابان‌ها با ردیف خانه‌هایی که همه از مرمر سبز ساخته شده بودند و در همه جای آن با زمردهای درخشنده تزئین شده بود می‌درخشید. آنها در پیاده‌رویی از همان مرمر سبز راه می‌رفتند و سنگفرش‌های پیاده‌رو با ردیف‌های زمردی که نزدیک به هم قرار گرفته بودند و در نور خورشید می‌درخشیدند به هم پیوسته بود. قاب‌های پنجره‌ها از شیشه سبز بود؛ حتی آسمان بالای شهر رنگ‌مایه سبز داشت و اشعه خورشید سبزرنگ بود. 
 
 مردم زیادی از مرد و زن و بچه در اطراف راه می‌رفتند که همه لباس‌های سبزی پوشیده بودند و پوست بدنشان ته رنگ سبزی داشت. آنها به دوروتی و دوستان عجیبش با تعجب نگاه می‌کردند. بچه‌ها به‌محض دیدن شیر همه فرار کردند و پشت سر مادرانشان پنهان شدند؛ اما هیچ‌کس با آنها صحبت نکرد. تعداد زیادی مغازه در خیابان بود و دوروتی متوجه شد که همه‌چیز در این مغازه‌ها به رنگ سبز است. آبنبات سبز و پف فیل سبز برای فروش گذاشته شده بود، همین‌طور همه مدل کفش، کلاه و لباس که همه به رنگ سبز بودند. در جایی مردی لیموناد سبز می‌فروخت و وقتی بچه‌ها از او خرید می‌کردند دوروتی دید که پول آن را با سکه‌هایی سبزرنگ پرداختند. 
 
-به‌نظر می‌رسید که اسب یا حیوان دیگری در آنجا نیست؛ مردها چیزها را با گاری‌های کوچک سبزی به این طرف و آن طرف حمل می‌کردند و گاری را در جلوشان هل می‌دادند. به‌نظر می‌رسید همه شاد و راضی و مرفه بودند.&quot;</string>
+به‌نظر می‌رسید که اسب یا حیوان دیگری در آنجا نیست؛ مردها چیزها را با گاری‌های کوچک سبزی به این طرف و آن طرف حمل می‌کردند و گاری را در جلوشان هل می‌دادند. به‌نظر می‌رسید همه شاد و راضی و مرفه بودند."</string>
     <string name="font_size_preview_text_headline">نوشتار نمونه</string>
     <string name="font_size_preview_text_subtitle">فصل ۱۱: شهر زمردی شگفت‌انگیز اوز</string>
     <string name="font_size_preview_text_title">جادوگر شهر اوز</string>
     <string name="font_size_save">تأیید</string>
     <string name="font_size_small">کوچکتر</string>
-    <string name="font_size_summary">&quot;تغییر اندازه متن برای صفحه اصلی، حباب اعلان، شماره‌گیر، و منوهای سیستم.
+    <string name="font_size_summary">"تغییر اندازه متن برای صفحه اصلی، حباب اعلان، شماره‌گیر، و منوهای سیستم.
 
-&quot;</string>
-    <string name="font_size_summary1">&quot;اگر متن سیستم شما هنوز هم بیش از حد کوچک است،  را امتحان کنید&quot;</string>
+"</string>
+    <string name="font_size_summary1">"اگر متن سیستم شما هنوز هم بیش از حد کوچک است،  را امتحان کنید"</string>
     <string name="font_size_summary2">حالت نازک.</string>
     <string name="forbidden_network">(ممنوع است)</string>
     <string name="forbidden_switch_apn_string">تنظیمات APN انتخاب شده با نوع شبکه کنونی مطابقت ندارد</string>
@@ -2827,8 +2827,8 @@
     <string name="freeform_guide_settings">پنجره شناور</string>
     <string name="freeform_guide_slide_up_to_close_summary">از نوار اقدام یک پنجره شناور به بالا بکشید</string>
     <string name="freeform_guide_slide_up_to_close_title">بستن پنجره‌های شناور</string>
-    <string name="freeform_vedio_description">&quot;·برای باز کردن در یک پنجره شناور، یک اعلان را فشرده و نگه داشته و سپس به پایین بکشید.
-·برای انتخاب برنامه‌ها در موارد تازه روی «پنجره‌های شناور» بزنید.&quot;</string>
+    <string name="freeform_vedio_description">"·برای باز کردن در یک پنجره شناور، یک اعلان را فشرده و نگه داشته و سپس به پایین بکشید.
+·برای انتخاب برنامه‌ها در موارد تازه روی «پنجره‌های شناور» بزنید."</string>
     <string name="frequently_fragment_delete">حذف</string>
     <string name="frequently_fragment_tempty">موارد پراستفاده در اینجا فرست خواهند شد</string>
     <string name="fsg_mistake_touch_summary">در برخی صحنه‌ها، مانند بازی‌ها و ویدئوهای تمام‌صفحه، حرکات انگشتان نیاز به کشیدن دوباره برای اثر گذاشتن دارند</string>
@@ -2837,9 +2837,9 @@
     <string name="full_screen_keyboard_optimization">بهبود صفحه کلید</string>
     <string name="full_screen_keyboard_settings">تنظیمات نمایش تمام‌صفحه صفحه کلید</string>
     <string name="full_transparent_smarrcover_title">روکش جلوی شفاف</string>
-    <string name="fullbackup_data_summary">&quot;‏انجام پشتیبان‌گیری خودکار از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و داده‌های برنامه (مثل تنظیمات و فایل‌های ذخیره شده توسط برنامه‌ها) ازراه‌دور.
+    <string name="fullbackup_data_summary">"‏انجام پشتیبان‌گیری خودکار از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و داده‌های برنامه (مثل تنظیمات و فایل‌های ذخیره شده توسط برنامه‌ها) ازراه‌دور.
 
-وقتی پشتیبان‌گیری خودکار را روشن می‌کنید، داده‌های دستگاه و برنامه به‌صورت دوره‌ای ازراه‌دور ذخیره می‌شوند. داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (براساس تنظیمات برنامه‌نویس) ذخیره کرده است، از جمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها.&quot;</string>
+وقتی پشتیبان‌گیری خودکار را روشن می‌کنید، داده‌های دستگاه و برنامه به‌صورت دوره‌ای ازراه‌دور ذخیره می‌شوند. داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (براساس تنظیمات برنامه‌نویس) ذخیره کرده است، از جمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها."</string>
     <string name="fullbackup_erase_dialog_message">‏پشتیبان گرفتن از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و اطلاعات برنامه (مثل تنظیمات و فایل‌های ذخیره شده توسط برنامه‌ها) متوقف شود و همچنین همه رونوشت‌ها در سرورهای راه‌دور پاک شوند؟</string>
     <string name="function_description">درباره این ویژگی</string>
     <string name="gadget_picker_title">انتخاب اسبابک</string>
@@ -3071,9 +3071,9 @@
     <string name="high_power_filter_on">بهینه‌نشده</string>
     <string name="high_power_off">بهینه‌سازی مصرف باتری</string>
     <string name="high_power_on">بهینه نشده</string>
-    <string name="high_power_prompt_body">&quot;اجازه دادن به %1$s برای اینکه همیشه در پس‌زمینه اجرا شود، ممکن است عمر باتری را کاهش دهد. 
+    <string name="high_power_prompt_body">"اجازه دادن به %1$s برای اینکه همیشه در پس‌زمینه اجرا شود، ممکن است عمر باتری را کاهش دهد. 
 
-بعداً می‌توانید از «تنظیمات» &gt; «برنامه‌ها و اعلان‌ها» این مورد را تغییر دهید.&quot;</string>
+بعداً می‌توانید از «تنظیمات» &gt; «برنامه‌ها و اعلان‌ها» این مورد را تغییر دهید."</string>
     <string name="high_power_prompt_title">به برنامه اجازه می‌دهید همیشه در پس‌زمینه اجرا شود؟</string>
     <string name="high_power_system">بهینه‌سازی مصرف باتری در دسترس نیست</string>
     <string name="history_details_title">جزئیات سابقه</string>
@@ -3085,7 +3085,7 @@
     <string name="homepage_all_settings">همه تنظیمات</string>
     <string name="homepage_condition_footer_content_description">کوچک کردن</string>
     <string name="homepage_personal_settings">پیشنهادها</string>
-    <string name="how_backup_content">&quot;شما می‌توانید موارد پشتیبان‌گیری شده را به صورت محلی و یا در فضای ابری ذخیره کنید. موارد پشتیبان‌گیری شده محلی می‌توانند در دستگاه موبایل، رایانه و یا درایو USB ذخیره شوند.
+    <string name="how_backup_content">"شما می‌توانید موارد پشتیبان‌گیری شده را به صورت محلی و یا در فضای ابری ذخیره کنید. موارد پشتیبان‌گیری شده محلی می‌توانند در دستگاه موبایل، رایانه و یا درایو USB ذخیره شوند.
 
 دستگاه موبایل
 تنظیمات سیستم، حساب‌ها، داده‌های برنامه‌ها و سایر موارد در یک فایل جداگانه در دستگاه شما (MIUI-backup-AllBackup) ذخیره می‌شوند. نکته: بازنشانی به تنظیمات کارخانه چنین پشتیبان‌گیری‌هایی را برای همیشه حذف خواهد کرد. به یاد داشته باشید پشتیبان‌گیری‌ها را در رایانه خود کپی کنید.
@@ -3094,15 +3094,15 @@
 یک پشتیبان‌گیری در این دستگاه ایجاد کرده، سپس به MIUI-backup-AllBackup رفته و پشتیبان‌گیری را از طریق کابل USB به رایانه خود کپی کنید.
 
 فضای ابری Xiaomi
-همگام‌سازی مخاطبین، عکس‌ها، ویدئوها، فهرست برنامه‌های شما، تنظیمات سیستم و چیدمان صفحه اصلی با فضای ابری.&quot;</string>
+همگام‌سازی مخاطبین، عکس‌ها، ویدئوها، فهرست برنامه‌های شما، تنظیمات سیستم و چیدمان صفحه اصلی با فضای ابری."</string>
     <string name="how_backup_title">چگونه می‌توانم از موارد پشتیبان‌گیری کنم؟</string>
-    <string name="how_encrypt_content">&quot;شما فقط می‌توانید پشتیبان‌گیری‌های محلی را رمزگذاری کنید. در این‌جا چند روش رمزگذاری برای استفاده شما وجود دارد:
+    <string name="how_encrypt_content">"شما فقط می‌توانید پشتیبان‌گیری‌های محلی را رمزگذاری کنید. در این‌جا چند روش رمزگذاری برای استفاده شما وجود دارد:
 الف) به تنظیمات &gt; تنظیمات بیشتر صفحه پشتیبان‌گیری‌های محلی رفته، روی دکمه زده تا رمزگذاری روشن شود و سپس وارد حساب Mi شوید. پشتیبان‌گیری‌ها پس از آن به صورت خودکار رمزگذاری خواهند شد. به یاد داشته باشید که برای بازیابی موارد از پشتیبان‌گیری‌های رمزگذاری شده نیاز به ورود به حساب Mi خود دارید.
 ب) چنانچه از Mi PC Suite برای بازیابی موارد استفاده می‌کنید، می‌توانید از گزینه رمزگذاری در آن‌جا استفاده کنید.
 
-نکته: گذرواژه‌ای که برای پشتیبان‌گیری‌های رمزگذاری شده تنظیم می‌کنید را به خاطر بسپارید! در صورت فراموشی دیگر نمی‌توانید پشتیبان‌گیری‌های خود را رمزگشایی کنید.&quot;</string>
+نکته: گذرواژه‌ای که برای پشتیبان‌گیری‌های رمزگذاری شده تنظیم می‌کنید را به خاطر بسپارید! در صورت فراموشی دیگر نمی‌توانید پشتیبان‌گیری‌های خود را رمزگشایی کنید."</string>
     <string name="how_encrypt_title">چگونه نسخه‌های پشتیبان خود را رمزگذاری کنم؟</string>
-    <string name="how_restore_backup_content">&quot;در این‌جا چگونگی بازیابی مواردی که با استفاده از روش‌های مختلف پشتیبان‌گیری کرده‌اید را نشان می‌دهیم:
+    <string name="how_restore_backup_content">"در این‌جا چگونگی بازیابی مواردی که با استفاده از روش‌های مختلف پشتیبان‌گیری کرده‌اید را نشان می‌دهیم:
 
 دستگاه موبایل
 روی «دستگاه موبایل» زده و گزینه برای بازیابی موارد را یافته و برای ادامه نسخه پشتیبان را برای ادامه انتخاب کنید.
@@ -3114,7 +3114,7 @@
 نسخه پشتیبان را از درایو USB خود به MIUI-backup-AllBackup کپی کرده و برای ادامه گزینه بازیابی موارد از درایو USB را انتخاب کنید.
 
 فضای ابری Xiaomi
-فضای ابری Xiaomi را باز کرده و موارد را از آن‌جا بازیابی کنید.&quot;</string>
+فضای ابری Xiaomi را باز کرده و موارد را از آن‌جا بازیابی کنید."</string>
     <string name="how_restore_backup_title">چگونه موارد پشتیبان‌گیری شده را بازیابی کنم؟</string>
     <string name="http_invoke_app">برنامه‌های وب</string>
     <string name="http_invoke_app_summary">برنامه‌ها را بدون نصب آن‌ها سریع‌تر باز کنید</string>
@@ -3170,7 +3170,7 @@
     <string name="input_method_function_clipboard">Clipboard and frequent phrases</string>
     <string name="input_method_function_clipboard_des">Tap to view clipboard contents and frequent phrases</string>
     <string name="input_method_function_no_function">None</string>
-    <string name="input_method_function_no_function_des">&quot;Don&apos;t show any shortcuts&quot;</string>
+    <string name="input_method_function_no_function_des">"Don't show any shortcuts"</string>
     <string name="input_method_function_switch">Switch between keyboards</string>
     <string name="input_method_function_switch_des">Tap to switch to a different keyboard</string>
     <string name="input_method_function_voice">Voice input</string>
@@ -3630,9 +3630,9 @@
     <string name="lockpassword_choose_your_password_header_for_face">برای استفاده از احراز هویت با چهره، گذرواژه تنظیم کنید</string>
     <string name="lockpassword_choose_your_password_header_for_fingerprint">تنظیم گذرواژه برای استفاده از اثر انگشت</string>
     <string name="lockpassword_choose_your_password_message">برای امنیت، گذرواژه تنظیم کنید</string>
-    <string name="lockpassword_choose_your_password_second_space">&quot;برای فضای دوم PIN تنظیم کنید.
+    <string name="lockpassword_choose_your_password_second_space">"برای فضای دوم PIN تنظیم کنید.
 این PIN باید به اندازه PIN
-فضای نخست شما حاوی عدد باشد.&quot;</string>
+فضای نخست شما حاوی عدد باشد."</string>
     <string name="lockpassword_choose_your_pattern_header">الگوی خود را تنظیم کنید</string>
     <string name="lockpassword_choose_your_pattern_header_for_face">برای استفاده از احراز هویت با چهره، الگو تنظیم کنید</string>
     <string name="lockpassword_choose_your_pattern_header_for_fingerprint">تنظیم الگو برای استفاده از اثر انگشت</string>
@@ -3640,8 +3640,8 @@
     <string name="lockpassword_choose_your_pin_header">PIN خود را تنظیم کنید</string>
     <string name="lockpassword_choose_your_pin_header_for_face">برای استفاده از احراز هویت با چهره، پین تنظیم کنید</string>
     <string name="lockpassword_choose_your_pin_header_for_fingerprint">تنظیم پین برای استفاده از اثر انگشت</string>
-    <string name="lockpassword_choose_your_pin_header_second_space">&quot;تنظیم PIN 
- برای فضای دوم&quot;</string>
+    <string name="lockpassword_choose_your_pin_header_second_space">"تنظیم PIN 
+ برای فضای دوم"</string>
     <string name="lockpassword_choose_your_pin_message">برای امنیت، پین تنظیم کنید</string>
     <string name="lockpassword_choose_your_pin_title">بین %d تا %d رقم وارد کنید</string>
     <string name="lockpassword_choose_your_screen_lock_header">تنظیم قفل صفحه</string>
@@ -3806,41 +3806,41 @@
     <string name="manual">دفترچه راهنما</string>
     <string name="manual_mode_disallowed_summary">هنگام اتصال به %1$s، دردسترس نیست</string>
     <string name="manually_add_network">افزودن شبکه</string>
-    <string name="master_clear_accounts">&quot;
+    <string name="master_clear_accounts">"
 
 شما در حال حاضر به حساب‌های زیر وارد شده‌اید:
-&quot;</string>
+"</string>
     <string name="master_clear_all">تمام داده‌های حافظه داخلی گوشی شما پاک شوند؟ این عمل قابل برگشت نیست!</string>
     <string name="master_clear_apply_step_1">«بازنشانی به داده‌های کارخانه» تمام داده‌های روی گوشی شما را پاک خواهد کرد. داده‌ها شامل عکس‌ها، آهنگ‌ها، یادداشت‌ها و سایر داده‌های شخصی است. مطمئن شوید همه موارد مهم را روی رایانه خود پشتیبان گیری کرده‌اید.</string>
     <string name="master_clear_apply_step_2">مطمئن شوید تمام موارد مهم را روی رایانه خود پشتیبان‌گیری کرده‌اید. تمام داده‌های روی این دستگاه هنگام بازنشانی پاک خواهند شد. مواردی که پشتیبان‌گیری نشده‌اند را دیگر نمی‌توانید بازیابی کنید.</string>
     <string name="master_clear_apply_title">توجه</string>
     <string name="master_clear_button_text">پاک کردن تمام داده‌ها</string>
     <string name="master_clear_confirm_title">همه داده‌ها پاک شود؟</string>
-    <string name="master_clear_desc">‏با این کار همه داده‌های حافظه داخلی&quot; تلفنتان پاک می‌شود، از جمله: 
+    <string name="master_clear_desc">‏با این کار همه داده‌های حافظه داخلی" تلفنتان پاک می‌شود، از جمله: 
 
-&quot;حساب Google شما&quot;
-&quot;تنظیمات و داده‌های سیستم و برنامه&quot;
-&quot;برنامه‌های بارگیری‌شده</string>
+"حساب Google شما"
+"تنظیمات و داده‌های سیستم و برنامه"
+"برنامه‌های بارگیری‌شده</string>
     <string name="master_clear_desc_also_erases_esim">سیم‌کارت داخلی</string>
-    <string name="master_clear_desc_also_erases_external">موسیقی&quot;
-&quot;عکس ها&quot;
-&quot;سایر اطلاعات کاربر</string>
-    <string name="master_clear_desc_erase_external_storage">&quot;‏
+    <string name="master_clear_desc_also_erases_external">موسیقی"
+"عکس ها"
+"سایر اطلاعات کاربر</string>
+    <string name="master_clear_desc_erase_external_storage">"‏
 
-برای پاک کردن موسیقی، عکس‌ها و سایر داده‌های کاربر، &quot;حافظهٔ USB باید پاک شود.</string>
-    <string name="master_clear_desc_no_cancel_mobile_plan">&quot;
+برای پاک کردن موسیقی، عکس‌ها و سایر داده‌های کاربر، "حافظهٔ USB باید پاک شود.</string>
+    <string name="master_clear_desc_no_cancel_mobile_plan">"
 
-با این کار طرح سرویس تلفن همراهتان لغو نخواهد شد.&quot;</string>
+با این کار طرح سرویس تلفن همراهتان لغو نخواهد شد."</string>
     <string name="master_clear_erase_application_progress">در حال پاک کردن برنامه‌ها…</string>
     <string name="master_clear_failed">هیچ بازنشانی انجام نشد زیرا سرویس پاکسازی سیستم در دسترس نیست.</string>
     <string name="master_clear_final_button_text">پاک کردن همه موارد</string>
     <string name="master_clear_final_desc">همه اطلاعات شخصی و برنامه‌های بارگیری‌شده حذف خواهد شد. این کنش واگرد نمی‌شود.</string>
     <string name="master_clear_final_desc_esim">همه اطلاعات شخصی‌تان، ازجمله برنامه‌ها و سیم‌کارت‌های بارگیری‌شده، حذف می‌شود. این کنش واگرد نمی‌شود.</string>
     <string name="master_clear_not_available">بازنشانی به تنظیمات کارخانه برای این کاربر در دسترس نیست</string>
-    <string name="master_clear_other_users_present">&quot;
+    <string name="master_clear_other_users_present">"
 
 کاربران دیگری در این دستگاه وجود دارند.
-&quot;</string>
+"</string>
     <string name="master_clear_personal_data">تمام اطلاعات شخصی شما پاک شوند؟ این عمل قابل برگشت نیست!</string>
     <string name="master_clear_personal_data_application">اطلاعات شخصی شما و برنامه‌های دانلود شده پاک شوند؟ این عمل قابل برگشت نیست!</string>
     <string name="master_clear_personal_data_sdcard">اطلاعات شخصی و مطالب شما پاک شوند؟ این عمل قابل برگشت نیست!</string>
@@ -3850,11 +3850,11 @@
     <string name="master_clear_title">پاک‌سازی همه داده‌ها (بازنشانی به تنظیمات کارخانه)</string>
     <string name="master_clear_title_new">بازنشانی به تنظیمات کارخانه</string>
     <string name="max_aspect_settings_all_app_display_loading">چند لحظه…</string>
-    <string name="max_cpu10_info">&quot;۱۰ هسته‌ای حداکثری &quot;</string>
+    <string name="max_cpu10_info">"۱۰ هسته‌ای حداکثری "</string>
     <string name="max_cpu2_info">دو هسته‌ای حداکثری</string>
-    <string name="max_cpu4_info">&quot;چهار هسته‌ای حداکثری &quot;</string>
-    <string name="max_cpu6_info">&quot;6 هسته‌ای حداکثری &quot;</string>
-    <string name="max_cpu8_info">&quot;۸ هسته‌ای حداکثری &quot;</string>
+    <string name="max_cpu4_info">"چهار هسته‌ای حداکثری "</string>
+    <string name="max_cpu6_info">"6 هسته‌ای حداکثری "</string>
+    <string name="max_cpu8_info">"۸ هسته‌ای حداکثری "</string>
     <string name="max_fingerprint_number_reached">نمی‌توان بیش از ۵ اثر انگشت افزود. برای افزودن یک اثر انگشت جدید، ابتدا یکی از اثرات انگشت موجود را حذف کنید.</string>
     <string name="max_fingerprint_reached_toast">می‌توانید تا ۵ اثر انگشت بیافزایید</string>
     <string name="maximum_memory_use">حداکثر مصرف حافظه</string>
@@ -3955,8 +3955,8 @@
     <string name="miui_allow_vibrate">لرزش</string>
     <string name="miui_data_usage_menu_metered">کانون داغ همراه</string>
     <string name="miui_experience_optimization">روشن کردن بهینه سازی MIUI</string>
-    <string name="miui_face_enroll_success">&quot;حالا می‌توانید با استفاده از مشخصات چهره خود قفل این دستگاه را باز کنید.
-برای دسترسی به تنظیمات بیشتر ادامه دهید.&quot;</string>
+    <string name="miui_face_enroll_success">"حالا می‌توانید با استفاده از مشخصات چهره خود قفل این دستگاه را باز کنید.
+برای دسترسی به تنظیمات بیشتر ادامه دهید."</string>
     <string name="miui_input_method_settings">تنظیمات شیوه ورود</string>
     <string name="miui_lab_ai_cloud_closed">پیش‌بارگذاری AI هنوز در دسترس نیست.</string>
     <string name="miui_lab_ai_preload_desc">پیش‌بارگذاری AI سرعت راه‌اندازی برنامه را بالا می‌برد</string>
@@ -4039,10 +4039,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mms_breathing_light_color_title">رنگ نور پیام‌ها</string>
     <string name="mms_breathing_light_freq_title">هنگام دریافت پیام، مکرر خاموش و روشن شود</string>
     <string name="mms_message_summary">ارسال و دریافت هنگامی که داده تلفن همراه خاموش است</string>
@@ -4064,19 +4064,19 @@
     <string name="mobile_network_apn_title">نام‌های نقطه دسترسی</string>
     <string name="mobile_network_disable_sim_explanation">برای غیرفعال کردن این سیم‌کارت، آن را خارج کنید</string>
     <string name="mobile_network_erase_sim">پاک‌سازی سیم‌کارت</string>
-    <string name="mobile_network_erase_sim_dialog_body">&quot;با پاک‌سازی این سیم‌کارت، سرویس %1$s از این دستگاه برداشته می‌شود.
+    <string name="mobile_network_erase_sim_dialog_body">"با پاک‌سازی این سیم‌کارت، سرویس %1$s از این دستگاه برداشته می‌شود.
 
-سرویس مربوط به %2$s لغو نمی‌شود.&quot;</string>
+سرویس مربوط به %2$s لغو نمی‌شود."</string>
     <string name="mobile_network_erase_sim_dialog_ok">پاک‌سازی</string>
     <string name="mobile_network_erase_sim_dialog_progress">درحال پاک‌سازی سیم‌کارت…</string>
     <string name="mobile_network_erase_sim_dialog_title">این سیم‌کارت بارگیری‌شده پاک‌سازی شود؟</string>
-    <string name="mobile_network_erase_sim_error_dialog_body">&quot;به‌دلیل بروز خطا، این سیم‌کارت پاک‌سازی نشد.
+    <string name="mobile_network_erase_sim_error_dialog_body">"به‌دلیل بروز خطا، این سیم‌کارت پاک‌سازی نشد.
 
-دستگاه را بازراه‌اندازی کنید و دوباره امتحان کنید.&quot;</string>
+دستگاه را بازراه‌اندازی کنید و دوباره امتحان کنید."</string>
     <string name="mobile_network_erase_sim_error_dialog_title">سیم‌کارت پاک‌سازی نشد</string>
-    <string name="mobile_network_esim_swap_confirm_body">&quot;هربار فقط یک سیم‌کارت بارگیری‌شده می‌تواند فعال شود.
+    <string name="mobile_network_esim_swap_confirm_body">"هربار فقط یک سیم‌کارت بارگیری‌شده می‌تواند فعال شود.
 
-با انتقال به %1$s، سرویس %2$s لغو نمی‌شود.&quot;</string>
+با انتقال به %1$s، سرویس %2$s لغو نمی‌شود."</string>
     <string name="mobile_network_esim_swap_confirm_ok">رفتن به %1$s</string>
     <string name="mobile_network_esim_swap_confirm_title">به %1$s جابه‌جا شود؟</string>
     <string name="mobile_network_in_range">در محدوده</string>
@@ -4153,8 +4153,8 @@
     <string name="msd_driver_download_mac_url">درایور را از نشانی http://www.android.com/filetransfer/ دریافت کنید</string>
     <string name="msd_driver_download_xp">ویندوز: Mi Phone Manager را برای استفاده از گوشی خود به‌عنوان یک دستگاه حافظه USB دانلود کنید.</string>
     <string name="msd_driver_download_xp_url">درایور را از نشانی http://zhushou.mi.com/ بگیرید</string>
-    <string name="msd_help_summary">&quot;نمی‌توانید به دستگاه خود متصل شوید؟
-سیستم عامل خود را انتخاب نمایید:&quot;</string>
+    <string name="msd_help_summary">"نمی‌توانید به دستگاه خود متصل شوید؟
+سیستم عامل خود را انتخاب نمایید:"</string>
     <string name="msd_help_title">راهنما</string>
     <string name="msd_install">درایور دوباره نصب شود؟</string>
     <string name="msd_install_download_zhushou">من مدیریت تلفن Mi را دانلود کرده‌ام</string>
@@ -4168,8 +4168,8 @@
     <string name="msd_install_status_undo">نصب درایور</string>
     <string name="msd_install_succeed">درایور نصب شد</string>
     <string name="msd_pc_system_install_finish_summary_vista">در مورد ویندوز Vista و بعد از آن، %1$s به‌عنوان دستگاه حافظه USB در هنگام اتصال به کامپیوتر ظاهر می‌شود.</string>
-    <string name="msd_pc_system_install_finish_summary_xp">&quot;پس از نصب درایور
-%1$s به‌عنوان دستگاه حافظه USB در هنگام اتصال به کامپیوتر ظاهر می‌شود.&quot;</string>
+    <string name="msd_pc_system_install_finish_summary_xp">"پس از نصب درایور
+%1$s به‌عنوان دستگاه حافظه USB در هنگام اتصال به کامپیوتر ظاهر می‌شود."</string>
     <string name="msd_pc_system_install_summary_xp">۱. setup.exe را جهت نصب اجرا کنید</string>
     <string name="msg_wlan_signal_found">به %s متصل شود؟</string>
     <string name="msim_sim_radio_off">خاموش</string>
@@ -4193,7 +4193,7 @@
     <string name="multi_face_input_reach_upper_limit">مشخصات چهره افزوده نشد. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="multi_face_input_success_name_title">نام</string>
     <string name="multi_face_list">مشخصات چهره</string>
-    <string name="multi_face_name_prefix">&quot;چهره &quot;</string>
+    <string name="multi_face_name_prefix">"چهره "</string>
     <string name="multi_face_number_reach_limit">بیش از ۲ چهره افزوده نمی‌شود</string>
     <string name="multi_network_acceleration_app_settings">افزایش سرعت شبکه برای برنامه‌ها</string>
     <string name="multi_touch_points_category_title">نقاط چندلمسی</string>
@@ -4334,10 +4334,10 @@
     <string name="nfc_repair_btn_reboot_later">بعداً</string>
     <string name="nfc_repair_btn_retry">تلاش دوباره</string>
     <string name="nfc_repair_btn_yes">بله</string>
-    <string name="nfc_repair_confirm_desc">&quot;آیا تا کنون این اشکالات را تجربه کرده‌اید؟
+    <string name="nfc_repair_confirm_desc">"آیا تا کنون این اشکالات را تجربه کرده‌اید؟
 %d. کارت NFC را نتوانسته بیافزوده یا شارژ کنید.
 %d. کارت NFC شما کار نکرده است.
-%d. سایر ویژگی‌های NFC بارگذاری نشدند.&quot;</string>
+%d. سایر ویژگی‌های NFC بارگذاری نشدند."</string>
     <string name="nfc_repair_fail_desc">یک خطایی که از بازنشانی کارایی NFC جلوگیری می‌کرد رخ داد. دوباره تلاش کنید.</string>
     <string name="nfc_repair_fail_title">بازنشانی نشد</string>
     <string name="nfc_repair_ongoing">درحال بازنشانی… این صفحه را ترک نکنید.</string>
@@ -4444,9 +4444,9 @@
     <string name="notification_alert_title">هشدار دادن</string>
     <string name="notification_animation_style">جلوه‌های ویژه</string>
     <string name="notification_app_settings_button">تنظیمات اعلان</string>
-    <string name="notification_assistant_security_warning_summary">&quot;%1$s می‌تواند همه اعلان‌ها را بخواند، ازجمله اطلاعات شخصی مانند نام مخاطبین و پیام‌های نوشتاری که دریافت می‌کنید. همچنین می‌تواند اعلان‌ها را تغییر دهد، رد کند یا دکمه‌های عملکرد موجود در آن‌ها را راه‌اندازی کند. 
+    <string name="notification_assistant_security_warning_summary">"%1$s می‌تواند همه اعلان‌ها را بخواند، ازجمله اطلاعات شخصی مانند نام مخاطبین و پیام‌های نوشتاری که دریافت می‌کنید. همچنین می‌تواند اعلان‌ها را تغییر دهد، رد کند یا دکمه‌های عملکرد موجود در آن‌ها را راه‌اندازی کند. 
 
-همچنین به این برنامه امکان می‌دهد «مزاحم نشوید» را روشن یا خاموش کند و تنظیمات مربوطه را تغییر دهد.&quot;</string>
+همچنین به این برنامه امکان می‌دهد «مزاحم نشوید» را روشن یا خاموش کند و تنظیمات مربوطه را تغییر دهد."</string>
     <string name="notification_assistant_security_warning_title">دسترسی به اعلان برای %1$s مجاز شود؟</string>
     <string name="notification_assistant_title">اعلان‌های تطبیقی</string>
     <string name="notification_badge_title">اجازه به نقطه اعلان</string>
@@ -4476,7 +4476,7 @@
     <string name="notification_fold_summary">همه اعلان‌های غیر مهم در یک پوشه جدا نمایش داده خواهند شد</string>
     <string name="notification_fold_title">پوشه اعلان‌ها</string>
     <string name="notification_group_title">گروه دسته اعلان</string>
-    <string name="notification_header_divider_symbol_with_spaces">&quot; • &quot;</string>
+    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_importance_blocked">هرگز اعلان‌ها نمایش داده نشوند</string>
     <string name="notification_importance_default">پخش صدا</string>
     <string name="notification_importance_default_title">زیاد</string>
@@ -4493,9 +4493,9 @@
     <string name="notification_listener_disable_warning_cancel">لغو</string>
     <string name="notification_listener_disable_warning_confirm">خاموش کردن</string>
     <string name="notification_listener_disable_warning_summary">اگر دسترسی اعلان را برای %1$s خاموش کنید، دسترسی «مزاحم نشوید» نیز ممکن است خاموش شود.</string>
-    <string name="notification_listener_security_warning_summary">&quot;%1$s می‌تواند همه اعلان‌ها را بخواند، از جمله اطلاعات شخصی مانند نام مخاطبین و پیام‌های نوشتاری که دریافت می‌کنید. همچنین می‌تواند اعلان‌ها را رد کند یا دکمه عمل آنها را فعال کند. 
+    <string name="notification_listener_security_warning_summary">"%1$s می‌تواند همه اعلان‌ها را بخواند، از جمله اطلاعات شخصی مانند نام مخاطبین و پیام‌های نوشتاری که دریافت می‌کنید. همچنین می‌تواند اعلان‌ها را رد کند یا دکمه عمل آنها را فعال کند. 
 
-همچنین به این برنامه توانایی روشن یا خاموش کردن «مزاحم نشوید» و تغییر تنظیمات مربوطه را می‌دهد.&quot;</string>
+همچنین به این برنامه توانایی روشن یا خاموش کردن «مزاحم نشوید» و تغییر تنظیمات مربوطه را می‌دهد."</string>
     <string name="notification_listener_security_warning_title">به دسترسی به اعلان برای %1$s اجازه می‌دهید؟</string>
     <string name="notification_log_details_actions">کنش‌ها</string>
     <string name="notification_log_details_alerted">اعلان هشدار‌</string>
@@ -4505,7 +4505,7 @@
     <string name="notification_log_details_content_view">نمای سفارشی</string>
     <string name="notification_log_details_default">پیش‌فرض</string>
     <string name="notification_log_details_delete_intent">حذف هدف</string>
-    <string name="notification_log_details_delimiter">&quot;: &quot;</string>
+    <string name="notification_log_details_delimiter">": "</string>
     <string name="notification_log_details_explanation">توضیح</string>
     <string name="notification_log_details_extras">اضافه‌ها</string>
     <string name="notification_log_details_full_screen_intent">هدف تمام صفحه</string>
@@ -4573,8 +4573,8 @@
     <string name="notifications_title">اعلان‌ها</string>
     <string name="now">راه‌اندازی دوباره</string>
     <string name="number_of_device_admins_none">برنامه فعالی موجود نیست</string>
-    <string name="oaid_string">&quot;您当前的虚拟身份ID为：
-%1s&quot;</string>
+    <string name="oaid_string">"您当前的虚拟身份ID为：
+%1s"</string>
     <string name="oem_lock_info_message">برای فعال کردن ویژگی محافظت از دستگاه، لطفاً دستگاه را راه‌اندازی مجدد کنید.</string>
     <string name="oem_preferred_feedback_reporter"></string>
     <string name="oem_radio_info_label">‏تنظیمات/اطلاعات خاص OEM</string>
@@ -4628,9 +4628,9 @@
     <string name="otg_closed">خاموش</string>
     <string name="otg_opened">روشن</string>
     <string name="otg_settings">OTG</string>
-    <string name="otg_tip">&quot;USB On-The-Go به درایوهای USB و صفحه کلیدهای همراه اجازه اتصال به گوشی شما و تبادل داده‌ها را می‌دهد.
+    <string name="otg_tip">"USB On-The-Go به درایوهای USB و صفحه کلیدهای همراه اجازه اتصال به گوشی شما و تبادل داده‌ها را می‌دهد.
 
-OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خاموش می‌شود.&quot;</string>
+OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خاموش می‌شود."</string>
     <string name="other">سایر</string>
     <string name="other_advanced_settings">تنظیمات بیشتر</string>
     <string name="other_data">سایر موارد این دستگاه</string>
@@ -4963,8 +4963,8 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="print_failed_state_title_template">خطای چاپگر %1$s</string>
     <string name="print_feature_state_off">خاموش</string>
     <string name="print_feature_state_on">روشن</string>
-    <string name="print_job_summary">&quot;%1$s
-%2$s&quot;</string>
+    <string name="print_job_summary">"%1$s
+%2$s"</string>
     <string name="print_menu_item_add_printer">افزودن چاپگر</string>
     <string name="print_menu_item_add_printers">افزودن چاپگرها</string>
     <string name="print_menu_item_add_service">افزودن سرویس</string>
@@ -4993,7 +4993,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="privacy_authorize_cloud_msg">برای اطمینان از امنیت حساب خود، در صورتی که می‌خواهید مجوز خدمات فضای ابری Xiaomi (شامل همگام‌سازی و پشتیبان‌گیری) را بردارید، وارد i.mi.com شوید.</string>
     <string name="privacy_authorize_dialog_agree">پذیرفتن</string>
     <string name="privacy_authorize_dialog_exit">خروج</string>
-    <string name="privacy_authorize_dialog_message">&lt;Data&gt;برای استفاده از ویژگی‌های ابتدایی خدمات فضای ابری Mi، شما باید بپذیرید که Xiaomi داده‌های شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. به سیاست حفظ حریم خصوصی ما مراجعه کرده تا بدانید چگونه داده‌های شخصی را جمع‌آوری و پردازش می‌کنیم. انتخاب «پذیرفتن» به معنی آن است که شما &lt;a href=\&quot;https://privacy.mi.com/all/%1$s_%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\&quot;&gt;توافقنامه کاربر&lt;/a&gt; ما را خوانده و پذیرفته‌اید.&lt;/Data&gt;</string>
+    <string name="privacy_authorize_dialog_message">&lt;Data&gt;برای استفاده از ویژگی‌های ابتدایی خدمات فضای ابری Mi، شما باید بپذیرید که Xiaomi داده‌های شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. به سیاست حفظ حریم خصوصی ما مراجعه کرده تا بدانید چگونه داده‌های شخصی را جمع‌آوری و پردازش می‌کنیم. انتخاب «پذیرفتن» به معنی آن است که شما &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\"&gt;توافقنامه کاربر&lt;/a&gt; ما را خوانده و پذیرفته‌اید.&lt;/Data&gt;</string>
     <string name="privacy_authorize_network_error">به شبکه متصل شده و دوباره تلاش کنید.</string>
     <string name="privacy_authorize_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="privacy_authorize_revoke">ابطال</string>
@@ -5133,7 +5133,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="proxy_settings_label">تنظیمات پروکسی</string>
     <string name="proxy_settings_title">پروکسی</string>
     <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
-    <string name="proxy_url_title">&quot;‏نشانی وب PAC: &quot;</string>
+    <string name="proxy_url_title">"‏نشانی وب PAC: "</string>
     <string name="proxy_warning_limited_support">‏این مرورگر از پروکسی HTTP استفاده می‌کند اما ممکن است برنامه‌های دیگر از آن استفاده نکنند.</string>
     <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
     <string name="qtifeedback_intent_action">com.qti.smq.snapdragonSettings</string>
@@ -5194,11 +5194,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="radio_info_imei_label">IMEI:</string>
     <string name="radio_info_ims_feature_status_available">در دسترس</string>
     <string name="radio_info_ims_feature_status_unavailable">در دسترس نیست</string>
-    <string name="radio_info_ims_reg_status">&quot;‏ثبت IMS:‏ %1$s
+    <string name="radio_info_ims_reg_status">"‏ثبت IMS:‏ %1$s
 صدا ازطریق LTE‏: %2$s
 صدا ازطریق WiFi‏: %3$s
 ‏تماس ویدیویی: %4$s
-واسط UT: %5$s&quot;</string>
+واسط UT: %5$s"</string>
     <string name="radio_info_ims_reg_status_not_registered">ثبت‌نشده</string>
     <string name="radio_info_ims_reg_status_registered">ثبت‌شده</string>
     <string name="radio_info_ims_reg_status_title">‏وضعیت IMS</string>
@@ -5267,24 +5267,24 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="reset_aaid">بازنشانی شناساگر آگهی</string>
     <string name="reset_app_preferences">بازنشانی اولویت‌های برنامه</string>
     <string name="reset_app_preferences_button">بازنشانی برنامه‌ها</string>
-    <string name="reset_app_preferences_desc">&quot;این کار همه اولویت‌های موارد زیر را بازنشانی می‌کند:
+    <string name="reset_app_preferences_desc">"این کار همه اولویت‌های موارد زیر را بازنشانی می‌کند:
 
- &quot;برنامه‌های غیرفعال‌شده&quot;
- &quot;اعلان‌های برنامه غیرفعال‌شده&quot;
- &quot;برنامه‌های پیش‌فرض برای عمل&quot;
- &quot;محدودیت‌های داده پس‌زمینه برای برنامه‌ها&quot;
- &quot;هرگونه محدودیت‌های مجوز&quot;
+ "برنامه‌های غیرفعال‌شده"
+ "اعلان‌های برنامه غیرفعال‌شده"
+ "برنامه‌های پیش‌فرض برای عمل"
+ "محدودیت‌های داده پس‌زمینه برای برنامه‌ها"
+ "هرگونه محدودیت‌های مجوز"
 
- هیچ داده برنامه‌ای را از دست نخواهید داد.&quot;</string>
+ هیچ داده برنامه‌ای را از دست نخواهید داد."</string>
     <string name="reset_app_preferences_title">بازنشانی اولویت‌های برنامه؟</string>
-    <string name="reset_confirm_directory">&quot;Note: Before restoring items, check whether the folder \&quot;MIUI-Backup-AllBackup\&quot; exists on your mobile device. If it doesn&apos;t, create it.&quot;</string>
+    <string name="reset_confirm_directory">"Note: Before restoring items, check whether the folder \"MIUI-Backup-AllBackup\" exists on your mobile device. If it doesn't, create it."</string>
     <string name="reset_dashboard_summary">شبکه، برنامه‌ها یا دستگاه می‌توانند بازنشانی شوند</string>
     <string name="reset_dashboard_title">بازنشانی گزینه‌ها</string>
     <string name="reset_default_apn_failed">Failed to reset default apn</string>
     <string name="reset_esim_desc">برای بارگیری سیم‌کارت‌های جایگزین، با شرکت مخابراتی‌تان تماس بگیرید. با این کار، هیچ‌یک از طرح‌های سرویس دستگاه همراه لغو نمی‌شود.</string>
-    <string name="reset_esim_error_msg">&quot;به‌دلیل بروز خطا، سیم‌کارت‌های بارگیری‌شده پاک‌سازی نشدند.
+    <string name="reset_esim_error_msg">"به‌دلیل بروز خطا، سیم‌کارت‌های بارگیری‌شده پاک‌سازی نشدند.
 
-دستگاه را بازراه‌اندازی کنید و دوباره امتحان کنید.&quot;</string>
+دستگاه را بازراه‌اندازی کنید و دوباره امتحان کنید."</string>
     <string name="reset_esim_error_title">سیم‌کارت‌ها پاک‌سازی نشدند</string>
     <string name="reset_esim_title">پاک‌سازی سیم‌کارت‌های بارشده</string>
     <string name="reset_legacy_password_settings_preface_text">باید گذرواژه صفحه ققل خود را دوباره تنظیم کنید.</string>
@@ -5294,11 +5294,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="reset_network_complete_toast">تنظیمات شبکه بازنشانی شد</string>
     <string name="reset_network_confirm_title">بازنشانی؟</string>
     <string name="reset_network_data">اینترنت همراه</string>
-    <string name="reset_network_desc">&quot;‏این کار همه تنظیمات شبکه را بازنشانی می‌کند، ازجمله:
+    <string name="reset_network_desc">"‏این کار همه تنظیمات شبکه را بازنشانی می‌کند، ازجمله:
 
-&quot;Wi-Fi‏&quot;
-&quot;داده شبکه تلفن همراه&quot;
-&quot;بلوتوث</string>
+"Wi-Fi‏"
+"داده شبکه تلفن همراه"
+"بلوتوث</string>
     <string name="reset_network_final_button_text">بازنشانی تنظیمات</string>
     <string name="reset_network_final_desc">همه تنظیمات شبکه بازنشانی شوند؟ این کار ممکن است چندین ثانیه طول بکشد. این اقدام قابل بازگرداندن نیست.</string>
     <string name="reset_network_final_desc_esim">همه تنظیمات شبکه بازنشانی شود و سیم‌کارت‌های بارگیری‌شده پاک‌سازی شود؟ این کنش واگرد نمی‌شود.</string>
@@ -5375,9 +5375,9 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="roaming_reenable_title">فراگردی داده مجاز است؟</string>
     <string name="roaming_turn_it_on_button">روشن کنید</string>
     <string name="roaming_warning">ممکن است هزینه قابل‌توجهی برای شما داشته باشد.</string>
-    <string name="roaming_warning_multiuser">&quot;وقتی به فراگردی داده اجازه می‌دهید، ممکن است هزینه‌های بسیار زیادی برای شما در پی داشته باشد!
+    <string name="roaming_warning_multiuser">"وقتی به فراگردی داده اجازه می‌دهید، ممکن است هزینه‌های بسیار زیادی برای شما در پی داشته باشد!
 
-این تنظیم روی همه کاربران موجود در این تلفن تأثیر می‌گذارد.&quot;</string>
+این تنظیم روی همه کاربران موجود در این تلفن تأثیر می‌گذارد."</string>
     <string name="rom_total_size">ROM total size</string>
     <string name="root">دسترسی ریشه‌ای</string>
     <string name="rssi_label">RSSI:</string>
@@ -5493,7 +5493,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="screen_paper_mode_update_white_pkg_list_privacy_title">اتصال اینترنت</string>
     <string name="screen_paper_mode_update_white_pkg_list_summary">به‌روزرسانی فهرست برنامه‌هایی که به‌طور خودکار از حالت مطالعه استفاده می‌کنند</string>
     <string name="screen_paper_mode_update_white_pkg_list_title">به‌روزرسانی خودکار</string>
-    <string name="screen_pinning_description">&quot;وقتی این تنظیم روشن است، می‌توانید از ویژگی پین کردن صفحه برای حفظ صفحه کنونی در زاویه دید (تا وقتی پین آن را لغو می‌کنید) استفاده کنید.
+    <string name="screen_pinning_description">"وقتی این تنظیم روشن است، می‌توانید از ویژگی پین کردن صفحه برای حفظ صفحه کنونی در زاویه دید (تا وقتی پین آن را لغو می‌کنید) استفاده کنید.
 
 برای استفاده از پین کردن صفحه:
 
@@ -5501,7 +5501,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
 
 ۲. نمای کلی را باز کنید
 
-۳. روی نماد برنامه در بالای صفحه، سپس «پین کردن» ضربه بزنید&quot;</string>
+۳. روی نماد برنامه در بالای صفحه، سپس «پین کردن» ضربه بزنید"</string>
     <string name="screen_pinning_title">پین کردن صفحه</string>
     <string name="screen_pinning_unlock_none">قفل کردن دستگاه هنگام برداشتن پین</string>
     <string name="screen_pinning_unlock_password">درخواست گذرواژه قبل از برداشتن پین</string>
@@ -5680,7 +5680,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_hint">جستجوی تنظیمات</string>
     <string name="search_home_key">خانه;دکمه خانه;کلید خانه</string>
     <string name="search_input_hint">جستجوی تنظیمات</string>
-    <string name="search_input_txt_na">&quot;&lt;font color=&apos;#ff0000&apos;&gt;%s&lt;/font&gt;&quot;</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_key_settings_title">دکمه‌ها;کلیدها</string>
     <string name="search_lab_functions_title">ویژگی‌های بتا;کارایی آزمایشگاه</string>
     <string name="search_label">تنظیمات</string>
@@ -5867,9 +5867,9 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_settings_face_enroll_introduction_footer_part_3"></string>
     <string name="security_settings_face_enroll_introduction_message">برای باز کردن قفل تلفنتان، مجاز کردن خریدها یا ورود به سیستم برنامه‌ها، از چهر‌ه‌تان استفاده کنید.</string>
     <string name="security_settings_face_enroll_introduction_message_setup">برای باز کردن قفل تلفنتان، مجاز کردن خریدها یا ورود به سیستم برنامه‌ها، از چهر‌ه‌تان استفاده کنید</string>
-    <string name="security_settings_face_enroll_introduction_message_unlock_disabled">&quot;از چهره‌تان برای باز کردن قفل تلفن یا تأیید خریدها استفاده کنید.
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled">"از چهره‌تان برای باز کردن قفل تلفن یا تأیید خریدها استفاده کنید.
 
-توجه: نمی‌توانید از چهره‌تان برای باز کردن قفل این دستگاه استفاده کنید. برای اطلاعات بیشتر، با سرپرست سیستم سازمانتان تماس بگیرید.&quot;</string>
+توجه: نمی‌توانید از چهره‌تان برای باز کردن قفل این دستگاه استفاده کنید. برای اطلاعات بیشتر، با سرپرست سیستم سازمانتان تماس بگیرید."</string>
     <string name="security_settings_face_enroll_introduction_title">با چهره‌تان قفل را باز کنید</string>
     <string name="security_settings_face_enroll_introduction_title_unlock_disabled">از چهره‌تان برای احراز هویت استفاده کنید</string>
     <string name="security_settings_face_enroll_repeat_title">صورتتان را در مرکز دایره قرار دهید</string>
@@ -5877,14 +5877,14 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_settings_face_preference_summary_none">برای تنظیم تشخیص چهره ضربه بزنید</string>
     <string name="security_settings_face_preference_title">احراز هویت با چهره</string>
     <string name="security_settings_face_settings_enroll">راه‌اندازی «بازگشایی با چهره» جدید</string>
-    <string name="security_settings_face_settings_footer">&quot;از «بازگشایی با چهره» برای باز کردن قفل دستگاه، ورود به سیستم برنامه‌ها و تأیید پرداخت‌ها استفاده کنید.
+    <string name="security_settings_face_settings_footer">"از «بازگشایی با چهره» برای باز کردن قفل دستگاه، ورود به سیستم برنامه‌ها و تأیید پرداخت‌ها استفاده کنید.
 
 به خاطر بسپارید:
 با نگاه کردن به تلفن (حتی اگر نخواهید)، ممکن است قفل آن باز شود.
 
 افراد دیگر می‌توانند با نگه‌داشتن آن جلوی صورتتان، وقتی چشمانتان باز است، قفلش را باز کنند.
 
-فرد دیگری که شباهت زیادی به شما دارد - مثلاً فرزندتان یا خواهر و برادر دوقلویتان - می‌تواند قفل تلفنتان را باز کند.&quot;</string>
+فرد دیگری که شباهت زیادی به شما دارد - مثلاً فرزندتان یا خواهر و برادر دوقلویتان - می‌تواند قفل تلفنتان را باز کند."</string>
     <string name="security_settings_face_settings_remove_dialog_details">داده‌هایی که «بازگشایی با چهره»‌ ضبط کرده است، به‌طور دائم و ایمن حذف می‌شود. پس از برداشته شدن داده‌ها، برای باز کردن قفل تلفن، ورود به سیستم برنامه‌ها، و تأیید پرداخت‌ها، به پین، الگو، یا گذرواژه نیاز دارید.</string>
     <string name="security_settings_face_settings_remove_dialog_title">داده‌های چهره حذف شود؟</string>
     <string name="security_settings_face_settings_remove_face_data">حذف داده‌های چهره</string>
@@ -5900,9 +5900,9 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_settings_fingerprint_enroll_dialog_name_label">نام</string>
     <string name="security_settings_fingerprint_enroll_dialog_ok">تأیید</string>
     <string name="security_settings_fingerprint_enroll_disclaimer">علاوه بر باز کردن قفل تلفنتان، همچنین می‌توانید از اثرانگشتتان برای اجازه دادن به خریدها و دسترسی برنامه استفاده کنید.بیشتر بدانید</string>
-    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">&quot; گزینه قفل صفحه غیرفعال است. با سرپرست دستگاه تماس بگیرید تا بیشتر بدانید. &quot;جزئیات بیشتر&quot;
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" گزینه قفل صفحه غیرفعال است. با سرپرست دستگاه تماس بگیرید تا بیشتر بدانید. "جزئیات بیشتر"
 
-برای تأیید خریدها و دسترسی به برنامه، همچنان می‌توانید از اثر انگشتتان استفاده کنید. &quot; بیشتر بدانید</string>
+برای تأیید خریدها و دسترسی به برنامه، همچنان می‌توانید از اثر انگشتتان استفاده کنید. " بیشتر بدانید</string>
     <string name="security_settings_fingerprint_enroll_done">تمام</string>
     <string name="security_settings_fingerprint_enroll_enrolling_skip">بعداً انجام شود</string>
     <string name="security_settings_fingerprint_enroll_error_dialog_title">ثبت انجام نشد</string>
@@ -5917,15 +5917,15 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_settings_fingerprint_enroll_introduction_cancel_setup">رد شدن</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue">ادامه</string>
     <string name="security_settings_fingerprint_enroll_introduction_continue_setup">بعدی</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message">&quot;برای باز کردن قفل تلفن، تأیید خریدها یا ورود به سیستم برنامه‌ها، کافی است حسگر اثر انگشت را لمس کنید. مراقب باشید اثر انگشت چه کسی را اضافه می‌کنید. حتی یک اثر انگشت اضافه‌شده می‌تواند همه این کارها را انجام دهد.
+    <string name="security_settings_fingerprint_enroll_introduction_message">"برای باز کردن قفل تلفن، تأیید خریدها یا ورود به سیستم برنامه‌ها، کافی است حسگر اثر انگشت را لمس کنید. مراقب باشید اثر انگشت چه کسی را اضافه می‌کنید. حتی یک اثر انگشت اضافه‌شده می‌تواند همه این کارها را انجام دهد.
 
-توجه: ممکن است اثر انگشت از الگو یا پین قدرتمند امنیت کمتری داشته باشد.&quot;</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_setup">&quot;از اثر انگشتتان برای باز کردن قفل تلفن یا تأیید خریدها استفاده کنید.
+توجه: ممکن است اثر انگشت از الگو یا پین قدرتمند امنیت کمتری داشته باشد."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"از اثر انگشتتان برای باز کردن قفل تلفن یا تأیید خریدها استفاده کنید.
 
-توجه: ممکن است امنیت اثر انگشت از یک الگو یا پین قوی کمتر باشد.&quot;</string>
-    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">&quot;از اثر انگشتتان برای باز کردن قفل تلفن یا تأیید خریدها استفاده کنید.
+توجه: ممکن است امنیت اثر انگشت از یک الگو یا پین قوی کمتر باشد."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"از اثر انگشتتان برای باز کردن قفل تلفن یا تأیید خریدها استفاده کنید.
 
-توجه: نمی‌توانید از اثر انگشتتان برای باز کردن قفل این دستگاه استفاده کنید. برای اطلاعات بیشتر، با سرپرست سیستم سازمانتان تماس بگیرید.&quot;</string>
+توجه: نمی‌توانید از اثر انگشتتان برای باز کردن قفل این دستگاه استفاده کنید. برای اطلاعات بیشتر، با سرپرست سیستم سازمانتان تماس بگیرید."</string>
     <string name="security_settings_fingerprint_enroll_introduction_title">بازکردن قفل با اثر انگشت</string>
     <string name="security_settings_fingerprint_enroll_introduction_title_unlock_disabled">استفاده از اثرانگشت</string>
     <string name="security_settings_fingerprint_enroll_lift_touch_again">انگشت را بلند کنید، سپس دوباره حسگر را لمس کنید</string>
@@ -5934,7 +5934,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_settings_fingerprint_enroll_setup_screen_lock">تنظیم قفل صفحه</string>
     <string name="security_settings_fingerprint_enroll_start_message">انگشتتان را روی حسگر بگذارید و بعد از احساس لرزش، آن را بردارید</string>
     <string name="security_settings_fingerprint_enroll_start_title">حسگر را لمس کنید</string>
-    <string name="security_settings_fingerprint_enroll_touch_dialog_message">&quot;با استفاده از انگشت اشاره، حسگر را در  پشت تلفن لمس کنید.&quot;</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_message">"با استفاده از انگشت اشاره، حسگر را در  پشت تلفن لمس کنید."</string>
     <string name="security_settings_fingerprint_enroll_touch_dialog_title">اووه، آن حسگر نیست</string>
     <string name="security_settings_fingerprint_preference_summary_none"></string>
     <string name="security_settings_fingerprint_preference_title">اثر انگشت</string>
@@ -6105,8 +6105,8 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="sim_change_data_message">برای داده تلفن همراه، از %2$s استفاده می‌کنید. اگر به %1$s جابه‌جا شوید، دیگر %2$s برای داده تلفن همراه استفاده نمی‌شود.</string>
     <string name="sim_change_data_ok">استفاده از %1$s</string>
     <string name="sim_change_data_title">استفاده از %1$s برای داده همراه؟</string>
-    <string name="sim_change_failed">&quot;نمی‌توانید پین را تغییر دهید.
-ممکن است پین اشتباه باشد.&quot;</string>
+    <string name="sim_change_failed">"نمی‌توانید پین را تغییر دهید.
+ممکن است پین اشتباه باشد."</string>
     <string name="sim_change_failed_enable_sim_lock">اکنون قفل سیم‌کارت روشن شود.</string>
     <string name="sim_change_pin">پین سیم کارت</string>
     <string name="sim_change_succeeded">پین سیم کارت با موفقیت تغییر کرد</string>
@@ -6124,8 +6124,8 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="sim_enter_old">پین سیم کارت قدیمی</string>
     <string name="sim_enter_pin">پین سیم کارت</string>
     <string name="sim_lock_change_not_supported">نمی‌توان قفل سیم‌کارت را تغییر داد.</string>
-    <string name="sim_lock_failed">&quot;نمی‌توان وضعیت قفل سیم کارت را تغییر داد.
-احتمالاً پین نادرست است.&quot;</string>
+    <string name="sim_lock_failed">"نمی‌توان وضعیت قفل سیم کارت را تغییر داد.
+احتمالاً پین نادرست است."</string>
     <string name="sim_lock_off">برای استفاده از تلفن، پین درخواست می‌کند</string>
     <string name="sim_lock_on">درخواست پین برای استفاده از تلفن</string>
     <string name="sim_lock_settings">تنظیمات قفل سیم‌کارت</string>
@@ -6246,21 +6246,21 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="sort_order_frequent_notification">دارای بیشترین اعلان</string>
     <string name="sort_order_recent_notification">جدیدترین</string>
     <string name="sort_order_size">مرتب‌سازی براساس اندازه</string>
-    <string name="sos_phone_call_privacy_dialog_message">&quot;To call your emergency contacts and play SOS recording, this app needs the following permissions:
+    <string name="sos_phone_call_privacy_dialog_message">"To call your emergency contacts and play SOS recording, this app needs the following permissions:
 • Making calls
 For making calls to your emergency contacts
 • Monitoring device status
 For playing SOS recording when your emergency contacts pick up
-If you don&apos;t agree to grant such permissions, you won&apos;t be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off.&quot;</string>
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
     <string name="sos_phone_call_privacy_dialog_message_confirm">Allow</string>
-    <string name="sos_phone_log_privacy_dialog_message">&quot;This app needs permission to access your call history to be able to share it with your emergency contacts.
-If you don&apos;t agree to grant such permissions, you won&apos;t be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off.&quot;</string>
+    <string name="sos_phone_log_privacy_dialog_message">"This app needs permission to access your call history to be able to share it with your emergency contacts.
+If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always choose to turn this feature off."</string>
     <string name="sos_privacy_and_content_policy">توافقنامه کاربر و سیاست حفظ حریم خصوصی</string>
     <string name="sos_privacy_dialog_button_cancel">لغو</string>
     <string name="sos_privacy_dialog_button_ok">پذیرفتن</string>
-    <string name="sos_privacy_dialog_message">&quot;پیش از استفاده از این ویژگی %s ما را خوانده و بپذیرید.
-این ویژگی برای دسترسی به موقعیت شما، استفاده از شبکه‌های موبایل و خواندن مخاطبینتان نیاز به مجوزهایی دارد. آیا می‌پذیرید؟&quot;</string>
-    <string name="sos_privacy_dialog_message_new_version">&quot;Emergency SOS allows you to share your location in real time and send text messages to your emergency contacts.
+    <string name="sos_privacy_dialog_message">"پیش از استفاده از این ویژگی %s ما را خوانده و بپذیرید.
+این ویژگی برای دسترسی به موقعیت شما، استفاده از شبکه‌های موبایل و خواندن مخاطبینتان نیاز به مجوزهایی دارد. آیا می‌پذیرید؟"</string>
+    <string name="sos_privacy_dialog_message_new_version">"Emergency SOS allows you to share your location in real time and send text messages to your emergency contacts.
 We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.
 Note that this app needs to connect to the internet and requires the following permissions to collect your personal information:
 • Accessing storage
@@ -6271,8 +6271,8 @@ For marking contacts as emergency contacts
 For sending text messages to emergency contacts
 • Accessing location
 For sharing your location with emergency contacts
-If you don&apos;t agree to grant such permissions or share and upload your personal information, you won&apos;t be able to use this app. You can choose to turn off or not use Emergency SOS in such cases.
-Before using our services, read and agree to our %s.&quot;</string>
+If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this app. You can choose to turn off or not use Emergency SOS in such cases.
+Before using our services, read and agree to our %s."</string>
     <string name="sos_privacy_dialog_title">شرایط و ضوابط</string>
     <string name="sound_assist_summary">تنظیمات صدای خود را سفارشی کنید</string>
     <string name="sound_assist_title">دستیار صدا</string>
@@ -6311,9 +6311,9 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="split_screen">باز کردن تجزیه نمایشگر</string>
     <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_warning">ممکن است شبکه پایش شود</string>
-    <string name="ssl_ca_cert_warning_message">&quot;شخص ثالتی می‌تواند روی فعالیت‌های شبکه شما ازجمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن نظارت داشته باشد.
+    <string name="ssl_ca_cert_warning_message">"شخص ثالتی می‌تواند روی فعالیت‌های شبکه شما ازجمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن نظارت داشته باشد.
 
-اعتبارنامه مطمئن نصب‌شده در دستگاهتان این کار را شدنی می‌کند.&quot;</string>
+اعتبارنامه مطمئن نصب‌شده در دستگاهتان این کار را شدنی می‌کند."</string>
     <string name="stable_build">پایدار</string>
     <string name="standard">بی‌صدا</string>
     <string name="standard_info">تماس‌ها و اعلان‌ها بی‌صدا خواهند شد</string>
@@ -6321,7 +6321,7 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="start_silent_mode">روشن کردن حالت بی‌صدا</string>
     <string name="starting_android">‏در حال راه‌اندازی Android…</string>
     <string name="status_awake_time">زمان بیداری</string>
-    <string name="status_bar_app_des_separator">&quot;، &quot;</string>
+    <string name="status_bar_app_des_separator">"، "</string>
     <string name="status_bar_app_disable_notification">اعلان‌ها پنهان شدند</string>
     <string name="status_bar_app_enable_floating">اعلان‌های شناور</string>
     <string name="status_bar_app_enable_keyguard">صفحه قفل</string>
@@ -6330,7 +6330,7 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">اعلان‌ها و نوار وضعیت</string>
     <string name="status_bar_settings_all_app_display_loading">چند لحظه صبر کنید…</string>
-    <string name="status_bar_settings_carrier_sim">&quot;سیم‌کارت %1$s: &quot;</string>
+    <string name="status_bar_settings_carrier_sim">"سیم‌کارت %1$s: "</string>
     <string name="status_bar_settings_manage_notification">اعلان‌های برنامه</string>
     <string name="status_bar_settings_notification_bar">کرکره اعلان</string>
     <string name="status_bar_settings_notification_use_app_icon">Use app icons for notifications</string>
@@ -6372,27 +6372,27 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="storage_detail_apps">برنامه‌ها</string>
     <string name="storage_detail_audio">صوتی</string>
     <string name="storage_detail_cached">داده‌های موجود در حافظه پنهان</string>
-    <string name="storage_detail_dialog_other">&quot;‏موارد دیگر شامل فایل‌های هم‌رسانی‌شده که برنامه‌ها ذخیره کرده‌اند، فایل‌های بارگیری‌شده از اینترنت یا بلوتوث، فایل‌های Android و غیره است.
+    <string name="storage_detail_dialog_other">"‏موارد دیگر شامل فایل‌های هم‌رسانی‌شده که برنامه‌ها ذخیره کرده‌اند، فایل‌های بارگیری‌شده از اینترنت یا بلوتوث، فایل‌های Android و غیره است.
 
-برای دیدن محتوای قابل‌مشاهده این ^1، روی «کاوش» ضربه بزنید.&quot;</string>
+برای دیدن محتوای قابل‌مشاهده این ^1، روی «کاوش» ضربه بزنید."</string>
     <string name="storage_detail_dialog_system">‏سیستم حاوی فایل‌هایی است که برای اجرای Android نسخه %s استفاده می‌شود</string>
-    <string name="storage_detail_dialog_user">&quot;ممکن است ^1 با استفاده از ^2 از فضای ذخیره‌سازی، عکس، موسیقی، برنامه یا داده‌های دیگری ذخیره کرده باشد.
+    <string name="storage_detail_dialog_user">"ممکن است ^1 با استفاده از ^2 از فضای ذخیره‌سازی، عکس، موسیقی، برنامه یا داده‌های دیگری ذخیره کرده باشد.
 
-برای مشاهده جزئیات، به ^1 تغییر وضعیت دهید.&quot;</string>
+برای مشاهده جزئیات، به ^1 تغییر وضعیت دهید."</string>
     <string name="storage_detail_explore">کاوش ^1</string>
     <string name="storage_detail_images">تصاویر</string>
     <string name="storage_detail_other">موارد دیگر</string>
     <string name="storage_detail_system">سیستم</string>
     <string name="storage_detail_videos">ویدئوها</string>
-    <string name="storage_dialog_unmountable">&quot;این ^1 خراب شده است. 
+    <string name="storage_dialog_unmountable">"این ^1 خراب شده است. 
 
-برای استفاده از این ^1، باید ابتدا آن را راه‌اندازی کنید.&quot;</string>
-    <string name="storage_dialog_unmounted">&quot;این ^1 به‌صورت ایمن بیرون رانده شد، اما هنوز موجود است. 
+برای استفاده از این ^1، باید ابتدا آن را راه‌اندازی کنید."</string>
+    <string name="storage_dialog_unmounted">"این ^1 به‌صورت ایمن بیرون رانده شد، اما هنوز موجود است. 
 
-برای استفاده از این ^1، باید ابتدا آن را بنشانید.&quot;</string>
-    <string name="storage_dialog_unsupported">&quot;این دستگاه از این ^1 پشتیبانی نمی‌کند. برای استفاده از این 
+برای استفاده از این ^1، باید ابتدا آن را بنشانید."</string>
+    <string name="storage_dialog_unsupported">"این دستگاه از این ^1 پشتیبانی نمی‌کند. برای استفاده از این 
 
- ^1 با این دستگاه، باید ابتدا آن را راه‌اندازی کنید.&quot;</string>
+ ^1 با این دستگاه، باید ابتدا آن را راه‌اندازی کنید."</string>
     <string name="storage_external_title">دستگاه ذخیره‌سازی قابل حمل</string>
     <string name="storage_files">فایل‌ها</string>
     <string name="storage_format">فرمت</string>
@@ -6401,26 +6401,26 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="storage_games">بازی‌ها</string>
     <string name="storage_internal_forget_confirm">همه برنامه‌ها، عکس‌ها و داده‌های ذخیره شده در این ^1 برای همیشه از بین می‌روند.</string>
     <string name="storage_internal_forget_confirm_title">^1 فراموش شود؟</string>
-    <string name="storage_internal_forget_details">&quot;برای استفاده از برنامه‌ها، عکس‌ها یا اطلاعاتی که در این ^1 وجود دارد، آن را دوباره جاگذاری کنید.
+    <string name="storage_internal_forget_details">"برای استفاده از برنامه‌ها، عکس‌ها یا اطلاعاتی که در این ^1 وجود دارد، آن را دوباره جاگذاری کنید.
 
 یا می‌توانید، اگر دستگاه ذخیره‌سازی در دسترس نیست، فراموش کردن آن را انتخاب کنید.
 
 اگر فراموش کردن را انتخاب کنید، همه داده‌هایی که در این دستگاه وجود دارد، برای همیشه از دست می‌رود.
 
-می‌توانید بعداً برنامه‌ها را دوباره نصب کنید، اما داده‌های ذخیره شده آن‌ها در این دستگاه از بین می‌رود.&quot;</string>
-    <string name="storage_internal_format_details">&quot;‏بعد از قالب‌بندی، می‌توانید از این ^1 در دستگاه‌های دیگر استفاده کنید. 
+می‌توانید بعداً برنامه‌ها را دوباره نصب کنید، اما داده‌های ذخیره شده آن‌ها در این دستگاه از بین می‌رود."</string>
+    <string name="storage_internal_format_details">"‏بعد از قالب‌بندی، می‌توانید از این ^1 در دستگاه‌های دیگر استفاده کنید. 
 
 همه اطلاعات در این ^1 پاک می‌شود. پشتیبان گرفتن از اطلاعات را قبل از شروع کار در نظر بگیرید. 
 
-&quot;از عکس‌ها و رسانه‌های دیگر پشتیبان بگیرید&quot; 
+"از عکس‌ها و رسانه‌های دیگر پشتیبان بگیرید" 
 فایل‌های رسانه‌تان را به فضای ذخیره‌سازی دیگری در این دستگاه منتقل کنید یا با استفاده از کابل USB آنها را به رایانه منتقل کنید.
 
-&quot;از برنامه‌ها پشتیبان بگیرید&quot; 
-همه برنامه‌های ذخیره شده در این ^1 حذف نصب می‌شوند و اطلاعات آنها پاک می‌شود. برای حفظ این برنامه‌ها، آنها را به فضای ذخیره‌سازی دیگری در دستگاه منتقل کنید.&quot;</string>
+"از برنامه‌ها پشتیبان بگیرید" 
+همه برنامه‌های ذخیره شده در این ^1 حذف نصب می‌شوند و اطلاعات آنها پاک می‌شود. برای حفظ این برنامه‌ها، آنها را به فضای ذخیره‌سازی دیگری در دستگاه منتقل کنید."</string>
     <string name="storage_internal_title">حافظه غیر سیستمی</string>
-    <string name="storage_internal_unmount_details">وقتی این ^1 را جدا می‌کنید، برنامه‌های ذخیره شده در آن دیگر کار نمی‌کنند و فایل‌های رسانه ذخیره شده در آن تا وقتی دوباره جاگذاری نشود، در دسترس نخواهند بود.&quot; 
+    <string name="storage_internal_unmount_details">وقتی این ^1 را جدا می‌کنید، برنامه‌های ذخیره شده در آن دیگر کار نمی‌کنند و فایل‌های رسانه ذخیره شده در آن تا وقتی دوباره جاگذاری نشود، در دسترس نخواهند بود." 
 
-این ^1 فقط برای کار در این دستگاه قالب‌بندی شده است و در دستگاه‌های دیگر کار نمی‌کند.&quot;</string>
+این ^1 فقط برای کار در این دستگاه قالب‌بندی شده است و در دستگاه‌های دیگر کار نمی‌کند."</string>
     <string name="storage_label">حافظه</string>
     <string name="storage_low_summary">برخی از عملکردهای سیستم مانند همگام‌سازی ممکن است به نحوه صحیح کار نکنند. با حذف یا لغو پین کردن مواردی همچون برنامه‌ها یا محتوای رسانه، سعی کنید فضا را خالی کنید.</string>
     <string name="storage_low_title">فضای ذخیره‌سازی رو به اتمام است</string>
@@ -6470,21 +6470,21 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="storage_volume_total">مصرف‌شده از %1$s</string>
     <string name="storage_volume_used">از %1$s مصرف شد</string>
     <string name="storage_volume_used_total">کل مصرف از %1$s</string>
-    <string name="storage_wizard_format_confirm_body">&quot;انجام قالب‌بندی ^1 برای ایمن کردن آن لازم است. 
+    <string name="storage_wizard_format_confirm_body">"انجام قالب‌بندی ^1 برای ایمن کردن آن لازم است. 
 
 بعد از قالب‌بندی، این ^1 فقط در این دستگاه کار می‌کند. 
 
-&quot;قالب‌بندی همه داده‌هایی را که درحال‌حاضر در ^1 ذخیره شده است، پاک می‌کند.برای از دست ندادن داده، حتماً از آنها پشتیبان‌گیری کنید.</string>
+"قالب‌بندی همه داده‌هایی را که درحال‌حاضر در ^1 ذخیره شده است، پاک می‌کند.برای از دست ندادن داده، حتماً از آنها پشتیبان‌گیری کنید.</string>
     <string name="storage_wizard_format_confirm_next">پاک کردن و قالب‌بندی</string>
-    <string name="storage_wizard_format_confirm_public_body">&quot;این نیازمند فرمت شدن ^1 است. 
-&quot;فرمت کردن باعث حذف تمام داده‌های ذخیره شده روی ^1 خواهد شد. &quot; برای پیشگیری از از بین رفتن داده‌ها پشتیبان‌گیری را در نظر داشته باشید. &quot;</string>
+    <string name="storage_wizard_format_confirm_public_body">"این نیازمند فرمت شدن ^1 است. 
+"فرمت کردن باعث حذف تمام داده‌های ذخیره شده روی ^1 خواهد شد. " برای پیشگیری از از بین رفتن داده‌ها پشتیبان‌گیری را در نظر داشته باشید. "</string>
     <string name="storage_wizard_format_confirm_public_title">قالب‌بندی به‌عنوان فضای قابل حمل</string>
     <string name="storage_wizard_format_confirm_third_body">^1 فرمت شده‌است</string>
     <string name="storage_wizard_format_confirm_title">قالب‌بندی به عنوان حافظه داخلی</string>
     <string name="storage_wizard_format_confirm_v2_action">قالب ^1</string>
-    <string name="storage_wizard_format_confirm_v2_body">&quot;برای ذخیره برنامه‌ها، فایل‌ها و رسانه، لازم است این ^1 قالب‌بندی شود. 
+    <string name="storage_wizard_format_confirm_v2_body">"برای ذخیره برنامه‌ها، فایل‌ها و رسانه، لازم است این ^1 قالب‌بندی شود. 
 
-قالب‌بندی همه محتوای موجود در ^2 را پاک می‌کند. برای جلوگیری از از دست رفتن محتوا، در ^3 یا دستگاهی دیگر از آن پشتیبان‌گیری کنید.&quot;</string>
+قالب‌بندی همه محتوای موجود در ^2 را پاک می‌کند. برای جلوگیری از از دست رفتن محتوا، در ^3 یا دستگاهی دیگر از آن پشتیبان‌گیری کنید."</string>
     <string name="storage_wizard_format_confirm_v2_title">این ^1 قالب‌بندی شود؟</string>
     <string name="storage_wizard_format_progress_body">درحین قالب‌بندی، ^1 را جدا نکنید.</string>
     <string name="storage_wizard_format_progress_title">در حال قالب‌بندی ^1...</string>
@@ -6502,23 +6502,23 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="storage_wizard_init_v2_later">بعداً تنظیم شود</string>
     <string name="storage_wizard_init_v2_or">یا</string>
     <string name="storage_wizard_init_v2_title">چگونه از ^1 استفاده خواهید کرد؟</string>
-    <string name="storage_wizard_migrate_body">&quot;شما می‌توانید عکس‌ها، فایل‌ها و برخی برنامه‌ها را به این ^1 جدید منتقل کنید. 
-انتقال نزدیک ^2 طول خواهد کشید و ^3 از حافظه داخلی را آزاد خواهد کرد. برخی برنامه‌ها هنگام انتقال کار نخواهند کرد.&quot;</string>
+    <string name="storage_wizard_migrate_body">"شما می‌توانید عکس‌ها، فایل‌ها و برخی برنامه‌ها را به این ^1 جدید منتقل کنید. 
+انتقال نزدیک ^2 طول خواهد کشید و ^3 از حافظه داخلی را آزاد خواهد کرد. برخی برنامه‌ها هنگام انتقال کار نخواهند کرد."</string>
     <string name="storage_wizard_migrate_confirm_body">انتقال حدود ^1 طول می‌کشد. این کار ^2 از فضای ^3 را آزاد می‌کند.</string>
     <string name="storage_wizard_migrate_confirm_next">انتقال</string>
     <string name="storage_wizard_migrate_confirm_title">اکنون داده منتقل شود</string>
-    <string name="storage_wizard_migrate_details">&quot;در طول انتقال: 
+    <string name="storage_wizard_migrate_details">"در طول انتقال: 
 • ‏^1 را جدا نکنید. 
 • ‏بعضی از برنامه‌ها درست کار نمی‌کنند. 
-• ‏دستگاه را شارژ نگه دارید.&quot;</string>
+• ‏دستگاه را شارژ نگه دارید."</string>
     <string name="storage_wizard_migrate_later">انتقال در زمانی دیگر</string>
     <string name="storage_wizard_migrate_now">اکنون منتقل شود</string>
     <string name="storage_wizard_migrate_progress_title">در حال انتقال اطلاعات...</string>
     <string name="storage_wizard_migrate_progress_v2_title">درحال انتقال محتوا…</string>
     <string name="storage_wizard_migrate_title">انتقال اطلاعات به حافظه جدید</string>
-    <string name="storage_wizard_migrate_v2_body">&quot;می‌توانید فایل‌ها، رسانه و برنامه‌هایی خاص را به این ^1 انتقال دهید. 
+    <string name="storage_wizard_migrate_v2_body">"می‌توانید فایل‌ها، رسانه و برنامه‌هایی خاص را به این ^1 انتقال دهید. 
 
-این انتقال ^2 از فضای ذخیره‌سازی تلفنتان را آزاد می‌کند و باید تقریباً ^3 طول بکشد.&quot;</string>
+این انتقال ^2 از فضای ذخیره‌سازی تلفنتان را آزاد می‌کند و باید تقریباً ^3 طول بکشد."</string>
     <string name="storage_wizard_migrate_v2_checklist">درطول انتقال:</string>
     <string name="storage_wizard_migrate_v2_checklist_apps">برخی برنامه‌ها کار نمی‌کند</string>
     <string name="storage_wizard_migrate_v2_checklist_battery">تلفن را در شارژ نگهدارید</string>
@@ -6526,36 +6526,36 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="storage_wizard_migrate_v2_later">انتقال محتوا در زمانی دیگر</string>
     <string name="storage_wizard_migrate_v2_now">انتقال محتوا</string>
     <string name="storage_wizard_migrate_v2_title">محتوا به ^1 منتقل شود؟</string>
-    <string name="storage_wizard_move_confirm_body">&quot;انتقال ^1 و اطلاعات آن به ^2 فقط چند لحظه طول می‌کشد. تا وقتی انتقال تکمیل نشود، نمی‌توانید از برنامه استفاده کنید. 
+    <string name="storage_wizard_move_confirm_body">"انتقال ^1 و اطلاعات آن به ^2 فقط چند لحظه طول می‌کشد. تا وقتی انتقال تکمیل نشود، نمی‌توانید از برنامه استفاده کنید. 
 
-در طول انتقال، ^2 را جدا نکنید.&quot;</string>
+در طول انتقال، ^2 را جدا نکنید."</string>
     <string name="storage_wizard_move_confirm_title">انتقال ^1</string>
-    <string name="storage_wizard_move_progress_body">&quot;در طول انتقال، ^1 را جدا نکنید. 
+    <string name="storage_wizard_move_progress_body">"در طول انتقال، ^1 را جدا نکنید. 
 
-تا وقتی انتقال تکمیل نشود، برنامه ^2 در این دستگاه در دسترس نیست.&quot;</string>
+تا وقتی انتقال تکمیل نشود، برنامه ^2 در این دستگاه در دسترس نیست."</string>
     <string name="storage_wizard_move_progress_cancel">لغو انتقال</string>
     <string name="storage_wizard_move_progress_title">در حال انتقال ^1...</string>
     <string name="storage_wizard_move_unlock">برای انتقال داده‌هایی که برای باز کردن قفل کاربر ^1 نیاز دارید.</string>
     <string name="storage_wizard_ready_external_body">^1 شما کاملاً تنظیم شده است تا با عکس‌ها و سایر رسانه‌ها استفاده شود.</string>
-    <string name="storage_wizard_ready_internal_body">&quot;‏^1 جدید شما در حال کار کردن است.
+    <string name="storage_wizard_ready_internal_body">"‏^1 جدید شما در حال کار کردن است.
 
-برای انتقال عکس‌ها، فایل‌ها و اطلاعات برنامه به این دستگاه، به «تنظیمات &gt; فضای ذخیره‌سازی» بروید.&quot;</string>
+برای انتقال عکس‌ها، فایل‌ها و اطلاعات برنامه به این دستگاه، به «تنظیمات &gt; فضای ذخیره‌سازی» بروید."</string>
     <string name="storage_wizard_ready_title">^1 آماده است</string>
     <string name="storage_wizard_ready_v2_external_body">می‌توانید محتوا را به ^1 منتقل کنید</string>
     <string name="storage_wizard_ready_v2_internal_body">برای انتقال محتوا به ^1، به تنظیمات &gt; فضای ذخیره‌سازی بروید</string>
-    <string name="storage_wizard_ready_v2_internal_moved_body">&quot;محتوای شما به ^1 منتقل شد. 
+    <string name="storage_wizard_ready_v2_internal_moved_body">"محتوای شما به ^1 منتقل شد. 
 
-برای مدیریت این ^2، به &quot;تنظیمات &gt; فضای ذخیره‌سازی بروید.</string>
-    <string name="storage_wizard_slow_body">&quot;این ^1 به نظر آهسته می‌آید. 
+برای مدیریت این ^2، به "تنظیمات &gt; فضای ذخیره‌سازی بروید.</string>
+    <string name="storage_wizard_slow_body">"این ^1 به نظر آهسته می‌آید. 
 
 می‌توانید ادامه دهید، اما ممکن است برنامه‌های منتقل شده به این مکان کند شوند و انتقال اطلاعات مدت زیادی طول بکشد. 
 
-برای عملکرد بهتر، استفاده از یک ^1 سریع‌تر را در نظر بگیرید.&quot;</string>
-    <string name="storage_wizard_slow_v2_body">&quot;همچنان می‌توانید از این ^1 استفاده کنید اما ممکن است کند باشد. 
+برای عملکرد بهتر، استفاده از یک ^1 سریع‌تر را در نظر بگیرید."</string>
+    <string name="storage_wizard_slow_v2_body">"همچنان می‌توانید از این ^1 استفاده کنید اما ممکن است کند باشد. 
 
 برنامه‌های ذخیره‌شده در این ^2 ممکن است به‌درستی کار نکنند و انتقال محتوا ممکن است مدت زیادی طول بکشد. 
 
-درعوض، برای فضای ذخیره‌سازی قابل‌حمل از ^3 سریع‌تری یا از ^4 استفاده کنید.&quot;</string>
+درعوض، برای فضای ذخیره‌سازی قابل‌حمل از ^3 سریع‌تری یا از ^4 استفاده کنید."</string>
     <string name="storage_wizard_slow_v2_continue">ادامه</string>
     <string name="storage_wizard_slow_v2_start_over">شروع مجدد</string>
     <string name="storage_wizard_slow_v2_title">^1 آهسته</string>
@@ -6635,14 +6635,14 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="suggestions_title_v2">پیشنهاد‌شده برای شما</string>
     <string name="sum_carrier_select">انتخاب یک اپراتور شبکه</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
-    <string name="summary_divider_text">&quot;، &quot;</string>
+    <string name="summary_divider_text">"، "</string>
     <string name="summary_empty"></string>
     <string name="summary_font_size">%1$s</string>
     <string name="summary_placeholder"> </string>
     <string name="summary_range_symbol_combination">%1$s ‏- %2$s</string>
     <string name="summary_range_verbal_combination">%1$s تا %2$s</string>
-    <string name="summary_two_lines_placeholder">&quot; 
- &quot;</string>
+    <string name="summary_two_lines_placeholder">" 
+ "</string>
     <string name="sunlight_mode">حالت نور خورشید</string>
     <string name="sunlight_mode_summary">تنظیم روشنایی برای تقویت نور محیط هنگام خاموش بودن روشنایی خودکار</string>
     <string name="supl_not_set">&lt;تنظیم نشد&gt;</string>
@@ -6683,10 +6683,10 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="sync_menu_sync_cancel">لغو همگام‌سازی</string>
     <string name="sync_menu_sync_now">اکنون همگام‌سازی شود</string>
     <string name="sync_now">همگام‌سازی</string>
-    <string name="sync_one_time_sync">&quot;برای همگام‌سازی اکنون ضربه بزنید
-%1$s&quot;</string>
-    <string name="sync_plug">‏به Google Sync خوش آمدید!&quot;
-این راهکاری از Google است برای همگام‌سازی داده‌ها و ایجاد امکان دسترسی به مخاطبین، قرارها و موارد بیشتر از هر کجا که هستید.&quot;</string>
+    <string name="sync_one_time_sync">"برای همگام‌سازی اکنون ضربه بزنید
+%1$s"</string>
+    <string name="sync_plug">‏به Google Sync خوش آمدید!"
+این راهکاری از Google است برای همگام‌سازی داده‌ها و ایجاد امکان دسترسی به مخاطبین، قرارها و موارد بیشتر از هر کجا که هستید."</string>
     <string name="sync_settings">حساب‌ها و همگام‌سازی</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">فقط هنگام استفاده از Wi-Fi</string>
@@ -6919,37 +6919,37 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="unlock_change_lock_pattern_title">تغییر الگوی بازگشایی قفل</string>
     <string name="unlock_change_lock_pin_title">تغییر PIN</string>
     <string name="unlock_disable_frp_warning_content_password">قابلیت‌های محافظ دستگاه بدون گذرواژه شما کار نمی‌کند.</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint">&quot;قابلیت‌های محافظت از دستگاه، بدون گذرواژه شما کار نخواهند کرد.
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"قابلیت‌های محافظت از دستگاه، بدون گذرواژه شما کار نخواهند کرد.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
-    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">&quot;قابلیت‌های محافظت از نمایه، بدون گذرواژه شما کار نخواهند کرد.
+اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"قابلیت‌های محافظت از نمایه، بدون گذرواژه شما کار نخواهند کرد.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
+اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
     <string name="unlock_disable_frp_warning_content_password_profile">ویژگی‌های محافظت از نمایه بدون گذرواژه شما کار نمی‌کنند.</string>
     <string name="unlock_disable_frp_warning_content_pattern">قابلیت‌های محافظ دستگاه بدون الگوی شما کار نمی‌کند.</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">&quot;قابلیت‌های محافظت از دستگاه، بدون الگوی شما کار نمی‌کنند.
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"قابلیت‌های محافظت از دستگاه، بدون الگوی شما کار نمی‌کنند.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
-    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">&quot;قابلیت‌های محافظت از نمایه، بدون الگوی شما کار نمی‌کنند.
+اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"قابلیت‌های محافظت از نمایه، بدون الگوی شما کار نمی‌کنند.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
+اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
     <string name="unlock_disable_frp_warning_content_pattern_profile">ویژگی‌های محافظت از نمایه بدون الگوی شما کار نمی‌کنند.</string>
     <string name="unlock_disable_frp_warning_content_pin">قابلیت‌های محافظ دستگاه بدون پین شما کار نمی‌کند.</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint">&quot;قابلیت‌های محافظت از دستگاه، بدون پین شما کار نمی‌کنند.
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"قابلیت‌های محافظت از دستگاه، بدون پین شما کار نمی‌کنند.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
-    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">&quot;قابلیت‌های محافظت از نمایه، بدون پین شما کار نمی‌کنند.
+اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"قابلیت‌های محافظت از نمایه، بدون پین شما کار نمی‌کنند.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این نمایه پاک می‌شوند و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
+اثرانگشت‌های ذخیره‌شده‌تان هم از این نمایه پاک می‌شوند و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
     <string name="unlock_disable_frp_warning_content_pin_profile">ویژگی‌های محافظت از نمایه بدون پین شما کار نمی‌کنند.</string>
     <string name="unlock_disable_frp_warning_content_profile">ویژگی‌های حفاظت از نمایه بدون گذرواژه شما کار نخواهد کرد.</string>
     <string name="unlock_disable_frp_warning_content_unknown">قابلیت‌های محافظ دستگاه بدون قفل صفحه شما کار نمی‌کند.</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">&quot;قابلیت‌های محافظت از دستگاه، بدون قفل صفحه شما کار نمی‌کنند.
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"قابلیت‌های محافظت از دستگاه، بدون قفل صفحه شما کار نمی‌کنند.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
-    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">&quot;قابلیت‌های محافظت از نمایه، بدون قفل صفحه شما کار نمی‌کنند.
+اثرانگشت‌های ذخیره‌شده‌تان هم از این دستگاه پاک می‌شود و نمی‌توانید با آن‌ها قفل تلفنتان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"قابلیت‌های محافظت از نمایه، بدون قفل صفحه شما کار نمی‌کنند.
 
-اثرانگشت‌های ذخیره‌شده‌تان هم از این نمایه پاک می‌شود و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید.&quot;</string>
+اثرانگشت‌های ذخیره‌شده‌تان هم از این نمایه پاک می‌شود و نمی‌توانید با آن‌ها قفل نمایه‌تان را باز کنید، خریدها را تأیید کنید یا به سیستم برنامه‌ها وارد شوید."</string>
     <string name="unlock_disable_frp_warning_content_unknown_profile">ویژگی‌های محافظت از نمایه بدون قفل صفحه شما کار نمی‌کنند.</string>
     <string name="unlock_disable_frp_warning_ok">بله، برداشته شود</string>
     <string name="unlock_disable_frp_warning_title">محافظ دستگاه برداشته شود؟</string>
@@ -7127,8 +7127,8 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="usb_format">پاک‌سازی حافظه USB</string>
     <string name="usb_format_summary">پاک کردن تمام اطلاعات روی حافظه USB (مانند موسیقی و عکس‌ها)</string>
     <string name="usb_headset_not_support_cancel">فهمیدم</string>
-    <string name="usb_headset_not_support_message">&quot;صدا از طریق آداپتور پخش نمی‌شود. از هدفون‌های دیجیتالی
-یا هدفون‌های دارای جک ۳.۵ میلی‌متری استفاده کنید.&quot;</string>
+    <string name="usb_headset_not_support_message">"صدا از طریق آداپتور پخش نمی‌شود. از هدفون‌های دیجیتالی
+یا هدفون‌های دارای جک ۳.۵ میلی‌متری استفاده کنید."</string>
     <string name="usb_headset_not_support_tile">صدا پخش نمی‌شود</string>
     <string name="usb_host_mode_subtext">استفاده از دسته‌های بازی و دیگر لوازم جانبی بر روی خروجی USB ممکن است باعث مصرف برق بیشتری شود</string>
     <string name="usb_host_mode_text">حالت میزبان USB</string>
@@ -7205,14 +7205,14 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="user_add_user_item_summary">کاربران دارای برنامه‌ها و محتوای متعلق به خود هستند</string>
     <string name="user_add_user_item_title">کاربر</string>
     <string name="user_add_user_menu">افزودن کاربر</string>
-    <string name="user_add_user_message_long">&quot;با ایجاد نام‌های کاربری اضافی می‌توانید این دستگاه را با دیگران به اشتراک بگذارید. هر کاربر فضای خود را خواهد داشت، که می‌تواند آن را با برنامه‌ها، تصویر زمینه، و سایر موارد خود سفارشی کند. همچنین کاربران می‌توانند تنظیماتی همچون تنظیمات Wi-Fi را تغییر دهند که بر روی سایر کاربران نیز تأثیر خواهد گذاشت.
+    <string name="user_add_user_message_long">"با ایجاد نام‌های کاربری اضافی می‌توانید این دستگاه را با دیگران به اشتراک بگذارید. هر کاربر فضای خود را خواهد داشت، که می‌تواند آن را با برنامه‌ها، تصویر زمینه، و سایر موارد خود سفارشی کند. همچنین کاربران می‌توانند تنظیماتی همچون تنظیمات Wi-Fi را تغییر دهند که بر روی سایر کاربران نیز تأثیر خواهد گذاشت.
 
 پس از این که یک کاربر جدید ایجاد کردید، آن فرد باید یک فرایند راه‌اندازی را طی نماید.
 
-هر کاربر می‌تواند مجوزهای به‌روز شده برنامه‌ها را به نمایندگی از همه کاربران بپذیرد.&quot;</string>
-    <string name="user_add_user_message_short">&quot;وقتی کاربر جدیدی اضافه می‌کنید آن فرد باید فضای خودش را تنظیم کند.
+هر کاربر می‌تواند مجوزهای به‌روز شده برنامه‌ها را به نمایندگی از همه کاربران بپذیرد."</string>
+    <string name="user_add_user_message_short">"وقتی کاربر جدیدی اضافه می‌کنید آن فرد باید فضای خودش را تنظیم کند.
 
-هر کاربری می‌تواند برنامه‌ها را برای همه کاربران دیگر به‌روزرسانی کند.&quot;</string>
+هر کاربری می‌تواند برنامه‌ها را برای همه کاربران دیگر به‌روزرسانی کند."</string>
     <string name="user_add_user_or_profile_menu">افزودن کاربر یا نمایه</string>
     <string name="user_add_user_title">کاربر جدیدی اضافه می‌کنید؟</string>
     <string name="user_add_user_type_title">افزودن</string>
@@ -7246,8 +7246,8 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="user_dict_settings_context_menu_delete_title">حذف</string>
     <string name="user_dict_settings_context_menu_edit_title">ویرایش</string>
     <string name="user_dict_settings_edit_dialog_title">ویرایش کلمه</string>
-    <string name="user_dict_settings_empty_text">&quot;شما هیچ فرهنگ لغتی ندارید
-برای افزودن واژه، به اضافه را بزنید.&quot;</string>
+    <string name="user_dict_settings_empty_text">"شما هیچ فرهنگ لغتی ندارید
+برای افزودن واژه، به اضافه را بزنید."</string>
     <string name="user_dict_settings_for_work_title">واژه‌نامه شخصی برای کار</string>
     <string name="user_dict_settings_more_languages">زبان‌های بیشتر…</string>
     <string name="user_dict_settings_summary"></string>
@@ -7481,8 +7481,8 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wakeup_and_sleep_settings_category_name">تنظیمات صفحه قفل</string>
     <string name="wakeup_for_keyguard_notification_title">بیدار کردن صفحه قفل برای اعلان‌ها</string>
     <string name="wallpaper_attributions">کاغذدیواری‌ها</string>
-    <string name="wallpaper_attributions_values">&quot;‏ارائه‌دهندگان تصویر ماهواره‌ای:
-©2014 CNES / Astrium, DigitalGlobe, Bluesky&quot;</string>
+    <string name="wallpaper_attributions_values">"‏ارائه‌دهندگان تصویر ماهواره‌ای:
+©2014 CNES / Astrium, DigitalGlobe, Bluesky"</string>
     <string name="wallpaper_desktop">صفحه اصلی</string>
     <string name="wallpaper_live">تصویر زمینه زنده</string>
     <string name="wallpaper_lockscreen">صفحه قفل</string>
@@ -7533,13 +7533,13 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wellbing_title">آسایش دیجیتالی و کنترل‌های والدین</string>
     <string name="wfc_disclaimer_agree_button_text">ادامه</string>
     <string name="wfc_disclaimer_disagree_text">نه متشکرم</string>
-    <string name="wfc_disclaimer_emergency_limitation_desc_text">&quot;‏شرکت مخابراتی شما از تماس‌های اضطراری با استفاده از «تماس ازطریق Wi‑Fi» پشتیبانی نمی‌کند. 
+    <string name="wfc_disclaimer_emergency_limitation_desc_text">"‏شرکت مخابراتی شما از تماس‌های اضطراری با استفاده از «تماس ازطریق Wi‑Fi» پشتیبانی نمی‌کند. 
 دستگاه برای برقراری یک تماس اضطراری، به‌طور خودکار به یک شبکه تلفن همراه جابه‌جا می‌شود.
-تماس‌های اضطراری فقط در مناطق دارای پوشش تلفن همراه امکان‌پذیر هستند.&quot;</string>
+تماس‌های اضطراری فقط در مناطق دارای پوشش تلفن همراه امکان‌پذیر هستند."</string>
     <string name="wfc_disclaimer_emergency_limitation_title_text">تماس‌های اضطراری</string>
-    <string name="wfc_disclaimer_location_desc_text">&quot;ممکن است ارائه‌دهنده خدمات، برای ارائه این سرویس، موقعیت‌های مکانی‌تان را جمع‌آوری کند.
+    <string name="wfc_disclaimer_location_desc_text">"ممکن است ارائه‌دهنده خدمات، برای ارائه این سرویس، موقعیت‌های مکانی‌تان را جمع‌آوری کند.
 
-لطفاً خط‌مشی رازداری ارائه‌دهنده خدمات را مرور کنید.&quot;</string>
+لطفاً خط‌مشی رازداری ارائه‌دهنده خدمات را مرور کنید."</string>
     <string name="wfc_disclaimer_location_title_text">مکان</string>
     <string name="wfc_disclaimer_title_text">اطلاعات مهم</string>
     <string name="wfc_provisioned_switch_string">‏مجوز تماس با Wifi داده شد</string>
@@ -7595,9 +7595,9 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wifi_assistant_confirm_connection_title">تأیید اتصال</string>
     <string name="wifi_assistant_data_prompt">فعال‌سازی تلاش</string>
     <string name="wifi_assistant_data_prompt_summary">نمایش هشدار مصرف اینترنت همراه هنگام تعویض به اینترنت همراه</string>
-    <string name="wifi_assistant_description">&quot;دستیار Wi-Fi اینگونه کار می‌کند:
+    <string name="wifi_assistant_description">"دستیار Wi-Fi اینگونه کار می‌کند:
 ۱هنگامی که اتصال Wi-Fi ضعیف باشد، دستیار Wi-Fi تلاش خواهد کرد تا دستگاه شما را به سایر شبکه‌های Wi-Fi در دسترس وصل کند.
-۲. در صورتی که همه اتصالات Wi-Fi موجود ضعیف بوده و اینترنت همراه روشن باشد، دستیار Wi-Fi به اینترنت همراه تعویض خواهد کرد&quot;</string>
+۲. در صورتی که همه اتصالات Wi-Fi موجود ضعیف بوده و اینترنت همراه روشن باشد، دستیار Wi-Fi به اینترنت همراه تعویض خواهد کرد"</string>
     <string name="wifi_assistant_disconnect">قطع اتصال</string>
     <string name="wifi_assistant_explicitly_confirm_data_message">این شبکه Wi-Fi به اینترنت دسترسی ندارد. به جای آن از اینترنت همراه استفاده شود؟</string>
     <string name="wifi_assistant_explicitly_confirm_disconnect">این شبکه Wi-Fi به اینترنت دسترسی ندارد. اکنون قطع شود؟</string>
@@ -7784,11 +7784,11 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wifi_generation_title">فناوری</string>
     <string name="wifi_hand_sel_wapi_cert">گواهی WAPI</string>
     <string name="wifi_hidden_network">شبکه مخفی</string>
-    <string name="wifi_hidden_network_warning">&quot;اگر رهیابتان شناسه شبکه را پخش عمومی نمی‌کند اما می‌خواهید در آینده به آن متصل شوید، می‌توانید شبکه را به‌عنوان پنهان تنظیم کنید.
+    <string name="wifi_hidden_network_warning">"اگر رهیابتان شناسه شبکه را پخش عمومی نمی‌کند اما می‌خواهید در آینده به آن متصل شوید، می‌توانید شبکه را به‌عنوان پنهان تنظیم کنید.
 
 این کار می‌تواند خطر امنیتی ایجاد کند زیرا تلفن شما سیگنالش را به‌طور منظم برای پیدا کردن شبکه پخش عمومی می‌کند.
 
-تنظیم کردن شبکه به‌عنوان پنهان، تنظیمات رهیاب را تغییر نخواهد داد.&quot;</string>
+تنظیم کردن شبکه به‌عنوان پنهان، تنظیمات رهیاب را تغییر نخواهد داد."</string>
     <string name="wifi_hide_password">پنهان کردن گذرواژه</string>
     <string name="wifi_hotspot_ap_band_title">‏باند AP</string>
     <string name="wifi_hotspot_auto_off_summary">‏اگر دستگاهی متصل نباشد، نقطه اتصال Wi‑Fi خاموش خواهد شد</string>
@@ -7917,13 +7917,13 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wifi_scan_always_available_summary">به خدمات موقعیت مکانی و برنامه‌های دیگر Google اجازه جستجو برای شبکه داده شود، حتی هنگامی که Wi-Fi خاموش باشد</string>
     <string name="wifi_scan_always_confirm_allow">مجاز است</string>
     <string name="wifi_scan_always_confirm_deny">اجازه ندارد</string>
-    <string name="wifi_scan_always_turn_on_message_unknown">&quot;‏برای بهبود دقت موقعیت مکانی و مقاصد دیگر، برنامه‌ای ناشناس می‌خواهد اسکن کردن شبکه را فعال کند، حتی هنگامی‌که Wi-Fi خاموش است.
+    <string name="wifi_scan_always_turn_on_message_unknown">"‏برای بهبود دقت موقعیت مکانی و مقاصد دیگر، برنامه‌ای ناشناس می‌خواهد اسکن کردن شبکه را فعال کند، حتی هنگامی‌که Wi-Fi خاموش است.
 
-این مورد برای همه برنامه‌هایی که می‌خواهند اسکن کنند مجاز شود؟&quot;</string>
+این مورد برای همه برنامه‌هایی که می‌خواهند اسکن کنند مجاز شود؟"</string>
     <string name="wifi_scan_always_turnoff_message">برای خاموش کردن این مورد، در منوی سرریز، به «پیشرفته» بروید.</string>
-    <string name="wifi_scan_always_turnon_message">&quot;‏برای بهبود دقت موقعیت مکانی و مقاصد دیگر، %1$s می‌خواهد اسکن کردن شبکه را فعال کند، حتی هنگامی که Wi-Fi خاموش است.
+    <string name="wifi_scan_always_turnon_message">"‏برای بهبود دقت موقعیت مکانی و مقاصد دیگر، %1$s می‌خواهد اسکن کردن شبکه را فعال کند، حتی هنگامی که Wi-Fi خاموش است.
 
-این مورد را برای همه برنامه‌هایی که می‌خواهند اسکن کنند مجاز می‌کنید؟&quot;</string>
+این مورد را برای همه برنامه‌هایی که می‌خواهند اسکن کنند مجاز می‌کنید؟"</string>
     <string name="wifi_scan_notify_remember_choice">دوباره نشان داده نشود</string>
     <string name="wifi_scan_notify_text">‏برای بهبود دقت مکان، برنامه‌ها و سرویس‌ها همچنان می‌توانند در هرزمانی شبکه‌های Wi-Fi را اسکن کنند (حتی وقتی Wi-Fi خاموش است). این تنظیم می‌تواند برای مثال برای بهبود ویژگی‌ها و سرویس‌های مکان‌مبنا استفاده شود. می‌توانید در LINK_BEGINتنظیمات اسکن کردنLINK_END، این تنظیم را تغییر دهید.</string>
     <string name="wifi_scan_notify_text_scanning_off">‏برای بهبود دقت مکان، «اسکن کردن Wi‑Fi» را در LINK_BEGINتنظیمات اسکنLINK_END روشن کنید.</string>
@@ -7987,9 +7987,9 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wifi_settings_summary">تنظیم و مدیریت نقاط دسترسی بی سیم</string>
     <string name="wifi_settings_title">Wi‑Fi</string>
     <string name="wifi_setup_cancel">لغو</string>
-    <string name="wifi_setup_description_connected">بعدی&quot; را بزنید تا راه‌اندازی را ادامه بدهید.
+    <string name="wifi_setup_description_connected">بعدی" را بزنید تا راه‌اندازی را ادامه بدهید.
 
-&quot;برگشترا بزنید تا به شبکه Wi-Fi دیگری متصل شوید.</string>
+"برگشترا بزنید تا به شبکه Wi-Fi دیگری متصل شوید.</string>
     <string name="wifi_setup_detail">جزئیات شبکه</string>
     <string name="wifi_setup_eap_not_supported">نمی‌توانید اتصال EAP Wi-Fi را در حین راه‌اندازی پیکربندی کنید. پس از راه‌اندازی، می‌توانید به تنظیمات &gt; بی‌سیم و شبکه‌ها بروید.</string>
     <string name="wifi_setup_title">راه‌اندازی Wi-Fi</string>
@@ -8003,8 +8003,8 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wifi_share_action_turn_on">همرسانی Wi-Fi</string>
     <string name="wifi_share_action_turn_on_summary">برای همرسانی، هم‌اکنون وارد حساب Mi خود شوید</string>
     <string name="wifi_share_add">همرسانی شبکه‌های عمومی من</string>
-    <string name="wifi_share_add_summary">&quot;وقتی شبکه‌های عمومی خود را به اشتراک می‌گذارید،
-می‌توانید از شبکه‌های کاربران دیگر نیز استفاده کنید&quot;</string>
+    <string name="wifi_share_add_summary">"وقتی شبکه‌های عمومی خود را به اشتراک می‌گذارید،
+می‌توانید از شبکه‌های کاربران دیگر نیز استفاده کنید"</string>
     <string name="wifi_share_connect">اتصال</string>
     <string name="wifi_share_connected_summary">شما به یک شبکه عمومی Wi-Fi که توسط کاربر دیگری همرسانی شده متصل هستید.</string>
     <string name="wifi_share_connected_title">Wi-Fi همرسانی شده با MIUI</string>
@@ -8117,15 +8117,15 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="wifi_wapi_cert_uninstall">حذف گواهی WAPI</string>
     <string name="wifi_wapi_cert_uninstall_button">حذف</string>
     <string name="wifi_wapi_certification_dont_exist">گذرواژه وارد شده شبکه اشتباه است.</string>
-    <string name="wifi_wapi_fail_to_auth">&quot;تأیید هویت WAPI کامل نشد.
-مطمئن شوید گواهی‌های شما معتبرند.&quot;</string>
-    <string name="wifi_wapi_fail_to_init">&quot;گواهی‌های WAPI باز نمی‌شوند.
-به نظر می‌رسد گواهی دادن به حافظه فعال نیست.&quot;</string>
+    <string name="wifi_wapi_fail_to_auth">"تأیید هویت WAPI کامل نشد.
+مطمئن شوید گواهی‌های شما معتبرند."</string>
+    <string name="wifi_wapi_fail_to_init">"گواهی‌های WAPI باز نمی‌شوند.
+به نظر می‌رسد گواهی دادن به حافظه فعال نیست."</string>
     <string name="wifi_wapi_psk_type">نوع گذرواژه</string>
     <string name="wifi_wapi_user_cert">گواهی کاربر</string>
     <string name="wifi_wapi_user_certificate">گواهی کاربر</string>
     <string name="wifi_wps_available_first_item">‏WPS در دسترس است</string>
-    <string name="wifi_wps_available_second_item">&quot; ‏ (WPS در دسترس است)&quot;</string>
+    <string name="wifi_wps_available_second_item">" ‏ (WPS در دسترس است)"</string>
     <string name="wifi_wps_connected">به شبکه Wi-Fi %s متصل شد</string>
     <string name="wifi_wps_onstart_pbc">دکمه راه‌اندازی حفاظت Wi-Fi روی روتر خود را فشار دهید. ممکن است «WPS» نامیده شده یا شامل این نماد باشد:</string>
     <string name="wifi_wps_onstart_pin">گذرواژه %1$s را در روتر Wi-Fi خود وارد کنید. تکمیل راه‌اندازی تا دو دقیقه طول می‌کشد.</string>
@@ -8296,12 +8296,12 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="zen_mode_events_list">رویدادها</string>
     <string name="zen_mode_forever">تا زمانی که خاموش کنید</string>
     <string name="zen_mode_from_anyone">از هر کسی</string>
-    <string name="zen_mode_from_call">&quot;تماس‌ها از طرف &quot;</string>
+    <string name="zen_mode_from_call">"تماس‌ها از طرف "</string>
     <string name="zen_mode_from_contacts">تنها از مخاطبین</string>
     <string name="zen_mode_from_none">هیچ‌کدام</string>
     <string name="zen_mode_from_none_calls">عدم‌اجازه به هیچ تماسی</string>
     <string name="zen_mode_from_none_messages">هیچ پیامی مجاز نیست</string>
-    <string name="zen_mode_from_sms">&quot;پیام‌ها از طرف &quot;</string>
+    <string name="zen_mode_from_sms">"پیام‌ها از طرف "</string>
     <string name="zen_mode_from_starred">تنها از مخاطین ستاره‌دار</string>
     <string name="zen_mode_important_category">تنظیمات</string>
     <string name="zen_mode_media">پخش صداهای رسانه</string>
@@ -8329,9 +8329,9 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="zen_mode_restrict_notifications_disable_custom">حذف تنظیم سفارشی</string>
     <string name="zen_mode_restrict_notifications_enable_custom">فعال کردن تنظیم سفارشی</string>
     <string name="zen_mode_restrict_notifications_hide">بدون تصویر یا صدای اعلان‌ها</string>
-    <string name="zen_mode_restrict_notifications_hide_footer">&quot;تلفنتان برای اعلان‌های جدید یا موجود صدایی نمی‌کند، نمی‌لرزد، یا آن‌ها را نشان نمی‌دهد. به‌خاطر داشته باشید، اعلان‌های مهم مربوط به فعالیت و وضعیت تلفن هنوز نمایش داده می‌شود.
+    <string name="zen_mode_restrict_notifications_hide_footer">"تلفنتان برای اعلان‌های جدید یا موجود صدایی نمی‌کند، نمی‌لرزد، یا آن‌ها را نشان نمی‌دهد. به‌خاطر داشته باشید، اعلان‌های مهم مربوط به فعالیت و وضعیت تلفن هنوز نمایش داده می‌شود.
 
-وقتی «مزاحم نشوید» را خاموش می‌کنید، می‌توانید با تند کشیدن از بالای صفحه به پایین، اعلان‌های بررسی‌نشده را پیدا کنید.&quot;</string>
+وقتی «مزاحم نشوید» را خاموش می‌کنید، می‌توانید با تند کشیدن از بالای صفحه به پایین، اعلان‌های بررسی‌نشده را پیدا کنید."</string>
     <string name="zen_mode_restrict_notifications_hide_summary">اعلان‌ها را نخواهید دید یا صدایشان را نخواهید شنید.</string>
     <string name="zen_mode_restrict_notifications_mute">بدون صدای اعلان‌ها</string>
     <string name="zen_mode_restrict_notifications_mute_footer">هنگام دریافت اعلان‌، تلفنتان صدا نمی‌دهد یا نمی‌لرزد.</string>
@@ -8348,8 +8348,8 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="zen_mode_rule_not_found_text">قانون پیدا نشد.</string>
     <string name="zen_mode_rule_rename_button">تغییر نام</string>
     <string name="zen_mode_rule_summary_enabled_combination">روشن / %1$s</string>
-    <string name="zen_mode_rule_summary_provider_combination">&quot;%1$s
-%2$s&quot;</string>
+    <string name="zen_mode_rule_summary_provider_combination">"%1$s
+%2$s"</string>
     <string name="zen_mode_rule_type_unknown">نامشخص</string>
     <string name="zen_mode_schedule_alarm_summary">وقتی زنگی به‌صدا درمی‌آید، زمان‌بندی خاموش شود</string>
     <string name="zen_mode_schedule_alarm_title">زنگ می‌تواند زمان پایان را لغو کند</string>
@@ -8401,21 +8401,21 @@ Before using our services, read and agree to our %s.&quot;</string>
     <string name="zen_msg_event_reminder_title">پیام‌ها، رویدادها و یادآوری‌ها</string>
     <string name="zen_onboarding_current_setting_summary">(تنظیم فعلی)</string>
     <string name="zen_onboarding_current_setting_title">بدون صدای اعلان‌ها</string>
-    <string name="zen_onboarding_dnd_visual_disturbances_description">&quot;Your phone can do more to help you focus.
+    <string name="zen_onboarding_dnd_visual_disturbances_description">"Your phone can do more to help you focus.
 
 Update settings to:
 
 - Hide notifications completely
 
-- Allow calls from starred contacts and repeat callers&quot;</string>
+- Allow calls from starred contacts and repeat callers"</string>
     <string name="zen_onboarding_dnd_visual_disturbances_header">تنظیمات اعلان «مزاحم نشوید» تغییر کند؟</string>
     <string name="zen_onboarding_more_options">You can further customize this in Settings.</string>
     <string name="zen_onboarding_new_setting_summary">دیگر اعلان‌ها را نخواهید دید یا شنید. تماس‌های مخاطبین ستاره‌دار و تماس‌گیرنده‌های تکراری مجاز هستند.</string>
     <string name="zen_onboarding_new_setting_title">بدون تصویر یا صدای اعلان‌ها</string>
     <string name="zen_onboarding_ok">تمام</string>
-    <string name="zen_onboarding_screen_off_summary">&quot;Don&apos;t turn on the screen or wake for notifications&quot;</string>
+    <string name="zen_onboarding_screen_off_summary">"Don't turn on the screen or wake for notifications"</string>
     <string name="zen_onboarding_screen_off_title">Block when the screen is off</string>
-    <string name="zen_onboarding_screen_on_summary">&quot;Don&apos;t show notifications at all, except for basic phone activity and status&quot;</string>
+    <string name="zen_onboarding_screen_on_summary">"Don't show notifications at all, except for basic phone activity and status"</string>
     <string name="zen_onboarding_screen_on_title">Block when the screen is on</string>
     <string name="zen_onboarding_settings">تنظیمات</string>
     <string name="zen_schedule_rule_enabled_toast">قانون خودکار به گونه‌ای تنظیم شده است که در زمان‌های خاصی، «مزاحم نشوید» را روشن کند</string>

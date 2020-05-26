@@ -5,7 +5,7 @@
     <string name="SMTP_username_text">نام کاربری</string>
     <string name="account_add_title">Select email service</string>
     <string name="account_cache_provider">Account Cache Provider</string>
-    <string name="account_duplicate_dlg_message_fmt">شما در حال حاضر از این نام کاربری برای حساب \&quot;%s \&quot; استفاده می‌کنید.</string>
+    <string name="account_duplicate_dlg_message_fmt">شما در حال حاضر از این نام کاربری برای حساب \"%s \" استفاده می‌کنید.</string>
     <string name="account_duplicate_dlg_title">حساب تکراری</string>
     <string name="account_failure">مهلت جلسه پایان یافت</string>
     <string name="account_manager_type_exchange">com.android.exchange</string>
@@ -15,13 +15,13 @@
     <string name="account_name_toast">حسابی با همین نام از قبل وجود دارد</string>
     <string name="account_options_actionbar_title">Account settings</string>
     <string name="account_options_sync_title">همگام‌سازی</string>
-    <string name="account_password_spaces_error">&quot;این گذرواژه با یک یا چند 
-      کاراکتر فاصله آغاز شده یا به پایان می‌رسد. بسیاری از سرورها نمی‌توانند گذرواژه‌های دارای فاصله را پشتیبانی کنند.&quot;</string>
-    <string name="account_security_dialog_content_fmt">&quot;%s  نیازمند این است که شما تنظیمات امنیتی را به‌روزرسانی
-           کنید.&quot;</string>
+    <string name="account_password_spaces_error">"این گذرواژه با یک یا چند 
+      کاراکتر فاصله آغاز شده یا به پایان می‌رسد. بسیاری از سرورها نمی‌توانند گذرواژه‌های دارای فاصله را پشتیبانی کنند."</string>
+    <string name="account_security_dialog_content_fmt">"%s  نیازمند این است که شما تنظیمات امنیتی را به‌روزرسانی
+           کنید."</string>
     <string name="account_security_dialog_title">به‌روزرسانی امنیتی</string>
-    <string name="account_security_policy_explanation_fmt">&quot;سرور %s  نیاز دارد که شما به آن اجازه کنترل از راه دور
-        برخی از ویژگی های امنیتی دستگاه آندروید خود را بدهید.&quot;</string>
+    <string name="account_security_policy_explanation_fmt">"سرور %s  نیاز دارد که شما به آن اجازه کنترل از راه دور
+        برخی از ویژگی های امنیتی دستگاه آندروید خود را بدهید."</string>
     <string name="account_security_title">امنیت دستگاه</string>
     <string name="account_set_up_change_type_note">در صورتی که نیاز دارید بین تنظیمات POP3 و IMAP تعویض کنید، حساب خود را حذف کرده و یک حساب جدید با تنظیمات دلخواه خود ایجاد کنید.</string>
     <string name="account_setting">حساب‌ها</string>
@@ -41,8 +41,8 @@
     <string name="account_settings_enforced_label">سیاست‌ها</string>
     <string name="account_settings_enforced_summary">خالی</string>
     <string name="account_settings_incoming_summary">نام کاربری، گذرواژه و سایر تنظیمات سرور</string>
-    <string name="account_settings_login_dialog_content_fmt">&quot;نام کاربری یا گذرواژه برای %s اشتباه است.
- حالا آن‌ها به‌روزرسانی شوند؟&quot;</string>
+    <string name="account_settings_login_dialog_content_fmt">"نام کاربری یا گذرواژه برای %s اشتباه است.
+ حالا آن‌ها به‌روزرسانی شوند؟"</string>
     <string name="account_settings_login_dialog_reason_fmt">وارد %1$s نشد. سرور می‌گوید: %2$s</string>
     <string name="account_settings_login_dialog_title">نمی‌توان وارد شد</string>
     <string name="account_settings_mail_check_frequency_dialog_title">لازم است برای همگام‌سازی رایانامه‌ها، برنامه ایمیل را به صورت دستی تازه‌سازی کنید</string>
@@ -89,10 +89,10 @@
     <string name="account_setup_basics_title">افزودن حساب</string>
     <string name="account_setup_check_settings_check_incoming_msg">درحال تأیید تنظیمات شبکه…</string>
     <string name="account_setup_check_settings_check_outgoing_msg">درحال تأیید تنظیمات SMTP…</string>
-    <string name="account_setup_check_settings_retr_info_msg">&quot;    درحال بازیابی اطلاعات حساب…&quot;</string>
+    <string name="account_setup_check_settings_retr_info_msg">"    درحال بازیابی اطلاعات حساب…"</string>
     <string name="account_setup_correct_address_tips">نشانی ایمیلی که وارد کردید نامعتبر است.</string>
-    <string name="account_setup_creating_account_msg">&quot;    درحال ایجاد حساب…&quot;</string>
-    <string name="account_setup_deleting_account_msg">&quot;    درحال حذف حساب…&quot;</string>
+    <string name="account_setup_creating_account_msg">"    درحال ایجاد حساب…"</string>
+    <string name="account_setup_deleting_account_msg">"    درحال حذف حساب…"</string>
     <string name="account_setup_exchange_certificate_title">مجوز مشتری</string>
     <string name="account_setup_exchange_device_id_label">شناسه دستگاه تلفن همراه</string>
     <string name="account_setup_exchange_no_certificate">موجود نیست</string>
@@ -103,14 +103,14 @@
     <string name="account_setup_failed_dlg_auth_message">نام کاربری یا گذرواژه نادرست است.</string>
     <string name="account_setup_failed_dlg_bar_title">راه‌های ورود به %s</string>
     <string name="account_setup_failed_dlg_certificate_message">نمی‌توان به صورت ایمن به سرور متصل شد.</string>
-    <string name="account_setup_failed_dlg_certificate_message_fmt">&quot;نمی‌توان به صورت ایمن به سرور متصل شد.
-(%s)&quot;</string>
+    <string name="account_setup_failed_dlg_certificate_message_fmt">"نمی‌توان به صورت ایمن به سرور متصل شد.
+(%s)"</string>
     <string name="account_setup_failed_dlg_device_locked">حساب شما محافظت شده است. این دستگاه را با استفاده از امنیت QQ یا برداشتن محافظت تأیید کنید.</string>
     <string name="account_setup_failed_dlg_edit_details_action">ویرایش جزئیات</string>
     <string name="account_setup_failed_dlg_error_code">کد خطا: %s</string>
     <string name="account_setup_failed_dlg_server_message">نمی‌توان به سرور متصل شد.</string>
-    <string name="account_setup_failed_dlg_server_message_fmt">&quot;نمی‌توان به سرور متصل شد.
-(%s)&quot;</string>
+    <string name="account_setup_failed_dlg_server_message_fmt">"نمی‌توان به سرور متصل شد.
+(%s)"</string>
     <string name="account_setup_failed_dlg_title">حساب راه‌اندازی نشد</string>
     <string name="account_setup_failed_dlg_todo1">حساب را آن‌طور که در زیر نشان داده شده تنظیم کنید یا با EXCHANGE وارد حساب شوید.</string>
     <string name="account_setup_failed_dlg_todo2">حساب را آن‌طور که در زیر نشان داده شده تنظیم کنید</string>
@@ -231,7 +231,7 @@
     <string name="attachment_stop_all">توقف</string>
     <string name="attachment_text">متن</string>
     <string name="attachment_type_blocked">متاسفانه شما نمی‌توانید این نوع پيوست را ذخیره یا باز کنید.</string>
-    <string name="attachment_unknown">&quot;فایل %s &quot;</string>
+    <string name="attachment_unknown">"فایل %s "</string>
     <string name="attachment_video">ویدئو</string>
     <string name="attachments_header">پیوست‌ها</string>
     <string name="authority_email_provider">com.android.email.provider</string>
@@ -242,7 +242,7 @@
     <string name="auto_login_fail_to_retry">به صورت خودکار وارد نشد. دوباره تلاش کنید.</string>
     <string name="auto_mail_enable_txt">Start Settings</string>
     <string name="auto_mail_name">AutoMail</string>
-    <string name="auto_mail_title_note">Find the option \&quot;139 Mailbox Automatical Configuring\&quot;, click it to start.</string>
+    <string name="auto_mail_title_note">Find the option \"139 Mailbox Automatical Configuring\", click it to start.</string>
     <string name="auto_mail_window_description">139 Email Service Automatical Configuring</string>
     <string name="auto_mail_window_label">139 Mailbox Automatical Configuring</string>
     <string name="auto_remind_bind">افزودن</string>
@@ -257,7 +257,7 @@
     <string name="battery_saver">بهینه‌ساز باتری</string>
     <string name="battery_saver_keywords">بهینه‌ساز باتری;باتری ایمیل</string>
     <string name="bcc">رونوشت پنهان</string>
-    <string name="bcc_heading">&quot;رونوشت پنهان: &quot;</string>
+    <string name="bcc_heading">"رونوشت پنهان: "</string>
     <string name="bill_center_setting">تنظیمات صورت‌حساب</string>
     <string name="bill_center_setting_head">وارد کردن اطلاعات از این حساب‌ها</string>
     <string name="bill_cycle_text">چرخه حساب‌داری</string>
@@ -280,11 +280,11 @@
     <string name="cancel_pop3_attchemt_downloading">در حساب‌های POP3 نمی‌توان دانلودهای درحال انجام برای پیوستها را لغو کرد</string>
     <string name="cant_move_or_change_labels">موارد را از حساب‌های چندگانه نمی‌توان انتقال داد.</string>
     <string name="cc">رونوشت</string>
-    <string name="cc_attribution">&quot;رونوشت: %1$s  &lt; br &gt;&quot;</string>
+    <string name="cc_attribution">"رونوشت: %1$s  &lt; br &gt;"</string>
     <string name="cc_bcc">رونوشت/رونوشت پنهان</string>
-    <string name="cc_heading">&quot;رونوشت: &quot;</string>
-    <string name="certificate_add_failed">&quot;Couldn&apos;t add \&quot;%s\&quot; certificate&quot;</string>
-    <string name="certificate_added">Added \&quot;%s\&quot; certificate successfully</string>
+    <string name="cc_heading">"رونوشت: "</string>
+    <string name="certificate_add_failed">"Couldn't add \"%s\" certificate"</string>
+    <string name="certificate_added">Added \"%s\" certificate successfully</string>
     <string name="certificate_alias_prompt_certificate_name">Name</string>
     <string name="certificate_alias_prompt_hit">please enter certificate alias</string>
     <string name="certificate_alias_prompt_title">Name this certificate</string>
@@ -299,7 +299,7 @@
     <string name="changepw_dialog_tips_please_clikc_btn">کد تایید را در %s مشاهده کرده و دوباره وارد شوید.</string>
     <string name="chat_item_msg_people_unit">نفر</string>
     <string name="chat_item_msg_user_etc">و غیره.</string>
-    <string name="check_setup_data">&quot;    درحال تأیید تنظیمات شبکه…&quot;</string>
+    <string name="check_setup_data">"    درحال تأیید تنظیمات شبکه…"</string>
     <string name="choosertitle_sharevia">همرسانی با استفاده از</string>
     <string name="clear">پاک کردن</string>
     <string name="clear_display_images_whitelist_dialog_message">جلوگیری از نمایش تصاویر از فرستندگانی که شما قبلا مجاز کردید.</string>
@@ -339,20 +339,20 @@
     <string name="contact_add_options_details2">فقط گیرنده‌ها</string>
     <string name="contact_edit_set_black_list_from">انتقال تمام ایمیل‌ها از طرف این فرستنده به سطل زباله</string>
     <string name="contact_edit_set_black_list_receive">انتقال ایمیل‌ها با نشانی این گیرنده به سطل زباله (فقط ایمیل‌های جدید)</string>
-    <string name="contact_edit_set_black_list_receive_summary">ایمیل‌هایی که در بخش \&quot;به\&quot; یا \&quot;رونوشت\&quot; شامل این گیرنده هستند حذف شوند</string>
+    <string name="contact_edit_set_black_list_receive_summary">ایمیل‌هایی که در بخش \"به\" یا \"رونوشت\" شامل این گیرنده هستند حذف شوند</string>
     <string name="contact_edit_set_black_list_title">افزودن به فهرست سیاه</string>
     <string name="contact_edit_set_phone_contact">ویرایش مخاطبین تلفن</string>
     <string name="contact_edit_title_phone_contact">فهرست مخاطبین تلفن</string>
     <string name="contact_in_filter_title">فرستنده</string>
-    <string name="contact_info_string">&quot;نمایش اطلاعات مخاطب برای %1$s &quot;</string>
+    <string name="contact_info_string">"نمایش اطلاعات مخاطب برای %1$s "</string>
     <string name="contact_info_string_default">نمایش اطلاعات مخاطب</string>
     <string name="contact_list_add_btn">افزودن</string>
     <string name="contact_list_search_hint">جستجوی مخاطبین</string>
     <string name="contact_list_title">مخاطبین</string>
     <string name="contact_permission_error">دسترسی به مخاطبین تلفن محدود شده است</string>
     <string name="contact_select">انتخاب مخاطبین</string>
-    <string name="content_description">&quot;%1$s  درباره %2$s ، %3$s  در %4$s ، %5$s &quot;</string>
-    <string name="content_description_today">&quot;%1$s  درباره %2$s ، %3$s  در %4$s ، %5$s &quot;</string>
+    <string name="content_description">"%1$s  درباره %2$s ، %3$s  در %4$s ، %5$s "</string>
+    <string name="content_description_today">"%1$s  درباره %2$s ، %3$s  در %4$s ، %5$s "</string>
     <string name="contextmenu_add">افزودن به مخاطبین</string>
     <string name="contextmenu_add_contact">افزودن مخاطب</string>
     <string name="contextmenu_call">تماس</string>
@@ -369,7 +369,7 @@
     <string name="contextmenu_send_mail">ارسال ایمیل</string>
     <string name="contextmenu_sharelink">همرسانی پیوند</string>
     <string name="contextmenu_sms_dot">پیامک…</string>
-    <string name="conversation_cert_distrust">&quot;Don&apos;t trust&quot;</string>
+    <string name="conversation_cert_distrust">"Don't trust"</string>
     <string name="conversation_cert_info_tips">This email was signed with a trusted certificate</string>
     <string name="conversation_cert_info_title">Signed</string>
     <string name="conversation_cert_trust">Trust</string>
@@ -380,7 +380,7 @@
     <string name="conversation_item_mark_read">خوانده شده</string>
     <string name="conversation_item_mark_unread">خوانده نشده</string>
     <string name="conversation_message_encrypt_tips">This is an encrypted email. Add the certificate required for decrypting it.</string>
-    <string name="conversation_msg_header_collapsed_sent_to">&quot;ارسال شد به &quot;</string>
+    <string name="conversation_msg_header_collapsed_sent_to">"ارسال شد به "</string>
     <string name="conversation_photo_welcome_text">روی تصویر فرستنده زده تا گفتگو انتخاب شود.</string>
     <string name="conversation_pull_ad_content">ایمیل‌های خود را بدون زحمت مدیریت کنید</string>
     <string name="conversation_quick_button_approve">تأیید</string>
@@ -396,7 +396,7 @@
     <string name="cur_debt">مانده حساب</string>
     <string name="custom_from_account_label">ارسال ایمیل به عنوان:</string>
     <string name="database_exception">Data exception, please login again</string>
-    <string name="date_heading">&quot;تاریخ: &quot;</string>
+    <string name="date_heading">"تاریخ: "</string>
     <string name="date_message_received">%1$s %2$s</string>
     <string name="date_message_received_today">امروز، %1$s</string>
     <string name="db_error">There is an exception in the e-mail data. Please log in again. The e-mail data can be recovered after login.</string>
@@ -447,7 +447,7 @@
     <string name="downlaod_nonWifi_confirm_message">با استفاده از اینترنت همراه این پیوست دانلود شود؟</string>
     <string name="downlaod_nonWifi_confirm_title">اين پيوست دانلود شود؟</string>
     <string name="download_again">دانلود دوباره</string>
-    <string name="download_before_sharing">&quot; دانلود تمام نشده است.&quot;</string>
+    <string name="download_before_sharing">" دانلود تمام نشده است."</string>
     <string name="download_cancel_confirm_message">دانلود متوقف خواهد شد</string>
     <string name="download_cancel_confirm_title">اين پيوست دانلود شود؟</string>
     <string name="download_complete_not_cancel">دانلود تمام شد</string>
@@ -475,7 +475,7 @@
     <string name="email_setting_keywords">حساب‌ها;افزودن حساب;حساب‌های ایمیل;افزودن حساب ایمیل;تأیید پیش از حذف;تأیید حذف;تأیید پیش از ارسال;تأیید ارسال;حذف جریان پیام;حذف تغییر مسیر;نمای گفتگو;گفتگوی ایمیل;بهینه‌ساز باتری;باتری ایمیل;ارسال بازخورد;بارگذاری گزارشات</string>
     <string name="email_sina">ایمیل Sina</string>
     <string name="email_suggestions_authority">com.android.email.provider</string>
-    <string name="email_sync_failed">&quot;Couldn&apos;t sync mail&quot;</string>
+    <string name="email_sync_failed">"Couldn't sync mail"</string>
     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="eml_parse_message">درحال باز کردن فایل EML…</string>
     <string name="empty_account_tip">حساب یافت نشد</string>
@@ -485,13 +485,13 @@
     <string name="empty_trash">تخلیه زباله</string>
     <string name="empty_trash_dialog_title">سطل زباله خالی شود؟</string>
     <string name="enable_sync_in_account_settings">روشن کردن در %1$s.</string>
-    <string name="enumeration_delimiter">&quot; | &quot;</string>
+    <string name="enumeration_delimiter">" | "</string>
     <string name="error">خطا</string>
-    <string name="exception_cancel">&quot;
+    <string name="exception_cancel">"
         این رویداد لغو شده است
         برای:
         %s
-    &quot;</string>
+    "</string>
     <string name="exception_updated">جزئیات این رویداد تغییر کرده است به: %s</string>
     <string name="exchange_name">شرکت</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
@@ -520,9 +520,9 @@
     <string name="file_save_path_dialog_cancel">فهمیدم</string>
     <string name="file_save_path_dialog_ok">اکنون تغییر یابد</string>
     <string name="file_save_term">شرایط ذخیره فایل</string>
-    <string name="filtered_tag">&quot; [%1$s]%2$s&quot;</string>
-    <string name="first_quick_default_reply">دکمه را زده تا \&quot;%s\&quot; به همه افراد در گفتگو ارسال شود</string>
-    <string name="float_window_info">&quot;When configuring the 139 mailbox, don&apos;t operate the phone, in case of configuration failures.&quot;</string>
+    <string name="filtered_tag">" [%1$s]%2$s"</string>
+    <string name="first_quick_default_reply">دکمه را زده تا \"%s\" به همه افراد در گفتگو ارسال شود</string>
+    <string name="float_window_info">"When configuring the 139 mailbox, don't operate the phone, in case of configuration failures."</string>
     <string name="float_window_title">Configuration………</string>
     <string name="folder_drafts_name_cn0">草稿</string>
     <string name="folder_drafts_name_cn1">草稿箱</string>
@@ -567,13 +567,13 @@
     <string name="formatted_subject">%1$s %2$s</string>
     <string name="forward">بازارسال</string>
     <string name="forward_attachment">باز ارسال</string>
-    <string name="forward_attribution">&quot;---پیام بازارسالی---&lt; br &gt; از: %1$s  &lt; br &gt; تاریخ: %2$s  &lt; br &gt; موضوع: %3$s  &lt; br &gt; به: %4$s  &lt; br &gt;&quot;</string>
+    <string name="forward_attribution">"---پیام بازارسالی---&lt; br &gt; از: %1$s  &lt; br &gt; تاریخ: %2$s  &lt; br &gt; موضوع: %3$s  &lt; br &gt; به: %4$s  &lt; br &gt;"</string>
     <string name="forward_attribution_no_headers">---پیام بازارسالی---</string>
     <string name="forward_download_failed_ticker">یک یا چند پیوست بازارسال نشد.</string>
     <string name="forward_download_failed_title">پیوست بازارسال نشد</string>
     <string name="forward_subject_label">Fwd:</string>
     <string name="free_period_text">دوره بدون بهره</string>
-    <string name="from_heading">&quot;از: &quot;</string>
+    <string name="from_heading">"از: "</string>
     <string name="general_preference_confirm_delete_label">تأیید پیش از حذف</string>
     <string name="general_preference_confirm_send_label">تأیید پیش از ارسال</string>
     <string name="general_preference_str_auto_translation">ترجمه فوری</string>
@@ -603,7 +603,7 @@
     <string name="help_and_info">راهنما</string>
     <string name="help_email_title">MI Mail</string>
     <string name="help_me_get_qq_auth">گرفتن کد QQ</string>
-    <string name="help_weixin_title">&quot;If you have any questions, feel free to drop us a line in our official WeChat account: &quot;</string>
+    <string name="help_weixin_title">"If you have any questions, feel free to drop us a line in our official WeChat account: "</string>
     <string name="hide_elided">▼ پنهان کردن متن نقل قول</string>
     <string name="hide_password">پنهان کردن گذرواژه</string>
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
@@ -642,7 +642,7 @@
     <string name="login_err_message">Use authorized passcodes to sign in to %1$s if you selected this option previously. Go to https://email.163.com/ to reset your password or passcode.</string>
     <string name="login_err_sina_message">Use authorized passcodes to sign in to %1$s if you selected this option previously. Go to https://mail.sina.com.cn/ to reset your password or passcode.</string>
     <string name="login_failed_ticker">ورود %s ناموفق بود.</string>
-    <string name="login_failed_tip">&quot;Contact us in WeChat to get help: &quot;</string>
+    <string name="login_failed_tip">"Contact us in WeChat to get help: "</string>
     <string name="login_failed_title">نمی‌توان وارد حساب شد</string>
     <string name="login_mail">ورود به حساب</string>
     <string name="login_qq_psw">با استفاده از گذرواژه QQ/تأیید کننده/کد تایید وارد سیستم شوید</string>
@@ -655,11 +655,11 @@
     <string name="mail_description_title">درباره ایمیل</string>
     <string name="mail_header_network_not_available">شما اتصال به شبکه ندارید.</string>
     <string name="mail_login_help">How to sign in</string>
-    <string name="mail_login_help_bottom_tip">&quot;If you forgot your password or need to check the status of your account, use the web version of NetEase Mail. You can also get help in WeChat: &quot;</string>
+    <string name="mail_login_help_bottom_tip">"If you forgot your password or need to check the status of your account, use the web version of NetEase Mail. You can also get help in WeChat: "</string>
     <string name="mail_login_help_details1">1. Email password can be used when no authorization code was set up in the email client and POP3/IMAP/SMTP services were enabled.</string>
     <string name="mail_login_help_details2">2. Third party authorization codes can be used to sign in in third party email clients when POP3/IMAP/SMTP services are enabled.</string>
     <string name="mail_login_help_title">Email password/Third party client:</string>
-    <string name="mail_outlook_login_tips">&quot;You&apos;ll be redirected to Microsoft to enter password&quot;</string>
+    <string name="mail_outlook_login_tips">"You'll be redirected to Microsoft to enter password"</string>
     <string name="mail_outlook_oauth_login">Sign in with OAuth</string>
     <string name="mail_outlook_psw_login">Sign in using password</string>
     <string name="mailbox_list_account_selector_combined_view">حساب ترکیبی</string>
@@ -701,50 +701,50 @@
     <string name="mark_unread">علامت زدن به عنوان خوانده نشده</string>
     <string name="me_object_pronun">من</string>
     <string name="me_subject_pronun">من</string>
-    <string name="meeting_accepted">&quot;
+    <string name="meeting_accepted">"
         پذیرفته شد:
         %s
-    &quot;</string>
-    <string name="meeting_allday">&quot;
+    "</string>
+    <string name="meeting_allday">"
         چه زمانی:
         %s
         (تمام روز)
-    &quot;</string>
-    <string name="meeting_allday_recurring">&quot;
+    "</string>
+    <string name="meeting_allday_recurring">"
         چه زمانی:
         %s
         (تمام روز، مکرر)
-    &quot;</string>
-    <string name="meeting_canceled">&quot;
+    "</string>
+    <string name="meeting_canceled">"
         لغو شد:
         %s
-    &quot;</string>
-    <string name="meeting_declined">&quot;
+    "</string>
+    <string name="meeting_declined">"
         رد شد:
         %s
-    &quot;</string>
-    <string name="meeting_recurring">&quot;
+    "</string>
+    <string name="meeting_recurring">"
         چه زمانی:
         %s
         (recurring)
-    &quot;</string>
+    "</string>
     <string name="meeting_responded_failed">بدون پاسخ</string>
-    <string name="meeting_tentative">&quot;
+    <string name="meeting_tentative">"
         آزمایشی:
         %s
-    &quot;</string>
-    <string name="meeting_updated">&quot;
+    "</string>
+    <string name="meeting_updated">"
         به‌روزرسانی شد:
         %s
-    &quot;</string>
-    <string name="meeting_when">&quot;
+    "</string>
+    <string name="meeting_when">"
         چه زمانی:
         %s
-    &quot;</string>
-    <string name="meeting_where">&quot;
+    "</string>
+    <string name="meeting_where">"
         کجا:
         %s
-    &quot;</string>
+    "</string>
     <string name="megabytes">%s مگابایت</string>
     <string name="menu_att_mgr">پیوست‌ها</string>
     <string name="menu_att_mgr_order_default">به تازگی مشاهده شده</string>
@@ -779,8 +779,8 @@
     <string name="message_invite_title">دعوت سالنامه</string>
     <string name="message_saved">پیام به عنوان پیش‌نویس ذخیره شد.</string>
     <string name="message_view_attachment_background_load">پیوست‌ها در پیام بازارسالی شما پیش از ارسال دانلود خواهند شد.</string>
-    <string name="mi_sync_erroe_toast">&quot;A network error occurred: &quot;</string>
-    <string name="mi_sync_erroe_toast_other">&quot;A server error occurred: &quot;</string>
+    <string name="mi_sync_erroe_toast">"A network error occurred: "</string>
+    <string name="mi_sync_erroe_toast_other">"A server error occurred: "</string>
     <string name="mi_sync_erroe_toast_other_details">-ERR:unknown_error</string>
     <string name="mibill_privacy_policy_button1">بعداً</string>
     <string name="mibill_privacy_policy_button2">پذیرفتن</string>
@@ -792,7 +792,7 @@
     <string name="more_context">بیشتر</string>
     <string name="more_string">+%1$s</string>
     <string name="move_to_selection_dialog_title">انتقال به پوشه دیگر</string>
-    <string name="multiple_new_message_notification_item">%1$s&quot;   %2$s&quot;</string>
+    <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
     <string name="mute">بی صدا</string>
     <string name="navigation_menu">منوی جهت‌یابی</string>
     <string name="need_get_qq_mail">نیازمند ایمیل QQ است</string>
@@ -809,8 +809,8 @@
     <string name="no_address_email">noaddressemail@123.com</string>
     <string name="no_application_found">هیچ برنامه‌ای برای باز کردن این پیوست یافت نشد.</string>
     <string name="no_application_found_title">باز کردن این پیوست.</string>
-    <string name="no_bill_discribe">&quot;هیچ صورت‌حسابی یافت نشد.
-تلاش کنید به یک حساب ایمیل دیگر تعویض کنید.&quot;</string>
+    <string name="no_bill_discribe">"هیچ صورت‌حسابی یافت نشد.
+تلاش کنید به یک حساب ایمیل دیگر تعویض کنید."</string>
     <string name="no_contacts">بدون مخاطب.</string>
     <string name="no_content_in_body">[No Body]</string>
     <string name="no_conversations">پیامی وجود ندارد</string>
@@ -819,8 +819,8 @@
     <string name="no_matched_attachment">هیچ نتیجه‌ای یافت نشد.</string>
     <string name="no_more_mail">No more messages</string>
     <string name="no_open_smime_toast">Add S/MIME certificate first</string>
-    <string name="no_recognize_describe">&quot;ایمیل حاوی بلیط یا رزرو پیدا نشد.
-صندوق دریافت دیگری را امتحان کنید.&quot;</string>
+    <string name="no_recognize_describe">"ایمیل حاوی بلیط یا رزرو پیدا نشد.
+صندوق دریافت دیگری را امتحان کنید."</string>
     <string name="no_search_results">Search on the server</string>
     <string name="not_subject">(بدون موضوع)</string>
     <string name="not_synced_title">حساب همگام‌سازی نشد</string>
@@ -880,14 +880,14 @@
     <string name="outbox_alert_select_operation">یک عمل را انتخاب کنید</string>
     <string name="outbox_alert_title_sent_failed">ایمیل ارسال نشد</string>
     <string name="outbox_no_mails">خالی</string>
-    <string name="outlook_login_failed_non_proxy_title">&quot;Couldn&apos;t access Outlook server&quot;</string>
+    <string name="outlook_login_failed_non_proxy_title">"Couldn't access Outlook server"</string>
     <string name="output_all_log">خروجی همه گزارشات</string>
     <string name="output_db_summary">پایگاه داده شما خارج خواهد شد</string>
     <string name="output_db_title">پایگاه داده خروجی</string>
     <string name="output_to_disk">ذخیره همه گزارشات در یک فایل</string>
-    <string name="over_16_content">&quot;Confirm that you&apos;ve already turned 16?&quot;</string>
+    <string name="over_16_content">"Confirm that you've already turned 16?"</string>
     <string name="over_due">سر رسیده</string>
-    <string name="over_sixteen">&quot;I&apos;m 16 or older.&quot;</string>
+    <string name="over_sixteen">"I'm 16 or older."</string>
     <string name="overlays_fail_tip">Very sorry that your mailbox is not configured successfully, open the floating Windows permissions and try again</string>
     <string name="overlays_ok">Open permissions</string>
     <string name="overlays_tip">Phone settings - Application - Application Details - open floating Windows permissions in the permissions manager, and immediately enjoy 139 mailbox to automatically configure the extreme experience.</string>
@@ -897,10 +897,10 @@
     <string name="parse_bill_discribe">درحال پردازش صورت‌حساب‌های کارت اعتباری…</string>
     <string name="parse_recognize_describe">درحال تجزیه و تحلیل ایمیل…</string>
     <string name="password_expire_warning_content_title">گذرواژه صفحه قفل درحال انقضا است</string>
-    <string name="password_expire_warning_dialog_content_fmt">&quot;نیاز به تغییر پین یا گذرواژه صفحه قفل شما در اسرع وقت است، یا به زودی داده‌ها برای %s  پاک خواهند شد. آیا مایلید که اکنون آن را تغییر دهید؟&quot;</string>
+    <string name="password_expire_warning_dialog_content_fmt">"نیاز به تغییر پین یا گذرواژه صفحه قفل شما در اسرع وقت است، یا به زودی داده‌ها برای %s  پاک خواهند شد. آیا مایلید که اکنون آن را تغییر دهید؟"</string>
     <string name="password_expire_warning_dialog_title">گذرواژه صفحه قفل در حال انقضا است</string>
-    <string name="password_expire_warning_ticker_fmt">&quot;\&quot;%s\&quot; نیازمند آن است که شما PIN یا گذرواژه
-            صفحه قفل خود را تغییر دهید.&quot;</string>
+    <string name="password_expire_warning_ticker_fmt">"\"%s\" نیازمند آن است که شما PIN یا گذرواژه
+            صفحه قفل خود را تغییر دهید."</string>
     <string name="password_expired_content_title">گذرواژه صفحه قفل منقضی شده است</string>
     <string name="password_expired_dialog_content_fmt">داده برای %s از دستگاه شما حذف شده است. شما می‌توانید با تغییر PIN صفحه قفل یا گذرواژه آن را بازیابی کنید. حالا تغییر می‌دهید؟</string>
     <string name="password_expired_dialog_title">گذرواژه صفحه قفل منقضی شده است</string>
@@ -935,8 +935,8 @@
     <string name="photo_view_count">%1$d از %2$d</string>
     <string name="pl_select_age">Select age</string>
     <string name="please_fill_in_your_mailbox_information2">اطلاعات صندوق پستی خود را وارد کنید</string>
-    <string name="pls_parse_bill_discribe">&quot;صورت‌حساب‌ها و اطلاعات مسافرت را در ایمیل خود شرح داده
-تا یادآوری درباره پرداخت‌ها و مسافرت‌ها را دریافت کنید&quot;</string>
+    <string name="pls_parse_bill_discribe">"صورت‌حساب‌ها و اطلاعات مسافرت را در ایمیل خود شرح داده
+تا یادآوری درباره پرداخت‌ها و مسافرت‌ها را دریافت کنید"</string>
     <string name="policy_app_blacklist">لغو اجازه برنامه‌های مشخص شده</string>
     <string name="policy_app_whitelist">فقط به برنامه‌های مشخص شده اجازه داده شود</string>
     <string name="policy_bluetooth_restricted">محدود کردن مصرف بلوتوث</string>
@@ -968,7 +968,7 @@
     <string name="policy_text_truncation">محدود کردن اندازه متن ایمیل</string>
     <string name="pop3_name">POP3</string>
     <string name="prefDefault_autoAdvance">list</string>
-    <string name="preference_eas_tips">برای ایجاد سرور ایمیل، روی \&quot;فعال‌سازی\&quot; ضربه بزنید.</string>
+    <string name="preference_eas_tips">برای ایجاد سرور ایمیل، روی \"فعال‌سازی\" ضربه بزنید.</string>
     <string name="preference_imap_tips"></string>
     <string name="preference_pop_tips">در POP3، پیوست‌ها به صورت خودکار با ایمیل دانلود می‌شوند. این ممکن است باعث افزایش مصرف اینترنت همراه شما شود.</string>
     <string name="preference_sender_image_description">نمایش تصاویر نمایه در کنار نام فرستنده در صندوق دریافت</string>
@@ -980,7 +980,7 @@
     <string name="previous_action">بازگشت</string>
     <string name="print">چاپ</string>
     <string name="print_scheduler_title">چاپ همه برنامه‌ریزان</string>
-    <string name="privacy_des">&quot;Logs contain debugging info of the email client and your device info. This information is used to locate problems faster. By tapping \&quot;%1$s\&quot; below, you&apos;re agreeing to our \&quot;%2$s\&quot;.&quot;</string>
+    <string name="privacy_des">"Logs contain debugging info of the email client and your device info. This information is used to locate problems faster. By tapping \"%1$s\" below, you're agreeing to our \"%2$s\"."</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="privacy_policy_url">https://miui.wpsmail.net/policy.html</string>
     <string name="privacy_setting_agree">Agree</string>
@@ -1006,22 +1006,22 @@
     <string name="qq_authorization_know">درباره کد</string>
     <string name="qq_authorization_tips">دوباره نمایش داده نشود</string>
     <string name="qq_auto_login_failed_cpy_pass_success">با موفقیت کپی شد. به صفحه ورود بازگشته و کد را در جای خود جای‌گذاری کنید.</string>
-    <string name="qq_auto_login_failed_dialog_message">کد تایید را کپی کرده، در صفحه ورود \&quot;نام کاربری و گذرواژه را برای ورود وارد کنید\&quot; را زده و گذرواژه را در جای خود جای‌گذاری کنید.</string>
+    <string name="qq_auto_login_failed_dialog_message">کد تایید را کپی کرده، در صفحه ورود \"نام کاربری و گذرواژه را برای ورود وارد کنید\" را زده و گذرواژه را در جای خود جای‌گذاری کنید.</string>
     <string name="qq_auto_login_failed_dialog_positive_label">کپی کد</string>
     <string name="qq_bar_open_imap">راهنما</string>
     <string name="qq_bar_send_message">ارسال پیامک</string>
     <string name="qq_changepw_dialog_tips">Get a new code from %s to sign in.</string>
     <string name="qq_login_basecode">درحال ورود به ایمیل وب QQ. گذرواژه مستقل را وارد کنید.</string>
     <string name="qq_login_get_auth">در صورتی که نمی‌توانید پیامک دریافت کنید، گذرواژه حفاظت را روشن کنید</string>
-    <string name="qq_login_help_bottom_tip">&quot;If you forgot your password or need to check the status of your account, use the web version of QQ Mail. You can also get help in WeChat: &quot;</string>
+    <string name="qq_login_help_bottom_tip">"If you forgot your password or need to check the status of your account, use the web version of QQ Mail. You can also get help in WeChat: "</string>
     <string name="qq_login_help_details1">1. QQ password can be used when no independent password or authorization code was set up with IMAP/Exchange protocols.</string>
     <string name="qq_login_help_details2">2. Independent password can be used when no authorization code was set up with IMAP/Exchange protocols.</string>
-    <string name="qq_login_help_details3">&quot;3. Authorization codes generated for third party email clients can also be used for signing in. If you forgot your code, refer to this link: &quot;</string>
+    <string name="qq_login_help_details3">"3. Authorization codes generated for third party email clients can also be used for signing in. If you forgot your code, refer to this link: "</string>
     <string name="qq_login_help_title">QQ/Independent password/Authorization code:</string>
     <string name="qq_login_notice">یادداشت: اگر پیش‌تر گذر واژه ایجاد کرده‌اید،هنگام ورود به سیستم باید آن را تأیید کنید.</string>
-    <string name="qq_login_open_imap">\&quot;راهنما\&quot; را زده تا IMAP/SMTP را روشن کنید</string>
+    <string name="qq_login_open_imap">\"راهنما\" را زده تا IMAP/SMTP را روشن کنید</string>
     <string name="qq_login_origin_setting">برای ورود به حساب نام کاربری و گذرواژه را وارد کنید &gt;</string>
-    <string name="qq_login_send_message">\&quot;ارسال پیامک\&quot; را زده تا کد یک تأیید دریافت کنید</string>
+    <string name="qq_login_send_message">\"ارسال پیامک\" را زده تا کد یک تأیید دریافت کنید</string>
     <string name="qq_login_webview">درحال ورود به QQ از بستر وب. روی ورود با گذرواژه زده تا وارد شوید.</string>
     <string name="qq_next_generation_auth_toast">گذرواژه حفاظت را در مرورگر خود روشن کنید</string>
     <string name="qq_pwd_or_qq_auth_code">QQ کد یا گذرواژه ایمیل را وارد کنید</string>
@@ -1048,7 +1048,7 @@
     <string name="quick_reply_hint_reply_only_from">پاسخ سریع (فقط فرستنده)</string>
     <string name="quick_reply_pattern">.*审批.*|.*批准.*|.*申请.*|.*申报.*|.*请示.*|.*请求.*</string>
     <string name="quick_responses_empty_view">بدون پاسخ فوری</string>
-    <string name="quote_begin">&lt;div class=\&quot;wps_quotion\&quot;&gt;</string>
+    <string name="quote_begin">&lt;div class=\"wps_quotion\"&gt;</string>
     <string name="quote_divider_1">-------- 原始邮件 --------</string>
     <string name="quote_divider_11">----- 原文 -----</string>
     <string name="quote_divider_12"> 原始邮件 </string>
@@ -1058,8 +1058,8 @@
     <string name="quote_divider_5">-----------用于引用的分割线-------------</string>
     <string name="quote_divider_6">---Original---</string>
     <string name="quote_divider_7">Original Message</string>
-    <string name="quote_divider_apple">&quot;
-&gt;&quot;</string>
+    <string name="quote_divider_apple">"
+&gt;"</string>
     <string name="quote_divider_huawei_zh">来自华为手机</string>
     <string name="quote_divider_ipad_zh">发自我的 iPad</string>
     <string name="quote_divider_iphone_en">Sent from my iPhone</string>
@@ -1111,15 +1111,15 @@
     <string name="refreshing_done">انجام شد</string>
     <string name="release_to_refresh">برای تازه‌سازی رها کنید</string>
     <string name="remind_attachment_size_limit">ایمیل‌های شما نباید کمتر از %s مگابایت باشد</string>
-    <string name="remote_search_body_too_large_prompt">&quot;This email is too long.
-Wait until it&apos;s fully synced or view the message on your computer.&quot;</string>
+    <string name="remote_search_body_too_large_prompt">"This email is too long.
+Wait until it's fully synced or view the message on your computer."</string>
     <string name="remove_account">حذف حساب</string>
-    <string name="remove_folder">&quot;حذف از %1$s &quot;</string>
+    <string name="remove_folder">"حذف از %1$s "</string>
     <string name="remove_star">بی ستاره کردن</string>
     <string name="reply">پاسخ</string>
     <string name="reply_add_bodycontent">پاسخ به بدنه پیام افزوده شود؟</string>
     <string name="reply_all">پاسخ به همه</string>
-    <string name="reply_attribution">&quot;در %1$s ،  %2$s  نوشت:&quot;</string>
+    <string name="reply_attribution">"در %1$s ،  %2$s  نوشت:"</string>
     <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">گزارش فیشینگ</string>
     <string name="report_rendering_improvement">Looks good</string>
@@ -1131,7 +1131,7 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="request_entity_large">فایل خیلی بزرگ است</string>
     <string name="request_permission_activity">Permissions required</string>
     <string name="required_permissions">android.permission.WRITE_EXTERNAL_STORAGE;</string>
-    <string name="respond_inline">&quot;   پاسخ زیر ایمیل اصلی&quot;</string>
+    <string name="respond_inline">"   پاسخ زیر ایمیل اصلی"</string>
     <string name="retry_login">ورود دوباره</string>
     <string name="save_action">ذخیره کردن</string>
     <string name="save_attachment">ذخیره کردن</string>
@@ -1144,29 +1144,29 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="sdcard_cannot_use">نمی توان از کارت SD استفاده کرد</string>
     <string name="search_bar_text">جستجوی فرستندگان یا مخاطبین</string>
     <string name="search_hint">جستجوی ایمیل</string>
-    <string name="search_remote_again">&quot;Couldn&apos;t connect to the network. Tap to try again.&quot;</string>
-    <string name="search_result">&quot;نتایج &quot;</string>
+    <string name="search_remote_again">"Couldn't connect to the network. Tap to try again."</string>
+    <string name="search_result">"نتایج "</string>
     <string name="search_tabs_name_all">همه</string>
     <string name="search_tabs_name_recipient">گیرنده</string>
     <string name="search_tabs_name_sender">فرستنده</string>
     <string name="search_tabs_name_subject">موضوع</string>
     <string name="search_title">Unified Email</string>
     <string name="search_txt_size_limit_prompt">عبارات جستجو باید بیشتر از ۳ کاراکتر باشد</string>
-    <string name="security_changed_ticker_fmt">حساب \&quot;%s\&quot; تنظیمات امنیت خود را تغییر داد; هیچ عملیات کاربری مورد نیاز نیست.</string>
-    <string name="security_needed_ticker_fmt">حساب \&quot;%s\&quot; نیاز به روز رسانی تنظیمات امنیتی دارد.</string>
-    <string name="security_notification_content_change_title">&quot;سیاست‌های امنیتی 
-      تغییر کرد&quot;</string>
-    <string name="security_notification_content_unsupported_title">&quot;مقررات امنیتی نمی‌تواند
-         ملاقات شود&quot;</string>
+    <string name="security_changed_ticker_fmt">حساب \"%s\" تنظیمات امنیت خود را تغییر داد; هیچ عملیات کاربری مورد نیاز نیست.</string>
+    <string name="security_needed_ticker_fmt">حساب \"%s\" نیاز به روز رسانی تنظیمات امنیتی دارد.</string>
+    <string name="security_notification_content_change_title">"سیاست‌های امنیتی 
+      تغییر کرد"</string>
+    <string name="security_notification_content_unsupported_title">"مقررات امنیتی نمی‌تواند
+         ملاقات شود"</string>
     <string name="security_notification_content_update_title">نیازمند به‌روزرسانی‌های امنیتی است</string>
-    <string name="security_unsupported_ticker_fmt">حساب \&quot;%s\&quot; به دلایل امنیتی نمی‌تواند همگام‌سازی شود.</string>
+    <string name="security_unsupported_ticker_fmt">حساب \"%s\" به دلایل امنیتی نمی‌تواند همگام‌سازی شود.</string>
     <string name="see_more_content">مشاهده موارد بیشتر</string>
     <string name="select_attachment_type">انتخاب پیوست از</string>
     <string name="select_no_file">هیچ پیوستی انتخاب نشده است</string>
     <string name="select_path">انتخاب مسیر</string>
     <string name="send">ارسال</string>
-    <string name="send_encrypt_dialog_fail_content">&quot;Looks like the recipient doesn&apos;t have the trusted certificate required for encrypting this email. Send a regular email instead?&quot;</string>
-    <string name="send_encrypt_dialog_fail_title">&quot;Can&apos;t send encrypted email&quot;</string>
+    <string name="send_encrypt_dialog_fail_content">"Looks like the recipient doesn't have the trusted certificate required for encrypting this email. Send a regular email instead?"</string>
+    <string name="send_encrypt_dialog_fail_title">"Can't send encrypted email"</string>
     <string name="send_failed">پیام ارسال نشد.</string>
     <string name="send_feed_back">ارسال بازخورد</string>
     <string name="send_feed_back_keywords">ارسال بازخورد</string>
@@ -1176,10 +1176,10 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="senders_split_token">, </string>
     <string name="sending">درحال ارسال…</string>
     <string name="sending_message">درحال ارسال پیام…</string>
-    <string name="sending_quick_reply">درحال ارسال \&quot;%s\&quot;</string>
+    <string name="sending_quick_reply">درحال ارسال \"%s\"</string>
     <string name="sent_folder_selection_title">انتخاب پوشه موارد ارسال شده سرور برای %s</string>
-    <string name="ser_resp_err_map_certificate_validator_err">&quot;مجوز شبکه تأیید نشد\u0009
- (مطمئن شوید \&quot;زمان همگام‌سازی خودکار\&quot; در تنظیمات روشن است)&quot;</string>
+    <string name="ser_resp_err_map_certificate_validator_err">"مجوز شبکه تأیید نشد\u0009
+ (مطمئن شوید \"زمان همگام‌سازی خودکار\" در تنظیمات روشن است)"</string>
     <string name="ser_resp_err_map_landing_more_failure">تلاش‌های ورود ناموفق بسیار زیاد</string>
     <string name="ser_resp_err_map_landing_too_frequently">تلاش‌های بیش از حد ورود</string>
     <string name="ser_resp_err_map_mailbox_locked">حساب ایمیل با گذرواژه محافظت شده است</string>
@@ -1189,7 +1189,7 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="ser_resp_err_map_or">%1$s یا %2$s</string>
     <string name="ser_resp_err_map_pserr">نام کاربری یا گذرواژه اشتباه است</string>
     <string name="ser_resp_err_map_serclosed">%s server closed.</string>
-    <string name="ser_resp_err_map_ssl">&quot;&apos; SSL/TLS (پذیرش همه گواهی‌ها)&apos; در \&quot;نوع امنیت\&quot; را انتخاب کنید&quot;</string>
+    <string name="ser_resp_err_map_ssl">"' SSL/TLS (پذیرش همه گواهی‌ها)' در \"نوع امنیت\" را انتخاب کنید"</string>
     <string name="service_protocol_discribe">من توافقنامه خدمات WPS Mail را خوانده و با آن موافقم</string>
     <string name="service_protocol_title">توافقنامه خدمات</string>
     <string name="set_network">تنظیم شبکه</string>
@@ -1204,15 +1204,15 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="show_elided">▶ نمایش متن نقل قول</string>
     <string name="show_images">دانلود و نمایش تصاویر</string>
     <string name="show_password">نمایش گذرواژه</string>
-    <string name="signature">&quot;
+    <string name="signature">"
 
 
 
-%s&quot;</string>
+%s"</string>
     <string name="signature_black_shark">Sent from my Blackshark phone</string>
     <string name="silent_ringtone">بی صدا</string>
-    <string name="single_new_message_notification_big_text">&quot;%1$s
-%2$s&quot;</string>
+    <string name="single_new_message_notification_big_text">"%1$s
+%2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
     <string name="smtp_password_error">گذرواژه برای سرور ایمیل ارسالی اشتباه است</string>
@@ -1238,8 +1238,8 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="suffix_vsnl">vsnl.com</string>
     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
     <string name="sync_calendra_fail_per_content">Tap to allow</string>
-    <string name="sync_calendra_fail_per_title">&quot;Couldn&apos;t sync calendar events&quot;</string>
-    <string name="sync_calendra_fail_permission">&quot;Couldn&apos;t sync calendar events. Allow WPS Mail to access Calendar first.&quot;</string>
+    <string name="sync_calendra_fail_per_title">"Couldn't sync calendar events"</string>
+    <string name="sync_calendra_fail_permission">"Couldn't sync calendar events. Allow WPS Mail to access Calendar first."</string>
     <string name="sync_contacts_fail_per_content">ضربه زده تا اجازه دسترسی به خاطبین داده شود</string>
     <string name="sync_contacts_fail_per_title">مخاطبین همگام‌سازی نشدند</string>
     <string name="sync_contacts_fail_permission">مخاطبین همگام‌سازی نشدند. به ایمیل اجازه دسترسی به مخاطبین را در تنظیمات بدهید</string>
@@ -1266,14 +1266,14 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="three_day">۳ روز</string>
     <string name="title_activity_about">درباره</string>
     <string name="to">به</string>
-    <string name="to_heading">&quot;به: &quot;</string>
+    <string name="to_heading">"به: "</string>
     <string name="toast_bar_fail_synchronization">دسترسی به شبکه انجام نشد. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="toast_bar_insufficient_memory_space">ایمیل‌ها دریافت نشدند. فضای ذخیره‌سازی کافی نیست.</string>
     <string name="toast_bar_invalid_account">اطلاعات حساب منقضی شدند. برای ورود دوباره ضربه بزنید.</string>
     <string name="toast_bar_no_connection_network">اتصال به اینترنت ندارید</string>
     <string name="toast_bar_open_gmail_synchronization">به جی‌میل وصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
-    <string name="toast_bar_send_fail_remind">ایمیل ارسال نشد. در پوشه \&quot;خروجی\&quot; ذخیره شد.</string>
-    <string name="toast_bar_sync_failed_client_cert">&quot;Couldn&apos;t sync due to a missing certificate. Tap to add the certificate again.&quot;</string>
+    <string name="toast_bar_send_fail_remind">ایمیل ارسال نشد. در پوشه \"خروجی\" ذخیره شد.</string>
+    <string name="toast_bar_sync_failed_client_cert">"Couldn't sync due to a missing certificate. Tap to add the certificate again."</string>
     <string name="toast_bar_sync_failed_mi_authority">Sign in to authorize your device</string>
     <string name="toastbar_calendar_and_contacts_permission_switch_close">برای همگام‌سازی اطلاعات سالنامه و مخاطبین، به برنامه ایمیل مجوزهای لازم را در تنظیمات بدهید</string>
     <string name="toastbar_calendar_permission_switch_close">برای دریافت یادآوری‌های سالنامه، مجوزهای لازم را به برنامه ایمیل در تنظیمات بدهید</string>
@@ -1295,20 +1295,20 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="translation_pronunciation_other">ماشین</string>
     <string name="translation_query_failure">نتایج یافت نشد</string>
     <string name="translation_technology_support">پشتیبانی فنی توسط iciba.com</string>
-    <string name="trash_folder_selection_title">&quot;پوشه زباله سرور را برای %s  انتخاب کنید&quot;</string>
+    <string name="trash_folder_selection_title">"پوشه زباله سرور را برای %s  انتخاب کنید"</string>
     <string name="trigger_compose_char">c</string>
     <string name="trigger_refresh_char">u</string>
     <string name="trigger_y_char">y</string>
     <string name="try_exchange_login">ورود با EXCHANGE</string>
-    <string name="turn_auto_sync_on_dialog_body">&quot;تغییراتی که شما در
+    <string name="turn_auto_sync_on_dialog_body">"تغییراتی که شما در
      تمام برنامه‌ها و حساب‌ها، نه فقط Gmail ایجاد 
-    می‌کنید بین وب و دستگاه‌های دیگر شما و %1$s  شما همگام‌سازی می‌شوند.&quot;</string>
+    می‌کنید بین وب و دستگاه‌های دیگر شما و %1$s  شما همگام‌سازی می‌شوند."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">روشن کردن</string>
     <string name="turn_auto_sync_on_dialog_title">همگام سازی خودکار روشن شود؟</string>
-    <string name="unbind_dialog_text">&quot;برنامه ایمیل دیگر ایمیل‌های شما را پس از آن تجزیه و تحلیل نخواهد کرد.
-حساب حذف شود؟&quot;</string>
-    <string name="under_16_content">&quot;Confirm that you aren&apos;t 16 years old yet?&quot;</string>
-    <string name="under_sixteen">&quot;I&apos;m not 16 years old yet.&quot;</string>
+    <string name="unbind_dialog_text">"برنامه ایمیل دیگر ایمیل‌های شما را پس از آن تجزیه و تحلیل نخواهد کرد.
+حساب حذف شود؟"</string>
+    <string name="under_16_content">"Confirm that you aren't 16 years old yet?"</string>
+    <string name="under_sixteen">"I'm not 16 years old yet."</string>
     <string name="undo">بازگرداندن</string>
     <string name="unknow">نامشخص</string>
     <string name="unread_string">گفتگوی خوانده نشده</string>
@@ -1329,9 +1329,9 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="uploading_logs">چند لحظه صبر کنید…</string>
     <string name="user_new_auth_code">Sign in with a new authorization code</string>
     <string name="user_privacy_settings">Privacy settings</string>
-    <string name="user_privacy_settings_agreement_authorization">&quot;(By tapping \&quot;Agree\&quot;, you&apos;re giving Mail all the required permissions)&quot;</string>
+    <string name="user_privacy_settings_agreement_authorization">"(By tapping \"Agree\", you're giving Mail all the required permissions)"</string>
     <string name="user_privacy_settings_path">To revoke your authorization, go to Settings &gt; Privacy settings.</string>
-    <string name="user_privacy_settings_summary">&quot;We&apos;ll collect your Android ID in the encrypted form and use it as your unique user identifier in Mail. We might also collect usage logs. You can revoke your authorization in privacy settings anytime.&quot;</string>
+    <string name="user_privacy_settings_summary">"We'll collect your Android ID in the encrypted form and use it as your unique user identifier in Mail. We might also collect usage logs. You can revoke your authorization in privacy settings anytime."</string>
     <string name="user_privacy_settings_title">Mail privacy statement</string>
     <string name="validation_failed_prompt">حساب تأیید نمی‌شود. تنظیمات سرور را بررسی کنید %s</string>
     <string name="veiled_address"></string>
@@ -1342,8 +1342,8 @@ Wait until it&apos;s fully synced or view the message on your computer.&quot;</s
     <string name="version_string">نسخه: %s</string>
     <string name="via_domain">از طریق%1$s</string>
     <string name="view_more_conversations">مشاهده گفتگوهای بیشتر</string>
-    <string name="wait_for_manual_sync_body">&quot;این حساب برای همگام‌سازی خودکار تنظیم نشده است.
-&quot;اکنون هنگام‌سازی شود را زده تا ایمیل یک‌بار همگام‌سازی شود و یا تغییر تنظیمات همگام‌سازی را زده تا همگام‌سازی خودکار برای این حساب تنظیم شود.</string>
+    <string name="wait_for_manual_sync_body">"این حساب برای همگام‌سازی خودکار تنظیم نشده است.
+"اکنون هنگام‌سازی شود را زده تا ایمیل یک‌بار همگام‌سازی شود و یا تغییر تنظیمات همگام‌سازی را زده تا همگام‌سازی خودکار برای این حساب تنظیم شود.</string>
     <string name="wait_for_sync_title">در انتظار همگام‌سازی</string>
     <string name="wait_help_context">wait</string>
     <string name="wait_while_update_db">Updating database…</string>

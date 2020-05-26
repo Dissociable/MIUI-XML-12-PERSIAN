@@ -12,7 +12,7 @@
     <string name="November">نوامبر</string>
     <string name="October">اکتبر</string>
     <string name="September">سپتامبر</string>
-    <string name="Updated_at">&quot;به‌روزرسانی: &quot;</string>
+    <string name="Updated_at">"به‌روزرسانی: "</string>
     <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
     <string name="abc_action_bar_up_description">رفتن به بالا</string>
     <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
@@ -223,7 +223,7 @@
     <string name="click_and_watch_video_tip">برای پخش نماهنگ ضربه بزنید</string>
     <string name="click_to_add_album_cover_and_lyric">برای افزودن جلد آلبوم و متن ترانه ضربه بزنید</string>
     <string name="click_to_shuffle">پخش تصادفی‌</string>
-    <string name="close_music_time">&quot;زمان باقی‌مانده: &quot;</string>
+    <string name="close_music_time">"زمان باقی‌مانده: "</string>
     <string name="com.crashlytics.android.build_id">97d9263e-9420-490d-bd7e-0612b258574e</string>
     <string name="comment_format">%s: %s</string>
     <string name="common_google_play_services_enable_button">فعال کردن</string>
@@ -346,7 +346,7 @@
     <string name="download_complete_start_install">در حال نصب…</string>
     <string name="download_completed">دانلود شد</string>
     <string name="download_confirm_button_text">نصب</string>
-    <string name="download_confirm_text">موسیقی Mi \&quot;%s\&quot; را دانلود و نصب خواهد کرد</string>
+    <string name="download_confirm_text">موسیقی Mi \"%s\" را دانلود و نصب خواهد کرد</string>
     <string name="download_connect_wifi_dialog_message">برای دانلود این آهنگ لازم است به Wi-Fi وصل شوید. اکنون وصل شود؟</string>
     <string name="download_connect_wifi_dialog_title">اتصال به Wi-Fi</string>
     <string name="download_dialog_fail">دانلود نشد</string>
@@ -505,14 +505,14 @@
     <string name="filter_by_duration">براساس طول</string>
     <string name="filter_by_duration_max">%d دقیقه</string>
     <string name="filter_by_duration_min">%d ثانیه</string>
-    <string name="filter_by_duration_prefix">&quot;پنهان کردن فایل‌های کوتاه‌تر از &quot;</string>
+    <string name="filter_by_duration_prefix">"پنهان کردن فایل‌های کوتاه‌تر از "</string>
     <string name="filter_by_duration_summary">پنهان کردن فایل‌های صوتی کوتاه</string>
     <string name="filter_by_folder">براساس پوشه</string>
     <string name="filter_by_folder_summary">پوشه‌ها را برای نمایش انتخاب کنید</string>
     <string name="filter_by_size">بر اساس اندازه</string>
     <string name="filter_by_size_max">%d مگابایت</string>
     <string name="filter_by_size_min">%d کیلوبایت</string>
-    <string name="filter_by_size_prefix">&quot;پنهان کردن فایل‌های کوچکتر از &quot;</string>
+    <string name="filter_by_size_prefix">"پنهان کردن فایل‌های کوچکتر از "</string>
     <string name="filter_by_size_summary">پنهان کردن فایل‌های صوتی کوچک</string>
     <string name="filter_size_unit">%d کیلوبایت</string>
     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
@@ -542,7 +542,7 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">&quot;h &apos;o&apos;&apos;clock&apos;&quot;</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -550,16 +550,16 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">&quot;H &apos;o&apos;&apos;clock&apos;&quot;</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">&quot;S&apos;ms&apos;&quot;</string>
-    <string name="fmt_time_minute">&quot;m&apos;min&apos;&quot;</string>
-    <string name="fmt_time_minute_second">&quot;m&apos;min&apos; s&apos;s&apos;&quot;</string>
-    <string name="fmt_time_minute_second_millis">&quot;m&apos;min&apos; s.S&apos;s&apos;&quot;</string>
-    <string name="fmt_time_second">&quot;s&apos;s&apos;&quot;</string>
-    <string name="fmt_time_second_millis">&quot;s.S&apos;s&apos;&quot;</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -642,7 +642,7 @@
     <string name="hungama_subscribe_title">عضویت PRO</string>
     <string name="i_know">تأیید</string>
     <string name="id_namespace">hungama</string>
-    <string name="impunity_declaration_content">پیش از استفاده از محصول شما باید &lt;a href=\&quot;http://www.miui.com/res/doc/eula.html?lang=fa_IR\&quot;&gt;توافقنامه کاربر&lt;/a&gt; و &lt;a href=\&quot;http://www.miui.com/res/doc/privacy.html?lang=fa_IR\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و آن را بپذیرید.</string>
+    <string name="impunity_declaration_content">پیش از استفاده از محصول شما باید &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fa_IR\"&gt;توافقنامه کاربر&lt;/a&gt; و &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fa_IR\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و آن را بپذیرید.</string>
     <string name="impunity_declaration_ignore">دوباره نمایش داده نشود</string>
     <string name="impunity_declaration_negative_text">خروج</string>
     <string name="impunity_declaration_positive_text">پذیرفتن</string>
@@ -662,8 +662,8 @@
     <string name="insufficient_space">فضای کافی بر روی حافظه داخلی دستگاه وجود ندارد</string>
     <string name="is_latest_version">موسیقی به‌روز است.</string>
     <string name="is_scanning">درحال بررسی حافظه…</string>
-    <string name="is_scanning_support_online">&quot;درحال بررسی حافظه…
-(در این میان می‌توانید موسیقی آنلاین پخش کنید)&quot;</string>
+    <string name="is_scanning_support_online">"درحال بررسی حافظه…
+(در این میان می‌توانید موسیقی آنلاین پخش کنید)"</string>
     <string name="keep_queued_download">نگه داشتن</string>
     <string name="ktv_playlist">فهرست پخش KTV</string>
     <string name="language_page_confirm">تأیید</string>
@@ -954,8 +954,8 @@
     <string name="recommended_no_file_size_download_in_mobile">از اینترنت همراه برای دانلود این فایل استفاده شود؟</string>
     <string name="remove">حذف</string>
     <string name="remove_download">حذف</string>
-    <string name="renew_dialog_title">&quot;Go Pro
-Be Happy&quot;</string>
+    <string name="renew_dialog_title">"Go Pro
+Be Happy"</string>
     <string name="repeat_all_notif">تکرار همه آهنگ‌ها.</string>
     <string name="repeat_current_notif">تکرار آهنگ فعلی.</string>
     <string name="request_overlay_permission_desc">برای استفاده از این ویژگی به موسیقی Mi اجازه نمایش پنجره‌های شناور را بدهید.</string>
@@ -1038,8 +1038,8 @@ Be Happy&quot;</string>
     <string name="share_end_note">از موسیقی Mi</string>
     <string name="share_failed">همرسانی نشد</string>
     <string name="share_image_error">به علت یک خطا در دانلود عکس همرسانی نشد</string>
-    <string name="share_text_list">&quot;فهرست پخش از موسیقی Mi: &quot;</string>
-    <string name="share_text_song">&quot;آهنگ در موسیقی Mi: &quot;</string>
+    <string name="share_text_list">"فهرست پخش از موسیقی Mi: "</string>
+    <string name="share_text_song">"آهنگ در موسیقی Mi: "</string>
     <string name="show_float_first_hint">کوچک کردن پخش کننده</string>
     <string name="show_more">نمایش %s مورد بیشتر</string>
     <string name="shuffle_music">بازپخش تصادفی</string>
@@ -1244,17 +1244,17 @@ Be Happy&quot;</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">W</string>
     <string name="widget_small_text_separator">-</string>
-    <string name="wifi_required_body">&quot;به Wi-Fi وصل شده تا این دانلود %s کامل شود.
+    <string name="wifi_required_body">"به Wi-Fi وصل شده تا این دانلود %s کامل شود.
 
-روی %s زده تا در اتصال بعدی شما به شبکه Wi-Fi دانلود آن آغاز شود.&quot;</string>
+روی %s زده تا در اتصال بعدی شما به شبکه Wi-Fi دانلود آن آغاز شود."</string>
     <string name="wifi_required_title">برای دانلود این فایل باید به Wi-Fi متصل شوید</string>
     <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-    <string name="xiaomi_update_sdk_dialog_message">&quot;Introducing version %1$s
-Size: %2$s&quot;</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">&quot;Introducing version %1$s
-Delta update size: %2$s&quot;</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>

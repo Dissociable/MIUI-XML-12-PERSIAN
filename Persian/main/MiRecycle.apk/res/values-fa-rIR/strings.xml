@@ -39,9 +39,9 @@
     <string name="device_battery">Battery Capacity</string>
     <string name="device_processor">Processor</string>
     <string name="device_resolution">Resolution</string>
-    <string name="dialog_content_cs">&quot;Recycling services are no longer provided. If you created orders here, contact OneAssist before August 31. You can ignore this message if you haven&apos;t applied for recycling services.&quot;</string>
-    <string name="dialog_content_oa">&quot;Extended warranty services are no longer provided. If you created orders here, contact Cashify before August 31. You can ignore this message if you haven&apos;t applied for extended warranty.&quot;</string>
-    <string name="dialog_content_stop">&quot;Stop hardware test before it&apos;s finished?&quot;</string>
+    <string name="dialog_content_cs">"Recycling services are no longer provided. If you created orders here, contact OneAssist before August 31. You can ignore this message if you haven't applied for recycling services."</string>
+    <string name="dialog_content_oa">"Extended warranty services are no longer provided. If you created orders here, contact Cashify before August 31. You can ignore this message if you haven't applied for extended warranty."</string>
+    <string name="dialog_content_stop">"Stop hardware test before it's finished?"</string>
     <string name="dialog_title_attention">Attention</string>
     <string name="hardware_detection">Hardware Test</string>
     <string name="insurance_entrance">View warranty orders</string>

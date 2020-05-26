@@ -36,7 +36,7 @@
     <string name="cannot_use_mi_huanji_summary">به نظر می‌رسد MIUI درحال پشتیبان‌گیری از موارد است. پشتیبان‌گیری‌های درحال انجام را متوقف کرده و یا دستگاه خود را دوباره راه‌اندازی کنید تا جابجاگر Mi انتقال را آغاز کند.</string>
     <string name="cannot_use_mi_huanji_title">اکنون نمی‎توان انتقال داد</string>
     <string name="check_phone_error_title">Sync is off</string>
-    <string name="check_phone_io_error">&quot;Can&apos;t connect to the network&quot;</string>
+    <string name="check_phone_io_error">"Can't connect to the network"</string>
     <string name="chinese_day_1">初一</string>
     <string name="chinese_day_10">初十</string>
     <string name="chinese_day_11">十一</string>
@@ -111,10 +111,10 @@
     <string name="clearable_edittext_clear_description">Clear</string>
     <string name="close">Close</string>
     <string name="close_twice_auth_btn">خاموش کردن مجوز دو مرحله‌ای</string>
-    <string name="close_twice_auth_note">&quot;توجه:
-پس از ایجاد یک پرسش امنیتی جدید و تأیید زادروز خود، مجوز دو مرحله‌ای شناسه Apple شما خاموش خواهد شد. در صورتی که گزینه‌ای برای خاموش کردن مجوز دو مرحله‌ای در صفحه حساب شناسه Apple نمی‌بینید، نمی‌توانید آن را خاموش کنید.&quot;</string>
-    <string name="close_twice_auth_operation">&quot;پیوند:
-برای خاموش کردن از https://appleid.apple.com/#!&amp;page=signin بازدید کنید&quot;</string>
+    <string name="close_twice_auth_note">"توجه:
+پس از ایجاد یک پرسش امنیتی جدید و تأیید زادروز خود، مجوز دو مرحله‌ای شناسه Apple شما خاموش خواهد شد. در صورتی که گزینه‌ای برای خاموش کردن مجوز دو مرحله‌ای در صفحه حساب شناسه Apple نمی‌بینید، نمی‌توانید آن را خاموش کنید."</string>
+    <string name="close_twice_auth_operation">"پیوند:
+برای خاموش کردن از https://appleid.apple.com/#!&amp;page=signin بازدید کنید"</string>
     <string name="close_twice_auth_step_1">۱. از هر مرورگری با هر رایانه‌ای به appleid.apple.com بروید.</string>
     <string name="close_twice_auth_step_2">۲. وارد حساب شناسه Apple که می‌خواهید تأیید هویت دو مرحله‌ای را غیر فعال کنید شده، به بخش «Security» تنظیمات حساب رفته و «Edit» را بزنید.</string>
     <string name="close_twice_auth_step_3">۳. روی گزینه «Turn Off Two-Factor Authentication» کلیک کرده و سپس دوباره برای تأیید کلیک کنید.</string>
@@ -122,7 +122,7 @@
     <string name="close_twice_auth_tutor">خاموش کردن تأیید هویت دو مرحله‌ای شناسه Apple</string>
     <string name="close_vpn_summary">به نظر می‌رسد دستگاه شما به یک VPN متصل است. VPN را خاموش کرده تا بتوان به دستگاه مقابل متصل شد.</string>
     <string name="close_vpn_title">خاموش کردن VPN</string>
-    <string name="comma_seperator">&quot;، &quot;</string>
+    <string name="comma_seperator">"، "</string>
     <string name="confirm_description">Confirm</string>
     <string name="connect_icloud_fail">به iCloud وصل نشد</string>
     <string name="connect_icloud_fail_tips">مطمئن شوید که حساب iCloud شما فعال بوده است. در غیر این صورت به icloud.com رفته و دستورالعمل‌های زیر را به منظور فعال‌سازی حساب خود دنبال کنید.</string>
@@ -130,9 +130,9 @@
     <string name="connect_wifi_tip">به شبکه متصل نشد. به Wi-Fi وصل شده تا موارد را از iCloud وارد کنید.</string>
     <string name="connecting">درحال اتصال…</string>
     <string name="connection_tips_activity_label">عیب‌یابی</string>
-    <string name="connection_tips_other_message">&quot;۱. مطمئن شوید آخرین نسخه جابجاگر Mi در دستگاه قدیمی شما نصب است. می‌توانید آخرین نسخه جابجاگر Mi را از GetApps یا با استفاده از این لینک دانلود کنید: %1$s.
+    <string name="connection_tips_other_message">"۱. مطمئن شوید آخرین نسخه جابجاگر Mi در دستگاه قدیمی شما نصب است. می‌توانید آخرین نسخه جابجاگر Mi را از GetApps یا با استفاده از این لینک دانلود کنید: %1$s.
 ۲. اگر کانون داغ دستگاه جدید در جابجاگر Mi نمایان نشد، Wi-Fi را در تنظیمات باز کرده و بررسی کنید که در آن‌جا دیده می‌شود یا نه. اگر چنین است روی آن نزنید.
-۳. به جابجاگر Mi باز گشته و روی نام کانون داغ بزنید.&quot;</string>
+۳. به جابجاگر Mi باز گشته و روی نام کانون داغ بزنید."</string>
     <string name="connection_tips_other_title">اگر دستگاه قدیمی شما یک گوشی آندرویدی سوم‌شخص است:</string>
     <string name="connection_tips_owner_message">جابجاگر Mi در همه دستگاه‌های دارای MIUI 11 به صورت پیش‌نصب قرار دارد. چنانچه نسخه قدیمی‌تر MIUI را دارید می‌توانید آخرین نسخه جابجاگر Mi را از GetApps دانلود کرده یا از این لینک استفاده کنید: %1$s.</string>
     <string name="connection_tips_owner_title">اگر دستگاه قدیمی شما یک گوشی Mi است:</string>
@@ -389,8 +389,8 @@
     <string name="dialog_rating_title">به جابجاگر Mi امتیاز دهید</string>
     <string name="dialog_request_network_btn_negative">خروج</string>
     <string name="dialog_request_network_btn_positive">پذیرفتن</string>
-    <string name="dialog_request_network_message">&quot;به جابجاگر Mi خوش آمدید! شما با استفاده از این برنامه می‌توانید داده‌های خود را از دستگاه قدیمی به دستگاه جدید منتقل کنید.
-ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم. توجه داشته باشید که جابجاگر Mi برای گردآوری اطلاعات شخصی شما نیاز به اتصال به اینترنت و مجوزهای زیر دارد: روشن و خاموش کردن Wi-Fi، دسترسی و جابجایی مخاطبین، تاریخچه تماس، پیامک‌ها، MMS، تماس‌های ضبط شده و صداهای ضبط شده شما.&quot;</string>
+    <string name="dialog_request_network_message">"به جابجاگر Mi خوش آمدید! شما با استفاده از این برنامه می‌توانید داده‌های خود را از دستگاه قدیمی به دستگاه جدید منتقل کنید.
+ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم. توجه داشته باشید که جابجاگر Mi برای گردآوری اطلاعات شخصی شما نیاز به اتصال به اینترنت و مجوزهای زیر دارد: روشن و خاموش کردن Wi-Fi، دسترسی و جابجایی مخاطبین، تاریخچه تماس، پیامک‌ها، MMS، تماس‌های ضبط شده و صداهای ضبط شده شما."</string>
     <string name="dialog_request_network_message_extra">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که این برنامه را حذف و یا مجوزها را در تنظیمات محدود کنید.</string>
     <string name="dialog_tip_upgrade_summary">به نظر می‌رسد جابجاگر Mi بسیار قدیمی است. جابجاگر Mi را به آخرین نسخه به‌روز کرده تا بتوانید فایل‌ها را جابجا کنید.</string>
     <string name="dialog_tip_upgrade_title">جابجاگر Mi را به‌روز کنید</string>
@@ -429,7 +429,7 @@
     <string name="error_forbidden">Sync has been turned off due to problems with your Mi Account.</string>
     <string name="error_not_acceptable">Sync has been turned off.</string>
     <string name="error_permissions">این برنامه مجوز لازم را ندارد تا به سالنامه دسترسی پیدا کند. به تنظیمات رفته و مجوزها را بررسی کرده تا بتوانید ادامه دهید.</string>
-    <string name="error_title">&quot;Couldn&apos;t sync&quot;</string>
+    <string name="error_title">"Couldn't sync"</string>
     <string name="error_unauthorized">Sync has been turned off due to too many sign-in attempts.</string>
     <string name="evening">PM</string>
     <string name="failed_description">ناموفق</string>
@@ -457,7 +457,7 @@
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">&quot;h &apos;o&apos;&apos;clock&apos;&quot;</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
     <string name="fmt_time_12hour_minute">h:mm</string>
     <string name="fmt_time_12hour_minute_pm">h:mm a</string>
     <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
@@ -465,16 +465,16 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">&quot;H &apos;o&apos;&apos;clock&apos;&quot;</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">&quot;S&apos;ms&apos;&quot;</string>
-    <string name="fmt_time_minute">&quot;m&apos;min&apos;&quot;</string>
-    <string name="fmt_time_minute_second">&quot;m&apos;min&apos; s&apos;s&apos;&quot;</string>
-    <string name="fmt_time_minute_second_millis">&quot;m&apos;min&apos; s.S&apos;s&apos;&quot;</string>
-    <string name="fmt_time_second">&quot;s&apos;s&apos;&quot;</string>
-    <string name="fmt_time_second_millis">&quot;s.S&apos;s&apos;&quot;</string>
+    <string name="fmt_time_millis">"S'ms'"</string>
+    <string name="fmt_time_minute">"m'min'"</string>
+    <string name="fmt_time_minute_second">"m'min' s's'"</string>
+    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
+    <string name="fmt_time_second">"s's'"</string>
+    <string name="fmt_time_second_millis">"s.S's'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -513,9 +513,9 @@
     <string name="hide_password_description">پنهان کردن گذرواژه</string>
     <string name="host_boot_installation_bottom_tips">جابجاگر Mi یافت نمی‌شود؟ برای دانلود ضربه بزنید.</string>
     <string name="host_boot_installation_button">بعدی</string>
-    <string name="host_boot_installation_content">&quot;۱. به تنظیمات دستگاه قدیمی خود بروید.
+    <string name="host_boot_installation_content">"۱. به تنظیمات دستگاه قدیمی خود بروید.
 ۲. در نوار جستجو «جابجاگر Mi» را وارد کنید.
-۳. در نتایج جستجو روی «جابجاگر Mi» بزنید.&quot;</string>
+۳. در نتایج جستجو روی «جابجاگر Mi» بزنید."</string>
     <string name="host_boot_installation_dialog_message">نسخه جابجاگر Mi دستگاه قدیمی شما با نسخه‌ای که در اینجا نصب شده است سازگار نیست.</string>
     <string name="host_boot_installation_first_title">جابجاگر Mi را در دستگاه قدیمی خود باز کنید</string>
     <string name="host_boot_installation_message">صفحه‌ای که در دستگاه قدیمی خود می‌بینید را انتخاب کنید. در صورتی که از نسخه قدیمی‌تر جابجاگر Mi استفاده می‌کنید، به شما چگونگی به‌روزرسانی آن را یاد می‌دهیم.</string>
@@ -548,8 +548,8 @@
     <string name="hsa_verify_shutdown">خاموش کردن</string>
     <string name="hybrid_provider">Provided by %1$s</string>
     <string name="icloud_data_importing">درحال وارد کردن…</string>
-    <string name="icloud_how_to_backup_tip_steps">&quot;توجه
-۱. برای وارد کردن موارد از یک دستگاه iOS، از آخرین نسخه پشتیبان استفاده و یا پیش از آغاز انتقال، همه موارد را همگام‌سازی کنید.&quot;</string>
+    <string name="icloud_how_to_backup_tip_steps">"توجه
+۱. برای وارد کردن موارد از یک دستگاه iOS، از آخرین نسخه پشتیبان استفاده و یا پیش از آغاز انتقال، همه موارد را همگام‌سازی کنید."</string>
     <string name="icloud_how_to_backup_tip_steps_two">۲. شناسه Apple و گذرواژه شما فقط برای ورود به حساب استفاده خواهد شد. آن‌ها در جابجاگر Mi ذخیره و یا ضبط نخواهند شد.</string>
     <string name="icloud_login_title">ورود به iCloud</string>
     <string name="icloud_need_sync">موارد را برای وارد کردن انتخاب کنید</string>
@@ -570,9 +570,9 @@
     <string name="import_data_from_icloud">وارد کردن داده‌ها از iCloud</string>
     <string name="install_app_dialog_title">دستگاه‌های نزدیک یافت نشدند</string>
     <string name="install_app_link_text">چرا دستگاه قدیمی من به کانون داغ وصل نمی‌شود؟</string>
-    <string name="install_app_message">&quot;در صورتی که برای مدت طولانی نتوانستید دستگاه جدید را بیابید این موارد را بیازمایید:
+    <string name="install_app_message">"در صورتی که برای مدت طولانی نتوانستید دستگاه جدید را بیابید این موارد را بیازمایید:
 ۱. مطمئن شوید جابجاگر Mi در دستگاه جدید شما نصب است.
-۲. هر دو دستگاه را نزدیک هم کنید.&quot;</string>
+۲. هر دو دستگاه را نزدیک هم کنید."</string>
     <string name="install_app_new_title">با اسکن کد QR جابجاگر Mi را روی دستگاه جدید نصب کنید</string>
     <string name="install_app_old_title">با اسکن کد QR جابجاگر Mi را روی دستگاه قدیمی نصب کنید</string>
     <string name="install_app_to_another_phone_content">جابجاگر Mi را روی دستگاه جدید خود نصب کنید</string>
@@ -653,10 +653,10 @@
     <string name="need_location_permission_title">نیازمند مجوز است</string>
     <string name="need_more_memory_cacel">لغو</string>
     <string name="need_more_memory_confirm">پاک‌سازی کننده</string>
-    <string name="need_more_memory_summary">&quot;فضای کافی وجود ندارد. جابجاگر Mi پیش از انتقال برای ایجاد بسته‌های فشرده نیاز به %1$s فضای بیشتر دارد.
+    <string name="need_more_memory_summary">"فضای کافی وجود ندارد. جابجاگر Mi پیش از انتقال برای ایجاد بسته‌های فشرده نیاز به %1$s فضای بیشتر دارد.
 ۱. فقط موارد مهم را منتقل کنید.
 ۲. برنامه‌هایی که داده‌های زیادی دارند را انتخاب نکنید.
-۳. از پاک‌سازی کننده برای آزادسازی فضا استفاده کنید.&quot;</string>
+۳. از پاک‌سازی کننده برای آزادسازی فضا استفاده کنید."</string>
     <string name="need_more_memory_title">فضای کافی وجود ندارد</string>
     <string name="new_app_name">نسخه جدید</string>
     <string name="new_main_activity_label">جابجاگر Mi</string>
@@ -678,14 +678,14 @@
     <string name="new_trans_intro_question_6">۶. چرا داده‌های برنامه‌ها از یک دستگاه سوم‌شخص منتقل نمی‌شوند؟</string>
     <string name="new_trans_intro_question_7">۷. در صورتی که جابجاگر Mi را در میان یک انتقال ترک کنم؛ آیا لازم است بار بعدی از ابتدا آغاز کنم؟</string>
     <string name="new_trans_intro_question_8">۸. چرا تاریخچه WeChat من در دستگاه جدید ناپدید شده است؟</string>
-    <string name="new_wait_link_first">&quot;۱. جابجاگر Mi را در دستگاه قدیمی خود باز کنید.
+    <string name="new_wait_link_first">"۱. جابجاگر Mi را در دستگاه قدیمی خود باز کنید.
 ۲. روی «من یک فرستنده‌ام» زده و چند لحظه صبر کنید.
-۳. روی کانون داغ زیر در دستگاه قدیمی بزنید.&quot;</string>
+۳. روی کانون داغ زیر در دستگاه قدیمی بزنید."</string>
     <string name="next">بعدی</string>
     <string name="nickname">Nickname</string>
     <string name="night">PM</string>
     <string name="no_more_memory_title">جابجاگر Mi نیاز به ایجاد یک نسخه پشتیبان محلی روی این دستگاه دارد. برای ایجاد نسخه پشتیبان فضای کافی وجود ندارد. ابتدا کمی فضا آزاد کنید.</string>
-    <string name="no_network">&quot;Can&apos;t connect to the network&quot;</string>
+    <string name="no_network">"Can't connect to the network"</string>
     <string name="no_sim">No SIM card detected.</string>
     <string name="noon">PM</string>
     <string name="note">یادداشت‌ها</string>
@@ -749,12 +749,12 @@
     <string name="saturday">Saturday</string>
     <string name="saturday_short">Sat</string>
     <string name="saturday_shortest">S</string>
-    <string name="save_finish_with_failing_items">&quot;انتقال قطع شد.
-داده‌هایی که وارد نشدند باید دوباره وارد شوند.&quot;</string>
+    <string name="save_finish_with_failing_items">"انتقال قطع شد.
+داده‌هایی که وارد نشدند باید دوباره وارد شوند."</string>
     <string name="saving_data">درحال وارد کردن داده‌ها از iCloud…</string>
     <string name="saving_data_not_close_wifi">Wi-Fi را خاموش نکنید</string>
-    <string name="saving_data_space_low">&quot;فضای ذخیره‌سازی کافی نیست.
-حداقل %s فضا آزاد کنید.&quot;</string>
+    <string name="saving_data_space_low">"فضای ذخیره‌سازی کافی نیست.
+حداقل %s فضا آزاد کنید."</string>
     <string name="scan_soft_ap_label">اتصال به دستگاه جدید</string>
     <string name="scanner_bottom_tip">فقط موارد مهم را انتخاب کرده تا جابجایی سریع‌تر انجام شود.</string>
     <string name="scanner_permission_alert_cancel">فهمیدم</string>
@@ -902,14 +902,14 @@
     <string name="trans_detail_item_app_skip_data">این برنامه جابجا نمی‌شود</string>
     <string name="trans_detail_qq_data">داده‌های QQ (شامل تاریخچه گپ‌ها)</string>
     <string name="trans_detail_wechat_data">داده‌های WeChat (شامل تاریخچه گپ‌ها)</string>
-    <string name="trans_install_guide_new_content_first">&quot;این کد QR را با دستگاه جدید خود اسکن کنید.
-جابجاگر Mi را دانلود و نصب کنید.&quot;</string>
-    <string name="trans_install_guide_old_content_first">&quot;۱. با دستگاه قدیمی خود این کد QR را اسکن کنید.
+    <string name="trans_install_guide_new_content_first">"این کد QR را با دستگاه جدید خود اسکن کنید.
+جابجاگر Mi را دانلود و نصب کنید."</string>
+    <string name="trans_install_guide_old_content_first">"۱. با دستگاه قدیمی خود این کد QR را اسکن کنید.
 ۲. جابجاگر Mi را دانلود و نصب کنید.
-۳. بلافاصله پس از کامل شدن نصب روی دکمه زیر بزنید.&quot;</string>
+۳. بلافاصله پس از کامل شدن نصب روی دکمه زیر بزنید."</string>
     <string name="trans_intro_title">پرسش‌های متداول</string>
-    <string name="trans_main_activity_tutor_first">&quot;عکس‌ها، مخاطبین، پیام‌ها، تاریخچه تماس‌ها،
-صداها، ویدئوها، اسناد و برنامه‌ها را به دستگاه جدید منتقل کنید&quot;</string>
+    <string name="trans_main_activity_tutor_first">"عکس‌ها، مخاطبین، پیام‌ها، تاریخچه تماس‌ها،
+صداها، ویدئوها، اسناد و برنامه‌ها را به دستگاه جدید منتقل کنید"</string>
     <string name="trans_one_key_migrate">جابجاگر Mi</string>
     <string name="trans_receive_time_remained">دریافت شده: %1$s | باقی‌مانده: %2$s</string>
     <string name="trans_send_time_remained">ارسال شده: %1$s | باقی‌مانده: %2$s</string>
@@ -925,9 +925,9 @@
     <string name="transfer_multi_connect_title">به نظر می‌رسد چندین دستگاه به این کانون داغ وصل شده‌اند</string>
     <string name="transfer_quit_alert_btn_negative">خروج</string>
     <string name="transfer_quit_alert_btn_positive">خارج نشود</string>
-    <string name="transfer_quit_alert_message">&quot;جابجاگر Mi درحال کار کردن است. در هر صورت خارج شود؟
+    <string name="transfer_quit_alert_message">"جابجاگر Mi درحال کار کردن است. در هر صورت خارج شود؟
 
-&quot;</string>
+"</string>
     <string name="transfer_quit_alert_message_extra">روند جابجایی ذخیره خواهد شد. زمان بعدی که دو دستگاه را به هم متصل کنید می‌توانید جابجایی را از جایی که ترک کرده‌اید ادامه دهید.</string>
     <string name="transfer_quit_alert_title">توجه</string>
     <string name="transfer_snap_error">انتقال داده نشد</string>
@@ -978,10 +978,10 @@
     <string name="xiaomi_mobile">Mi Mobile</string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-    <string name="xiaomi_update_sdk_dialog_message">&quot;Introducing version %1$s
-Size: %2$s&quot;</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">&quot;Introducing version %1$s
-Delta update size: %2$s&quot;</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>

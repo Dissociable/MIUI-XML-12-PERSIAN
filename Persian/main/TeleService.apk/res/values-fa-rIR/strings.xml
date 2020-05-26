@@ -181,7 +181,7 @@
     <string name="alert_dialog_ok">تأیید</string>
     <string name="alert_dialog_yes">بله</string>
     <string name="alertdialogtitle">Results</string>
-    <string name="all_day">&quot; تمام روز &quot;</string>
+    <string name="all_day">" تمام روز "</string>
     <string name="all_empty_alert">جزئیات حساب جدید SIP را وارد کنید.</string>
     <string name="allow_mock_location">مکان‌های کاذب مجاز هستند</string>
     <string name="allow_mock_location_summary">مکان‌های کاذب مجاز هستند</string>
@@ -234,13 +234,13 @@
     <string name="autoip_areacode_required_for_emergency_number">Local area code required for emergency calls</string>
     <string name="autoip_autoip_current_areacode_summary">Current area code is %s</string>
     <string name="autoip_current_areacode">Current area code</string>
-    <string name="autoip_current_areacode_summary">&quot;Current location&apos;s area code&quot;</string>
-    <string name="autoip_exception">&quot;Numbers that don&apos;t need IP prefix&quot;</string>
+    <string name="autoip_current_areacode_summary">"Current location's area code"</string>
+    <string name="autoip_exception">"Numbers that don't need IP prefix"</string>
     <string name="autoip_exception_summary">%d total</string>
     <string name="autoip_exception_summary_more">, %d total</string>
-    <string name="autoip_no_exceptions">&quot;Add numbers that don&apos;t require an IP prefix&quot;</string>
+    <string name="autoip_no_exceptions">"Add numbers that don't require an IP prefix"</string>
     <string name="autoip_prefix">IP prefix</string>
-    <string name="autoip_prefix_summary">&quot;Carrier&apos;s IP prefix is %s&quot;</string>
+    <string name="autoip_prefix_summary">"Carrier's IP prefix is %s"</string>
     <string name="autoip_setting">Automatic IP settings</string>
     <string name="autoip_summary">Add an IP prefix for international numbers</string>
     <string name="autoip_support_local_numbers">Always use IP prefix</string>
@@ -330,21 +330,21 @@
     <string name="bluetooth_sap_profile_summary_connected">‏متصل به SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی سیم‌کارت</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">بیت‌های بلوتوث صوتی در هر نمونه</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: تعداد بیت در نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: تعداد بیت در نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">حالت کانال بلوتوث‌ صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: حالت کانال&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: حالت کانال"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">‏کدک LDAC صوتی بلوتوث: کیفیت پخش</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">&quot;‏راه‌اندازی LDAC صوتی بلوتوثی
-انتخاب کدک: کیفیت پخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"‏راه‌اندازی LDAC صوتی بلوتوثی
+انتخاب کدک: کیفیت پخش"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">سرعت نمونه بلوتوث صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: سرعت نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: سرعت نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">پخش جریانی: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">کدک بلوتوث صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">‏انتخاب نسخه AVRCP بلوتوث</string>
     <string name="bluetooth_select_avrcp_version_string">‏نسخه AVRCP بلوتوث</string>
     <string name="bluetooth_show_devices_without_names">نمایش دستگاه‌های بلوتوث بدون نام</string>
@@ -495,7 +495,7 @@
     <string name="call_record_add_numbers">Add numbers</string>
     <string name="call_record_auto_always">All numbers</string>
     <string name="call_record_auto_scenario_title">Record calls from</string>
-    <string name="call_record_auto_summary">&quot;Recordings will be saved to the folder MIUI/sound_recorder/call_rec on your device&apos;s internal storage&quot;</string>
+    <string name="call_record_auto_summary">"Recordings will be saved to the folder MIUI/sound_recorder/call_rec on your device's internal storage"</string>
     <string name="call_record_auto_title">Record calls automatically</string>
     <string name="call_record_auto_unknown_number">Unknown numbers</string>
     <string name="call_record_auto_whitelist">Custom list</string>
@@ -510,7 +510,7 @@
     <string name="call_recording_notification_message_sd_unmounted">SD card has been removed.</string>
     <string name="call_recording_notification_summary">Show notification after call has been recorded</string>
     <string name="call_recording_notification_title">Call recorded</string>
-    <string name="call_recording_notification_title_error">&quot;Couldn&apos;t record call&quot;</string>
+    <string name="call_recording_notification_title_error">"Couldn't record call"</string>
     <string name="call_recording_notification_toggle_title">Call recording notification</string>
     <string name="call_recording_setting">Call recording</string>
     <string name="call_settings">تنظیمات تماس</string>
@@ -527,16 +527,16 @@
     <string name="caller_id_summary">Hide my number for outgoing calls (confirm that your carrier supports this feature)</string>
     <string name="caller_id_title">Caller ID</string>
     <string name="calling_via_template">درحال تماس از طریق %s</string>
-    <string name="callwait_open_hint">The \&quot;Call waiting\&quot; feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
-    <string name="can_not_use_for_not_data_sim">&quot;(Can&apos;t use: Must be set as default data SIM)&quot;</string>
+    <string name="callwait_open_hint">The \"Call waiting\" feature is provided by your carrier. If you receive an error notification, contact your carrier to make sure this feature is supported.</string>
+    <string name="can_not_use_for_not_data_sim">"(Can't use: Must be set as default data SIM)"</string>
     <string name="cancel">لغو</string>
-    <string name="card_title_call_ended">&quot;تماس پایان یافت &quot;</string>
+    <string name="card_title_call_ended">"تماس پایان یافت "</string>
     <string name="card_title_conf_call">کنفرانس تلفنی</string>
     <string name="card_title_dialing">درحال شماره‌گیری</string>
-    <string name="card_title_hanging_up">&quot;در حال قطع کردن &quot;</string>
+    <string name="card_title_hanging_up">"در حال قطع کردن "</string>
     <string name="card_title_in_call">در حین تماس</string>
     <string name="card_title_incoming_call">تماس دریافتی</string>
-    <string name="card_title_on_hold">&quot;در پشت خط &quot;</string>
+    <string name="card_title_on_hold">"در پشت خط "</string>
     <string name="card_title_redialing">درحال شماره‌گیری دوباره</string>
     <string name="carrier_info">Carrier info</string>
     <string name="carrier_settings"></string>
@@ -548,9 +548,9 @@
     <string name="category_work">محل کار</string>
     <string name="cb_sms_settings">تنظیمات پیامک پخش شده مخابراتی</string>
     <string name="cdma_activate_device">فعالسازی دستگاه</string>
-    <string name="cdma_alert_message">&quot;If you select another card as your default for mobile data, you won&apos;t be able to use your China Telecom UIM card (except in roaming).&quot;</string>
+    <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card (except in roaming)."</string>
     <string name="cdma_alert_title">UIM card must be default</string>
-    <string name="cdma_display_precise_call_state_message">&quot;If your network provider doesn&apos;t support this function, call status may be inaccurate.&quot;</string>
+    <string name="cdma_display_precise_call_state_message">"If your network provider doesn't support this function, call status may be inaccurate."</string>
     <string name="cdma_display_precise_call_state_summary">Confirm that your network provider supports this function</string>
     <string name="cdma_display_precise_call_state_title">Display call status</string>
     <string name="cdma_lte_data_service">ایجاد خدمات اینترنت همراه</string>
@@ -581,7 +581,7 @@
     <string name="cfnry_title">Forward when unanswered</string>
     <string name="cfu_title">Always forward calls</string>
     <string name="change_data_preference_4g_only_prompt">Looks like you have a 4G only SIM card. To make sure it works normally, set it as default for mobile data. Set now?</string>
-    <string name="change_data_sim_4g_only_prompt">&quot;SIM %1$s only supports 4G. When SIM %2$s isn&apos;t your default SIM for mobile data, SIM card might not work normally. Switch now?&quot;</string>
+    <string name="change_data_sim_4g_only_prompt">"SIM %1$s only supports 4G. When SIM %2$s isn't your default SIM for mobile data, SIM card might not work normally. Switch now?"</string>
     <string name="change_default_data_card">Default mobile data SIM</string>
     <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
     <string name="change_num">به‌روزرسانی</string>
@@ -669,8 +669,8 @@
     <string name="close_profile">بستن</string>
     <string name="close_volte">Turn off VoLTE</string>
     <string name="cloud_antispam_title">Identify unknown numbers</string>
-    <string name="cloud_sim_enabled_dual_4g_summary">&quot;Can&apos;t turn off Dual 4G while using Mi Roaming&quot;</string>
-    <string name="cloud_sim_enabled_preferred_network_summary">&quot;Can&apos;t change network preferences while using Mi Roaming&quot;</string>
+    <string name="cloud_sim_enabled_dual_4g_summary">"Can't turn off Dual 4G while using Mi Roaming"</string>
+    <string name="cloud_sim_enabled_preferred_network_summary">"Can't change network preferences while using Mi Roaming"</string>
     <string name="cmcc_ut_data_enable_prompt">This service requires mobile data connection. Turn it on to continue.</string>
     <string name="command_error_fdn_failure">You need to turn off FDN first</string>
     <string name="config_default_data_sim">Settings</string>
@@ -688,7 +688,7 @@
     <string name="confirm_pin_label">Confirm new PIN</string>
     <string name="connect_disconnect_vibrate_none">None</string>
     <string name="connect_disconnect_vibrate_normal">Normal</string>
-    <string name="connect_disconnect_vibrate_summary">&quot;Vibrate when the person you&apos;re calling answers your call&quot;</string>
+    <string name="connect_disconnect_vibrate_summary">"Vibrate when the person you're calling answers your call"</string>
     <string name="connect_disconnect_vibrate_title">Vibrate when your call is answered</string>
     <string name="connect_disconnect_vibrate_weak">Light</string>
     <string name="connect_later">در حال حاضر امکان برقراری ارتباط با این شبکه وجود ندارد. لطفا بعداً تلاش کنید.</string>
@@ -698,18 +698,18 @@
     <string name="connected_via_network_scorer_default">اتصال خودکار ازطریق ارائه‌دهنده رتبه‌بندی شبکه</string>
     <string name="connected_via_passpoint">‏متصل از طریق %1$s</string>
     <string name="connection_service_default_label">خدمات اتصال درونی</string>
-    <string name="contactAddFailed">&quot;Can&apos;t add contact to SIM.&quot;</string>
+    <string name="contactAddFailed">"Can't add contact to SIM."</string>
     <string name="contactAddSuccess">Added contact to SIM.</string>
     <string name="contactPhoto">عکس مخاطب</string>
-    <string name="contactUpdateFailed">&quot;Couldn&apos;t update contact on SIM.&quot;</string>
+    <string name="contactUpdateFailed">"Couldn't update contact on SIM."</string>
     <string name="contactUpdateSuccess">Updated contact on SIM.</string>
-    <string name="contactdeleteFailed">&quot;Can&apos;t delete contact from SIM.&quot;</string>
+    <string name="contactdeleteFailed">"Can't delete contact from SIM."</string>
     <string name="contactdeleteSuccess">Deleted contact from SIM.</string>
     <string name="content_description_menu_button">منو</string>
-    <string name="convert_to_fbe_warning">&quot;تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
+    <string name="convert_to_fbe_warning">"تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
  !!هشدار!! این کار تمام داده‌هایتان را پاک می‌کند.
  این ویژگی در نسخه آلفا قرار دارد و ممکن است به‌درستی کار نکند.
- برای ادامه، «پاک کردن و تبدیل…» را فشار دهید.&quot;</string>
+ برای ادامه، «پاک کردن و تبدیل…» را فشار دهید."</string>
     <string name="convert_to_file_encryption">تبدیل به رمزگذاری برحسب فایل</string>
     <string name="convert_to_file_encryption_done">از قبل به رمزگذاری بر حسب فایل تبدیل شده است</string>
     <string name="convert_to_file_encryption_enabled">تبدیل…</string>
@@ -724,8 +724,8 @@
     <string name="daltonizer_mode_protanomaly">قرمزدشواربینی (قرمز-سبز)</string>
     <string name="daltonizer_mode_tritanomaly">آبی‌دشواربینی (آبی-زرد)</string>
     <string name="daltonizer_type_overridden">توسط %1$s لغو شد</string>
-    <string name="data_disable_warning_no_mms">&quot;You won&apos;t be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). However, you&apos;ll be able to do that when your device is connected to WLAN.&quot;</string>
-    <string name="data_disable_warning_with_mms">&quot;You&apos;ll still be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). To use the internet, connect to WLAN.&quot;</string>
+    <string name="data_disable_warning_no_mms">"You won't be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). However, you'll be able to do that when your device is connected to WLAN."</string>
+    <string name="data_disable_warning_with_mms">"You'll still be able to send and receive MMS if you turn off mobile data (WCDMA/LTE). To use the internet, connect to WLAN."</string>
     <string name="data_enable_always_warn">Ask whether to use mobile data</string>
     <string name="data_enable_summary">اجازه مصرف اینترنت همراه</string>
     <string name="data_enable_warning">Allowing to always use mobile data may generate additional charges outside of your carrier plan. Connect anyway?</string>
@@ -739,8 +739,8 @@
     <string name="data_usage_uninstalled_apps_users">برنامه‌ها و کاربران حذف شده</string>
     <string name="dc_alert_dialog_message">Some apps require mobile data connection. You can contact your carrier to learn what %s are available to you.</string>
     <string name="dc_alert_dialog_title">Data usage warning</string>
-    <string name="dds_switch_warning_message_data_off">&quot;Couldn&apos;t find SIM %1$s. SIM %2$s is set as your default mobile data card now. Mobile data is now turned off.&quot;</string>
-    <string name="dds_switch_warning_message_data_on">&quot;Couldn&apos;t find SIM %1$s. SIM %2$s is set as your default mobile data card now. Mobile data is turned off to avoid unnecessary carrier fees.&quot;</string>
+    <string name="dds_switch_warning_message_data_off">"Couldn't find SIM %1$s. SIM %2$s is set as your default mobile data card now. Mobile data is now turned off."</string>
+    <string name="dds_switch_warning_message_data_on">"Couldn't find SIM %1$s. SIM %2$s is set as your default mobile data card now. Mobile data is turned off to avoid unnecessary carrier fees."</string>
     <string name="deactivate_all">Cancel all</string>
     <string name="debug_app">انتخاب برنامه اشکال‌زدایی</string>
     <string name="debug_app_not_set">هیچ برنامه اشکال‌زدایی‌ای تنظیم نشده است</string>
@@ -857,7 +857,7 @@
     <string name="display_name">DisplayName</string>
     <string name="display_name_summary">&lt;همانند نام کاربری&gt;</string>
     <string name="display_name_title">نام نمایشی</string>
-    <string name="do_not_show_again">&quot;Don&apos;t show again&quot;</string>
+    <string name="do_not_show_again">"Don't show again"</string>
     <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">سرور</string>
     <string name="doneButton">انجام شد</string>
@@ -882,12 +882,12 @@
     <string name="emergency_information_confirm_hint">برای دیدن اطلاعات، دوباره ضربه بزنید</string>
     <string name="emergency_information_hint">اطلاعات اضطراری</string>
     <string name="emergency_information_owner_hint">مالک</string>
-    <string name="emm_cause_11">&quot;Current carrier doesn&apos;t support this service.&quot;</string>
-    <string name="emm_cause_14">&quot;Current carrier doesn&apos;t support mobile data services.&quot;</string>
-    <string name="emm_cause_2">&quot;Couldn&apos;t register phone number. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="emm_cause_3">&quot;Couldn&apos;t verify user. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="emm_cause_6">&quot;Couldn&apos;t verify device. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="emm_cause_7_8_12_13_15_16_17_22">&quot;You can&apos;t use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000).&quot;</string>
+    <string name="emm_cause_11">"Current carrier doesn't support this service."</string>
+    <string name="emm_cause_14">"Current carrier doesn't support mobile data services."</string>
+    <string name="emm_cause_2">"Couldn't register phone number. Turn your device off, then turn it back on and try again."</string>
+    <string name="emm_cause_3">"Couldn't verify user. Turn your device off, then turn it back on and try again."</string>
+    <string name="emm_cause_6">"Couldn't verify device. Turn your device off, then turn it back on and try again."</string>
+    <string name="emm_cause_7_8_12_13_15_16_17_22">"You can't use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
     <string name="empty_alert">%s لازم بوده و نمی‌تواند خالی بماند.</string>
     <string name="empty_networks_list">هیچ شبکه ای پیدا نشد.</string>
     <string name="enable">روشن</string>
@@ -927,7 +927,7 @@
     <string name="enable_opengl_traces_title">‏فعال کردن ردیابی‌های OpenGL</string>
     <string name="enable_pin">روشن/خاموش کردن PIN سیم‌کارت</string>
     <string name="enable_pin_ok">تنظیم PIN</string>
-    <string name="enable_proximity_summary">&quot;Turn off the screen automatically when you&apos;re holding the device to your ear during a call&quot;</string>
+    <string name="enable_proximity_summary">"Turn off the screen automatically when you're holding the device to your ear during a call"</string>
     <string name="enable_proximity_title">Proximity sensor</string>
     <string name="enable_sim_pin">تنظیم PIN سیم‌کارت</string>
     <string name="enable_terminal_summary">فعال کردن ترمینال برنامه‌ کاربردی که دسترسی به برنامه محلی را پیشنهاد می‌کند</string>
@@ -938,8 +938,8 @@
     <string name="enable_video_calling_dialog_settings">تنطیمات شبکه</string>
     <string name="enable_video_calling_title">روشن کردن تماس تصویری</string>
     <string name="enabled_by_admin">فعال‌شده توسط سرپرست</string>
-    <string name="enhanced_4g_lte_mode_off_failed">&quot;Couldn&apos;t turn off VoLTE.&quot;</string>
-    <string name="enhanced_4g_lte_mode_on_failed">&quot;Couldn&apos;t turn on VoLTE.&quot;</string>
+    <string name="enhanced_4g_lte_mode_off_failed">"Couldn't turn off VoLTE."</string>
+    <string name="enhanced_4g_lte_mode_on_failed">"Couldn't turn on VoLTE."</string>
     <string name="enhanced_4g_lte_mode_summary">از خدمات LTE برای بهبود صدا و دیگر ارتباطات استفاده کنید (پیشنهاد شده)</string>
     <string name="enhanced_4g_lte_mode_summary_o2">‏استفاده از سرویس‌های 4G برای بهبود صدا و سایر ارتباطات (توصیه می‌شود)</string>
     <string name="enhanced_4g_lte_mode_title">حالت LTE 4G ارتقا یافته</string>
@@ -973,7 +973,7 @@
     <string name="fdn_enable_puk2_requested">گذرواژه اشتباه است. PIN2 اکنون مسدود شده است. برای تلاش دوباره، PIN2 را دوباره تغییر دهید.</string>
     <string name="fdn_enabled">شماره‌های شماره گیری ثابت روشن است</string>
     <string name="fdn_failed">علمیات FDN شکست خورد.</string>
-    <string name="fdn_full">&quot;FDN wasn&apos;t updated because the list is full.&quot;</string>
+    <string name="fdn_full">"FDN wasn't updated because the list is full."</string>
     <string name="fdn_invalid_number">FDN به دلیل خالی بودن شماره یا وارد کردن بیش از 20 رقم به‌روزرسانی نشد.</string>
     <string name="fdn_list_with_label">فهرست FDN (%s)</string>
     <string name="fdn_summary">Restrict outgoing calls to listed FDNs or to numbers with certain prefixes</string>
@@ -1010,14 +1010,14 @@
     <string name="force_rtl_layout_all_locales">اجباری کردن چیدمان راست‌چین</string>
     <string name="force_rtl_layout_all_locales_summary">اجباری کردن چیدمان راست‌چین صفحه برای همه زبان‌ها</string>
     <string name="frequecy_num">lte channel num</string>
-    <string name="fw_change_failed">&quot;شماره تماس انتقالی تغییر نکرد.
-اگر این مشکل همچنان ادامه دارد با شرکت مخابراتی خود تماس بگیرید.&quot;</string>
-    <string name="fw_get_in_vm_failed">&quot;تنظیمات شماره انتقالی فعلی دریافت و ذخیره نشد.
-در هر صورت به ارائه دهنده جدید تعویض شود؟&quot;</string>
+    <string name="fw_change_failed">"شماره تماس انتقالی تغییر نکرد.
+اگر این مشکل همچنان ادامه دارد با شرکت مخابراتی خود تماس بگیرید."</string>
+    <string name="fw_get_in_vm_failed">"تنظیمات شماره انتقالی فعلی دریافت و ذخیره نشد.
+در هر صورت به ارائه دهنده جدید تعویض شود؟"</string>
     <string name="general_news_settings">اخبار عمومی</string>
     <string name="general_setting">Settings</string>
     <string name="get_pin2">PIN2 را تایپ کنید</string>
-    <string name="get_smsc_address_error">&quot;Can&apos;t connect to the network.&quot;</string>
+    <string name="get_smsc_address_error">"Can't connect to the network."</string>
     <string name="get_smsc_address_timeout">Connection timed out</string>
     <string name="goPrivate">رفتن به خصوصی</string>
     <string name="go_to_virtual_sim_title">Virtual SIM</string>
@@ -1115,15 +1115,15 @@
     <string name="kr_emergency_message">Confirm to dial %s. Dial now?</string>
     <string name="kr_emergency_with_number">Enter phone number to dial</string>
     <string name="kt_lte_emm_cause_19_22">Registering network… Wait a minute or two and try again.</string>
-    <string name="kt_lte_emm_cause_3">&quot;Couldn&apos;t verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, visit a customer service center.&quot;</string>
-    <string name="kt_lte_emm_cause_6">&quot;Couldn&apos;t verify device. Reboot your device 2 or 3 times after installing the new USIM card. If you still encounter this problem after that, visit a customer service center.&quot;</string>
+    <string name="kt_lte_emm_cause_3">"Couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, visit a customer service center."</string>
+    <string name="kt_lte_emm_cause_6">"Couldn't verify device. Reboot your device 2 or 3 times after installing the new USIM card. If you still encounter this problem after that, visit a customer service center."</string>
     <string name="kt_lte_emm_cause_8">Activation is required. Visit a customer service center.</string>
-    <string name="kt_lte_emm_cause_others">&quot;Couldn&apos;t register network&quot;</string>
+    <string name="kt_lte_emm_cause_others">"Couldn't register network"</string>
     <string name="kt_lte_msim_emm_cause_19_22">SIM %d is registering network… Wait a minute or two and try again.</string>
-    <string name="kt_lte_msim_emm_cause_3">&quot;SIM %d couldn&apos;t verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, visit a customer service center.&quot;</string>
-    <string name="kt_lte_msim_emm_cause_6">&quot;SIM %d couldn&apos;t verify device. If you still encounter this problem after that, visit a customer service center.&quot;</string>
+    <string name="kt_lte_msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, visit a customer service center."</string>
+    <string name="kt_lte_msim_emm_cause_6">"SIM %d couldn't verify device. If you still encounter this problem after that, visit a customer service center."</string>
     <string name="kt_lte_msim_emm_cause_8">SIM %d requires activation. Visit a customer service center.</string>
-    <string name="kt_lte_msim_emm_cause_others">&quot;SIM %d couldn&apos;t register network&quot;</string>
+    <string name="kt_lte_msim_emm_cause_others">"SIM %d couldn't register network"</string>
     <string name="labelCDMAMore">تنظیمات تماس CDMA</string>
     <string name="labelCF">انتقال تماس</string>
     <string name="labelCFB">هنگام مشغولی</string>
@@ -1153,7 +1153,7 @@
     <string name="lable_disable">Off</string>
     <string name="lable_enable">On</string>
     <string name="lable_incoming_calls_except">Incoming calls while roaming</string>
-    <string name="lable_network_not_supported">&quot;Network isn&apos;t supported&quot;</string>
+    <string name="lable_network_not_supported">"Network isn't supported"</string>
     <string name="lafs_disable">زمانبندی‌های پروازهای فرودگاه محلی خاموش است</string>
     <string name="lafs_enable">زمانبندی‌های پروازهای فرودگاه محلی روشن است</string>
     <string name="last_sim_callback_summary">When making calls from call history, use a SIM card that was used during the previous call with this contact</string>
@@ -1161,21 +1161,21 @@
     <string name="launch_defaults_none">هیچ پیش‌فرضی تنظیم نشده است</string>
     <string name="launch_defaults_some">بعضی پیش‌فرض‌ها تنظیم شده‌اند</string>
     <string name="lgu_emm_16_17_22">Registering network… Wait a minute or two and try again.</string>
-    <string name="lgu_emm_cause_11_12_13_15">&quot;Couldn&apos;t register network&quot;</string>
+    <string name="lgu_emm_cause_11_12_13_15">"Couldn't register network"</string>
     <string name="lgu_emm_cause_2">Activation is required. Visit a customer service center (+82-2-3416-7010).</string>
-    <string name="lgu_emm_cause_3">&quot;Couldn&apos;t verify user. Visit a customer service center (+82-2-3416-7010).&quot;</string>
-    <string name="lgu_emm_cause_6">&quot;Couldn&apos;t verify device. Visit a customer service center (+82-2-3416-7010).&quot;</string>
-    <string name="lgu_emm_cause_7_14">&quot;Network doesn&apos;t provide mobile data services&quot;</string>
-    <string name="lgu_emm_cause_8">&quot;Couldn&apos;t register network. Visit a customer service center (+82-2-3416-7010).&quot;</string>
-    <string name="lgu_emm_cause_others">&quot;Can&apos;t connect to the network. Visit a customer service center (+82-2-3416-7010).&quot;</string>
-    <string name="lgu_msim_emm_cause_11_12_13_15">&quot;SIM %d couldn&apos;t register network&quot;</string>
+    <string name="lgu_emm_cause_3">"Couldn't verify user. Visit a customer service center (+82-2-3416-7010)."</string>
+    <string name="lgu_emm_cause_6">"Couldn't verify device. Visit a customer service center (+82-2-3416-7010)."</string>
+    <string name="lgu_emm_cause_7_14">"Network doesn't provide mobile data services"</string>
+    <string name="lgu_emm_cause_8">"Couldn't register network. Visit a customer service center (+82-2-3416-7010)."</string>
+    <string name="lgu_emm_cause_others">"Can't connect to the network. Visit a customer service center (+82-2-3416-7010)."</string>
+    <string name="lgu_msim_emm_cause_11_12_13_15">"SIM %d couldn't register network"</string>
     <string name="lgu_msim_emm_cause_16_17_22">SIM %d is registering network… Wait a minute or two and try again.</string>
     <string name="lgu_msim_emm_cause_2">SIM %d requires activation. Visit a customer service center (+82-2-3416-7010).</string>
-    <string name="lgu_msim_emm_cause_3">&quot;SIM %d couldn&apos;t verify user. Visit a customer service center (+82-2-3416-7010).&quot;</string>
-    <string name="lgu_msim_emm_cause_6">&quot;SIM %d couldn&apos;t verify device. Visit a customer service center (+82-2-3416-7010).&quot;</string>
-    <string name="lgu_msim_emm_cause_7_14">&quot;SIM %d network doesn&apos;t provide mobile data services&quot;</string>
-    <string name="lgu_msim_emm_cause_8">&quot;SIM %d couldn&apos;t register network. Visit a customer service center (+82-2-3416-7010).&quot;</string>
-    <string name="lgu_msim_emm_cause_others">&quot;SIM %d can&apos;t connect to the network. Visit a customer service center (+82-2-3416-7010).&quot;</string>
+    <string name="lgu_msim_emm_cause_3">"SIM %d couldn't verify user. Visit a customer service center (+82-2-3416-7010)."</string>
+    <string name="lgu_msim_emm_cause_6">"SIM %d couldn't verify device. Visit a customer service center (+82-2-3416-7010)."</string>
+    <string name="lgu_msim_emm_cause_7_14">"SIM %d network doesn't provide mobile data services"</string>
+    <string name="lgu_msim_emm_cause_8">"SIM %d couldn't register network. Visit a customer service center (+82-2-3416-7010)."</string>
+    <string name="lgu_msim_emm_cause_others">"SIM %d can't connect to the network. Visit a customer service center (+82-2-3416-7010)."</string>
     <string name="list_language_dtitle">زبان‌ها</string>
     <string name="list_language_summary">زبان خبر را انتخاب کنید</string>
     <string name="list_language_title">زبان</string>
@@ -1225,9 +1225,9 @@
     <string name="mi_sim_settings_title">Mi SIM</string>
     <string name="mismatchPin">PINهایی که وارد کردید مطابقت ندارند. دوباره تلاش کنید.</string>
     <string name="mismatchPin2">PIN2ها یکی نیستند. دوباره امتحان کنید.</string>
-    <string name="mismatch_password">&quot;The passwords you entered don&apos;t match&quot;</string>
-    <string name="mismatch_pin">&quot;PINs don&apos;t match.&quot;</string>
-    <string name="mismatch_pin2">&quot;PIN2s don&apos;t match. Try again.&quot;</string>
+    <string name="mismatch_password">"The passwords you entered don't match"</string>
+    <string name="mismatch_pin">"PINs don't match."</string>
+    <string name="mismatch_pin2">"PIN2s don't match. Try again."</string>
     <string name="missed_call_notify_five_times">%d times</string>
     <string name="missed_call_notify_none">No reminder</string>
     <string name="missed_call_notify_once">%d time</string>
@@ -1243,10 +1243,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mmiCancelled">کد MMI لغو شد</string>
     <string name="mmiStarted">کد MMI آغاز شد</string>
     <string name="mobile_advanced_dns_server_title">DNS server address</string>
@@ -1312,30 +1312,30 @@
     <string name="mr_system_route_name">سیستم</string>
     <string name="mr_user_route_category_name">دستگاه‌ها</string>
     <string name="msim_apn_not_set">Not set</string>
-    <string name="msim_cmcc_dds_switch_not_support">&quot;Can&apos;t switch SIM cards due to carrier restrictions.&quot;</string>
+    <string name="msim_cmcc_dds_switch_not_support">"Can't switch SIM cards due to carrier restrictions."</string>
     <string name="msim_disable_sim_card_btn_text">OK</string>
-    <string name="msim_disable_sim_card_summary_default_card">&quot;This card is currently set as your default SIM. If you stop using it, you won&apos;t be able to make calls or use your mobile data connection.You can stop this SIM card after setting another SIM as your default card.&quot;</string>
+    <string name="msim_disable_sim_card_summary_default_card">"This card is currently set as your default SIM. If you stop using it, you won't be able to make calls or use your mobile data connection.You can stop this SIM card after setting another SIM as your default card."</string>
     <string name="msim_disable_sim_card_summary_non_default_card">You may not be able to make calls or use your mobile data connection. Stop using %s SIM card?</string>
-    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">&quot;Don&apos;t restrict your secondary SIM in emergency callback mode.&quot;</string>
+    <string name="msim_disable_sim_card_summary_telecom_vice_card_inEcm">"Don't restrict your secondary SIM in emergency callback mode."</string>
     <string name="msim_disable_sim_card_title">Stop using SIM card</string>
-    <string name="msim_emm_cause_11">&quot;SIM %d carrier doesn&apos;t support this service.&quot;</string>
-    <string name="msim_emm_cause_14">&quot;SIM %d carrier doesn&apos;t support mobile data services.&quot;</string>
-    <string name="msim_emm_cause_2">&quot;SIM %d couldn&apos;t register phone number. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="msim_emm_cause_3">&quot;SIM %d couldn&apos;t verify user. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="msim_emm_cause_6">&quot;SIM %d couldn&apos;t verify device. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">&quot;SIM %d can&apos;t use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000).&quot;</string>
+    <string name="msim_emm_cause_11">"SIM %d carrier doesn't support this service."</string>
+    <string name="msim_emm_cause_14">"SIM %d carrier doesn't support mobile data services."</string>
+    <string name="msim_emm_cause_2">"SIM %d couldn't register phone number. Turn your device off, then turn it back on and try again."</string>
+    <string name="msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again."</string>
+    <string name="msim_emm_cause_6">"SIM %d couldn't verify device. Turn your device off, then turn it back on and try again."</string>
+    <string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d can't use roaming now. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact carrier customer support (SKT: +82-2-6346-9000)."</string>
     <string name="msim_enable_sim">Turn on</string>
     <string name="msim_general_setting">Settings</string>
     <string name="msim_has_been_disabled">(Disabled)</string>
     <string name="msim_info_editor_name">Edit SIM card name</string>
     <string name="msim_info_editor_number">Edit SIM card number</string>
-    <string name="msim_info_editor_set_name_error">&quot;Couldn&apos;t save name&quot;</string>
+    <string name="msim_info_editor_set_name_error">"Couldn't save name"</string>
     <string name="msim_mode_progress_activating_message">Turning on</string>
     <string name="msim_mode_progress_deactivating_message">Turning off</string>
     <string name="msim_not_set_summary">Not set</string>
     <string name="msim_select_default_time_left">(%d s)</string>
     <string name="msim_set_icc_card_error">ICC card error</string>
-    <string name="msim_set_sub_not_supported_phone_in_call">&quot;Can&apos;t set during call&quot;</string>
+    <string name="msim_set_sub_not_supported_phone_in_call">"Can't set during call"</string>
     <string name="msim_set_sub_not_supported_slot_id_error">SIM card error</string>
     <string name="msim_setting_categery_title">SIM card settings</string>
     <string name="msim_setting_default_data">Data card</string>
@@ -1388,13 +1388,13 @@
     <string name="network_settings_automatically_option">Automatically choose preferred network (%s)</string>
     <string name="network_settings_confirm_message">Your device will disconnect from the network while searching for available networks.</string>
     <string name="network_settings_data_connected_change">Mobile data will be turned off automatically while your device is searching for available networks.</string>
-    <string name="network_settings_duringcall">&quot;Operation isn&apos;t allowed during call&quot;</string>
+    <string name="network_settings_duringcall">"Operation isn't allowed during call"</string>
     <string name="network_settings_forbidden">%s (forbidden)</string>
     <string name="network_settings_information">Turn off mobile data?</string>
     <string name="network_settings_next">Next</string>
-    <string name="network_settings_query_failed_message">&quot;Couldn&apos;t search for mobile networks.&quot;</string>
-    <string name="network_settings_select_automatic_hint">&quot;Can&apos;t register on the network you selected.
-Using preferred network instead.&quot;</string>
+    <string name="network_settings_query_failed_message">"Couldn't search for mobile networks."</string>
+    <string name="network_settings_select_automatic_hint">"Can't register on the network you selected.
+Using preferred network instead."</string>
     <string name="network_settings_title">شبکه‌های تلفن همراه</string>
     <string name="network_settings_turn_off">Off</string>
     <string name="network_settings_warn_message">Your device will only connect to networks you select manually.</string>
@@ -1411,7 +1411,7 @@ Using preferred network instead.&quot;</string>
     <string name="new_pin_label">New PIN</string>
     <string name="no_application">هیچ چیز</string>
     <string name="no_change">تغییری انجام نشده است.</string>
-    <string name="no_checked_network">&quot;You won&apos;t be able to connect to mobile network and make calls. Select another network?&quot;</string>
+    <string name="no_checked_network">"You won't be able to connect to mobile network and make calls. Select another network?"</string>
     <string name="no_internet_available">برای برقراری یک تماس SIP، ابتدا اتصال اینترنت خود را بررسی کنید.</string>
     <string name="no_mobile_data">Mobile data is not available</string>
     <string name="no_mobile_data_roaming">Data roaming is not available</string>
@@ -1425,11 +1425,11 @@ Using preferred network instead.&quot;</string>
     <string name="not_voice_capable">از تماس صوتی پشتیبانی نمی‌شود</string>
     <string name="notice_header"></string>
     <string name="notification_channel_demo">Demo device</string>
-    <string name="notification_demo_version_text">&quot;Can&apos;t make calls or use mobile data&quot;</string>
+    <string name="notification_demo_version_text">"Can't make calls or use mobile data"</string>
     <string name="notification_demo_version_title">This is a demo device</string>
     <string name="notification_network_selection_text">شبکه انتخاب شده «%s» در دسترس نیست</string>
     <string name="notification_network_selection_title">بدون خدمات</string>
-    <string name="notification_switch_auto_text">&quot;Looks like you&apos;re back. Switched to local networks.&quot;</string>
+    <string name="notification_switch_auto_text">"Looks like you're back. Switched to local networks."</string>
     <string name="notification_switch_auto_title">Mobile networks</string>
     <string name="notification_voicemail_no_vm_number">شماره پیام صوتی نامعلوم است</string>
     <string name="notification_voicemail_text_format">شماره گیری %s</string>
@@ -1439,7 +1439,7 @@ Using preferred network instead.&quot;</string>
     <string name="nr_usaged_first_used_time">Registered in 5G network</string>
     <string name="nr_usaged_module">Device model</string>
     <string name="nr_usaged_network_rate">Highest speed</string>
-    <string name="nr_usaged_network_usaged">&quot;Today&apos;s data&quot;</string>
+    <string name="nr_usaged_network_usaged">"Today's data"</string>
     <string name="nr_usaged_operator">Carrier</string>
     <string name="nr_usaged_used_time">Usage duration</string>
     <string name="number">شماره</string>
@@ -1479,9 +1479,9 @@ Using preferred network instead.&quot;</string>
     <string name="ota_activate">فعال‌سازی</string>
     <string name="ota_call_end">بازگشت</string>
     <string name="ota_failure">گوشی شما برنامه‌ریزی نشد</string>
-    <string name="ota_hfa_activation_dialog_message">&quot;گوشی درحال فعال کردن خدمات اینترنت همراه شما است.
+    <string name="ota_hfa_activation_dialog_message">"گوشی درحال فعال کردن خدمات اینترنت همراه شما است.
 
-ممکن است تا 5 دقیقه زمان ببرد.&quot;</string>
+ممکن است تا 5 دقیقه زمان ببرد."</string>
     <string name="ota_hfa_activation_title">درحال فعال کردن...</string>
     <string name="ota_listen">راهنمای گفته شده را دنبال کرده تا زمانی که بشنوید فعال‌سازی کامل شد.</string>
     <string name="ota_next">بعدی</string>
@@ -1495,14 +1495,14 @@ Using preferred network instead.&quot;</string>
     <string name="ota_title_activate">گوشی خود را فعال کنید</string>
     <string name="ota_title_activate_success">گوشی فعال شده است.</string>
     <string name="ota_title_problem_with_activation">اشکال در فعال‌سازی</string>
-    <string name="ota_touch_activate">&quot;یک تماس مخصوص باید برای فعال‌سازی تلفن شما برقرار شود.
+    <string name="ota_touch_activate">"یک تماس مخصوص باید برای فعال‌سازی تلفن شما برقرار شود.
 
- پس از فشار دادن “Activate”، به راهنمای های مربوطه گوش داده تا بتوانید گوشی خود را فعال کنید.&quot;</string>
+ پس از فشار دادن “Activate”، به راهنمای های مربوطه گوش داده تا بتوانید گوشی خود را فعال کنید."</string>
     <string name="ota_try_again">دوباره تلاش کنید</string>
-    <string name="ota_unsuccessful">&quot;تلفن شما فعال نشد. 
+    <string name="ota_unsuccessful">"تلفن شما فعال نشد. 
 شما باید ناحیه‌ای با پوشش بهتر پیدا کنید (نزدیک یک پنجره یا بیرون). 
 
-دوباره امتحان کنید و یا برای گزینه‌های بیشتر با مرکز خدمات مشتریان تماس بگیرید.&quot;</string>
+دوباره امتحان کنید و یا برای گزینه‌های بیشتر با مرکز خدمات مشتریان تماس بگیرید."</string>
     <string name="other_available_phone_accounts">Other available accounts</string>
     <string name="other_settings">دیگر تنظیمات تماس</string>
     <string name="other_settings_category">Other</string>
@@ -1547,8 +1547,8 @@ Using preferred network instead.&quot;</string>
     <string name="path_turnover_mute_title">System apps/Phone/Incoming call settings/Flip to silence ringer</string>
     <string name="path_voicemail_settings">System apps/Phone/Advanced settings/Voicemail settings</string>
     <string name="pause_prompt_no">خیر</string>
-    <string name="pause_prompt_str">&quot;در حال ارسال صداها
-&quot;</string>
+    <string name="pause_prompt_str">"در حال ارسال صداها
+"</string>
     <string name="pause_prompt_yes">بله</string>
     <string name="payphone">تلفن همگانی</string>
     <string name="pci_num">lte pci num</string>
@@ -1574,20 +1574,20 @@ Using preferred network instead.&quot;</string>
     <string name="phone_report_title">Read incoming call info</string>
     <string name="picture_color_mode">حالت رنگ عکس</string>
     <string name="picture_color_mode_desc">‏استفاده از sRGB</string>
-    <string name="pin2_attempts">&quot;
-شما %d فرصت باقی‌مانده دارید.&quot;</string>
+    <string name="pin2_attempts">"
+شما %d فرصت باقی‌مانده دارید."</string>
     <string name="pin2_changed">PIN2 به‌روز شد</string>
     <string name="pin2_error_exception">خطای شبکه یا سیم‌کارت</string>
     <string name="pin2_invalid">FDN به دلیل وارد کردن PIN اشتباه به‌روزرسانی نشد.</string>
     <string name="pin2_invalid_or_name_is_too_long">You entered an invalid PIN or the name you entered is too long.</string>
-    <string name="pin2_lock_warning">&quot;
-PIN2 related functions will be locked after another failed attempt.&quot;</string>
+    <string name="pin2_lock_warning">"
+PIN2 related functions will be locked after another failed attempt."</string>
     <string name="pin2_or_fdn_invalid">FDN به‌روزرسانی نشد. PIN2 اشتباه بوده یا شماره تلفن رد شده است.</string>
     <string name="pin2_unblocked">PIN2 دیگر مسدود نیست</string>
     <string name="pin_changed">PIN به‌روزرسانی شد</string>
     <string name="pin_failed">PIN اشتباه است</string>
-    <string name="pin_lock_warning">&quot;
-Your phone will be locked automatically after another failed attempt&quot;</string>
+    <string name="pin_lock_warning">"
+Your phone will be locked automatically after another failed attempt"</string>
     <string name="pin_progress_change_pin">Changing PIN…</string>
     <string name="pin_progress_change_pin2">Changing PIN2…</string>
     <string name="pin_progress_set_fdn_lock">Setting FDN lock state…</string>
@@ -1630,7 +1630,7 @@ Your phone will be locked automatically after another failed attempt&quot;</stri
     <string name="preference_dial_pad_touch_tone_piano">Piano keys</string>
     <string name="preference_dial_pad_touch_tone_title">Dial pad touch tones</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
-    <string name="preference_telocation_summary_countrycode_off">&quot;Don&apos;t auto-dial country code&quot;</string>
+    <string name="preference_telocation_summary_countrycode_off">"Don't auto-dial country code"</string>
     <string name="preference_telocation_summary_countrycode_on">Auto-dial country code</string>
     <string name="preference_telocation_summary_teloc_off">Hide contact location</string>
     <string name="preference_telocation_summary_teloc_on">Show contact location</string>
@@ -1687,7 +1687,7 @@ Your phone will be locked automatically after another failed attempt&quot;</stri
     <string name="preferred_network_mode_wcdma_only_choice">WCDMA only</string>
     <string name="preferred_network_mode_wcdma_only_summary">حالت شبکه برتر: فقط WCDMA</string>
     <string name="preferred_network_mode_wcdma_perf_summary">حالت شبکه برتر: WCDMA ترجیح داده شده است</string>
-    <string name="preferred_network_restrict_network_changed_incall">&quot;Can&apos;t change mobile network during call&quot;</string>
+    <string name="preferred_network_restrict_network_changed_incall">"Can't change mobile network during call"</string>
     <string name="preferred_network_type_3g_only_warning">Your SIM card must support 3G to connect to the network.</string>
     <string name="preferred_network_type_cdma">CDMA</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">Prefer 3G</string>
@@ -1719,15 +1719,15 @@ Your phone will be locked automatically after another failed attempt&quot;</stri
     <string name="private_num_kr">Caller ID restricted</string>
     <string name="process_kernel_label">‏سیستم عامل Android</string>
     <string name="progress_dialog_exiting_ecm">در حال خروج از حالت تماس بازگشتی اضطراری</string>
-    <string name="prompt_to_suggest_no_call_service_notification_content">&quot;Can&apos;t make and receive calls. VoLTE service is off for your SIM (China Telecom) now.&quot;</string>
-    <string name="prompt_to_suggest_no_call_service_notification_content2">&quot;Can&apos;t make and receive calls. VoLTE service is off for SIM %d (China Telecom) now.&quot;</string>
-    <string name="prompt_to_suggest_no_call_service_notification_title">&quot;Can&apos;t make and receive calls&quot;</string>
-    <string name="prompt_to_suggest_to_open_volte_from_operator">&quot;Can&apos;t make calls. Contact China Telecom to turn on VoLTE service.&quot;</string>
-    <string name="prompt_to_suggest_to_open_volte_from_operator2">&quot;SIM%d can&apos;t make calls. Contact China Telecom to turn on VoLTE service.&quot;</string>
-    <string name="prompt_to_turnoff_volte_when_failed">&quot;VoLTE services aren&apos;t available. Turn off VoLTE to make a call.&quot;</string>
-    <string name="prompt_to_turnoff_volte_when_supp_service">&quot;Service isn&apos;t available. Turn off VoLTE in the Settings.&quot;</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content">"Can't make and receive calls. VoLTE service is off for your SIM (China Telecom) now."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_content2">"Can't make and receive calls. VoLTE service is off for SIM %d (China Telecom) now."</string>
+    <string name="prompt_to_suggest_no_call_service_notification_title">"Can't make and receive calls"</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator">"Can't make calls. Contact China Telecom to turn on VoLTE service."</string>
+    <string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d can't make calls. Contact China Telecom to turn on VoLTE service."</string>
+    <string name="prompt_to_turnoff_volte_when_failed">"VoLTE services aren't available. Turn off VoLTE to make a call."</string>
+    <string name="prompt_to_turnoff_volte_when_supp_service">"Service isn't available. Turn off VoLTE in the Settings."</string>
     <string name="prompt_when_turnon_volte_on_3g_prefered">Select LTE as your preferred network type before turning on VoLTE.</string>
-    <string name="prompt_when_turnon_volte_without_lte">&quot;VoLTE networks aren&apos;t available now. Turning on VoLTE may prevent you from making regular calls.&quot;</string>
+    <string name="prompt_when_turnon_volte_without_lte">"VoLTE networks aren't available now. Turning on VoLTE may prevent you from making regular calls."</string>
     <string name="proxy_address">ProxyAddress</string>
     <string name="proxy_address_title">نشانی پروکسی خروجی</string>
     <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
@@ -1740,8 +1740,8 @@ Your phone will be locked automatically after another failed attempt&quot;</stri
     <string name="puk2_label">Enter PUK2 code</string>
     <string name="puk2_requested">گذرواژه اشتباه است. سیم‌کارت اکنون قفل شده است. PUK2 را وارد کنید.</string>
     <string name="puk_label">Enter PUK code</string>
-    <string name="puk_lock_warning">&quot;
-Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
+    <string name="puk_lock_warning">"
+Your SIM card will be locked after another unsuccessful attempt."</string>
     <string name="puk_requested">گذرواژه اشتباه است. اکنون PIN مسدود شد. PUK درخواست می‌شود.</string>
     <string name="puk_unlocked">قفل سیم‌کارت شما باز شد. درحال باز شدن قفل گوشی شما…</string>
     <string name="quick_dial_setting_title">Quick dial</string>
@@ -1777,14 +1777,14 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="report_method_entries_item3">Turn off</string>
     <string name="requesting_unlock">در حال درخواست بازگشایی قفل شبکه...</string>
     <string name="reset_roaming_message">Your device will reboot to reset roaming.</string>
-    <string name="reset_roaming_not_support">&quot;This SIM card can&apos;t initialize roaming.&quot;</string>
+    <string name="reset_roaming_not_support">"This SIM card can't initialize roaming."</string>
     <string name="reset_roaming_tip">Resetting roaming…</string>
     <string name="reset_roaming_title">Reset roaming</string>
-    <string name="respond_via_sms_canned_response_1">&quot;Can&apos;t talk now. Call me later?&quot;</string>
-    <string name="respond_via_sms_canned_response_2">&quot;I&apos;ll call you right back.&quot;</string>
-    <string name="respond_via_sms_canned_response_3">&quot;I&apos;ll call you later.&quot;</string>
-    <string name="respond_via_sms_canned_response_4">&quot;Can&apos;t talk now. What&apos;s up?&quot;</string>
-    <string name="respond_via_sms_cannot_empty">&quot;Message can&apos;t be empty&quot;</string>
+    <string name="respond_via_sms_canned_response_1">"Can't talk now. Call me later?"</string>
+    <string name="respond_via_sms_canned_response_2">"I'll call you right back."</string>
+    <string name="respond_via_sms_canned_response_3">"I'll call you later."</string>
+    <string name="respond_via_sms_canned_response_4">"Can't talk now. What's up?"</string>
+    <string name="respond_via_sms_cannot_empty">"Message can't be empty"</string>
     <string name="respond_via_sms_confirmation_format">Message sent to %s.</string>
     <string name="respond_via_sms_edittext_dialog_title">Quick response</string>
     <string name="respond_via_sms_menu_reset_default_activity">Restore defaults</string>
@@ -1814,12 +1814,12 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="roaming_notification_content">You can add country codes automatically to make dialing more convenient.</string>
     <string name="roaming_notification_title">اتصال داده تلفن همراه قطع شد</string>
     <string name="roaming_reenable_message">اتصال اینترنت همراه خود را از دست دادید،‌ زیرا شبکه خانگی خود را با رومینگ اینترنت همراه خاموش گذاشتید.</string>
-    <string name="roaming_user_package_summary_kr">&quot;Purchase, cancel, and edit your roaming package. You won&apos;t be charged for using this menu while roaming.&quot;</string>
+    <string name="roaming_user_package_summary_kr">"Purchase, cancel, and edit your roaming package. You won't be charged for using this menu while roaming."</string>
     <string name="roaming_user_package_title_kr">Use roaming package</string>
     <string name="roaming_warning">شما ممکن است متحمل هزینه‌های قابل توجی شوید.</string>
-    <string name="rtt_mode_more_information">&quot;‏«نوشتار هم‌زمان» به تماس گیرندگان ناشنوا، دارای مشکل شنوایی، دارای ناتوانی گفتاری یا افرادی که به چیزی بیش از صدا نیاز دارند کمک می‌کند.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;بیشتر بدانید&lt;/a&gt;
+    <string name="rtt_mode_more_information">"‏«نوشتار هم‌زمان» به تماس گیرندگان ناشنوا، دارای مشکل شنوایی، دارای ناتوانی گفتاری یا افرادی که به چیزی بیش از صدا نیاز دارند کمک می‌کند.&lt;br&gt; &lt;a href=http://support.google.com/mobile?p=telephony_rtt&gt;بیشتر بدانید&lt;/a&gt;
        ‏&lt;br&gt;&lt;br&gt; تماس‌های «نوشتار هم‌زمان» به‌صورت ترانویسی پیام ذخیره می‌شود
-       &lt;br&gt; «نوشتار هم‌زمان» برای تماس‌های ویدیویی دردسترس نیست&quot;</string>
+       &lt;br&gt; «نوشتار هم‌زمان» برای تماس‌های ویدیویی دردسترس نیست"</string>
     <string name="rtt_mode_summary">پیام‌رسانی در تماس صوتی مجاز است</string>
     <string name="rtt_mode_title">‏تماس نوشتار هم‌زمان (RTT)</string>
     <string name="running_process_item_user_label">کاربر: %1$s</string>
@@ -1891,14 +1891,14 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="set_primary">SetPrimary</string>
     <string name="set_primary_summary">Used for outbound calls</string>
     <string name="set_primary_title">Set as primary account</string>
-    <string name="set_smsc_address_error">&quot;Can&apos;t set number&quot;</string>
+    <string name="set_smsc_address_error">"Can't set number"</string>
     <string name="set_smsc_address_timeout">Connection timed out</string>
     <string name="set_smsc_address_title">Short Message service center (SMSC)</string>
     <string name="set_time_period">تنظیم دوره زمانی</string>
     <string name="settings_label">تنطیمات شبکه</string>
     <string name="settings_package">com.android.settings</string>
     <string name="show_all_anrs">نمایش موارد «برنامه پاسخ نمی‌دهد» پس‌زمینه</string>
-    <string name="show_all_anrs_summary">نمایش گفتگوی \&quot;برنامه پاسخ نمی‌دهد\&quot; برای برنامه‌های پس‌زمینه</string>
+    <string name="show_all_anrs_summary">نمایش گفتگوی \"برنامه پاسخ نمی‌دهد\" برای برنامه‌های پس‌زمینه</string>
     <string name="show_hw_layers_updates">نمایش به‌روزرسانی‌های لایه‌های سخت‌افزار</string>
     <string name="show_hw_layers_updates_summary">وقتی لایه‌های سخت‌افزاری به‌روزرسانی‌ می‌شوند، به رنگ سبز درآیند</string>
     <string name="show_hw_screen_updates">نمایش به‌روزرسانی‌های نما</string>
@@ -1944,9 +1944,9 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Use Dual SIM</string>
     <string name="single_fiveg_dual_sim_dialog_msg_dual_sim">Using 5G networks requires deactivating one of the SIM cards. If you want to continue using Dual SIM, select a different network type.</string>
     <string name="single_fiveg_dual_sim_dialog_title_important_prompt">Attention</string>
-    <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Only one SIM card can be activated for 5G networks. Tapping \&quot;Activate\&quot; below will deactivate the other SIM card.</string>
+    <string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Only one SIM card can be activated for 5G networks. Tapping \"Activate\" below will deactivate the other SIM card.</string>
     <string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Activate</string>
-    <string name="sip_account_disable">&quot;The account isn&apos;t active. Can&apos;t accept calls.&quot;</string>
+    <string name="sip_account_disable">"The account isn't active. Can't accept calls."</string>
     <string name="sip_account_list">حساب‌های SIP</string>
     <string name="sip_accounts">حساب‌های SIP</string>
     <string name="sip_accounts_title">حساب‌ها</string>
@@ -1966,29 +1966,29 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="sip_edit_title">جزئیات حساب SIP</string>
     <string name="sip_menu_discard">صرف نظر</string>
     <string name="sip_menu_save">ذخیره</string>
-    <string name="sip_profile_create_error">&quot;Couldn&apos;t create a new SIP profile&quot;</string>
-    <string name="sip_receive_call_disable">&quot;Can&apos;t accept calls. Allow accepting calls first.&quot;</string>
+    <string name="sip_profile_create_error">"Couldn't create a new SIP profile"</string>
+    <string name="sip_receive_call_disable">"Can't accept calls. Allow accepting calls first."</string>
     <string name="sip_receive_calls">دریافت تماس‌های ورودی</string>
     <string name="sip_receive_calls_summary">باتری بیشتری مصرف می‌کند</string>
-    <string name="sip_save_register_error">&quot;Couldn&apos;t register and save a new SIP profile&quot;</string>
+    <string name="sip_save_register_error">"Couldn't register and save a new SIP profile"</string>
     <string name="sip_settings">تنظیمات SIP</string>
     <string name="sip_system_decide">خودکار</string>
-    <string name="skt_emm_cause_12_13_16_17_22">&quot;Couldn&apos;t register network. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="skt_emm_cause_2">&quot;Couldn&apos;t register phone number. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
-    <string name="skt_emm_cause_3">&quot;Couldn&apos;t verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
-    <string name="skt_emm_cause_6">&quot;Couldn&apos;t verify device. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
-    <string name="skt_emm_cause_7_8_15">&quot;Couldn&apos;t register network. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
-    <string name="skt_msim_emm_cause_12_13_16_17_22">&quot;SIM %d couldn&apos;t register network. Turn your device off, then turn it back on and try again.&quot;</string>
-    <string name="skt_msim_emm_cause_2">&quot;SIM %d couldn&apos;t register phone number. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
-    <string name="skt_msim_emm_cause_3">&quot;SIM %d couldn&apos;t verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
-    <string name="skt_msim_emm_cause_6">&quot;SIM %d couldn&apos;t verify device. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
-    <string name="skt_msim_emm_cause_7_8_15">&quot;SIM %d couldn&apos;t register network. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011).&quot;</string>
+    <string name="skt_emm_cause_12_13_16_17_22">"Couldn't register network. Turn your device off, then turn it back on and try again."</string>
+    <string name="skt_emm_cause_2">"Couldn't register phone number. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+    <string name="skt_emm_cause_3">"Couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+    <string name="skt_emm_cause_6">"Couldn't verify device. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+    <string name="skt_emm_cause_7_8_15">"Couldn't register network. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_12_13_16_17_22">"SIM %d couldn't register network. Turn your device off, then turn it back on and try again."</string>
+    <string name="skt_msim_emm_cause_2">"SIM %d couldn't register phone number. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_3">"SIM %d couldn't verify user. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_6">"SIM %d couldn't verify device. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
+    <string name="skt_msim_emm_cause_7_8_15">"SIM %d couldn't register network. Turn your device off, then turn it back on and try again. If you still encounter this problem after that, contact customer support (1599-0011)."</string>
     <string name="smart_divert_summary">تنظیمات CFNRc</string>
     <string name="smart_divert_title">انتقال تماس هوشمند</string>
     <string name="smart_forwarding_settings_menu">بازارسال هوشمند</string>
     <string name="smart_forwarding_settings_menu_summary">وقتی شماره‌ای قابل دسترسی نیست، همیشه تماس‌ها را به شماره دیگری بازارسال کنید.</string>
     <string name="sms_messages_title">SMS</string>
-    <string name="smsc_dialog_message">&quot;Make sure the number you enter is correct. Otherwise, you won&apos;t be able to send or receive SMS. Contact your carrier to confirm your SMSC number.&quot;</string>
+    <string name="smsc_dialog_message">"Make sure the number you enter is correct. Otherwise, you won't be able to send or receive SMS. Contact your carrier to confirm your SMSC number."</string>
     <string name="speed_label_fast">سریع</string>
     <string name="speed_label_medium">متوسط</string>
     <string name="speed_label_okay">تأیید</string>
@@ -2111,27 +2111,27 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="tethering_settings_not_available">تنظیمات اشتراک‌گذاری اینترنت برای این کاربر در دسترس نیست</string>
     <string name="third_party_account_summary">این حساب توسط برنامه %s استفاده می‌شود.</string>
     <string name="throttle_current_usage">اینترنت همراه مصرف شده در دوره کنونی</string>
-    <string name="throttle_data_rate_reduced_subtext">&quot;%1$s از سقف فراتر رفت
-سرعت اینترنت همراه به %2$d کیلوبایت در ثانیه کاهش پیدا کرد&quot;</string>
+    <string name="throttle_data_rate_reduced_subtext">"%1$s از سقف فراتر رفت
+سرعت اینترنت همراه به %2$d کیلوبایت در ثانیه کاهش پیدا کرد"</string>
     <string name="throttle_data_usage">مصرف اینترنت</string>
     <string name="throttle_data_usage_subtext">%1$s (%2$d٪) از %3$s سقف دوره</string>
     <string name="throttle_help">بیشتر بدانید</string>
     <string name="throttle_help_subtext">اطلاعات بیشتر درباره سیاست مصرف اینترنت شبکه شرکت مخابراتی شما</string>
     <string name="throttle_rate">سیاست نرخ اینترنت همراه</string>
     <string name="throttle_rate_subtext">در صورت مصرف بیش از سقف اینترنت همراه سرعت اینترنت همراه به %1$d کیلوبایت در ثانیه کاهش پیدا کند</string>
-    <string name="throttle_status_subtext">&quot;%1$s (%2$d٪) از %3$s سقف دوره
-دوره بعدی در %4$d روز آغاز می‌شود (%5$s)&quot;</string>
+    <string name="throttle_status_subtext">"%1$s (%2$d٪) از %3$s سقف دوره
+دوره بعدی در %4$d روز آغاز می‌شود (%5$s)"</string>
     <string name="throttle_time_frame">دوره استفاده از اینترنت همراه</string>
-    <string name="throttle_time_frame_subtext">&quot;%1$d٪ از چرخه سپری شده است
-دوره بعدی در %2$d روز آغاز می‌شود (%3$s)&quot;</string>
-    <string name="time_end">&quot; به &quot;</string>
+    <string name="throttle_time_frame_subtext">"%1$d٪ از چرخه سپری شده است
+دوره بعدی در %2$d روز آغاز می‌شود (%3$s)"</string>
+    <string name="time_end">" به "</string>
     <string name="time_end_hour">ساعت پایان</string>
     <string name="time_end_minute">دقیقه پایان</string>
     <string name="time_formate_am">ق.ظ</string>
     <string name="time_formate_pm">ب.ظ</string>
     <string name="time_interval_char">:</string>
-    <string name="time_next_day">&quot; روز بعد &quot;</string>
-    <string name="time_start">&quot; از &quot;</string>
+    <string name="time_next_day">" روز بعد "</string>
+    <string name="time_start">" از "</string>
     <string name="time_start_hour">ساعت آغاز</string>
     <string name="time_start_minute">دقیقه آغاز</string>
     <string name="time_unit_just_now">هم‌اکنون</string>
@@ -2177,8 +2177,8 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="tty_mode_not_allowed_video_call">تغییر حالت TTY هنگام تماس تصویری مجاز نیست</string>
     <string name="tty_mode_option_summary">تنظیم حالت TTY</string>
     <string name="tty_mode_option_title">حالت TTY</string>
-    <string name="turn_off_dual_4g_failed">&quot;Couldn&apos;t turn off Dual 4G.&quot;</string>
-    <string name="turn_on_dual_4g_failed">&quot;Couldn&apos;t turn on Dual 4G.&quot;</string>
+    <string name="turn_off_dual_4g_failed">"Couldn't turn off Dual 4G."</string>
+    <string name="turn_on_dual_4g_failed">"Couldn't turn on Dual 4G."</string>
     <string name="turnover_mute_summary">When phone is on a horizontal surface with screen facing up, flip it over to silence ringer, turn off vibration, and stop flashing notification light.</string>
     <string name="turnover_mute_title">Flip to silence ringer</string>
     <string name="ui_default_package">com.android.dialer</string>
@@ -2211,11 +2211,11 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="vice_slot_volte_data_switch_summary">During VoLTE calls, device will connect to a mobile data network using the secondary SIM</string>
     <string name="vice_slot_volte_data_switch_title">Use mobile data during VoLTE calls on the secondary SIM</string>
     <string name="video_calling_settings_title">تماس تصویری مخابراتی</string>
-    <string name="vm_change_failed">&quot;شماره پیام صوتی تغییر داده نشد.
-اگر این مشکل همچنان ادامه دارد با شرکت مخابراتی خود تماس بگیرید.&quot;</string>
+    <string name="vm_change_failed">"شماره پیام صوتی تغییر داده نشد.
+اگر این مشکل همچنان ادامه دارد با شرکت مخابراتی خود تماس بگیرید."</string>
     <string name="vm_change_pin_error_invalid">PIN جدید حاوی کاراکترهای نامعتبر است.</string>
     <string name="vm_change_pin_error_mismatch">PIN قدیمی مطابقت ندارد.</string>
-    <string name="vm_change_pin_error_system_error">&quot;Can&apos;t to change PIN&quot;</string>
+    <string name="vm_change_pin_error_system_error">"Can't to change PIN"</string>
     <string name="vm_change_pin_error_too_long">PIN جدید بسیار طولانی است.</string>
     <string name="vm_change_pin_error_too_short">PIN جدید بسیار کوتاه است.</string>
     <string name="vm_change_pin_error_too_weak">PIN جدید بسیار ضعیف است. یک گذرواژه قوی نباید اعداد پشت سر هم یا تکراری داشته باشد.</string>
@@ -2229,14 +2229,14 @@ Your SIM card will be locked after another unsuccessful attempt.&quot;</string>
     <string name="voice_report_incoming_call">Calling</string>
     <string name="voice_report_unknown_num">Unknown number</string>
     <string name="voice_service_cannot_call_notification_content">You may face connectivity problems while trying to make calls.</string>
-    <string name="voice_service_cannot_call_notification_title">&quot;Can&apos;t make calls in the current network&quot;</string>
+    <string name="voice_service_cannot_call_notification_title">"Can't make calls in the current network"</string>
     <string name="voice_service_switch_summary">Turn on to be able to use VoLTE call functionality in VoLTE networks</string>
     <string name="voice_service_switch_title">Use VoLTE call services</string>
-    <string name="voice_service_warning_dialog_body">&quot;This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
+    <string name="voice_service_warning_dialog_body">"This tablet supports VoLTE calls in 4G networks. Make sure the networks that your device is connected to support this functionality. VoLTE services are provided by your carrier. Contact your local carrier to learn whether VoLTE is supported in your area.
 
-If you see _ in your status bar, VoLTE calls aren&apos;t available. If you can&apos;t make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
+If you see _ in your status bar, VoLTE calls aren't available. If you can't make or receive calls, or your calls are interrupted, make sure your network is compatible with VoLTE.
 
-This tablet doesn&apos;t have an earpiece. You can switch to hands-free mode or use earphones to make calls.&quot;</string>
+This tablet doesn't have an earpiece. You can switch to hands-free mode or use earphones to make calls."</string>
     <string name="voice_service_warning_dialog_cancel">Cancel</string>
     <string name="voice_service_warning_dialog_ok">Got it</string>
     <string name="voice_service_warning_dialog_ok_timer">Got it (%d)</string>
@@ -2264,8 +2264,8 @@ This tablet doesn&apos;t have an earpiece. You can switch to hands-free mode or 
     <string name="volte_provision_notification_activate">Activate</string>
     <string name="volte_provision_text">VoLTE calls provide better quality than regular calls. Send SMS to activate?</string>
     <string name="volte_provision_title">Activate VoLTE calls</string>
-    <string name="volte_switch_not_support_summary">&quot;VoLTE calls aren&apos;t supported for the mobile data SIM card.&quot;</string>
-    <string name="volte_switch_not_support_summary2">&quot;VoLTE calls aren&apos;t supported by the carrier.&quot;</string>
+    <string name="volte_switch_not_support_summary">"VoLTE calls aren't supported for the mobile data SIM card."</string>
+    <string name="volte_switch_not_support_summary2">"VoLTE calls aren't supported by the carrier."</string>
     <string name="volte_switch_summary">Use VoLTE to improve the quality of voice calls</string>
     <string name="volte_switch_summary2">Confirm that your carrier supports this feature before turning on. Otherwise, regular calls might be affected.</string>
     <string name="volte_switch_title">Use VoLTE</string>
@@ -2274,19 +2274,19 @@ This tablet doesn&apos;t have an earpiece. You can switch to hands-free mode or 
     <string name="vowifi_emergency_notification_channel">WLAN Calling emergency warning</string>
     <string name="vowifi_emergency_notification_content">Emergency calls in areas with cellular coverage only</string>
     <string name="vowifi_emergency_notification_title">Vodafone WLAN Calling</string>
-    <string name="vowifi_emergency_warning_check">&quot;Don&apos;t show again.&quot;</string>
-    <string name="vowifi_emergency_warning_message">&quot;Emergency calls are not possible via WLAN Calling.
+    <string name="vowifi_emergency_warning_check">"Don't show again."</string>
+    <string name="vowifi_emergency_warning_message">"Emergency calls are not possible via WLAN Calling.
 
 The device switches automatically to a cellular network(2G/3G) to place an emergency call.
 
-Emergency calls are only possible in areas with cellular coverage.&quot;</string>
+Emergency calls are only possible in areas with cellular coverage."</string>
     <string name="vowifi_emergency_warning_title">Emergency calls via WLAN Calling</string>
     <string name="vpn_settings_not_available">‏تنظیمات VPN برای این کاربر در دسترس نیست</string>
     <string name="vvm_unsupported_message_format">نوع پیام پشتیبانی نشده است. %s را گرفته تا گوش دهید.</string>
     <string name="wait_for_debugger">منتظر اشکال‌زدا</string>
     <string name="wait_for_debugger_summary">برنامه اشکال‌زدایی شده منتظر پیوست شدن اشکال‌زدا قبل از اجرا است</string>
-    <string name="wait_prompt_str">&quot;صداهای زیر ارسال شود؟
-&quot;</string>
+    <string name="wait_prompt_str">"صداهای زیر ارسال شود؟
+"</string>
     <string name="wapi_all_sel_mode">Select mode</string>
     <string name="wapi_auto_sel_cert_fail">Can not select certificate automatically. Please select a certificate from the list, and then try to connect.</string>
     <string name="wapi_cert_is_not_exist">No available certificate, please install the certificate first</string>
@@ -2310,25 +2310,25 @@ Emergency calls are only possible in areas with cellular coverage.&quot;</string
     <string name="wifi_ap_unable_to_handle_new_sta">ظرفیت نقطه دسترسی موقتاً تکمیل شده است</string>
     <string name="wifi_auto_sel_wapi_cert">Select automatically</string>
     <string name="wifi_call_accept">Skip</string>
-    <string name="wifi_call_available_message">&quot;You can make calls using WLAN now. If you&apos;re connected to a WLAN network, you&apos;ll be able to talk even when you&apos;re in the areas with no mobile network coverage.&quot;</string>
+    <string name="wifi_call_available_message">"You can make calls using WLAN now. If you're connected to a WLAN network, you'll be able to talk even when you're in the areas with no mobile network coverage."</string>
     <string name="wifi_call_available_title">Turning on WLAN Calling</string>
     <string name="wifi_call_cancel">More info</string>
     <string name="wifi_call_help">Help</string>
-    <string name="wifi_call_help_message_1">&quot;WLAN Calling is a service provided by Orange that allows you to make and receive calls via WLAN. This feature can be used in areas with poor mobile network coverage.
+    <string name="wifi_call_help_message_1">"WLAN Calling is a service provided by Orange that allows you to make and receive calls via WLAN. This feature can be used in areas with poor mobile network coverage.
 
 To use WLAN Calling, turn it on in Settings &gt; WLAN Calling.
 
-To activate the service, Orange will send you a confirmation message as soon as the service is available. After this, you&apos;ll be able to connect to a WLAN network and make calls.
+To activate the service, Orange will send you a confirmation message as soon as the service is available. After this, you'll be able to connect to a WLAN network and make calls.
 
 Calls made via WLAN will be charged according to the conditions of your plan.
 
-Whenever this feature is available, the following icon will be shown at the top of your screen.&quot;</string>
-    <string name="wifi_call_help_message_2">&quot;If you select to prefer WLAN networks, they&apos;ll be used by default to make phone calls. In case you aren&apos;t connected to WLAN or the signal is poor, mobile networks will be used to make calls.
+Whenever this feature is available, the following icon will be shown at the top of your screen."</string>
+    <string name="wifi_call_help_message_2">"If you select to prefer WLAN networks, they'll be used by default to make phone calls. In case you aren't connected to WLAN or the signal is poor, mobile networks will be used to make calls.
 
-If you select to prefer mobile networks, they will be used by default to make phone calls. In case there&apos;s no mobile network coverage or the signal is poor, WLAN networks will be used instead.&quot;</string>
+If you select to prefer mobile networks, they will be used by default to make phone calls. In case there's no mobile network coverage or the signal is poor, WLAN networks will be used instead."</string>
     <string name="wifi_call_help_title">WLAN Calling Help</string>
-    <string name="wifi_call_notification_message">&quot;This service is provided by Orange. It might take several hours to activate this service. You&apos;ll receive a confirmation SMS as soon as it&apos;s available.&quot;</string>
-    <string name="wifi_call_preferred_summary">&quot;If you select to prefer mobile networks, mobile networks will be used for calls by default. In case when there&apos;s no mobile network signal or it&apos;s very poor, WLAN network will be used instead.&quot;</string>
+    <string name="wifi_call_notification_message">"This service is provided by Orange. It might take several hours to activate this service. You'll receive a confirmation SMS as soon as it's available."</string>
+    <string name="wifi_call_preferred_summary">"If you select to prefer mobile networks, mobile networks will be used for calls by default. In case when there's no mobile network signal or it's very poor, WLAN network will be used instead."</string>
     <string name="wifi_call_setting">WLAN calls</string>
     <string name="wifi_call_setting_vodafone_de">WLAN calling</string>
     <string name="wifi_call_setting_vodafone_uk">WLAN call</string>
@@ -2408,10 +2408,10 @@ If you select to prefer mobile networks, they will be used by default to make ph
     <string name="wifi_wapi_as_certificate">AS certificate</string>
     <string name="wifi_wapi_cert_mode_hand_text">Hand select the certificate</string>
     <string name="wifi_wapi_certification_dont_exist">The WAPI certificates does not exist. Please intall them.</string>
-    <string name="wifi_wapi_fail_to_auth">&quot;WAPI authentication failed
-Please check validity of certificates&quot;</string>
-    <string name="wifi_wapi_fail_to_init">&quot;Unable to open WAPI certificates
-Credential storage might not enable&quot;</string>
+    <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
+Please check validity of certificates"</string>
+    <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
+Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
     <string name="wificall_switch_summary">Use WLAN to make and receive calls whenever possible</string>

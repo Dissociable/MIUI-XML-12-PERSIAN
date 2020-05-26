@@ -29,8 +29,8 @@
 <item quantity="one">%d دقیقه</item>
 </plurals>
 <plurals name="minute_text">
-<item quantity="other">&quot;  دقیقه&quot;</item>
-<item quantity="one">&quot;  دقیقه&quot;</item>
+<item quantity="other">"  دقیقه"</item>
+<item quantity="one">"  دقیقه"</item>
 </plurals>
 <plurals name="second">
 <item quantity="other">%d ثانیه</item>
@@ -85,12 +85,12 @@
 <item quantity="one">کرونومتر به مدت %s ساعت است که درحال اجراست. برای نمایش ضربه بزنید.</item>
 </plurals>
 <plurals name="timer_message_hour">
-<item quantity="other">&quot;%1$d ساعت &quot;</item>
-<item quantity="one">&quot;%1$d ساعت &quot;</item>
+<item quantity="other">"%1$d ساعت "</item>
+<item quantity="one">"%1$d ساعت "</item>
 </plurals>
 <plurals name="timer_message_minute">
-<item quantity="other">&quot;%1$d دقیقه &quot;</item>
-<item quantity="one">&quot;%1$d دقیقه &quot;</item>
+<item quantity="other">"%1$d دقیقه "</item>
+<item quantity="one">"%1$d دقیقه "</item>
 </plurals>
 <plurals name="timer_message_second">
 <item quantity="other">%1$d ثانیه</item>

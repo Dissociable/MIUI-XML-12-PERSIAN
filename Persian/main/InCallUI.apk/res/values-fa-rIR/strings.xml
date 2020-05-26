@@ -52,15 +52,15 @@
     <string name="can_not_use">نمی‌توان استفاده کرد</string>
     <string name="cancel">لغو</string>
     <string name="card_title_answering">درحال پاسخ به تماس</string>
-    <string name="card_title_call_ended">&quot;تماس پایان یافت &quot;</string>
+    <string name="card_title_call_ended">"تماس پایان یافت "</string>
     <string name="card_title_conf_call">کنفرانس تلفنی</string>
     <string name="card_title_dialing">در حال شماره‌گیری</string>
-    <string name="card_title_hanging_up">&quot;در حال قطع کردن &quot;</string>
+    <string name="card_title_hanging_up">"در حال قطع کردن "</string>
     <string name="card_title_in_call">در حین تماس</string>
     <string name="card_title_in_call_short">در حین تماس</string>
     <string name="card_title_in_video">ویدوئو</string>
     <string name="card_title_incoming_conference_call">کنفرانس تلفنی دریافتی</string>
-    <string name="card_title_on_hold">&quot;در پشت خط &quot;</string>
+    <string name="card_title_on_hold">"در پشت خط "</string>
     <string name="card_title_threeway_call">تماس سه‌جانبه</string>
     <string name="card_title_upgrade_video_call_error">ویدئو به‌روزرسانی نشد</string>
     <string name="card_title_upgrade_video_call_rejected_by_remote">ویدئو به‌روزرسانی نشد</string>
@@ -184,7 +184,7 @@
     <string name="pause_prompt_no">خیر</string>
     <string name="pause_prompt_yes">بله</string>
     <string name="payphone">تلفن همگانی</string>
-    <string name="phone_info_divider">&quot; ｜ &quot;</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="picking_participant">در حال دریافت اطلاعات مخاطب…</string>
     <string name="private_num">شماره خصوصی</string>
     <string name="prompt_no_volte_when_failed">نمی‌توان تماسی برقرار کرد. مطمئن شوید که دستگاه شما به یک شبکه 4G پشتیبانی شده توسط VoLTE وصل شده است.</string>
@@ -194,7 +194,7 @@
     <string name="select_one_sim_title">فقط می‌توان از سیم‌کارت %1$d استفاده کرد</string>
     <string name="select_one_sim_title_for_heduohao">Can only use SIM %1$d Sub %2$d</string>
     <string name="select_sim_hint">هنگامی‌که سیمکارت %1$d درحال استفاده است، نمی‌توان از سیم‌کارت %2$d استفاده کرد.</string>
-    <string name="select_sim_hint_for_heduohao">&quot;Can&apos;t use other, while SIM %1$d Sub %2$d is in use.&quot;</string>
+    <string name="select_sim_hint_for_heduohao">"Can't use other, while SIM %1$d Sub %2$d is in use."</string>
     <string name="select_voice_call_sim">انتخاب سیم‌کارت</string>
     <string name="separate_from_conference">جداسازی تماس</string>
     <string name="sim1_description">سیم‌کارت ۱</string>
@@ -215,8 +215,8 @@
     <string name="voicemail">پیام صوتی</string>
     <string name="volte_call">تماس VoLTE</string>
     <string name="volume_boost_text">افزایش صدا با موفقیت انجام شد</string>
-    <string name="wait_prompt_str">&quot;آهنگ‌های زیر ارسال شود؟
-&quot;</string>
+    <string name="wait_prompt_str">"آهنگ‌های زیر ارسال شود؟
+"</string>
     <string name="waiting_close_airplane_mode">چند لحظه صبر کنید…</string>
     <string name="wifi_call">تماس VoWifi</string>
 </resources>

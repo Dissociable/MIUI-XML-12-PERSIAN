@@ -11,7 +11,7 @@
     <string name="doc_photo_idcard_emblem">Back</string>
     <string name="doc_photo_idcard_mode_title">ID card</string>
     <string name="doc_photo_idcard_portrait">Front</string>
-    <string name="doc_photo_not_support">&quot;Can&apos;t edit this image as a document&quot;</string>
+    <string name="doc_photo_not_support">"Can't edit this image as a document"</string>
     <string name="doc_photo_view_effect">Preview</string>
     <string name="extra_photo_common_permission_name">Bokeh</string>
     <string name="extra_photo_common_save_fail">ذخیره نشد</string>

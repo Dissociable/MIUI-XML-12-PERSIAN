@@ -72,8 +72,8 @@
     <string name="access_control_app_is_launching">برنامه درحال آغاز است</string>
     <string name="access_control_failed_need_to_unlock_nofingerprint">گذرواژه را پیش از باز کردن قفل با اثر انگشت وارد کنید</string>
     <string name="access_control_fingerprint_not_identified_msg">اثر انگشت خوانده نشد.</string>
-    <string name="access_control_need_password">&quot;%sبا موفقیت افزوده شدr
-&quot;</string>
+    <string name="access_control_need_password">"%sبا موفقیت افزوده شدr
+"</string>
     <string name="access_control_need_to_unlock_nofingerprint">گذرواژه قفل برنامه را وارد کنید</string>
     <string name="accessibility_gameboosterservice_description">روشن کرده تا هنگام بازی کردن تماس‌های ورودی WeChat ساکت شوند</string>
     <string name="accessibility_service_description"></string>
@@ -323,11 +323,11 @@
     <string name="app_manager_app_info_label">اطلاعات برنامه</string>
     <string name="app_manager_app_info_name">نام برنامه</string>
     <string name="app_manager_app_info_pkg">نام APK</string>
-    <string name="app_manager_app_power">&quot;باتری مصرف شده: &quot;</string>
-    <string name="app_manager_app_storage">&quot;حافظه: &quot;</string>
-    <string name="app_manager_app_traffic">&quot;داده مصرف شده: &quot;</string>
+    <string name="app_manager_app_power">"باتری مصرف شده: "</string>
+    <string name="app_manager_app_storage">"حافظه: "</string>
+    <string name="app_manager_app_traffic">"داده مصرف شده: "</string>
     <string name="app_manager_app_update">به‌روزرسانی‌ها</string>
-    <string name="app_manager_app_version_name">&quot;نسخه: &quot;</string>
+    <string name="app_manager_app_version_name">"نسخه: "</string>
     <string name="app_manager_appupdate_remind">اعلان به‌روزرسانی‌ها</string>
     <string name="app_manager_as_dlg_msg">اجازه راه‌اندازی خودکار به برنامه‌ها ممکن است به RAM و منابع باتری بیشتری نیاز داشته باشد. در هر صورت اجازه داده شود؟</string>
     <string name="app_manager_as_dlg_title">توجه</string>
@@ -404,14 +404,14 @@
     <string name="app_manager_pref_ads">پیشنهادات</string>
     <string name="app_manager_reset_app_preferences">بازنشانی تنظیمات برنامه</string>
     <string name="app_manager_reset_app_preferences_button">بازنشانی برنامه‌ها</string>
-    <string name="app_manager_reset_app_preferences_desc">&quot;این کار باعث تنظیم دوباره همه تنظیمات برای موارد زیر خواهد شد:
+    <string name="app_manager_reset_app_preferences_desc">"این کار باعث تنظیم دوباره همه تنظیمات برای موارد زیر خواهد شد:
 
-&quot;برنامه‌های غیرفعال&quot;
-&quot;اعلان‌های غیرفعال برنامه‌ها&quot;
-&quot;برنامه‌های پیش‌فرض&quot;
-&quot;محدودیت‌های داده‌های پس‌زمینه برای برنامه‌ها&quot;
+"برنامه‌های غیرفعال"
+"اعلان‌های غیرفعال برنامه‌ها"
+"برنامه‌های پیش‌فرض"
+"محدودیت‌های داده‌های پس‌زمینه برای برنامه‌ها"
 
-شما هیچ داده برنامه‌ای را از دست نخواهید داد.&quot;</string>
+شما هیچ داده برنامه‌ای را از دست نخواهید داد."</string>
     <string name="app_manager_reset_app_preferences_title">تنظیمات برنامه دوباره تنظیم شود؟</string>
     <string name="app_manager_search_prompt">نتیجه‌ای یافت نشد؟ تلاش کنید نتایج همه برنامه‌ها نشان داده شود.</string>
     <string name="app_manager_show_all_apps">نمایش همه برنامه‌ها</string>
@@ -431,7 +431,7 @@
     <string name="app_manager_uninstall_xspace_app_dlg_title">برنامه‌های همزاد حذف شوند؟</string>
     <string name="app_manager_unstall_application">حذف</string>
     <string name="app_managere_not_have_app">خالی</string>
-    <string name="app_manger_des_separator">&quot;، &quot;</string>
+    <string name="app_manger_des_separator">"، "</string>
     <string name="app_mobile">اینترنت همراه</string>
     <string name="app_name">قفل برنامه</string>
     <string name="app_name_na">مصرف اینترنت</string>
@@ -468,9 +468,9 @@
     <string name="app_statusbar_audio_now">Recording audio</string>
     <string name="app_statusbar_camera_now">Taking photos</string>
     <string name="app_statusbar_location_now">Location</string>
-    <string name="app_summary">&quot;微信/QQ/米聊抢红包神器
+    <string name="app_summary">"微信/QQ/米聊抢红包神器
 支持个人红包与群红包
-春节红包活动，不错过每一个红包&quot;</string>
+春节红包活动，不错过每一个红包"</string>
     <string name="app_usage_never">هرگز استفاده نشده</string>
     <string name="app_usage_recently">به‌تازگی استفاده شده</string>
     <string name="app_version">نسخه:</string>
@@ -665,8 +665,8 @@
     <string name="begin_date">تاریخ بازنشانی مصرف</string>
     <string name="best_booster_status">سرعت بازی کردن درحال حاضر در عالی‌ترین سطح ممکن است.</string>
     <string name="best_warning_dialog_button">我知道了</string>
-    <string name="best_warning_dialog_message">&quot;温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color=&apos;#e56255&apos;&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～&quot;</string>
-    <string name="best_warning_dialog_message1">&quot;使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color=&apos;#e56255&apos;&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～&quot;</string>
+    <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
+    <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
     <string name="best_warning_dialog_title">温馨提示</string>
     <string name="bg_network_exception_title">اتصال پس‌زمینه محدود شد</string>
     <string name="bill_limit_notification_text_format">کارت: %1$s | موجودی: %2$s CNY</string>
@@ -795,7 +795,7 @@
     <string name="card_tc_failed">درجه‌بندی نشد</string>
     <string name="cd_back">بازگشت</string>
     <string name="celcius_symbol">℃</string>
-    <string name="charging_text_battery_full_time">&quot;آخرین شارژ &quot;</string>
+    <string name="charging_text_battery_full_time">"آخرین شارژ "</string>
     <string name="charging_text_battery_nearly_full">تقریباً کامل شارژ شده است</string>
     <string name="charging_text_battery_perfect">کاملا شارژ شده است</string>
     <string name="choose">انتخاب</string>
@@ -882,9 +882,9 @@
     <string name="data_usage_no_total_package_body">برای تنظیم سقف اینترنت همراه ضربه بزنید</string>
     <string name="data_usage_no_total_package_body_dual">هیچ سقفی برای اینترنت همراه %s تنظیم نشده است</string>
     <string name="data_usage_no_total_package_title">یک سقف برای مصرف اینترنت همراه تنظیم کنید</string>
-    <string name="data_usage_protected_dialog_message">&quot;MIUI اینترنت همراه را خاموش کرد تا از ایجاد هزینه‌های اضافی شرکت مخابراتی برای شما جلوگیری کند.
+    <string name="data_usage_protected_dialog_message">"MIUI اینترنت همراه را خاموش کرد تا از ایجاد هزینه‌های اضافی شرکت مخابراتی برای شما جلوگیری کند.
 
-در صورتی که اینترنت همراه را دوباره روشن کنید، شرکت مخابراتی شما ممکن است برای شما هزینه‌های اضافی در نظر بگیرد.&quot;</string>
+در صورتی که اینترنت همراه را دوباره روشن کنید، شرکت مخابراتی شما ممکن است برای شما هزینه‌های اضافی در نظر بگیرد."</string>
     <string name="data_usage_protected_notify_message">MIUI اینترنت همراه را خاموش کرد تا از ایجاد هزینه‌های اضافی شرکت مخابراتی برای شما جلوگیری کند.</string>
     <string name="data_usage_protected_notify_title">شما تا کنون ۵ گیگابایت از اینترنت همراه را استفاده کرده‌اید</string>
     <string name="data_usage_warning_body">برای مشاهده جزئیات مصرف اینترنت همراه لمس کنید.</string>
@@ -917,8 +917,8 @@
     <string name="detail_app_button">اطلاعات برنامه</string>
     <string name="details_subtitle">جزئیات مصرف</string>
     <string name="device_manager_apply_step_1">مدیریت دستگاه برای این برنامه فعال شود؟</string>
-    <string name="device_manager_apply_step_2">&quot;فعال‌سازی مدیریت دستگاه برای این برنامه ممکن است سبب افشای اطلاعات شخصی شما شود.
-همه داده‌های دستگاه شما ممکن است پاک شده و گذرواژه صفحه قفل نیز دوباره تنظیم شود.&quot;</string>
+    <string name="device_manager_apply_step_2">"فعال‌سازی مدیریت دستگاه برای این برنامه ممکن است سبب افشای اطلاعات شخصی شما شود.
+همه داده‌های دستگاه شما ممکن است پاک شده و گذرواژه صفحه قفل نیز دوباره تنظیم شود."</string>
     <string name="device_manager_apply_step_3">پیش از انجام مطمئن شوید متوجه تمام خطرات ممکن شده‌اید. مدیریت دستگاه برای این برنامه فعال شود؟</string>
     <string name="dialog_app_roaming_message">%1$s نمی‌تواند هنگام رومینگ از اینترنت همراه استفاده کند. هنگام رومینگ، تنها برنامه‌هایی که به موارد استثنا افزوده‌اید می‌توانند از اینترنت همراه استفاده کنند.</string>
     <string name="dialog_app_roaming_title">%1$s نمی‌تواند از رومینگ اینترنت همراه استفاده کند</string>
@@ -971,8 +971,8 @@
     <string name="dlg_keyword_ok">ذخیره</string>
     <string name="dlg_message_not_open_stranger_identify">برای فعال کردن این قابلیت، به تنظیمات &gt; تلفن بروید.</string>
     <string name="dlg_move_to_white">افزودن به موارد استثنا</string>
-    <string name="dlg_no_block">&quot;انسداد این شماره تلفن لغو شود؟
-به موارد استثنا افزوده خواهد شد. اما مواردی که پیش‌تر مسدود شده بودند در تاریخچه تماس نشان داده نخواهند شد.&quot;</string>
+    <string name="dlg_no_block">"انسداد این شماره تلفن لغو شود؟
+به موارد استثنا افزوده خواهد شد. اما مواردی که پیش‌تر مسدود شده بودند در تاریخچه تماس نشان داده نخواهند شد."</string>
     <string name="dlg_no_block_ok">لغو انسداد</string>
     <string name="dlg_not_block_call">انسداد شماره‌های انتخاب شده لغو شود؟ آن‌ها به موارد استثنا افزوده خواهند شد. ولی موارد مسدود شده پیشین در تاریخچه تماس نشان داده نخواهند شد.</string>
     <string name="dlg_not_block_sms">انسداد شماره‌های انتخاب شده لغو شود؟ آن‌ها به موارد استثنا افزوده خواهند شد. ولی موارد مسدود شده پیشین در صندق ورودی پیام‌ها نشان داده نخواهند شد.</string>
@@ -1017,7 +1017,7 @@
     <string name="dynamic_md5">cf22c9ca95b12a9404c0b7c59515f3e3</string>
     <string name="ellipsis">…</string>
     <string name="email">ایمیل</string>
-    <string name="empty_activity_title">&quot; &quot;</string>
+    <string name="empty_activity_title">" "</string>
     <string name="empty_app">بدون برنامه</string>
     <string name="empty_title_auto_start_list">هیچ برنامه‌ای نمی‌تواند راه‌اندازی خودکار شود.</string>
     <string name="empty_title_garbage_virus_white_list">نتایج را در فهرست نگه داشته تا در اسکن بعدی رد شوند</string>
@@ -1031,10 +1031,10 @@
     <string name="enter">进入</string>
     <string name="every_day">هرروز</string>
     <string name="ew_alert_arrive_location">Seismic wave arrived in %s</string>
-    <string name="ew_alert_dial_text">&quot;Call emergency
-contact&quot;</string>
+    <string name="ew_alert_dial_text">"Call emergency
+contact"</string>
     <string name="ew_alert_earthquake_center_title">Epicenter</string>
-    <string name="ew_alert_earthquake_distance">&quot;You&apos;re %s km away from the epicenter&quot;</string>
+    <string name="ew_alert_earthquake_distance">"You're %s km away from the epicenter"</string>
     <string name="ew_alert_earthquake_feel_little">Slight shaking</string>
     <string name="ew_alert_earthquake_feel_max">Severe</string>
     <string name="ew_alert_earthquake_feel_middle">Strong</string>
@@ -1042,14 +1042,14 @@ contact&quot;</string>
     <string name="ew_alert_earthquake_feel_normal">Moderate</string>
     <string name="ew_alert_earthquake_feel_title">Estimated intensity</string>
     <string name="ew_alert_earthquake_level_title">Estimated magnitude</string>
-    <string name="ew_alert_emergency_text">&quot;Show
-medical card&quot;</string>
+    <string name="ew_alert_emergency_text">"Show
+medical card"</string>
     <string name="ew_alert_help_earthquake_title">Seismic wave arrived</string>
     <string name="ew_alert_help_place_navigation">Navigate</string>
     <string name="ew_alert_help_place_text">If necessary, go to the nearest shelter to ensure safety and get the necessary assistance.</string>
     <string name="ew_alert_help_place_title">Nearby shelter</string>
     <string name="ew_alert_help_safe_title">Avoid danger</string>
-    <string name="ew_alert_help_tips">&quot;Keep calm and stay alert. Stay away from hanging objects, don&apos;t take the elevator. Find a safe space, drop, cover, and hold on.&quot;</string>
+    <string name="ew_alert_help_tips">"Keep calm and stay alert. Stay away from hanging objects, don't take the elevator. Find a safe space, drop, cover, and hold on."</string>
     <string name="ew_alert_no_contact">Set an emergency contact in Security &gt; Earthquake warning first</string>
     <string name="ew_alert_no_emergency">Add your medical data in Security &gt; Earthquake warning</string>
     <string name="ew_alert_text_from">Data provided by %s</string>
@@ -1059,8 +1059,8 @@ medical card&quot;</string>
     <string name="ew_app_name_test_run">Earthquake warning (Trial)</string>
     <string name="ew_arrive_text_tips">Seismic wave arrived: %s</string>
     <string name="ew_button_confirm">Agree</string>
-    <string name="ew_button_exit">&quot;Don&apos;t agree&quot;</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;&quot;This feature provides you with earthquake warning functionality. It will notify you about upcoming earthquakes and play warning sound. You&apos;ll be able to find the nearest shelter, call your emergency contact, and present your medical card if required. &amp;lt;br&amp;gt;We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. &amp;lt;br&amp;gt;To be able to work normally, this feature requires the following permissions in order to collect your personal information: &amp;lt;br&amp;gt;&amp;#8226; Location info: &amp;lt;br&amp;gt;For accessing your location and providing accurate earthquake warnings. &amp;lt;br&amp;gt;If you don&apos;t agree to grant such permissions or share and upload your personal information, you won&apos;t be able to use this feature. You can choose to turn this feature off or not turn it on in such cases. &amp;lt;br&amp;gt;You must read and agree to our &amp;lt;a href=\&quot;http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\&quot;&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature.&quot;&lt;/Data&gt;</string>
+    <string name="ew_button_exit">"Don't agree"</string>
+    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"This feature provides you with earthquake warning functionality. It will notify you about upcoming earthquakes and play warning sound. You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required. &amp;lt;br&amp;gt;We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. &amp;lt;br&amp;gt;To be able to work normally, this feature requires the following permissions in order to collect your personal information: &amp;lt;br&amp;gt;&amp;#8226; Location info: &amp;lt;br&amp;gt;For accessing your location and providing accurate earthquake warnings. &amp;lt;br&amp;gt;If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this feature. You can choose to turn this feature off or not turn it on in such cases. &amp;lt;br&amp;gt;You must read and agree to our &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature."&lt;/Data&gt;</string>
     <string name="ew_close">Turn off alert</string>
     <string name="ew_emergency_allergy">Allergies</string>
     <string name="ew_emergency_basic_info">Basic info</string>
@@ -1077,27 +1077,27 @@ medical card&quot;</string>
     <string name="ew_emergency_input">Enter</string>
     <string name="ew_emergency_input_allergy">List your allergies</string>
     <string name="ew_emergency_input_medical">List your conditions and treatments</string>
-    <string name="ew_emergency_input_medicine">&quot;List the medicines you&apos;ve been taking&quot;</string>
+    <string name="ew_emergency_input_medicine">"List the medicines you've been taking"</string>
     <string name="ew_emergency_medical">Medical conditions</string>
     <string name="ew_emergency_medicine">Active medication</string>
     <string name="ew_emergency_name">Name</string>
     <string name="ew_emergency_organ_donation">Are you an organ donation volunteer?</string>
-    <string name="ew_emergency_privacy">&quot;Privacy statement: The info you provide here will only be used for emergency cases and stored on your device. We won&apos;t upload this info to our servers.&quot;</string>
+    <string name="ew_emergency_privacy">"Privacy statement: The info you provide here will only be used for emergency cases and stored on your device. We won't upload this info to our servers."</string>
     <string name="ew_emergency_recent_medicine">Recent active medication</string>
     <string name="ew_emergency_title">Medical card</string>
     <string name="ew_first_start_network_title">Terms and conditions</string>
     <string name="ew_guide_law_agree">Agree</string>
     <string name="ew_guide_law_done">Got it</string>
-    <string name="ew_guide_law_exit">&quot;Don&apos;t agree&quot;</string>
-    <string name="ew_guide_law_text">&quot;This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by a third party early warning agency. Xiaomi doesn&apos;t oversee third party agencies and doesn&apos;t have any control over them. Xiaomi doesn&apos;t promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs. You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature.&quot;</string>
+    <string name="ew_guide_law_exit">"Don't agree"</string>
+    <string name="ew_guide_law_text">"This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by a third party early warning agency. Xiaomi doesn't oversee third party agencies and doesn't have any control over them. Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs. You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature."</string>
     <string name="ew_guide_law_title">Disclaimer</string>
     <string name="ew_guide_next_text">Next</string>
     <string name="ew_guide_play_audio">Play warning sound</string>
     <string name="ew_guide_play_audio_last">Play warning sound (%ds)</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;&quot;This disclaimer applies to all users (hereinafter referred to as you) who turn on the earthquake warning feature. By agreeing to this disclaimer, you enter into a legally binding contract with Xiaomi Inc. and its affiliates (hereinafter referred to as Xiaomi). You acknowledge that you have read all the contents of this disclaimer, and you fully understand and agree to all the terms and conditions of this disclaimer; otherwise, you should turn off the earthquake warning feature immediately.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; The earthquake warning functionality is available in selected regions now (&amp;lt;a href=\&quot;https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\&quot;&amp;gt;Tap to view&amp;lt;/a&amp;gt;). More regions will be available soon.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Earthquake warning features are provided by Xiaomi in the Security app. You must understand that the earthquake warning information is provided by the government early warning agencies. Xiaomi doesn&apos;t oversee such agencies and doesn&apos;t have any control over them.&amp;lt;br&amp;gt; Xiaomi doesn&apos;t promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.&amp;lt;br&amp;gt; Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.&amp;lt;br&amp;gt; You must understand that this feature is provided for your reference only. The warning you receive might come seconds before the onset of an earthquake. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature.&amp;lt;br&amp;gt;&quot;&lt;/Data&gt;</string>
-    <string name="ew_guide_tips_1">&quot;You&apos;ll be notified about upcoming earthquakes and hear warning sound&quot;</string>
+    <string name="ew_guide_statement_text">&lt;Data&gt;"This disclaimer applies to all users (hereinafter referred to as you) who turn on the earthquake warning feature. By agreeing to this disclaimer, you enter into a legally binding contract with Xiaomi Inc. and its affiliates (hereinafter referred to as Xiaomi). You acknowledge that you have read all the contents of this disclaimer, and you fully understand and agree to all the terms and conditions of this disclaimer; otherwise, you should turn off the earthquake warning feature immediately.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; The earthquake warning functionality is available in selected regions now (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tap to view&amp;lt;/a&amp;gt;). More regions will be available soon.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Earthquake warning features are provided by Xiaomi in the Security app. You must understand that the earthquake warning information is provided by the government early warning agencies. Xiaomi doesn't oversee such agencies and doesn't have any control over them.&amp;lt;br&amp;gt; Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.&amp;lt;br&amp;gt; Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.&amp;lt;br&amp;gt; You must understand that this feature is provided for your reference only. The warning you receive might come seconds before the onset of an earthquake. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature.&amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
+    <string name="ew_guide_tips_1">"You'll be notified about upcoming earthquakes and hear warning sound"</string>
     <string name="ew_guide_tips_2">Information and warning sound will be updated during the earthquake</string>
-    <string name="ew_guide_tips_3">&quot;You&apos;ll be able to find the nearest shelter, call your emergency contact, and present your medical card if required&quot;</string>
+    <string name="ew_guide_tips_3">"You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required"</string>
     <string name="ew_guide_title">View demo</string>
     <string name="ew_list_all">All</string>
     <string name="ew_list_empty_text">No warnings here yet</string>
@@ -1107,10 +1107,10 @@ medical card&quot;</string>
     <string name="ew_list_receive_time">Start time: %s</string>
     <string name="ew_list_receive_time_title">Start time</string>
     <string name="ew_list_title">Warnings</string>
-    <string name="ew_main_close_text">&quot;You won&apos;t be able to receive up-to-date info about this earthquake if you turn off the alert. Turn off anyway?&quot;</string>
+    <string name="ew_main_close_text">"You won't be able to receive up-to-date info about this earthquake if you turn off the alert. Turn off anyway?"</string>
     <string name="ew_main_close_title">Attention</string>
     <string name="ew_main_contact_change">Change</string>
-    <string name="ew_main_contact_change_dialog_content">&quot;You can change or delete your emergency contact. You won&apos;t be able to use your emergency contact if you delete it.&quot;</string>
+    <string name="ew_main_contact_change_dialog_content">"You can change or delete your emergency contact. You won't be able to use your emergency contact if you delete it."</string>
     <string name="ew_main_contact_change_dialog_title">Change emergency contact</string>
     <string name="ew_main_contact_delete">Delete</string>
     <string name="ew_main_contact_summary">Added: %s</string>
@@ -1119,7 +1119,7 @@ medical card&quot;</string>
     <string name="ew_main_detail_title">Settings</string>
     <string name="ew_main_emergency_tips">Record your basic medical info to always have it at hand</string>
     <string name="ew_main_emergency_title">Medical card</string>
-    <string name="ew_main_open_tips">&quot;This feature will notify you about upcoming earthquakes and play warning sound. You&apos;ll also be provided with the information about emergency services after the emergency countdown stops.&quot;</string>
+    <string name="ew_main_open_tips">"This feature will notify you about upcoming earthquakes and play warning sound. You'll also be provided with the information about emergency services after the emergency countdown stops."</string>
     <string name="ew_main_open_title">Receive alerts and get help</string>
     <string name="ew_main_place_tips">Learn where the nearest emergency shelter is whenever you need one</string>
     <string name="ew_main_place_title">Emergency shelters nearby</string>
@@ -1131,8 +1131,8 @@ medical card&quot;</string>
     <string name="ew_main_warning_list_title">Warning history</string>
     <string name="ew_push_message">Estimated intensity: %s. Expect slight shaking near you.</string>
     <string name="ew_push_title">Earthquake warning for %s</string>
-    <string name="ew_safe_place_no_maps_tips">&quot;Can&apos;t search now. Install Baidu Maps or Amap first.&quot;</string>
-    <string name="ew_setting_desc_message">&quot;The system estimates earthquake intensity based on the magnitude of the earthquake, the location of the epicenter, and the distance from you. The greater the intensity of the earthquake, the more devastation the earthquake might bring to your location. When the estimated intensity is greater than 2.0, you&apos;ll receive a strong earthquake warning; when the estimated intensity is lower than 2.0, you can choose to receive system notifications.&quot;</string>
+    <string name="ew_safe_place_no_maps_tips">"Can't search now. Install Baidu Maps or Amap first."</string>
+    <string name="ew_setting_desc_message">"The system estimates earthquake intensity based on the magnitude of the earthquake, the location of the epicenter, and the distance from you. The greater the intensity of the earthquake, the more devastation the earthquake might bring to your location. When the estimated intensity is greater than 2.0, you'll receive a strong earthquake warning; when the estimated intensity is lower than 2.0, you can choose to receive system notifications."</string>
     <string name="ew_setting_desc_title">About estimated intensity</string>
     <string name="ew_setting_more_title">Learn more about earthquake warnings</string>
     <string name="ew_setting_normal_push_message">For earthquakes with intensity lower than 2.0</string>
@@ -1323,11 +1323,11 @@ medical card&quot;</string>
     <string name="free_time_traffic_title">سقف اینترنت همراه غیراوج را وارد کنید</string>
     <string name="free_traffic_settings">تنظیمات مصرف اینترنت همراه غیر اوج</string>
     <string name="function_close">خاموش</string>
-    <string name="function_gwsd_detail">&quot;درباره این ویژگی:
+    <string name="function_gwsd_detail">"درباره این ویژگی:
  ۱. تما‌س‌های دریافتی به سیم‌کارت اینترنت همراه شما اتصال اینترنت همراه را قطع نخواهد کرد. فقط زمانی تماس شما قطع می‌شود که شما به تماس پاسخ دهید.
  ۲. هنگام روشن بودن این ویژگی، تماس‌گیرنده پشت خط انتظار قرار نخواهد گرفت. تماس‌های دریافتی در صورت پاسخ ندادن پس از ۶ ثانیه قطع خواهند شد.
  ۳. این ویژگی فقط برای سیم‌کارت‌های اینترنت همراه کار خواهد کرد. تماس‌های سیم‌کارت اصلی شما اتصال اینترنت همرا را قطع خواهد کرد.
- ۴. این ویژگی فقط توسط China Mobile و China Unicom مورد پشتیبانی است.&quot;</string>
+ ۴. این ویژگی فقط توسط China Mobile و China Unicom مورد پشتیبانی است."</string>
     <string name="function_gwsd_title">اجازه ندادن به تماس‌های دریافتی برای قطع اینترنت همراه سیم‌کارت</string>
     <string name="function_shield_auto_bright">خاموش کردن روشنایی خودکار</string>
     <string name="function_shield_eye_shield">خاموش کردن حالت مطالعه</string>
@@ -1338,8 +1338,8 @@ medical card&quot;</string>
     <string name="function_shield_title">تجربه بهبود یافته</string>
     <string name="function_shield_voice_trigger">‫Mi AI با صدا بیدار نشود</string>
     <string name="fw_blocked">فهرست سیاه</string>
-    <string name="fw_blocked_count">&quot;مسدود شد: &quot;</string>
-    <string name="fw_blocked_join">&quot; و &quot;</string>
+    <string name="fw_blocked_count">"مسدود شد: "</string>
+    <string name="fw_blocked_join">" و "</string>
     <string name="fw_oversea">مسدود کردن تماس‌ها از خارج</string>
     <string name="fw_oversea_content">مسدود کردن تماس‌های دریافتی از شماره تلفن‌های خارجی</string>
     <string name="game_ad_recommendation">همه درحال بازی هستند</string>
@@ -1372,7 +1372,7 @@ medical card&quot;</string>
     <string name="gamebox_display_2">اشباع شده</string>
     <string name="gamebox_display_3">روشن</string>
     <string name="gamebox_display_4">روشن و اشباع شده</string>
-    <string name="gamebox_display_set">&quot;تقویت تصویری: &quot;</string>
+    <string name="gamebox_display_set">"تقویت تصویری: "</string>
     <string name="gamebox_dnd">مزاحم نشوید</string>
     <string name="gamebox_func_antimsg_close">اعلان‌های شناور مجاز شدند</string>
     <string name="gamebox_func_antimsg_open">اعلان‌های شناور محدود شده‌اند</string>
@@ -1505,14 +1505,14 @@ medical card&quot;</string>
     <string name="gb_voice_changer_robot">روبات</string>
     <string name="gb_wonderful_video_cancel">لغو</string>
     <string name="gb_wonderful_video_checkall">انتخاب همه</string>
-    <string name="gb_wonderful_video_date_format">&quot;dd&apos;th&apos;,MMM.&quot;</string>
+    <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
     <string name="gb_wonderful_video_delete">حذف</string>
     <string name="gb_wonderful_video_header_title">امروز</string>
     <string name="gb_wonderful_video_save_suc">با موفقیت ذخیره شد</string>
     <string name="gb_xunyou_gift_type_one">افزاینده سرعت ۱ روزه Xunyou</string>
     <string name="gb_xunyou_gift_type_three">افزاینده سرعت ۳ روزه Xunyou</string>
     <string name="gb_xunyou_gift_type_two">افزاینده سرعت ۲ روزه Xunyou</string>
-    <string name="gdpr_msg">&lt;Data&gt;برای استفاده از ویژگی‌های ابتدایی امنیت، شما باید بپذیرید که Xiaomi داده‌های شخصی شما شامل اطلاعات درباره راه‌های استفاده از ویژگی‌های امنیت (مانند: آمار مصرف اینترنت همراه، اطلاعات درباره بدافزار، همچنین اطلاعات پایه‌ای درباره دستگاه شما) و دیگر انواع اطلاعاتی که در &lt;a href=\&quot;https://privacy.mi.com/all/%1$s_%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; مشخص شده است را گردآوری، پردازش و استفاده خواهد کرد.&lt;/Data&gt;</string>
+    <string name="gdpr_msg">&lt;Data&gt;برای استفاده از ویژگی‌های ابتدایی امنیت، شما باید بپذیرید که Xiaomi داده‌های شخصی شما شامل اطلاعات درباره راه‌های استفاده از ویژگی‌های امنیت (مانند: آمار مصرف اینترنت همراه، اطلاعات درباره بدافزار، همچنین اطلاعات پایه‌ای درباره دستگاه شما) و دیگر انواع اطلاعاتی که در &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; مشخص شده است را گردآوری، پردازش و استفاده خواهد کرد.&lt;/Data&gt;</string>
     <string name="ge">个</string>
     <string name="get_sys_info">در حال دریافت اطلاعات…</string>
     <string name="gigabyteShort">گیگابایت</string>
@@ -1551,8 +1551,8 @@ medical card&quot;</string>
     <string name="gs_game_disturb_msg">مزاحم نشوید</string>
     <string name="gs_game_duration">زمان</string>
     <string name="gs_game_manual_record">ضبط دستی</string>
-    <string name="gs_game_manual_record_subtitle">&quot;هنگام بازی می‌توانید با استفاده از امکان ضبط در جعبه ابزار ضبط کردن را آغاز کنید. پس از ضربه روی دکمه «ضبط» تا ۳۰ ثانیه ویدئو می‌تواند ضبط شود.
-ویدئوها در افزاینده سرعت بازی &gt; لحظات حساس ذخیره خواهند شد.&quot;</string>
+    <string name="gs_game_manual_record_subtitle">"هنگام بازی می‌توانید با استفاده از امکان ضبط در جعبه ابزار ضبط کردن را آغاز کنید. پس از ضربه روی دکمه «ضبط» تا ۳۰ ثانیه ویدئو می‌تواند ضبط شود.
+ویدئوها در افزاینده سرعت بازی &gt; لحظات حساس ذخیره خواهند شد."</string>
     <string name="gs_game_manual_record_subtitle_child">هنگام استفاده از این ویژگی ممکن است با اشکالاتی روبرو شوید:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">ضبط بخش‌های بازی شما به مصرف برق بیشتری نیاز دارد که ممکن است سبب کند شدن شود.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">سایر ویژگی‌های ضبط صفحه ممکن است به درستی کار نکنند.</string>
@@ -1576,8 +1576,8 @@ medical card&quot;</string>
     <string name="gs_slip_gamebox_detail">برای نمایان کردن پانل میان‌بر از کشو استفاده و یا از لبه بالای نمایشگر به داخل بکشید</string>
     <string name="gtb_exit_game_to_gtb">باز جعبه بازی</string>
     <string name="gtb_exit_game_to_home">بازگشت به صفحه اصلی</string>
-    <string name="guide_get_operator_error">&quot;&lt;font color=&apos;#33b4ff&apos;&gt;&lt;U&gt;شرکت مخابراتی اشتباه است؟&lt;/U&gt;&lt;/font&gt;&quot;</string>
-    <string name="guide_operator_text">&quot;شرکت مخابرات کنونی شما: &quot;</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;شرکت مخابراتی اشتباه است؟&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="guide_operator_text">"شرکت مخابرات کنونی شما: "</string>
     <string name="guide_quck_open">روشن کردن</string>
     <string name="guide_second_text">پس از تنظیم شرکت مخابراتی خود، MIUI مصرف اینترنت همراه شما را روزانه با استفاده از ارسال پیامک رایگان شرکت مخابراتی نظارت می‌کند. هنگامی که MIUI دریابد شما از سقف اینترنت همراه خود فراتر رفته‌اید، از شبکه قطع شده و به شما اعلام می‌کند.</string>
     <string name="guide_wait_setting">اکنون نه</string>
@@ -1663,9 +1663,9 @@ medical card&quot;</string>
     <string name="legal_workday_invalidate">دوشنبه - جمعه (اطلاعات تعطیلات به پایان رسیده است)</string>
     <string name="legal_workday_invalidate_message">برای به‌روزرسانی اطلاعات تعطیلات عمومی، ضربه بزنید.</string>
     <string name="legal_workday_message">(گذشتن از تعطیلات)</string>
-    <string name="leisure_usage_dialog_message">&quot;شما به سقف اینترنت همراه غیراوج مصرف رسیدید.
+    <string name="leisure_usage_dialog_message">"شما به سقف اینترنت همراه غیراوج مصرف رسیدید.
 
-در صورتی که دوباره از اتصال اینترنت همراه استفاده کنید ممکن است شرکت مخابراتی شما را متحمل هزینه‌های اضافی کند.&quot;</string>
+در صورتی که دوباره از اتصال اینترنت همراه استفاده کنید ممکن است شرکت مخابراتی شما را متحمل هزینه‌های اضافی کند."</string>
     <string name="leisure_usage_dialog_title">شما از سقف اینترنت همراه خارج اوج مصرف فراتر رفتید. اتصال اینترنت همراه خاموش است</string>
     <string name="list_empty_text">خالی</string>
     <string name="load_only_under_wlan">بارگذاری فقط با استفاده از Wi-Fi</string>
@@ -1732,9 +1732,9 @@ medical card&quot;</string>
     <string name="lucky_alarm_open_summary">开启后，在红包活动开始前1分钟将弹窗提醒，并可通过悬浮窗查看所有红包活动时间。</string>
     <string name="lucky_alarm_open_title">红包闹钟</string>
     <string name="lucky_alarm_sound_title">活动声音提醒</string>
-    <string name="lucky_assistant_description">&quot;小米官方出品
+    <string name="lucky_assistant_description">"小米官方出品
 微信/QQ/米聊抢红包神器
-不支持提醒被屏蔽的群，以及开启电脑登录免打扰功能的软件&quot;</string>
+不支持提醒被屏蔽的群，以及开启电脑登录免打扰功能的软件"</string>
     <string name="lucky_max_chat_title">来自QQ</string>
     <string name="lucky_money_close">关闭</string>
     <string name="lucky_money_group_summary">个人发送的红包不需抢，建议您仅提醒群红包，以免提醒次数过多。</string>
@@ -1774,10 +1774,10 @@ medical card&quot;</string>
     <string name="main_primary_message_traffic_warning">هشدار مصرف اینترنت همراه</string>
     <string name="main_purchase_tips">تبلیغات</string>
     <string name="main_tc_over">با موفقیت درجه‌بندی شد</string>
-    <string name="main_tc_send_sms">&quot;پیامک ارسال کرده
-تا درجه‌بندی شود&quot;</string>
-    <string name="main_tc_wait_result">&quot;در انتظار پاسخ
-شرکت مخابرات&quot;</string>
+    <string name="main_tc_send_sms">"پیامک ارسال کرده
+تا درجه‌بندی شود"</string>
+    <string name="main_tc_wait_result">"در انتظار پاسخ
+شرکت مخابرات"</string>
     <string name="main_today_used">مصرف امروز</string>
     <string name="main_toolbar_firewall">محدود کردن مصرف اینترنت</string>
     <string name="main_toolbar_purchase">خرید شارژ</string>
@@ -1818,7 +1818,7 @@ medical card&quot;</string>
     <string name="mark_sell_time_setting">شماره‌هایی که چند بار معین به عنوان بازاریاب‌های تلفنی گزارش شده مسدود شود</string>
     <string name="mark_time_setting_dialog_title">گزارش شماره</string>
     <string name="mark_time_text">%d</string>
-    <string name="marked_by_user">&quot;علامت زده‌اید به عنوان &quot;</string>
+    <string name="marked_by_user">"علامت زده‌اید به عنوان "</string>
     <string name="megabyteShort">مگابایت</string>
     <string name="megabyte_per_second">م.ب/ث</string>
     <string name="memory_check_content">%s آزاد شد</string>
@@ -1906,13 +1906,13 @@ medical card&quot;</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mixed_need_to_confirm">برای تأیید دوباره وارد کنید</string>
     <string name="mixed_password_confirmed_header_confirm">با موفقیت تنظیم شد. برای تأیید ضربه بزنید.</string>
-    <string name="mixed_password_confirmed_header_continue">با موفقیت تنظیم شد. \&quot;بعدی\&quot; را بزنید.</string>
+    <string name="mixed_password_confirmed_header_continue">با موفقیت تنظیم شد. \"بعدی\" را بزنید.</string>
     <string name="mixed_pattern_entered_header">گذرواژه با موفقیت تنظیم شد</string>
     <string name="mixed_recording_intro_header">%1$s تا %2$s کاراکتر وارد کنید</string>
     <string name="mixed_retry_button_text">لغو</string>
@@ -1930,8 +1930,8 @@ medical card&quot;</string>
     <string name="na_main_card_ad_subtitle">همراه با اینترنت همراه زیاد، تماس‌های رایگان و نرخ‌های پایین</string>
     <string name="na_main_card_ad_text">طرحی که مناسب خودتان است را بیابید</string>
     <string name="na_main_card_ad_title">طرح ویژه سیم‌کارت هوادار Mi</string>
-    <string name="na_main_card_title_sim">&quot;کارت &quot;</string>
-    <string name="na_text_checking">&quot;درحال آزمایش: &quot;</string>
+    <string name="na_main_card_title_sim">"کارت "</string>
+    <string name="na_text_checking">"درحال آزمایش: "</string>
     <string name="name">نام</string>
     <string name="nd_result_button_optimize">بهینه‌سازی</string>
     <string name="nd_result_summary_optimize">هنگام ناپایداری اتصال شبکه از بهینه‌سازی استفاده کنید</string>
@@ -1956,39 +1956,39 @@ medical card&quot;</string>
     <string name="network_connected_exception_title">آزمایش شبکه</string>
     <string name="network_control">مشاهده تنظیمات برنامه</string>
     <string name="network_diagnostics">آزمایش شبکه</string>
-    <string name="network_mobile_exception_detail">&quot;دستگاه شما نمی‌تواند به اینترنت متصل شود:
+    <string name="network_mobile_exception_detail">"دستگاه شما نمی‌تواند به اینترنت متصل شود:
 
 ۱. مطمئن شوید که از سقف اینترنت همراه خود فراتر نرفته باشید.
 
 ۲. اگر به‌تازگی موجودی دستگاه خود را افزایش داده‌اید، دستگاه خود را راه‌اندازی دوباره کرده و دوباره تلاش کنید.
 
-۳. ممکن است سیگنال شبکه مخابرات شما در منطقه فعلی ضعیف باشد.&quot;</string>
+۳. ممکن است سیگنال شبکه مخابرات شما در منطقه فعلی ضعیف باشد."</string>
     <string name="network_operator_exception_summary">نمی‌توان سیم‌کارت را فعال کرد. مطمئن شوید که سیم‌کارت به‌درستی وارد شده و طرح تلفن همراه شما توسط شرکت مخابراتیتان فعال شده باشد.</string>
     <string name="network_permission_exception_tips">نمی‌توان از اینترنت همراه برای اتصال به شبکه استفاده کرد</string>
     <string name="network_roaming_exception_tips">نمی‌توان از اینترنت همراه هنگام رومینگ برای اتصال به شبکه استفاده کرد.</string>
-    <string name="network_route_exception_detail">&quot;ممکن است مشکلی در روتری که به آن وصل هستید وجود داشته باشد:
+    <string name="network_route_exception_detail">"ممکن است مشکلی در روتری که به آن وصل هستید وجود داشته باشد:
 
- &quot;۱. مسائل مربوط به شبکه Wi-Fi عمومی&quot;
+ "۱. مسائل مربوط به شبکه Wi-Fi عمومی"
 اگر به یک شبکه Wi-Fi عمومی متصل هستید، ممکن است تعداد کاربران متصل به شبکه سرعت آن را کاهش داده یا مشکلات اتصال را ایجاد کند. به سراغ شبکه دیگری رفته و دوباره امتحان کنید.
 
- &quot;۲. مسائل ارائه‌دهنده خدمات اینترنت&quot;
+ "۲. مسائل ارائه‌دهنده خدمات اینترنت"
 مطمئن شوید که وضعیت حساب شما نزد ارائه‌دهنده خدمات اینترنت خوب باشد.
 
- &quot;۳. مسائل سخت‌افزاری روتر&quot;
+ "۳. مسائل سخت‌افزاری روتر"
 روتر را دوباره راه‌اندازی یا تنظیمات مدیریت روتر خود را بررسی کنید.
 
- &quot;۴. سایر مسائل روتر&quot;
+ "۴. سایر مسائل روتر"
 دفترچه راهنمای ارائه شده به همراه روتر خود را مطالعه کرده و روتر خود را به تنظیمات کارخانه برگردانید.
 
- &quot;۵. مطمئن شوید روتر شما به‌درستی متصل شده باشد&quot;
-از کابل اترنت دیگری برای اتصال به روتر خود استفاده کنید. اگر فکر می‌کنید مشکلی در اتصال خانگی شما وجود دارد، با ارائه‌دهنده خدمات اینترنت خود تماس بگیرید.&quot;</string>
-    <string name="network_sim_exception_detail">&quot;ممکن است سیم‌کارت شما مشکل داشته باشد:
+ "۵. مطمئن شوید روتر شما به‌درستی متصل شده باشد"
+از کابل اترنت دیگری برای اتصال به روتر خود استفاده کنید. اگر فکر می‌کنید مشکلی در اتصال خانگی شما وجود دارد، با ارائه‌دهنده خدمات اینترنت خود تماس بگیرید."</string>
+    <string name="network_sim_exception_detail">"ممکن است سیم‌کارت شما مشکل داشته باشد:
 
 ۱. مطمئن شوید که وضعیت حساب شما نزد شرکت مخابرات خوب باشد. از سیم‌کارت یکی از دوستان خود استفاده کنید و ببینید آیا به‌طور عادی قادر به اتصال هستید یا نه.
 
 ۲. اگر از دو سیم‌کارت استفاده می‌کنید، سیم‌کارت دیگر را امتحان کنید و ببینید آیا به‌طور معمول قادر به اتصال هستید.
 
-۳ مطمئن شوید سیم‌کارت و محل قراردادن سیم‌کارت دستگاه شما آسیب ندیده باشد. مطمئن شوید سیم‌کارتی که از آن استفاده می‌کنید به‌درستی در سینی سیم‌کارت دستگاه شما وارد شده باشد.&quot;</string>
+۳ مطمئن شوید سیم‌کارت و محل قراردادن سیم‌کارت دستگاه شما آسیب ندیده باشد. مطمئن شوید سیم‌کارتی که از آن استفاده می‌کنید به‌درستی در سینی سیم‌کارت دستگاه شما وارد شده باشد."</string>
     <string name="network_speed_for_apps_close">توقف اجباری</string>
     <string name="network_speed_for_apps_close_app_dlg_msg">این برنامه به اجبار متوقف شود؟</string>
     <string name="network_speed_for_apps_close_system_app_dlg_msg">نمی‌توان برنامه‌های سیستم را به اجبار متوقف کرد.</string>
@@ -2242,7 +2242,7 @@ medical card&quot;</string>
     <string name="permission_exception_title">اتصال برای برنامه‌ها محدود شد</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">برنامه‌ها پیش از خواندن مخاطبین، مشاهده تاریخچه تماس، تغییر تنظیمات سیستم یا دسترسی به دوربین و سایر منابع دستگاه از شما اجازه نمی‌گیرند. شما می‌توانید این قابلیت را در تنظیمات مجوز روشن کنید.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">مدیر مجوز</string>
-    <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\&quot;%1$s\&quot;&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+    <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
     <string name="permission_upgrade_more">ویژگی‌های حفاظت حریم خصوصی بیشتر</string>
     <string name="permission_upgrade_privacy_title">مجوزهای ضبط صدا و دسترسی به مخاطبین حالا گزینه‌ای دارند که به شما اجازه می‌دهد تا بتوانید چنین مجوزهایی را فقط هنگامی که از برنامه مربوطه استفاده می‌کنید بدهید. برای حافظت از حریم خصوصی اطلاعات شخصی شما، برنامه‌ها این اقدامات را در پس‌زمینه انجام نخواهند داد.</string>
     <string name="permission_upgrade_runtime">مجوزهای دسترسی به موقعیت مکانی یا گرفتن عکس حالا گزینه‌ای دارند که به شما اجازه می‌دهد تا بتوانید فقط یک بار چنین مجوزهایی را بدهید. به منظور حفاظت از حریم خصوصی اطلاعات شخصی شما، این اقدامات پس از ترک برنامه انجام نخواهند شد. درباره مجوزها پس از استفاده دوباره ویژگی‌های مربوطه در زمان بعدی از شما پرسیده خواهد شد.</string>
@@ -2398,11 +2398,11 @@ medical card&quot;</string>
     <string name="power_save_ps_close_setting_5gnet">قابلیت اتصال شبکه 5G</string>
     <string name="power_save_ps_close_setting_6">خاموش کردن خدمات و ویژگی‌های پر مصرف (%1$s، %2$s، %3$s، %4$s، %5$s، %6$s)</string>
     <string name="power_save_ps_close_setting_7">خاموش کردن خدمات و ویژگی‌های پر مصرف (%1$s، %2$s، %3$s، %4$s، %5$s، %6$s، %7$s)</string>
-    <string name="power_save_ps_close_setting_dclickwakeup">\&quot;روشن یا خاموش کردن نمایشگر با دو بار زدن\&quot;</string>
-    <string name="power_save_ps_close_setting_fingeraod">\&quot;نمایش آیکون اثر انگشت هنگام خاموش بودن نمایشگر\&quot;</string>
+    <string name="power_save_ps_close_setting_dclickwakeup">\"روشن یا خاموش کردن نمایشگر با دو بار زدن\"</string>
+    <string name="power_save_ps_close_setting_fingeraod">\"نمایش آیکون اثر انگشت هنگام خاموش بودن نمایشگر\"</string>
     <string name="power_save_ps_close_setting_gps">GPS</string>
     <string name="power_save_ps_close_setting_haptic">بازخورد لمسی</string>
-    <string name="power_save_ps_close_setting_pickupwakeup">\&quot;بیدار کردن با برداشتن\&quot;</string>
+    <string name="power_save_ps_close_setting_pickupwakeup">\"بیدار کردن با برداشتن\"</string>
     <string name="power_save_ps_close_setting_sync">همگام‌سازی</string>
     <string name="power_save_ps_description_title">بهینه‌ساز باتری محدودیت‌های زیر را فعال می‌کند:</string>
     <string name="power_save_ps_freeze">تعلیق برنامه‌های پس‌زمینه</string>
@@ -2653,9 +2653,9 @@ medical card&quot;</string>
     <string name="privacy_pop_record">تعداد ضبط صدای امروز</string>
     <string name="privacy_pop_storage">تعداد دسترسی امروز به حافظه</string>
     <string name="privacy_prompt_tc_sms_report_message">شماره تلفن و جزئیات شرکت مخابرات شما رمزگذاری شده و به سرورهای Mi بارگذاری می‌شود تا بتوان اطلاعات مصرف اینترنت همراه شما را به‌روزرسانی کرد.</string>
-    <string name="privacy_prompt_traffic_adjust_message">&quot;پس از این که یکسان‌سازی را آغاز کردید، MIUI به شبکه وصل شده، اطلاعات شرکت مخابراتی، شماره تلفن، IMEI، و حساب Mi شما را رمزگذاری کرده و این موارد را در سرورهای Mi بارگذاری می‌کند. این کار برای به دست آوردن قالب یکسان‌سازی شرکت مخابراتی و آگاهی یافتن اینکه آیا امکان خرید در محل شما وجود دارد یا نه انجام می‌شود.
+    <string name="privacy_prompt_traffic_adjust_message">"پس از این که یکسان‌سازی را آغاز کردید، MIUI به شبکه وصل شده، اطلاعات شرکت مخابراتی، شماره تلفن، IMEI، و حساب Mi شما را رمزگذاری کرده و این موارد را در سرورهای Mi بارگذاری می‌کند. این کار برای به دست آوردن قالب یکسان‌سازی شرکت مخابراتی و آگاهی یافتن اینکه آیا امکان خرید در محل شما وجود دارد یا نه انجام می‌شود.
 
-هنگام یکسان‌سازی، MIUI یک پیام متنی به شرکت مخابراتی شما ارسال می‌کند تا قالب یکسان‌سازی را دریافت کند.&quot;</string>
+هنگام یکسان‌سازی، MIUI یک پیام متنی به شرکت مخابراتی شما ارسال می‌کند تا قالب یکسان‌سازی را دریافت کند."</string>
     <string name="privacy_prompt_upload">بارگذاری</string>
     <string name="privacy_protect_summary">حفاظت از اطلاعات شخصی شما</string>
     <string name="privacy_protect_title">حریم خصوصی</string>
@@ -2799,7 +2799,7 @@ medical card&quot;</string>
     <string name="sd_insert_summary">برای سوار کردن کارت SD آن را وارد کنید</string>
     <string name="sd_mount">سوار کردن کارت SD</string>
     <string name="sd_mount_summary"></string>
-    <string name="search_input_txt_na">&quot;&lt;font color=&apos;#ff0000&apos;&gt;%s&lt;/font&gt;&quot;</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">جستجو</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
     <string name="secondart_setting_title">红包提醒设置</string>
@@ -3045,9 +3045,9 @@ medical card&quot;</string>
     <string name="status_bar_network_flow_content_not_setting">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; این ماه: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
     <string name="status_bar_network_flow_exceed_content">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;بیشتر از طرح: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-    <string name="status_bar_network_flow_phone_balance">&quot;   موجودی تلفن:%1$s &quot;</string>
-    <string name="status_bar_network_flow_purchase">&quot;   خرید &gt;&quot;</string>
-    <string name="status_bar_network_flow_setup_data_plan">&quot;   راه‌اندازی طرح اینترنت همراه &gt;&quot;</string>
+    <string name="status_bar_network_flow_phone_balance">"   موجودی تلفن:%1$s "</string>
+    <string name="status_bar_network_flow_purchase">"   خرید &gt;"</string>
+    <string name="status_bar_network_flow_setup_data_plan">"   راه‌اندازی طرح اینترنت همراه &gt;"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="still_retain_btn">نگه داشتن</string>
     <string name="stop_milink_connect">بازتاباندن متوقف شد</string>
@@ -3095,15 +3095,15 @@ medical card&quot;</string>
     <string name="storage_available_total_size">%1$s از %2$s موجود</string>
     <string name="storage_available_total_size1">اشغال شده: %1$s | کل: %2$s</string>
     <string name="storage_deepclean_entry">پاکسازی عمیق</string>
-    <string name="storage_dialog_unmountable">&quot;این ^1 خراب است.
+    <string name="storage_dialog_unmountable">"این ^1 خراب است.
 
-برای استفاده از ^1 ابتدا باید آن را راه‌اندازی کنید.&quot;</string>
-    <string name="storage_dialog_unmounted">&quot;این ^1 به صورت ایمن خارج شد اما همچنان در دسترس است.
+برای استفاده از ^1 ابتدا باید آن را راه‌اندازی کنید."</string>
+    <string name="storage_dialog_unmounted">"این ^1 به صورت ایمن خارج شد اما همچنان در دسترس است.
 
-برای استفاده از^1، باید ابتدا آن را سوار کنید.&quot;</string>
-    <string name="storage_dialog_unsupported">&quot;این دستگاه این ^1 را پشتیبانی نمی‌کند.
+برای استفاده از^1، باید ابتدا آن را سوار کنید."</string>
+    <string name="storage_dialog_unsupported">"این دستگاه این ^1 را پشتیبانی نمی‌کند.
 
-برای استفاده از این ^1 با این دستگاه، باید ابتدا آن را نصب کنید.&quot;</string>
+برای استفاده از این ^1 با این دستگاه، باید ابتدا آن را نصب کنید."</string>
     <string name="storage_format_failure">%1$s فرمت نشد</string>
     <string name="storage_format_success">%1$s با موفقیت فرمت شد</string>
     <string name="storage_item_apk_name">APKها</string>
@@ -3122,9 +3122,9 @@ medical card&quot;</string>
     <string name="storage_unmount_failure">%1$s جدا نشد</string>
     <string name="storage_unmount_success">%1$s با موفقیت جدا شد</string>
     <string name="storage_wizard_format_confirm_v2_action">فرمت ^1</string>
-    <string name="storage_wizard_format_confirm_v2_body">&quot;این ^1 برای ذخیره برنامه‌ها، فایل‌ها و چندرسانه‌ای‌ها نیاز به فرمت شدن دارد.
+    <string name="storage_wizard_format_confirm_v2_body">"این ^1 برای ذخیره برنامه‌ها، فایل‌ها و چندرسانه‌ای‌ها نیاز به فرمت شدن دارد.
 
-فرمت کردن محتوای موجود در ^2 را پاک خواهد کرد. برای جلوگیری از از دست دادن محتوا، آن را در ^3 یا دستگاهی دیگر پشتیبان‌گیری کنید.&quot;</string>
+فرمت کردن محتوای موجود در ^2 را پاک خواهد کرد. برای جلوگیری از از دست دادن محتوا، آن را در ^3 یا دستگاهی دیگر پشتیبان‌گیری کنید."</string>
     <string name="storage_wizard_format_confirm_v2_title">این ^1 فرمت شود؟</string>
     <string name="suggest_app_tolock">پیشنهادات</string>
     <string name="suggest_app_tolock_masked">محتوای پنهان شده</string>
@@ -3215,26 +3215,26 @@ medical card&quot;</string>
     <string name="system_permission_declare_agree">پذیرفتن</string>
     <string name="system_permission_declare_analytics_declare">ما شما را به ثبت‌نام در برنامه تجربه کاربرمان دعوت می‌کنیم. این برنامه برای گردآوری آمار به منظور بهبود خدماتی که به شما ارائه می‌کنیم نیاز به اتصال به اینترنت و استفاده از مجوزها یا ویژگی‌های زیر دارد. ما در اینجا داده‌ها را فقط برای اهداف آماری گردآوری کرده و طبق داده‌هایی که گردآوری می‌کنیم نمی‌توانیم شخص شما را شناسایی کنیم.</string>
     <string name="system_permission_declare_disagree">مخالف</string>
-    <string name="system_permission_declare_double_link">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_double_link">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
     <string name="system_permission_declare_main_purpose">به %1s خوش آمدید! این برنامه به شما اجازه استفاده از ویژگی‌های زیر را می‌دهد: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
     <string name="system_permission_declare_no_say_no">در صورت انتخاب ندادن مجوزهای لازم و یا اجازه ندادن به ما برای جمع‌آوری و استفاده از داده‌هایتان، این برنامه به صورت عادی کار نخواهد کرد.</string>
     <string name="system_permission_declare_no_say_no_analytics">در صورتی که مایل نیستید این مجوزها را بدهید، می‌توانید در تنظیمات &gt; تنظیمات بیشتر &gt; حریم خصوصی &gt; برنامه تجربه کاربر از آن‌ها جدا شوید.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">در صورت انتخاب ندادن مجوزهای لازم و یا اجازه ندادن به ما برای جمع‌آوری و استفاده از داده‌هایتان، این برنامه تا اندازه‌ای کار نخواهد کرد.</string>
     <string name="system_permission_declare_privacy_declare">این برنامه برای کارکرد عادی نیازمند اتصال به اینترنت و مجوزهای زیر است:</string>
     <string name="system_permission_declare_privacy_no_network">این برنامه برای کارکرد عادی نیاز به مجوزهای زیر دارد:</string>
     <string name="system_permission_declare_privacy_no_permission">این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و گردآوری داده‌های شخصی دارد.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
     <string name="system_permission_declare_revoke_system">می‌توانید از این برنامه خارج شوید.</string>
     <string name="system_permission_declare_revoke_uninstallable">شما می‌توانید از حساب خارج، این برنامه را حذف و یا مجوز خود را از امنیت &gt; مدیریت برنامه‌ها &gt; مجوزها &gt; مجوزها بردارید.</string>
     <string name="system_permission_declare_title">توجه</string>
     <string name="system_permission_declare_use_network">به شبکه متصل شوید</string>
     <string name="system_permission_declare_use_network_no_permission">به شبکه متصل شوید</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
     <string name="system_permission_perm_answer_call">برقراری تماس</string>
-    <string name="system_permission_perm_optional">&quot; (اختیاری)&quot;</string>
+    <string name="system_permission_perm_optional">" (اختیاری)"</string>
     <string name="system_permission_perm_read_mms">خواندن MMS</string>
     <string name="system_permission_perm_read_numbers">خواندن شماره تلفن‌ها</string>
     <string name="system_permission_perm_send_mms">ارسال MMS</string>
@@ -3296,13 +3296,13 @@ medical card&quot;</string>
     <string name="tether_over_limit_dialog_title">هشدار مصرف اینترنت</string>
     <string name="tether_over_limit_warning_notify_message">خاموش کردن کانون داغ همراه.</string>
     <string name="tether_over_limit_warning_notify_title">به سقف اینترنت همراه کانون داغ رسیدید</string>
-    <string name="text_alarm_after">&quot;今年的红包活动已全部结束
-期待与您来年重聚&quot;</string>
-    <string name="text_alarm_before">&quot;今年的红包活动即将开始
-财神已就位，敬请期待&quot;</string>
-    <string name="text_alarm_close">&quot;开启红包闹钟
+    <string name="text_alarm_after">"今年的红包活动已全部结束
+期待与您来年重聚"</string>
+    <string name="text_alarm_before">"今年的红包活动即将开始
+财神已就位，敬请期待"</string>
+    <string name="text_alarm_close">"开启红包闹钟
 及时提醒各种红包雨
-不再错过任何红包&quot;</string>
+不再错过任何红包"</string>
     <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
     <string name="text_button">فهمیدم</string>
     <string name="text_cycle_day">%s</string>
@@ -3419,21 +3419,21 @@ medical card&quot;</string>
     <string name="traffic_alert_auto_modify_notification_titile">طرح اینترنتی به‌روز شد</string>
     <string name="traffic_alert_auto_modify_package_summary">تنظیم خودکار بسته اینترنتی بر اساس اطلاعات شرکت مخابرات</string>
     <string name="traffic_config_alert_auto_modify">به‌روزرسانی خودکار طرح بسته اینترنتی</string>
-    <string name="traffic_config_alert_body">&quot;طرح شرکت مخابراتی شما این را نشان می‌دهد: %s.
+    <string name="traffic_config_alert_body">"طرح شرکت مخابراتی شما این را نشان می‌دهد: %s.
 
- آیا شما این را انتخاب خواهید کرد؟&quot;</string>
-    <string name="traffic_config_alert_body_extra">&quot;
-شما میزان %1$s اینترنت اضافی در این ماه خریداری کردید. این میزان با %2$s که به‌طور دستی اضافه کردید، متفاوت است.&quot;</string>
-    <string name="traffic_config_alert_body_extra_notset">&quot;
-شما میزان %s اینترنت اضافی در این ماه خریداری کردید. این میزان در سقف اینترنت ماهانه که به‌طور دستی تنظیم کرده‌اید مشخص نشده است.&quot;</string>
-    <string name="traffic_config_alert_body_leisure">&quot;
-سقف مصرف اینترنت زمان غیراوج ماهانه طرح شما %1$s است. این مقدار با سقف %2$s که به‌طور دستی تنظیم کرده‌اید، متفاوت است.&quot;</string>
-    <string name="traffic_config_alert_body_leisure_notset">&quot;
-سقف مصرف اینترنت زمان غیراوج ماهانه طرح شما %1$s است. شما سقف مصرف داده‌های غیراوج را تنظیم نکرده‌اید.&quot;</string>
-    <string name="traffic_config_alert_body_normal">&quot;
-سقف مصرف اینترنت زمان اوج ماهانه طرح شما %1$s است. این مقدار با سقف %2$s که به‌طور دستی تنظیم کرده‌اید، متفاوت است.&quot;</string>
-    <string name="traffic_config_alert_package">&quot;
-Rolled over extra data&quot;</string>
+ آیا شما این را انتخاب خواهید کرد؟"</string>
+    <string name="traffic_config_alert_body_extra">"
+شما میزان %1$s اینترنت اضافی در این ماه خریداری کردید. این میزان با %2$s که به‌طور دستی اضافه کردید، متفاوت است."</string>
+    <string name="traffic_config_alert_body_extra_notset">"
+شما میزان %s اینترنت اضافی در این ماه خریداری کردید. این میزان در سقف اینترنت ماهانه که به‌طور دستی تنظیم کرده‌اید مشخص نشده است."</string>
+    <string name="traffic_config_alert_body_leisure">"
+سقف مصرف اینترنت زمان غیراوج ماهانه طرح شما %1$s است. این مقدار با سقف %2$s که به‌طور دستی تنظیم کرده‌اید، متفاوت است."</string>
+    <string name="traffic_config_alert_body_leisure_notset">"
+سقف مصرف اینترنت زمان غیراوج ماهانه طرح شما %1$s است. شما سقف مصرف داده‌های غیراوج را تنظیم نکرده‌اید."</string>
+    <string name="traffic_config_alert_body_normal">"
+سقف مصرف اینترنت زمان اوج ماهانه طرح شما %1$s است. این مقدار با سقف %2$s که به‌طور دستی تنظیم کرده‌اید، متفاوت است."</string>
+    <string name="traffic_config_alert_package">"
+Rolled over extra data"</string>
     <string name="traffic_config_alert_setted">تنظیمات به‌کار گرفته شد</string>
     <string name="traffic_config_alert_title">%s اصلاح</string>
     <string name="traffic_correction_failed">نمی‌توان اطلاعات را دریافت کرد</string>
@@ -3442,12 +3442,12 @@ Rolled over extra data&quot;</string>
     <string name="traffic_correction_success">مصرف اینترنت همراه به‌روزرسانی شد</string>
     <string name="traffic_correction_success_notify_message">برای مشاهده جزئیات ضربه بزنید.</string>
     <string name="traffic_limit_error_alert_body">داده‌های باقی‌مانده شما برای این ماه (%1$s) از طرح ماهانه شما (%2$s) بیشتر است. طرح ماهانه تغییر کرده است؟</string>
-    <string name="traffic_limit_error_alert_package">&quot;
+    <string name="traffic_limit_error_alert_package">"
 
-اینترنت همراه باقی‌مانده شامل حجم اینترنت وارد شده از ماه قبل است.&quot;</string>
+اینترنت همراه باقی‌مانده شامل حجم اینترنت وارد شده از ماه قبل است."</string>
     <string name="traffic_limit_error_alert_title">یادآوری سقف اینترنت همراه %s</string>
     <string name="traffic_none">هیچ</string>
-    <string name="traffic_over_purchase_link">&quot;شما به سقف مصرف اینترنت همراه طرح خود رسیده‌اید.&lt;br/&gt;اگر از سقف مصرف اینترنت طرح خود فراتر بروید، ممکن است شرکت مخابراتی شما هزینه‌های اضافی دریافت کند.&lt;br/&gt;&lt;br/&gt;&lt;font color=&apos;#ccffffff&apos;&gt;&lt;U&gt;برای افزایش موجودی خود ضربه بزنید.&lt;/U&gt;&lt;/font&gt;&quot;</string>
+    <string name="traffic_over_purchase_link">"شما به سقف مصرف اینترنت همراه طرح خود رسیده‌اید.&lt;br/&gt;اگر از سقف مصرف اینترنت طرح خود فراتر بروید، ممکن است شرکت مخابراتی شما هزینه‌های اضافی دریافت کند.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;برای افزایش موجودی خود ضربه بزنید.&lt;/U&gt;&lt;/font&gt;"</string>
     <string name="traffic_provider_no_sim">سیم‌کارت نصب نیست</string>
     <string name="traffic_purchase_body">برای خرید اعتبار ضربه بزنید.</string>
     <string name="traffic_setting_fragment_area">مکان</string>
@@ -3611,11 +3611,11 @@ Rolled over extra data&quot;</string>
     <string name="warningcenter_mijia_devices_3">Gas detector</string>
     <string name="warningcenter_mijia_devices_4">Smart lock</string>
     <string name="warningcenter_mijia_devices_support">Supported devices</string>
-    <string name="warningcenter_mijia_devices_support_tips">&quot;Note: You won&apos;t be able to receive alerts if you sign out of your account in Mi Home or uninstall the app.&quot;</string>
+    <string name="warningcenter_mijia_devices_support_tips">"Note: You won't be able to receive alerts if you sign out of your account in Mi Home or uninstall the app."</string>
     <string name="warningcenter_mijia_info">Monitor your home security</string>
     <string name="warningcenter_mijia_notification_summary">You can receive instant alerts</string>
     <string name="warningcenter_mijia_notification_title">Alerts from smart home devices are on</string>
-    <string name="warningcenter_mijia_open_desc">&quot;You&apos;ll receive alerts on this phone and other shared devices whenever alerts are issued by the devices you&apos;ve added in Mi Home&quot;</string>
+    <string name="warningcenter_mijia_open_desc">"You'll receive alerts on this phone and other shared devices whenever alerts are issued by the devices you've added in Mi Home"</string>
     <string name="warningcenter_mijia_open_title">Receive alerts from smart devices</string>
     <string name="warningcenter_mijia_page_title">Alerts</string>
     <string name="warningcenter_mijia_title">Alerts from smart home devices</string>

@@ -97,12 +97,12 @@
 <item quantity="one">درحال حفاظت از %d برنامه</item>
 </plurals>
 <plurals name="daily_sim_over_limit_dialog_message">
-<item quantity="other">&quot;شما تاکنون %s از حد اینترنت همراه روزانه را مصرف کرده‌اید.
+<item quantity="other">"شما تاکنون %s از حد اینترنت همراه روزانه را مصرف کرده‌اید.
 
-در صورتی که اینترنت همراه را دوباره روشن کنید، ممکن است شرکت مخابراتی شما از شما هزینه‌های اضافی دریافت کند.&quot;</item>
-<item quantity="one">&quot;شما تاکنون %s از سقف اینترنت همراه روزانه را مصرف کرده‌اید.
+در صورتی که اینترنت همراه را دوباره روشن کنید، ممکن است شرکت مخابراتی شما از شما هزینه‌های اضافی دریافت کند."</item>
+<item quantity="one">"شما تاکنون %s از سقف اینترنت همراه روزانه را مصرف کرده‌اید.
 
-در صورتی که اینترنت همراه را دوباره روشن کنید، ممکن است شرکت مخابراتی شما از شما هزینه‌های اضافی دریافت کند.&quot;</item>
+در صورتی که اینترنت همراه را دوباره روشن کنید، ممکن است شرکت مخابراتی شما از شما هزینه‌های اضافی دریافت کند."</item>
 </plurals>
 <plurals name="daily_sim_over_limit_notify_title">
 <item quantity="other">شما تاکنون %s از حد اینترنت روزانه را مصرف کرده‌اید.</item>
@@ -245,8 +245,8 @@
 <item quantity="one">حداقل %d نقطه را به هم وصل کنید</item>
 </plurals>
 <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-<item quantity="other">&quot;به مدت %d ثانیه صبر کرده و دوباره تلاش کنید. &quot;</item>
-<item quantity="one">&quot;به مدت %d ثانیه صبر کرده و دوباره تلاش کنید. &quot;</item>
+<item quantity="other">"به مدت %d ثانیه صبر کرده و دوباره تلاش کنید. "</item>
+<item quantity="one">"به مدت %d ثانیه صبر کرده و دوباره تلاش کنید. "</item>
 </plurals>
 <plurals name="manual_white_list_header">
 <item quantity="other">%d مورد استثنا</item>
@@ -281,8 +281,8 @@
 <item quantity="one">%d روز مانده تا دوره افزایش سرعت شبکه به پایان برسد. دوره را تمدید کرده تا از مشکلات سرعت شبکه پیشگیری شود.</item>
 </plurals>
 <plurals name="network_restrict_count">
-<item quantity="other">&quot;دسترسی به شبکه برای &lt;font color='#ff0000'&gt;%d&lt;/font&gt; برنامه محدود شد&quot;</item>
-<item quantity="one">&quot;دسترسی به شبکه برای &lt;font color='#ff0000'&gt;%d&lt;/font&gt; برنامه محدود شد&quot;</item>
+<item quantity="other">"دسترسی به شبکه برای &lt;font color='#ff0000'&gt;%d&lt;/font&gt; برنامه محدود شد"</item>
+<item quantity="one">"دسترسی به شبکه برای &lt;font color='#ff0000'&gt;%d&lt;/font&gt; برنامه محدود شد"</item>
 </plurals>
 <plurals name="notification_battery_consume_abnormal_summary">
 <item quantity="other">طی %1$d دقیقه گذشته %2$d%% از باتری تخلیه شده است</item>
@@ -333,12 +333,12 @@
 <item quantity="one">%d برنامه درحال خالی کردن باتری است</item>
 </plurals>
 <plurals name="pc_battery_history_hour">
-<item quantity="other">&quot; ساعت&quot;</item>
-<item quantity="one">&quot; ساعت&quot;</item>
+<item quantity="other">" ساعت"</item>
+<item quantity="one">" ساعت"</item>
 </plurals>
 <plurals name="pc_battery_history_minute">
-<item quantity="other">&quot; دقیقه&quot;</item>
-<item quantity="one">&quot; دقیقه&quot;</item>
+<item quantity="other">" دقیقه"</item>
+<item quantity="one">" دقیقه"</item>
 </plurals>
 <plurals name="pc_main_power_center_battery_day">
 <item quantity="other">%s روز</item>
@@ -401,16 +401,16 @@
 <item quantity="one">دانلود شده توسط %1$d نفر</item>
 </plurals>
 <plurals name="power_center_battery_day">
-<item quantity="other">&quot;%d روز &quot;</item>
-<item quantity="one">&quot;%d روز &quot;</item>
+<item quantity="other">"%d روز "</item>
+<item quantity="one">"%d روز "</item>
 </plurals>
 <plurals name="power_center_battery_hour">
-<item quantity="other">&quot;%d ساعت &quot;</item>
-<item quantity="one">&quot;%d ساعت &quot;</item>
+<item quantity="other">"%d ساعت "</item>
+<item quantity="one">"%d ساعت "</item>
 </plurals>
 <plurals name="power_center_battery_minute">
-<item quantity="other">&quot;%d دقیقه &quot;</item>
-<item quantity="one">&quot;%d دقیقه &quot;</item>
+<item quantity="other">"%d دقیقه "</item>
+<item quantity="one">"%d دقیقه "</item>
 </plurals>
 <plurals name="power_center_battery_temperature">
 <item quantity="other">℃ %d</item>

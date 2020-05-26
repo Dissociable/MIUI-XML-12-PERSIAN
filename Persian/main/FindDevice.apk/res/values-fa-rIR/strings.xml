@@ -5,8 +5,8 @@
     <string name="app_name">یافتن دستگاه</string>
     <string name="captcha">کد امنیتی</string>
     <string name="change_find_device_status_failed">قفل باز نشد. %s.</string>
-    <string name="default_debt_msg_words">&quot;این دستگاه به دلیل دیرکرد در پرداخت قسط قفل شده است.
-برای جزئیات بیشتر با نمایندگی فروش خود تماس بگیرید.&quot;</string>
+    <string name="default_debt_msg_words">"این دستگاه به دلیل دیرکرد در پرداخت قسط قفل شده است.
+برای جزئیات بیشتر با نمایندگی فروش خود تماس بگیرید."</string>
     <string name="default_lock_msg_words">این دستگاه در با یک حساب کاربری Mi موجود پیوند خورده است. به دلایل امنیتی، برای تأیید دستگاه لازم است گذرواژه را وارد کنید.</string>
     <string name="default_lock_msg_words_with_phone">سلام! من گوشی‌ام را گم کرده‌ام. ممکن است لطفاً با من تماس بگیرید؟ سپاسگزارم!</string>
     <string name="device_locked">این دستگاه قفل شده است</string>
@@ -20,7 +20,7 @@
     <string name="find_device">یافتن دستگاه</string>
     <string name="find_device_crash">یافتن دستگاه به صورت غیر منتظره‌ای بسته شد.</string>
     <string name="find_device_error_access_denied">امکان دسترسی وجود ندارد.</string>
-    <string name="find_device_error_account_sys_timeout">&quot;به حساب کاربری Mi متصل نشد. &quot;</string>
+    <string name="find_device_error_account_sys_timeout">"به حساب کاربری Mi متصل نشد. "</string>
     <string name="find_device_error_account_unknown_error">خطای حساب Mi (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">خطای شبکه.</string>
@@ -74,14 +74,14 @@
     <string name="unlock_error_unknown">نمی‌توان وارد شد</string>
     <string name="unlock_error_user_name">نام کاربری نامعتبر است</string>
     <string name="unlock_error_wrong_vcode">کدی را که وارد کرده‌اید اشتباه است</string>
-    <string name="unlock_help">&quot;به شبکه متصل بمانید.
+    <string name="unlock_help">"به شبکه متصل بمانید.
 مطمئن شوید یک سیم‌کارت قابل استفاده نصب کرده‌اید (اگر دستگاه شما از آن پشتیبانی می‌کند) و دستگاه شما به شبکه Wi-Fi معتبر وصل است.
 
 گذرواژه را فراموش کرده‌اید؟
 به id.mi.com رفته و گذرواژه خود را دوباره تنظیم کنید.
 
 دلایل دیگر
-وارد i.mi.com شده و تلاش کنید قفل دستگاه خود را از آنجا باز کنید.&quot;</string>
+وارد i.mi.com شده و تلاش کنید قفل دستگاه خود را از آنجا باز کنید."</string>
     <string name="unlock_help_title">راهنمای گشودن قفل:</string>
     <string name="unlock_number">کد بازگشایی قفل: %s</string>
     <string name="unlock_wrong_captcha">کدی که وارد کرده‌اید اشتباه است</string>

@@ -33,40 +33,40 @@
 <item quantity="one">گذرواژه خود را حداقل هر %d ساعت وارد کرده تا همیشه به یاد داشته باشید</item>
 </plurals>
 <plurals name="keyguard_charging_info_could_use_hour_time_text">
-<item quantity="other">&quot;نزدیک به %d  ساعت مانده است&quot;</item>
-<item quantity="one">&quot;نزدیک به %d  ساعت مانده است&quot;</item>
+<item quantity="other">"نزدیک به %d  ساعت مانده است"</item>
+<item quantity="one">"نزدیک به %d  ساعت مانده است"</item>
 </plurals>
 <plurals name="keyguard_charging_info_could_use_min_time_text">
-<item quantity="other">&quot;نزدیک به %d  دقیقه مانده است&quot;</item>
-<item quantity="one">&quot;نزدیک به %d  دقیقه مانده است&quot;</item>
+<item quantity="other">"نزدیک به %d  دقیقه مانده است"</item>
+<item quantity="one">"نزدیک به %d  دقیقه مانده است"</item>
 </plurals>
 <plurals name="keyguard_charging_info_could_use_time_text">
-<item quantity="other">&quot;نزدیک به %1$d  ساعت و %2$d  دقیقه مانده است&quot;</item>
-<item quantity="one">&quot;نزدیک به %1$d  ساعت و %2$d  دقیقه مانده است&quot;</item>
+<item quantity="other">"نزدیک به %1$d  ساعت و %2$d  دقیقه مانده است"</item>
+<item quantity="one">"نزدیک به %1$d  ساعت و %2$d  دقیقه مانده است"</item>
 </plurals>
 <plurals name="keyguard_charging_info_drained_hour_time_format">
-<item quantity="other">&quot;%d  ساعت&quot;</item>
-<item quantity="one">&quot;%d  ساعت&quot;</item>
+<item quantity="other">"%d  ساعت"</item>
+<item quantity="one">"%d  ساعت"</item>
 </plurals>
 <plurals name="keyguard_charging_info_drained_min_time_format">
-<item quantity="other">&quot;%d  دقیقه&quot;</item>
-<item quantity="one">&quot;%d  دقیقه&quot;</item>
+<item quantity="other">"%d  دقیقه"</item>
+<item quantity="one">"%d  دقیقه"</item>
 </plurals>
 <plurals name="keyguard_charging_info_drained_time_format">
-<item quantity="other">&quot;%1$d  ساعت و %2$d  دقیقه&quot;</item>
-<item quantity="one">&quot;%1$d  ساعت و %2$d  دقیقه&quot;</item>
+<item quantity="other">"%1$d  ساعت و %2$d  دقیقه"</item>
+<item quantity="one">"%1$d  ساعت و %2$d  دقیقه"</item>
 </plurals>
 <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
 <item quantity="other">%d hour ساعت مانده است</item>
 <item quantity="one">%d hour ساعت مانده است</item>
 </plurals>
 <plurals name="keyguard_extreme_power_info_could_use_min_time_text">
-<item quantity="other">&quot;%d  دقیقه مانده است&quot;</item>
-<item quantity="one">&quot;%d  دقیقه مانده است&quot;</item>
+<item quantity="other">"%d  دقیقه مانده است"</item>
+<item quantity="one">"%d  دقیقه مانده است"</item>
 </plurals>
 <plurals name="keyguard_extreme_power_info_could_use_time_text">
-<item quantity="other">&quot;%1$d  ساعت و %2$d  دقیقه مانده است&quot;</item>
-<item quantity="one">&quot;%1$d  ساعت و %2$d  دقیقه مانده است&quot;</item>
+<item quantity="other">"%1$d  ساعت و %2$d  دقیقه مانده است"</item>
+<item quantity="one">"%1$d  ساعت و %2$d  دقیقه مانده است"</item>
 </plurals>
 <plurals name="kg_password_default_pin_message">
 <item quantity="other">کد PIN سیم‌کارت را وارد کنید. شما %d فرصت دیگر برای باز کردن قفل دستگاه دارید.</item>

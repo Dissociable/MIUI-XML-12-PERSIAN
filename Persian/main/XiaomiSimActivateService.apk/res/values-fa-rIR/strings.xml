@@ -39,10 +39,10 @@
     <string name="activate_popup_confirm_failed_server">تلاش دوباره</string>
     <string name="activate_popup_desc_2_intl_sim_cards">۲ پیام متنی بین‌المللی برای فعال‌سازی %s ارسال خواهد شد. هزینه توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
     <string name="activate_popup_desc_2_sim_cards">۲ پیام متنی عادی برای فعال‌سازی %s ارسال خواهد شد. هزینه توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
-    <string name="activate_popup_desc_all_gateway_failed_query_info">&quot;شماره تلفن شما یافت نشد. مطمئن شوید که سیم‌کارت شما فعال شده است. 
- برای فعال‌سازی دوباره %s شماره تلفن مربوط به سیم‌کارت جدید خود را وارد کنید.&quot;</string>
-    <string name="activate_popup_desc_all_gateway_failed_send_sms">&quot;پیام فعال‌سازی ارسال نشد. مطمئن شوید که سیم‌کارت شما فعال شده است. 
- برای فعال‌سازی دوباره %s شماره تلفن مربوط به سیم‌کارت جدید خود را وارد کنید.&quot;</string>
+    <string name="activate_popup_desc_all_gateway_failed_query_info">"شماره تلفن شما یافت نشد. مطمئن شوید که سیم‌کارت شما فعال شده است. 
+ برای فعال‌سازی دوباره %s شماره تلفن مربوط به سیم‌کارت جدید خود را وارد کنید."</string>
+    <string name="activate_popup_desc_all_gateway_failed_send_sms">"پیام فعال‌سازی ارسال نشد. مطمئن شوید که سیم‌کارت شما فعال شده است. 
+ برای فعال‌سازی دوباره %s شماره تلفن مربوط به سیم‌کارت جدید خود را وارد کنید."</string>
     <string name="activate_popup_desc_error_device_id">برای بررسی IMEI *#06# را شماره‌گیری کنید</string>
     <string name="activate_popup_desc_failed_phone_error">شماره تلفن وارد شده معتبر نیست.</string>
     <string name="activate_popup_desc_failed_query_info">شماره تلفن شما پیدا نمی‌شود. مطمئن شوید که سیم‌کارت شما فعال شده است.</string>

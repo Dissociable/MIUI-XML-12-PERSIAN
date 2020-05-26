@@ -2,10 +2,10 @@
 <resources>
     <string name="Active">فعال</string>
     <string name="PassWordGuard">گذرواژه فضای دوم</string>
-    <string name="PrivacyContactDes1">&quot;مخاطبین خصوصی خواهند شد.
-پیام‌ها تنها در فضای دوم نمایش داده خواهند شد.&quot;</string>
-    <string name="PrivacyContactDes2">&quot;اگر از پیام‌های خصوصی در فضای نخست استفاده کردید،
-این ویژگی در فضای دوم نیز به صورت خودکار افزوده خواهد شد.&quot;</string>
+    <string name="PrivacyContactDes1">"مخاطبین خصوصی خواهند شد.
+پیام‌ها تنها در فضای دوم نمایش داده خواهند شد."</string>
+    <string name="PrivacyContactDes2">"اگر از پیام‌های خصوصی در فضای نخست استفاده کردید،
+این ویژگی در فضای دوم نیز به صورت خودکار افزوده خواهد شد."</string>
     <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
     <string name="abc_action_bar_up_description">رفتن به بالا</string>
     <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
@@ -84,8 +84,8 @@
     <string name="confirm_restore">نشان داده نشود</string>
     <string name="contactData">مخاطبین</string>
     <string name="contact_sub_titile_text">داده‌های پیام‌رسانی بین دو فضا همرسانی خواهند شد</string>
-    <string name="contact_titile_text">&quot;نمایش پیام‌های خصوصی در فضای دوم
-تا هر زمانی امکان نمایش وجود داشته باشد&quot;</string>
+    <string name="contact_titile_text">"نمایش پیام‌های خصوصی در فضای دوم
+تا هر زمانی امکان نمایش وجود داشته باشد"</string>
     <string name="contact_us">تماس با ما</string>
     <string name="continueButton">ادامه</string>
     <string name="copy">کپی</string>
@@ -129,8 +129,8 @@
     <string name="ent_activating">درحال فعال‌سازی…</string>
     <string name="ent_activation">فعال‌سازی</string>
     <string name="ent_activation_hint">برای فعال‌سازی حالت شرکتی، کد شرکتی خود را در ادامه کد مجوز وارد کنید. پس از آن، خدمات شرکتی سفارشی فعال خواهند شد.</string>
-    <string name="ent_activation_hint_whit_licence">&quot;برای فعال‌سازی خدمات شرکتی سفارشی، حالت شرکتی را فعال کنید.
-مطمئن شوید که نام شرکت شما درست است. پیش از فعال‌سازی، سیاست حفظ حریم خصوصی مربوطه را خوانده و بپذیرید.&quot;</string>
+    <string name="ent_activation_hint_whit_licence">"برای فعال‌سازی خدمات شرکتی سفارشی، حالت شرکتی را فعال کنید.
+مطمئن شوید که نام شرکت شما درست است. پیش از فعال‌سازی، سیاست حفظ حریم خصوصی مربوطه را خوانده و بپذیرید."</string>
     <string name="ent_agency_code">کد شرکتی</string>
     <string name="ent_agency_code_hint">کد شرکتی را وارد کنید</string>
     <string name="ent_agency_code_invalid">کد شرکتی که وارد کرده‌اید معتبر نیست.</string>
@@ -194,30 +194,30 @@
     <string name="green_guard_title3">مدیریت برنامه‌ها</string>
     <string name="greenguard_child_des">دستگاه‌های دوستان و خانواده خود را مدیریت کنید</string>
     <string name="greenguard_child_des_title">برای افزودن دستگاه کد QR را اسکن کنید</string>
-    <string name="greenguard_functional_description">&quot;مدیریت دستگاه‌ها از راه دور، نمایش اطلاعات موقعیت مکانی،
-کنترل برنامه‌های نصب شده و محدود کردن استفاده&quot;</string>
+    <string name="greenguard_functional_description">"مدیریت دستگاه‌ها از راه دور، نمایش اطلاعات موقعیت مکانی،
+کنترل برنامه‌های نصب شده و محدود کردن استفاده"</string>
     <string name="greenguard_install_cancle">خیر، سپاسگزارم</string>
     <string name="greenguard_install_confirm">نصب شود</string>
     <string name="greenguard_install_message">محافظ خانواده یک برنامه سیستمی است. برای نصب آن نیازی به اینترنت ندارید.</string>
     <string name="greenguard_install_title">نصب محافظ خانواده</string>
     <string name="greenguard_parent_des">دستگاه‌های دوستان و خانواده خود را مدیریت کنید</string>
     <string name="greenguard_parent_des_title">استفاده از Kite Guard برای افزودن دستگاه</string>
-    <string name="guide_contact_sub_title_desc">&quot;مخاطبین افزوده شده در فضای دوم خصوصی خواهند بود.
-پیام‌ها فقط در فضای دوم نمایش داده خواهند شد.&quot;</string>
+    <string name="guide_contact_sub_title_desc">"مخاطبین افزوده شده در فضای دوم خصوصی خواهند بود.
+پیام‌ها فقط در فضای دوم نمایش داده خواهند شد."</string>
     <string name="guide_contact_suc_sub_title_desc">فقط مخاطبین و پیام‌های خصوصی در فضای دوم نمایش داده خواهند شد</string>
     <string name="guide_contact_suc_title_desc">با موفقیت تنظیم شد</string>
     <string name="guide_contact_title_desc">موارد خصوصی در فضای دوم نمایش داده شوند؟</string>
-    <string name="guide_pwd_detail_title">&quot;از داده‌های خود محافظت کنید
-از صفحه قفل وارد فضای دوم شوید&quot;</string>
+    <string name="guide_pwd_detail_title">"از داده‌های خود محافظت کنید
+از صفحه قفل وارد فضای دوم شوید"</string>
     <string name="guide_setting_guide_title">مدیریت فضای دوم</string>
     <string name="guide_start_text">دو فضا. یک دستگاه.</string>
-    <string name="has_created_second_space">&quot;اکنون می‌توانید فضای دوم را باز کنید.
-دو فضا. یک دستگاه.&quot;</string>
+    <string name="has_created_second_space">"اکنون می‌توانید فضای دوم را باز کنید.
+دو فضا. یک دستگاه."</string>
     <string name="hidden_app">فضای دوم</string>
     <string name="imageData">عکس‌ها</string>
     <string name="import_application">وارد کردن برنامه‌ها</string>
-    <string name="import_application_desc">&quot;وارد کردن برنامه‌ها به فضای دوم.
-شما همچنین می‌توانید آن‌ها را جداگانه دانلود کنید.&quot;</string>
+    <string name="import_application_desc">"وارد کردن برنامه‌ها به فضای دوم.
+شما همچنین می‌توانید آن‌ها را جداگانه دانلود کنید."</string>
     <string name="import_contacts">وارد کردن مخاطبین</string>
     <string name="import_contacts_desc">خصوصی کردن مخاطبین وارد شده</string>
     <string name="import_contacts_suc">مخاطبین خصوصی وارد شده</string>
@@ -251,10 +251,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="more_settings">بیشتر</string>
     <string name="msg_switch_file">این فایل‌ها در فضای نخست پس از انتقال حذف شوند؟</string>
     <string name="msg_switch_file_second">این فایل‌ها در فضای دوم پس از انتقال حذف شوند؟</string>
@@ -290,8 +290,8 @@
     <string name="otherSettings">سایر تنظیمات</string>
     <string name="passWordGuardSummary">با استفاده از یک گذرواژه از صفحه قفل وارد فضای دوم شوید</string>
     <string name="passwordProtect">گذرواژه</string>
-    <string name="please_diff_finger_print">&quot;مطمئن شوید اثر انگشت‌های متفاوت در فضای نخست و فضای دوم استفاده می‌شوند.
-درغیر این صورت شما نمی‌توانید از صفحه قفل وارد فضای دوم شوید.&quot;</string>
+    <string name="please_diff_finger_print">"مطمئن شوید اثر انگشت‌های متفاوت در فضای نخست و فضای دوم استفاده می‌شوند.
+درغیر این صورت شما نمی‌توانید از صفحه قفل وارد فضای دوم شوید."</string>
     <string name="preference_copied">«%1$s» در کلیپ‌بورد کپی شد.</string>
     <string name="privacyContactsSummary">نمایش موارد خصوصی در فضای دوم</string>
     <string name="privacyContactsTitle">مخاطبین و پیام‌های خصوصی</string>
@@ -325,14 +325,14 @@
     <string name="same_qr_code_enter_space">رفتن به فضای کار</string>
     <string name="same_qr_code_title">%s از پیش موجود است</string>
     <string name="scanner_fingerprint">در حال اسکن اثر انگشت…</string>
-    <string name="scanner_fingerprint_enter_second">&quot;اثر انگشت فضای دوم را اسکن کرده
-تا از صفحه قفل وارد فضای دوم شوید&quot;</string>
+    <string name="scanner_fingerprint_enter_second">"اثر انگشت فضای دوم را اسکن کرده
+تا از صفحه قفل وارد فضای دوم شوید"</string>
     <string name="scanner_fingerprint_error_tips_desc">اثرات انگشت مطابق یافت نمی‌شوند. اثر انگشت فضای دوم افزوده شود؟</string>
     <string name="scanner_fingerprint_error_tips_title">اثرات انگشت مطابق یافت نشدند</string>
     <string name="scanner_fingerprint_tips_desc">اثر انگشت موجود را انتخاب کرده تا وارد فضای دوم شوید. شما نمی‌توانید از آن در فضای نخست استفاده کنید.</string>
     <string name="scanner_fingerprint_tips_title">با اثر انگشت موجود وارد فضای دوم شوید</string>
     <string name="scanner_second_space_fingerprint">اسکن اثر انگشت فضای دوم</string>
-    <string name="search_input_txt_na">&quot;&lt;font color=&apos;#ff0000&apos;&gt;%s&lt;/font&gt;&quot;</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">جستجو</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
     <string name="secondSpace">فضای دوم</string>
@@ -342,8 +342,8 @@
     <string name="second_space_desktop_tips_dialog_title">به‌روزرسانی مهم</string>
     <string name="second_space_finger_printf_desc">افزودن اثر انگشت مخصوص ورود به فضای دوم</string>
     <string name="second_space_finger_printf_title">اثر انگشت فضای دوم</string>
-    <string name="secondspace_homepage">&quot;Set a designated screen lock for Second space.
-Separate and secure your data.&quot;</string>
+    <string name="secondspace_homepage">"Set a designated screen lock for Second space.
+Separate and secure your data."</string>
     <string name="select_existed_fingerprint">انتخاب اثر انگشت</string>
     <string name="serNameSummary">فضای دوم</string>
     <string name="setSecondSpacePassword">تنظیم گذرواژه فضای دوم</string>
@@ -409,8 +409,8 @@ Separate and secure your data.&quot;</string>
     <string name="startTransfer">انتقال</string>
     <string name="start_input_finger_print">افزودن اثر انگشت</string>
     <string name="start_new_fingerprint">یک اثر انگشت جدید بیافزایید</string>
-    <string name="start_new_fingerprint_tips">&quot;از اثر انگشت فضای دوم استفاده کرده
-تا از صفحه قفل وارد فضای دوم شوید&quot;</string>
+    <string name="start_new_fingerprint_tips">"از اثر انگشت فضای دوم استفاده کرده
+تا از صفحه قفل وارد فضای دوم شوید"</string>
     <string name="start_setting_guide_desc_title">چند چیز برای راه‌اندازی وجود دارد</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_xspace_alert_content">همه برنامه‌های همزاد به همراه حساب‌ها و داده‌های برنامه‌شان حذف خواهند شد. پس از به‌کارگیری این تغییر دستگاه شما دوباره راه‌اندازی خواهد شد.</string>
@@ -482,9 +482,9 @@ Separate and secure your data.&quot;</string>
     <string name="xspace_default_guide_notification_xspace_title">استفاده از برنامه همزاد</string>
     <string name="xspace_default_setting_dialog_title">پیش فرض</string>
     <string name="xspace_default_setting_label">سفارشی کردن</string>
-    <string name="xspace_description">&quot;برنامه‌های همزاد کپی‌های برنامه‌هایی هستند که می‌توانند با یک حساب متفاوت به صورت جدا استفاده شوند. 
+    <string name="xspace_description">"برنامه‌های همزاد کپی‌های برنامه‌هایی هستند که می‌توانند با یک حساب متفاوت به صورت جدا استفاده شوند. 
 
-برخی برنامه‌های همزاد به پشتیبانی چارچوب خدمات Google نیاز دارند. در این‌گونه موارد، چارچوب خدمات Google دوگانه ایجاد شده است.&quot;</string>
+برخی برنامه‌های همزاد به پشتیبانی چارچوب خدمات Google نیاز دارند. در این‌گونه موارد، چارچوب خدمات Google دوگانه ایجاد شده است."</string>
     <string name="xspace_disable">ایجاد نشد</string>
     <string name="xspace_enable">ایجاد شد</string>
     <string name="xspace_facebook_title">فیس‌بوک</string>

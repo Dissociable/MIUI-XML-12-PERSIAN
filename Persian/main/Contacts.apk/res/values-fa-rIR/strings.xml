@@ -154,8 +154,8 @@
     <string name="callrecordview_item_op_time_only_minutes">%d دقیقه</string>
     <string name="callrecordview_item_op_time_only_seconds">%d ثانیه</string>
     <string name="callrecordview_item_op_time_rejected">رد شد</string>
-    <string name="callrecordview_item_op_time_short_incoming">&quot;تماس ورودی: &quot;</string>
-    <string name="callrecordview_item_op_time_short_outgoing">&quot;خروجی: &quot;</string>
+    <string name="callrecordview_item_op_time_short_incoming">"تماس ورودی: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"خروجی: "</string>
     <string name="callrecordview_item_op_video">ویدئو</string>
     <string name="callrecordview_menu_add_call_note">افزودن یادداشت تماس</string>
     <string name="callrecordview_menu_aiphone">تماس‌های AI</string>
@@ -301,8 +301,8 @@
     <string name="cloud_state_syncing">درحال همگام‌سازی با فضای ابری</string>
     <string name="cloud_upgrade_recommend">به دلیل کافی نبودن فضای حافظه همگام‌سازی مخاطبین انجام نشد. طرح حافظه فضای ابری خود را ارتقاء دهید.</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
-    <string name="combined_title_and_miprofile_swaped_huge_mode">&quot;%1$s
-%2$s&quot;</string>
+    <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
+%2$s"</string>
     <string name="composer_failed_to_get_database_infomation">اطلاعات از پایگاه داده دریافت نشد.</string>
     <string name="composer_has_no_exportable_contact">هیچ مخاطب قابل صدور وجود ندارد. اگر در دستگاه خود مخاطبانی دارید، ممکن است برخی از ارائه‌دهندگان داده از صدور مخاطبین از دستگاه جلوگیری کنند.</string>
     <string name="composer_not_initialized">ایجادکننده کارت ویزیت به‌درستی آغاز نشده است.</string>
@@ -347,8 +347,8 @@
     <string name="contact_detail_miprofile_accept_fail_toast">کارت‌های تماس مبادله نشد</string>
     <string name="contact_detail_miprofile_accept_success_toast">کارت‌های تماس مبادله شد</string>
     <string name="contact_detail_miprofile_binded_label">تأیید شده</string>
-    <string name="contact_detail_miprofile_exchange_closed">&quot;هیچ شماره تلفنی به این حساب Mi مرتبط نشده است
-کارت‌های تماس خاموش شدند&quot;</string>
+    <string name="contact_detail_miprofile_exchange_closed">"هیچ شماره تلفنی به این حساب Mi مرتبط نشده است
+کارت‌های تماس خاموش شدند"</string>
     <string name="contact_detail_miprofile_privacy_settings">برای مشاهده به مجوز نیاز است</string>
     <string name="contact_detail_miprofile_request">تبادل کارت‌های تماس</string>
     <string name="contact_detail_miprofile_request_fail_toast">درخواست ارسال نشد</string>
@@ -427,7 +427,7 @@
     <string name="default_ringtone">آهنگ زنگ پیش‌فرض</string>
     <string name="deleteCloudConfirmationDetail">اطلاعات مخاطب %s از فضای ابری و دستگاه هر دو حذف شوند؟</string>
     <string name="deleteConfirmation">این مخاطب حذف خواهد شد.</string>
-    <string name="deleteConfirmationDetail">\&quot;%s\&quot; حذف شود؟</string>
+    <string name="deleteConfirmationDetail">\"%s\" حذف شود؟</string>
     <string name="deleteConfirmation_title">این مخاطب حذف شود؟</string>
     <string name="delete_call_log_message">تاریخچه تماس پاک شود؟</string>
     <string name="delete_call_log_selected_title">تاریخچه تماس‌های انتخاب شده پاک شوند؟</string>
@@ -437,8 +437,8 @@
     <string name="delete_contact_calllog_title">تاریخچه تماس پاک شود؟</string>
     <string name="delete_dial_input">حذف</string>
     <string name="delete_duplicate">ادغام</string>
-    <string name="delete_duplicate_message">&quot;ادغام مخاطبین… &quot;</string>
-    <string name="delete_group_dialog_message">آیا می‌خواهید \&quot;%1$s\&quot; حذف شود؟ خود مخاطبین حذف نمی‌شوند.</string>
+    <string name="delete_duplicate_message">"ادغام مخاطبین… "</string>
+    <string name="delete_group_dialog_message">آیا می‌خواهید \"%1$s\" حذف شود؟ خود مخاطبین حذف نمی‌شوند.</string>
     <string name="delete_group_dialog_title">حذف گروه</string>
     <string name="delete_selected_sim_entry_miui">حذف مخاطبین انتخاب شده</string>
     <string name="delete_sim_entries_finish">مخاطبین سیم‌کارت حذف شدند</string>
@@ -495,8 +495,8 @@
     <string name="details_list_group_header_other">سایر</string>
     <string name="device_bluetooth_title">انتقال مخاطبین</string>
     <string name="device_import_account_dialog_title">انتخاب یک حساب</string>
-    <string name="device_import_account_dialog_title_suffix">&quot;
-( %1$s یافت شد)&quot;</string>
+    <string name="device_import_account_dialog_title_suffix">"
+( %1$s یافت شد)"</string>
     <string name="device_import_failed_message">وارد نشد</string>
     <string name="device_import_local_account">حساب محلی</string>
     <string name="device_import_message">وارد کردن</string>
@@ -511,17 +511,17 @@
     <string name="device_paired_dialog_title">دریافت مخاطبین…</string>
     <string name="device_pairing_dialog_message">درحال جفت‌سازی…</string>
     <string name="device_pairing_dialog_title">دستگاه‌ها را جفت کنید</string>
-    <string name="device_transfer_by_bluetooth_message">&quot;%1$d. بلوتوث دستگاه دیگر را روشن منید.
+    <string name="device_transfer_by_bluetooth_message">"%1$d. بلوتوث دستگاه دیگر را روشن منید.
 
 - بلوتوث در تنظیمات شبکه دستگاه‌های اندرویدی یافت می‌شود.
 - در دستگاه‌های iOS، بلوتوث در تنظیمات قرار دارد.
 
 %2$d. در دستگاه‌های اندرویدی حالت قابل شناسایی باید روشن شود.
 
-%3$d. روی «بعدی» زده و به مخاطبین مجوزهای لازم را بدهید.&quot;</string>
-    <string name="device_transfer_by_sim_message">&quot;%1$d. مخاطبین را از دستگاه دیگر در سیم‌کارت ذخیره کنید؛
+%3$d. روی «بعدی» زده و به مخاطبین مجوزهای لازم را بدهید."</string>
+    <string name="device_transfer_by_sim_message">"%1$d. مخاطبین را از دستگاه دیگر در سیم‌کارت ذخیره کنید؛
 
-%2$d. در برنامه مخاطبین تنظیمات را باز کرده، سپس به «وارد کردن/صادر کردن مخاطبین» -- «وارد کردن از سیم‌کارت» رفته، روی یک مخاطب سیم‌کارت زده و نگه داشته تا انتخاب شود، همه مخاطبین مورد نیاز را انتخاب کرده و روی «وارد کردن» بزنید.&quot;</string>
+%2$d. در برنامه مخاطبین تنظیمات را باز کرده، سپس به «وارد کردن/صادر کردن مخاطبین» -- «وارد کردن از سیم‌کارت» رفته، روی یک مخاطب سیم‌کارت زده و نگه داشته تا انتخاب شود، همه مخاطبین مورد نیاز را انتخاب کرده و روی «وارد کردن» بزنید."</string>
     <string name="device_version_header_bluetooth">وارد کردن از طریق بلوتوث</string>
     <string name="device_version_header_no_bluetooth">وارد کردن از طریق سیم‌کارت</string>
     <string name="dial">شماره‌گیری</string>
@@ -538,7 +538,7 @@
     <string name="dialer_menu_description">نمای منوها</string>
     <string name="dialer_menu_title">گزینه‌های منو</string>
     <string name="dialer_returnToInCallScreen">برگشت به تماس در حال انجام</string>
-    <string name="dialer_title_divider">&quot; ｜ &quot;</string>
+    <string name="dialer_title_divider">" ｜ "</string>
     <string name="dialer_useDtmfDialpad">از صفحه کلید آهنگدار لمسی استفاده کنید</string>
     <string name="dialog_import">وارد کردن مخاطبین</string>
     <string name="dialog_import_export">وارد کردن/صادر کردن مخاطبین</string>
@@ -549,9 +549,9 @@
     <string name="dialog_voicemail_airplane_mode_message">برای تماس با پست صوتی، حالت هواپیما را خاموش کنید.</string>
     <string name="dialog_voicemail_not_ready_message">برای ایجاد پست صوتی، به منو &gt; تنظیمات بروید.</string>
     <string name="directory_search_label">فهرست</string>
-    <string name="disclaimer_text">&quot;صفحات زرد اطلاعات درباره مانده حساب شما را با ارسال یک پیامک می‌گیرند شرکت مخابرات شما می‌تواند این اطلاعات را با یک تأخیر به‌روز کند. در این صورت شماره‌هایی که دریافت می‌کنید ممکن است دقیق نباشند. اگر اشکالی می‌بینید، می‌توانید پیامک رسیدگی را به ما گزارش کرده تا این خدمات را بهبود بخشیم. 
+    <string name="disclaimer_text">"صفحات زرد اطلاعات درباره مانده حساب شما را با ارسال یک پیامک می‌گیرند شرکت مخابرات شما می‌تواند این اطلاعات را با یک تأخیر به‌روز کند. در این صورت شماره‌هایی که دریافت می‌کنید ممکن است دقیق نباشند. اگر اشکالی می‌بینید، می‌توانید پیامک رسیدگی را به ما گزارش کرده تا این خدمات را بهبود بخشیم. 
 
-برای پیشگیری از تکرار پرسش، ما اطلاعات مانده حساب را روزی یک بار به‌روز می‌کنیم.&quot;</string>
+برای پیشگیری از تکرار پرسش، ما اطلاعات مانده حساب را روزی یک بار به‌روز می‌کنیم."</string>
     <string name="disclaimer_title">سلب مسئولیت</string>
     <string name="display_all_contacts">همه مخاطبین</string>
     <string name="display_more_groups">گروه‌های بیشتر…</string>
@@ -564,7 +564,7 @@
     <string name="display_options_view_names_as">مشاهده نام مخاطبین به‌صورت</string>
     <string name="display_sim_contacts">نمایش مخاطبین سیم‌کارت</string>
     <string name="display_ungrouped">همه مخاطبین دیگر</string>
-    <string name="display_warn_remove_ungrouped">حذف \&quot;%s\&quot; از همگام‌سازی همچنین باعث حذف همه مخاطبین گروه‌بندی نشده از همگام‌سازی می‌شود.</string>
+    <string name="display_warn_remove_ungrouped">حذف \"%s\" از همگام‌سازی همچنین باعث حذف همه مخاطبین گروه‌بندی نشده از همگام‌سازی می‌شود.</string>
     <string name="duplicate_group_name">گروهی با این نام از قبل وجود دارد</string>
     <string name="early_morning">Morning</string>
     <string name="earthly_branches_chen">辰</string>
@@ -617,8 +617,8 @@
     <string name="export_to_sim_prepare_title">در حال آماده سازی…</string>
     <string name="export_to_sim_title">در حال صادر کردن…</string>
     <string name="export_vcard_description">صادر کردن vCard به حافظه دستگاه</string>
-    <string name="exporting_contact_failed_message">&quot;داده‌های مخاطب صادر نشد.
-علت: \&quot;%s\&quot;&quot;</string>
+    <string name="exporting_contact_failed_message">"داده‌های مخاطب صادر نشد.
+علت: \"%s\""</string>
     <string name="exporting_contact_failed_title">صدور انجام نشد</string>
     <string name="exporting_contact_list_message">در حال صادر کردن به %s.</string>
     <string name="exporting_contact_list_progress">%1$s از %2$s مخاطب</string>
@@ -626,16 +626,16 @@
     <string name="exporting_vcard_canceled_title">صادر کردن %s لغو شد.</string>
     <string name="exporting_vcard_finished_title">صادر کردن %s به پایان رسید.</string>
     <string name="external_profile_title">نمایه %1$s من</string>
-    <string name="fail_reason_could_not_initialize_exporter">صادرکننده راه‌اندازی نشد: \&quot;%s\&quot;.</string>
+    <string name="fail_reason_could_not_initialize_exporter">صادرکننده راه‌اندازی نشد: \"%s\".</string>
     <string name="fail_reason_could_not_open_file">«%1$s» باز نشد: %2$s.</string>
-    <string name="fail_reason_error_occurred_during_export">در حین صادر کردن خطایی رخ داد: \&quot;%s\&quot;.</string>
+    <string name="fail_reason_error_occurred_during_export">در حین صادر کردن خطایی رخ داد: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">فرااطلاعات ازفایل‌های کارت ویزیت جمع‌آوری نشد.</string>
     <string name="fail_reason_failed_to_read_files">یک یا چند فایل وارد نشد (%s).</string>
     <string name="fail_reason_io_error">خطای I/O</string>
     <string name="fail_reason_low_memory_during_import">فضای کافی موجود نیست. ممکن است فایل بسیار بزرگ باشد.</string>
     <string name="fail_reason_no_exportable_contact">هیچ مخاطب قابل صدوری وجود ندارد.</string>
     <string name="fail_reason_not_supported">از این فرمت پشتیبانی نمی‌شود.</string>
-    <string name="fail_reason_too_long_filename">نام فایل درخواستی خیلی طولانی است (\&quot;%s\&quot;).</string>
+    <string name="fail_reason_too_long_filename">نام فایل درخواستی خیلی طولانی است (\"%s\").</string>
     <string name="fail_reason_too_many_vcard">کارت ویزیت‌های زیادی در حافظه وجود دارد.</string>
     <string name="fail_reason_unknown">خطای ناشناخته.</string>
     <string name="fail_reason_vcard_parse_error">به دلیل غیرمنتظره‌ای، کارت ویزیت قابل تجزیه نبود.</string>
@@ -923,7 +923,7 @@
     <string name="miprofile_find_profile_no_recommend">هیچ نمایه پیشنهاد شده‌ای نیست</string>
     <string name="miprofile_finding_label">یافتن کارت‌های تماس</string>
     <string name="miprofile_name">نمایه من</string>
-    <string name="miprofile_nick_name_divider">&quot;  |  &quot;</string>
+    <string name="miprofile_nick_name_divider">"  |  "</string>
     <string name="miprofile_nick_name_edit">ویرایش نام مستعار مخاطب</string>
     <string name="miprofile_nick_name_edit_dialog_hint">نام مستعار را وارد کنید</string>
     <string name="miprofile_nick_name_edit_dialog_message">نام مستعار در تاریخچه تماس و اطلاعات نمایه نمایش داده خواهد شد</string>
@@ -961,10 +961,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mobile_equipment_identification">تشخیص هویت تجهیزات موبایل</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
@@ -1042,24 +1042,24 @@
     <string name="noContactHelpTextImportXiaomiAccountInfo">بازیابی اطلاعات مخاطب از حساب Mi</string>
     <string name="noContacts">بدون مخاطب</string>
     <string name="noContactsWithPhoneNumbers">مخاطبی که شماره تلفن داشته باشد وجود ندارد</string>
-    <string name="noFavoritesHelpText">&quot;You don&apos;t have any favorites.
+    <string name="noFavoritesHelpText">"You don't have any favorites.
 
 To add a contact to your list of favorites:
 
-        &quot;&lt;li&gt;Touch the &lt;b&gt;Contacts&lt;/b&gt;&quot; tab
-&quot;&lt;/li&gt;&quot; 
-&quot;&lt;li&gt;&quot;Touch the contact you want to add to your favorites
-&quot;&lt;/li&gt;&quot; 
-&quot;&lt;li&gt;&quot;Touch the star next to the contact&apos;s name
-&quot;&lt;/li&gt;&quot;
-    &quot;</string>
+        "&lt;li&gt;Touch the &lt;b&gt;Contacts&lt;/b&gt;" tab
+"&lt;/li&gt;" 
+"&lt;li&gt;"Touch the contact you want to add to your favorites
+"&lt;/li&gt;" 
+"&lt;li&gt;"Touch the star next to the contact's name
+"&lt;/li&gt;"
+    "</string>
     <string name="noGroups">بدون گروه</string>
     <string name="noMatchingContacts">مخاطب مشابهی یافت نشد.</string>
     <string name="noRecentContacts">مخاطب اخیری وجود ندارد</string>
-    <string name="no_account_prompt">&quot;حساب کاربری Google در بین افراد پرطرفدار‌تر است.
+    <string name="no_account_prompt">"حساب کاربری Google در بین افراد پرطرفدار‌تر است.
 
 •دسترسی از طریق هر نوع مرورگر وب.
-• پشتیبان‌گیری امن از مخاطبین شما.&quot;</string>
+• پشتیبان‌گیری امن از مخاطبین شما."</string>
     <string name="no_contact_details">اطلاعات بیشتری برای این مخاطب وجود ندارد.</string>
     <string name="no_contact_in_other_phone">مخاطبی شناسایی نشد</string>
     <string name="no_contacts_dialog_message">ممکن است مخاطبین در سیم‌کارت ذخیره شده باشند. تلاش کنید آنها را از سیم‌کارت به حافظه داخلی تلفن وارد کنید ودوباره تلاش کنید.</string>
@@ -1125,7 +1125,7 @@ To add a contact to your list of favorites:
     <string name="percent_sign">%1$s</string>
     <string name="percentage">%2$s%1$s</string>
     <string name="phoneLabelsGroup">تلفن</string>
-    <string name="phone_info_divider">&quot; ｜ &quot;</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">شماره طولانی است</string>
     <string name="phone_primary">اصلی</string>
     <string name="photoPickerNotFoundText">هیچ تصویری بر روی دستگاه وجود ندارد.</string>
@@ -1271,13 +1271,13 @@ To add a contact to your list of favorites:
     <string name="remove_blacklist">لغو انسداد</string>
     <string name="remove_blacklist_dialog_message">تماس‌ها و پیام‌ها از این شماره نمایش داده شود؟</string>
     <string name="remove_blacklist_dialog_title">انسداد این شماره رفع شود؟</string>
-    <string name="remove_duplicate">&quot;MIUI در پیدا کردن و ادغام مخاطبین تکراری به شما کمک می‌کند.
+    <string name="remove_duplicate">"MIUI در پیدا کردن و ادغام مخاطبین تکراری به شما کمک می‌کند.
 
- برای آغاز، روی آیکون ادغام در پایین صفحه نمایش ضربه بزنید.&quot;</string>
+ برای آغاز، روی آیکون ادغام در پایین صفحه نمایش ضربه بزنید."</string>
     <string name="report_inquiry_mms">گزارش پیامک</string>
     <string name="restore_nickname">بازیابی</string>
-    <string name="ret_sign">&quot;
-&quot;</string>
+    <string name="ret_sign">"
+"</string>
     <string name="returnCall">برگرداندن تماس</string>
     <string name="return_call">برای بازگشت به تماس ضربه بزنید</string>
     <string name="return_call_calling">تماس درحال انجام است</string>
@@ -1294,11 +1294,11 @@ To add a contact to your list of favorites:
     <string name="scan_business_card">اسکن کارت ویزیت</string>
     <string name="scan_bussiness_card_merge_tip">داده‌های تکراری جابجا شدند</string>
     <string name="scan_duplicate_message">%1$d مخاطب با اطلاعات یکسان</string>
-    <string name="scan_merge">\&quot;در حال جستجوی مخاطبین تکراری…\&quot;</string>
+    <string name="scan_merge">\"در حال جستجوی مخاطبین تکراری…\"</string>
     <string name="scan_not_installed">ابتدا اسکنر را نصب کنید</string>
     <string name="scan_qrcode_card_hint1">کد QR بالا را اسکن کنید</string>
     <string name="scan_qrcode_card_hint2"></string>
-    <string name="scanning_sdcard_failed_message">علت: \&quot;%s\&quot;.</string>
+    <string name="scanning_sdcard_failed_message">علت: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">اسکن کردن حافظه انجام نشد</string>
     <string name="sdnContacts_empty">بدون SDN</string>
     <string name="sdnContacts_emptyLoading">درحال بارگذاری SDN…</string>
@@ -1359,7 +1359,7 @@ To add a contact to your list of favorites:
     <string name="share_visible_contacts">همرسانی مخاطبین</string>
     <string name="shortcutActivityTitle">انتخاب یک میانبر</string>
     <string name="shortcutContact">مخاطب</string>
-    <string name="shortcutDialContact">&quot;شماره‌گیری مستقیم &quot;</string>
+    <string name="shortcutDialContact">"شماره‌گیری مستقیم "</string>
     <string name="shortcutMessageContact">پیام مستقیم</string>
     <string name="shortcut_new_contact_label">مخاطب جدید</string>
     <string name="shortcut_scan_label">اسکن کارت ویزیت</string>
@@ -1490,7 +1490,7 @@ To add a contact to your list of favorites:
     <string name="the_arbor_day">Arbor Day</string>
     <string name="the_armed_forces_day">Armed Forces Day</string>
     <string name="the_armys_day">PLA Day</string>
-    <string name="the_childrens_day">&quot;Children&apos;s Day&quot;</string>
+    <string name="the_childrens_day">"Children's Day"</string>
     <string name="the_chinese_youth_day">Youth Day</string>
     <string name="the_christmas_day">Christmas</string>
     <string name="the_double_ninth_festival">Double Ninth Festival</string>
@@ -1498,16 +1498,16 @@ To add a contact to your list of favorites:
     <string name="the_easter_day">Easter</string>
     <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
     <string name="the_fifth_day">Fifth day of Chinese New Year</string>
-    <string name="the_fools_day">&quot;April Fool&apos;s Day&quot;</string>
+    <string name="the_fools_day">"April Fool's Day"</string>
     <string name="the_forth_day">Fourth day of Chinese New Year</string>
     <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
-    <string name="the_international_womens_day">&quot;Women&apos;s Day&quot;</string>
+    <string name="the_international_womens_day">"Women's Day"</string>
     <string name="the_laba_festival">Laba Festival</string>
     <string name="the_labour_day">Labor Day</string>
     <string name="the_lantern_festival">Lantern Festival</string>
     <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
     <string name="the_national_day">National Day</string>
-    <string name="the_national_father_day">&quot;Sun Yat-sen&apos;s Birthday&quot;</string>
+    <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
     <string name="the_new_years_day">New Year</string>
     <string name="the_night_of_sevens">Qixi Festival</string>
     <string name="the_partys_day">CPC Day</string>
@@ -1518,12 +1518,12 @@ To add a contact to your list of favorites:
     <string name="the_sixth_day">Sixth day of Chinese New Year</string>
     <string name="the_spirit_festival">Ghost Festival</string>
     <string name="the_spring_festival">Chinese New Year</string>
-    <string name="the_teachers_day">&quot;Teachers&apos; Day&quot;</string>
+    <string name="the_teachers_day">"Teachers' Day"</string>
     <string name="the_third_day">Third day of Chinese New Year</string>
-    <string name="the_tw_childrens_day">&quot;Children&apos;s Day&quot;</string>
+    <string name="the_tw_childrens_day">"Children's Day"</string>
     <string name="the_tw_youth_day">Youth Day</string>
     <string name="the_united_nations_day">United Nations Day</string>
-    <string name="the_valentines_day">&quot;Valentine&apos;s Day&quot;</string>
+    <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="three_letter">ا آ</string>
     <string name="thursday">Thursday</string>
@@ -1571,11 +1571,11 @@ To add a contact to your list of favorites:
     <string name="unknown_details_new_contact">جدید</string>
     <string name="update_sim_contact_photo_toast">عکس‌های نمایه را نمی‌توان برای مخاطبین سیم‌کارت تنظیم کرد</string>
     <string name="upgrade_in_progress">فهرست مخاطبین در حال به‌روزرسانی است.</string>
-    <string name="upgrade_out_of_memory">&quot;مخاطبین در حال ارتقا هستند. 
+    <string name="upgrade_out_of_memory">"مخاطبین در حال ارتقا هستند. 
 
 فرآیند ارتقا به حدود %s مگابایت حافظه داخلی نیاز دارد.
 
-یکی از گزینه‌های زیر را انتخاب کنید:&quot;</string>
+یکی از گزینه‌های زیر را انتخاب کنید:"</string>
     <string name="upgrade_out_of_memory_retry">تلاش دوباره برای ارتقا</string>
     <string name="upgrade_out_of_memory_uninstall">حذف برخی از برنامه‌ها</string>
     <string name="use_photo_as_primary">از این عکس استفاده شود</string>

@@ -94,7 +94,7 @@
     <string name="bedtime_welcome">وقت خواب خود را مدیریت کنید</string>
     <string name="bedtime_welcome_desc">نگه داشتن یک زمان‌بندی درست و یک‌نواخت خواب برای سلامتی شما مفید است. تنظیم یادآوری به شما کمک می‌کند تا هر روز به موقع به رخت‌خواب رفته و از آن بلند شوید.</string>
     <string name="birthday_alarm">هشدار زادروز</string>
-    <string name="birthday_alarm_summary">پخش \&quot;تولدت مبارک\&quot; به‌جای صدای هشدار پیش‌فرض در زادروزتان</string>
+    <string name="birthday_alarm_summary">پخش \"تولدت مبارک\" به‌جای صدای هشدار پیش‌فرض در زادروزتان</string>
     <string name="cancel">لغو</string>
     <string name="channel_name_alarm">هشدار</string>
     <string name="channel_name_sleep">خواب</string>
@@ -114,14 +114,14 @@
     <string name="common_timer_selector">انتخاب زمان‌سنج</string>
     <string name="confirm">تأیید</string>
     <string name="confirm_abort">صرف نظر</string>
-    <string name="content_desc_keep_screen">دکمه \&quot;روشن نگه داشتن صفحه\&quot;</string>
+    <string name="content_desc_keep_screen">دکمه \"روشن نگه داشتن صفحه\"</string>
     <string name="continue_operation">ادامه</string>
     <string name="continue_step">بعدی</string>
     <string name="control_set_alarm">تنظیم هشدار</string>
     <string name="control_set_alarm_with_existing">هشدار تنظیم شده: %s</string>
     <string name="copy">کپی</string>
     <string name="current_stopwatch_time">زمان کنونی</string>
-    <string name="day_concat">&quot;, &quot;</string>
+    <string name="day_concat">", "</string>
     <string name="default_alarm_alert">صدای هشدار پیش‌فرض</string>
     <string name="default_alarm_title">آهنگ زنگ پیش‌فرض</string>
     <string name="default_label">هشدار</string>
@@ -132,17 +132,17 @@
     <string name="delete_timezone_title">حذف منطقه زمانی</string>
     <string name="deskclock_sleep_no_disturbance">ساعت - مدیریت وقت خواب - حالت مزاحم نشوید</string>
     <string name="dialog_confirm_abort">تغییرات لغو شود؟</string>
-    <string name="dialog_legal_off_day">&lt;Data&gt;به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای تعطیل هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="dialog_legal_off_day">&lt;Data&gt;به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای تعطیل هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="dialog_legal_off_day_desc">برنامه ساعت مجاز به اتصال به اینترنت نیست تا اطلاعات درباره روزهای تعطیل را به‌روز کند. هشدارهای تعطیلات روزهای شنبه و یک‌شنبه به صدا در خواهند آمد.</string>
-    <string name="dialog_legal_workday">&lt;Data&gt;به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای کاری هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
-    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای کاری و تعطیلات هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday">&lt;Data&gt;به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای کاری هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="dialog_legal_workday_and_off_day">&lt;Data&gt;به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای کاری و تعطیلات هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="dialog_legal_workday_and_off_day_desc">برنامه ساعت مجاز به اتصال به اینترنت نیست تا اطلاعات درباره روزهای تعطیل را به‌روز کند. هشدارهای روزهای کاری از دوشنبه تا جمعه به صدا در خواهند آمد. هشدارهای تعطیلات روزهای شنبه و یک‌شنبه به صدا در خواهند آمد.</string>
     <string name="dialog_legal_workday_desc">برنامه ساعت مجاز به اتصال به اینترنت نیست تا اطلاعات درباره روزهای کاری را به‌روز کند. هشدارهای روزهای کاری از دوشنبه تا جمعه به صدا در خواهند آمد.</string>
     <string name="dialog_message_agree">پذیرش</string>
     <string name="dialog_message_for_contact_permission">برای ممکن ساختن هشدارهای زادروز، ساعت نیاز به دسترسی به مخاطبین شما دارد. می‌پذیرید؟</string>
     <string name="dialog_message_negative">مخالفت</string>
     <string name="dialog_message_not_remind">دوباره نمایش داده نشود</string>
-    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="dialog_privacy_content">به منظور دریافت اطلاعات درباره تعطیلات رسمی، تنظیم ساعت و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید %1$s و %2$s ما را خوانده و بپذیرید. می‌پذیرید؟</string>
     <string name="dialog_privacy_content_global">به منظور ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید %1$s و %2$s ما را خوانده و بپذیرید. می‌پذیرید؟</string>
     <string name="dialog_privacy_content_news">به منظور ارائه خدمات سفارشی شده و گنجاندن اخبار بامدادی در هشدارهای شما، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید %1$s و %2$s ما را خوانده و بپذیرید. می‌پذیرید؟</string>
@@ -190,11 +190,11 @@
     <string name="lap_num">دوره</string>
     <string name="last_step">بازگشت</string>
     <string name="legal_off_day">تعطیلات رسمی</string>
-    <string name="legal_off_day_message">&quot; (هشدارها در روزهای کاری به صدا در نخواهند آمد)&quot;</string>
+    <string name="legal_off_day_message">" (هشدارها در روزهای کاری به صدا در نخواهند آمد)"</string>
     <string name="legal_workday">روزهای اضافه‌کاری</string>
     <string name="legal_workday_invalidate">داده‌های (زنگ‌های هشدار از دوشنبه تا جمعه) به پایان رسیدند</string>
     <string name="legal_workday_invalidate_message">(داده‌ها به پایان رسیده است. در تنظیمات به‌روزرسانی کنید.)</string>
-    <string name="legal_workday_message">&quot; (هشدارها در تعطیلات به صدا در نخواهند آمد)&quot;</string>
+    <string name="legal_workday_message">" (هشدارها در تعطیلات به صدا در نخواهند آمد)"</string>
     <string name="life_post_setting">گزارش صبحگاهی</string>
     <string name="life_post_setting_FBE_remind">به دلیل محدودیت‌های سیستم، ممکن است پس از راه‌اندازی دوباره دستگاه، اطلاعات آب و هوا در گزارش صبحگاهی به درستی نمایش داده نشود.</string>
     <string name="life_post_setting_close_title">خاموش کردن گزارشات صبحگاهی</string>
@@ -219,7 +219,7 @@
     <string name="life_post_weather_no_network">برای به‌روزرسانی اطلاعات آب و هوا به شبکه وصل شوید</string>
     <string name="life_post_weather_temperature_centigrade">°</string>
     <string name="listen_news_msg">时钟需要连接网络，以提供早间听新闻服务，您是否同意？</string>
-    <string name="listen_news_privacy">&lt;Data&gt;به منظور ارائه خدمات سفارشی شده و گنجاندن اخبار بامدادی در هشدارهای شما، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="listen_news_privacy">&lt;Data&gt;به منظور ارائه خدمات سفارشی شده و گنجاندن اخبار بامدادی در هشدارهای شما، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="loading_ringtone">درحال بارگذاری صدای زنگ…</string>
     <string name="menu_add_worldclock">افزودن ساعت</string>
     <string name="menu_desk_clock">ساعت</string>
@@ -231,10 +231,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="module_dialog_negative">مخالفت</string>
     <string name="module_dialog_neutral">فهمیدم</string>
     <string name="module_dialog_positive">پذیرفتن</string>
@@ -258,32 +258,32 @@
     <string name="module_update_success">صداهای بارگذاری شده برای هشدارهای هوشمند MIUI با موفقیت دانلود شدند. شما می‌توانید هشدارهای هوشمند MIUI را در تنظیمات ساعت تنظیم کنید.</string>
     <string name="module_update_success_control">فهمیدم</string>
     <string name="module_weather_ringtone_download_data">هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای انجام آن نیاز به دانلود ≈۳۰ مگابایت فایل صوتی دارد. حالا دانلود شود؟</string>
-    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای انجام آن نیاز به دانلود ≈۳۰ مگابایت فایل صوتی دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_data_privacy">&lt;Data&gt;هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای انجام آن نیاز به دانلود ≈۳۰ مگابایت فایل صوتی دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_download_wifi">هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای انجام آن نیاز به دانلود فایل صوتی دارد. حالا دانلود شود؟</string>
-    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای دانلود فایل صوتی نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="module_weather_ringtone_download_wifi_privacy">&lt;Data&gt;هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای دانلود فایل صوتی نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="module_weather_ringtone_introduce">هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. این ویژگی همچنین به شما اجازه می‌دهد تا صبح‌ها به اطلاعات آب و هوای کنونی گوش دهید.</string>
     <string name="module_weather_ringtone_introduce_global">هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود.</string>
     <string name="module_weather_ringtone_update_data">هشدارِ ساعت آب و هوا حالا موسیقی زمینه و صدای اطلاع‌رسانی بهتری دارد. ساعت برای انجام آن نیاز به دانلود ≈۳۰ مگابایت فایل صوتی دارد. حالا دانلود شود؟</string>
     <string name="module_weather_ringtone_update_success">هشدارِ ساعت آب و هوا حالا موسیقی پس‌زمینه و صدای اطلاع‌رسانی بهتری دارد. برای آزمایش کردن این ویژگی می‌توانید یک هشدار جدید بسازید.</string>
     <string name="module_week_ringtone_download_data">هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. ساعت برای کارکرد آن نیاز به دانلود ۳۰≈ مگابایت فایل صوتی دارد. دانلود شود؟</string>
-    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. ساعت برای انجام آن نیاز به دانلود ۳۰≈ مگابایت فایل صوتی دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_data_privacy">&lt;Data&gt;هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. ساعت برای انجام آن نیاز به دانلود ۳۰≈ مگابایت فایل صوتی دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="module_week_ringtone_download_wifi">هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. ساعت برای کارکرد آن نیاز به دانلود فایل صوتی دارد. دانلود شود؟</string>
-    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. ساعت برای دانلود فایل صوتی نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="module_week_ringtone_download_wifi_privacy">&lt;Data&gt;هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. ساعت برای دانلود فایل صوتی نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="module_week_ringtone_introduce">هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند.</string>
     <string name="module_week_ringtone_update_data">هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. ساعت برای کارکرد آن نیاز به دانلود ۳۰≈ مگابایت فایل صوتی دارد. دانلود شود؟</string>
     <string name="module_week_ringtone_update_success">هشدار طبیعت صداهای مختلفی را بر اساس تاریخ پخش می‌کند. برای آزمایش این ویژگی می‌توانید یک هشدار جدید ایجاد کنید.</string>
     <string name="module_white_noise_download_data">ساعت نیاز به دانلود زمان‌سنج صداهای محیطی دارد. ≈۳۰ مگابایت از اینترنت همراه شما برای این دانلود لازم خواهد شد. دانلود شوند؟</string>
-    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;به منظور دانلود فایل‌های صوتی برای زمان‌سنج صداهای محیطی (≈۳۰ مگابایت) و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. شما درحال استفاده از اینترنت همراه هستید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_data_privacy">&lt;Data&gt;به منظور دانلود فایل‌های صوتی برای زمان‌سنج صداهای محیطی (≈۳۰ مگابایت) و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. شما درحال استفاده از اینترنت همراه هستید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="module_white_noise_download_wifi">ساعت برای زمان‌سنج صدای محیطی نیاز به دانلود فایل‌های صوتی دارد. دانلود شود؟</string>
-    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;به منظور دانلود فایل‌های صوتی برای زمان‌سنج صداهای محیطی و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="module_white_noise_download_wifi_privacy">&lt;Data&gt;به منظور دانلود فایل‌های صوتی برای زمان‌سنج صداهای محیطی و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="monday_to_friday">دوشنبه تا جمعه</string>
     <string name="more_alert_setting">تنظیمات بیشتر هشدار</string>
     <string name="more_setting">تنظیمات بیشتر</string>
     <string name="more_settings">تنظیمات</string>
     <string name="net_permission_cancel">مخالفت</string>
     <string name="net_permission_ok">پذیرفتن</string>
-    <string name="network_privacy">&lt;Data&gt;به منظور دریافت اطلاعات درباره تعطیلات رسمی محلی و تنظیم هشدارها، برنامه ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از برنامه ساعت شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
-    <string name="network_privacy_global">&lt;Data&gt;به منظور ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="network_privacy">&lt;Data&gt;به منظور دریافت اطلاعات درباره تعطیلات رسمی محلی و تنظیم هشدارها، برنامه ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از برنامه ساعت شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
+    <string name="network_privacy_global">&lt;Data&gt;به منظور ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data&gt;</string>
     <string name="never">یک‌بار</string>
     <string name="new_label">افزودن برچسب هشدار</string>
     <string name="no_alarm_setting">هیچ هشداری اینجا نیست</string>
@@ -355,7 +355,7 @@
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">داده‌های خواب توسط سلامت Xiaomi ارائه شده‌اند</string>
-    <string name="sleep_duration">&quot;مدت خواب: &quot;</string>
+    <string name="sleep_duration">"مدت خواب: "</string>
     <string name="sleep_duration_avg_text_diff">میانگین مدت خواب (%1$s تا %2$s)</string>
     <string name="sleep_duration_desc">به مدت %1$s و %2$s خوابیدید</string>
     <string name="sleep_duration_no_data">هنوز داده‌ها به اندازه کافی نیستند</string>

@@ -229,7 +229,7 @@
     <string name="list_title_disable_notification">اعلان‌ها مجازند</string>
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="lock_screen_display_rules">قالب</string>
-    <string name="lock_screen_tip_toast">اجازه اعلان‌های صفحه قفل را در \&quot;قالب\&quot; بدهید</string>
+    <string name="lock_screen_tip_toast">اجازه اعلان‌های صفحه قفل را در \"قالب\" بدهید</string>
     <string name="lockscreen_notifications">اعلان‌های صفحه قفل</string>
     <string name="menu_setting_recommend_to_minus">نمایش اعلان‌های کمتر</string>
     <string name="menu_setting_recommend_to_normal">اعلان‌ها کاهش نیابند</string>
@@ -250,10 +250,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="monday">Monday</string>
     <string name="monday_short">Mon</string>
     <string name="monday_shortest">Mon</string>
@@ -344,8 +344,8 @@
     <string name="notification_fold_summary">گروه‌بندی خودکار اعلان‌های غیر مهم</string>
     <string name="notification_fold_title">گروه‌بندی اعلان‌ها</string>
     <string name="notification_manager">اعلان‌های برنامه</string>
-    <string name="notification_setting_menu_feedback_text">&quot;این اعلان نباید اینجا باشد؟
-این اشکال را گزارش کنید &gt;&quot;</string>
+    <string name="notification_setting_menu_feedback_text">"این اعلان نباید اینجا باشد؟
+این اشکال را گزارش کنید &gt;"</string>
     <string name="notification_style_android">اندروید</string>
     <string name="notification_style_miui">MIUI</string>
     <string name="off">خاموش</string>
@@ -408,7 +408,7 @@
     <string name="the_arbor_day">Arbor Day</string>
     <string name="the_armed_forces_day">Armed Forces Day</string>
     <string name="the_armys_day">PLA Day</string>
-    <string name="the_childrens_day">&quot;Children&apos;s Day&quot;</string>
+    <string name="the_childrens_day">"Children's Day"</string>
     <string name="the_chinese_youth_day">Youth Day</string>
     <string name="the_christmas_day">Christmas</string>
     <string name="the_double_ninth_festival">Double Ninth Festival</string>
@@ -416,16 +416,16 @@
     <string name="the_easter_day">Easter</string>
     <string name="the_eve_of_the_spring_festival">Eve of Chinese New Year</string>
     <string name="the_fifth_day">Fifth day of Chinese New Year</string>
-    <string name="the_fools_day">&quot;April Fool&apos;s Day&quot;</string>
+    <string name="the_fools_day">"April Fool's Day"</string>
     <string name="the_forth_day">Fourth day of Chinese New Year</string>
     <string name="the_hksar_establishment_day">Hong Kong SAR Establishment Day</string>
-    <string name="the_international_womens_day">&quot;Women&apos;s Day&quot;</string>
+    <string name="the_international_womens_day">"Women's Day"</string>
     <string name="the_laba_festival">Laba Festival</string>
     <string name="the_labour_day">Labor Day</string>
     <string name="the_lantern_festival">Lantern Festival</string>
     <string name="the_mid_autumn_festival">Mid-Autumn Festival</string>
     <string name="the_national_day">National Day</string>
-    <string name="the_national_father_day">&quot;Sun Yat-sen&apos;s Birthday&quot;</string>
+    <string name="the_national_father_day">"Sun Yat-sen's Birthday"</string>
     <string name="the_new_years_day">New Year</string>
     <string name="the_night_of_sevens">Qixi Festival</string>
     <string name="the_partys_day">CPC Day</string>
@@ -436,12 +436,12 @@
     <string name="the_sixth_day">Sixth day of Chinese New Year</string>
     <string name="the_spirit_festival">Ghost Festival</string>
     <string name="the_spring_festival">Chinese New Year</string>
-    <string name="the_teachers_day">&quot;Teachers&apos; Day&quot;</string>
+    <string name="the_teachers_day">"Teachers' Day"</string>
     <string name="the_third_day">Third day of Chinese New Year</string>
-    <string name="the_tw_childrens_day">&quot;Children&apos;s Day&quot;</string>
+    <string name="the_tw_childrens_day">"Children's Day"</string>
     <string name="the_tw_youth_day">Youth Day</string>
     <string name="the_united_nations_day">United Nations Day</string>
-    <string name="the_valentines_day">&quot;Valentine&apos;s Day&quot;</string>
+    <string name="the_valentines_day">"Valentine's Day"</string>
     <string name="the_water_lantern_festival">Water Lantern Festival</string>
     <string name="thursday">Thursday</string>
     <string name="thursday_short">Thu</string>

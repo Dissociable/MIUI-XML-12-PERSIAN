@@ -70,7 +70,7 @@
     <string name="cancel_running_download">لغو</string>
     <string name="cancle">Cancel</string>
     <string name="choose_open_picture">Select action</string>
-    <string name="choose_open_time">&quot;Choose when you&apos;d like to begin&quot;</string>
+    <string name="choose_open_time">"Choose when you'd like to begin"</string>
     <string name="clear_data">پاک‌سازی</string>
     <string name="close">Close</string>
     <string name="close_ad">Close AD</string>
@@ -119,7 +119,7 @@
     <string name="dialog_title_recommend">خاموش کردن منابع ناشناس</string>
     <string name="disable">Off</string>
     <string name="display_expire_netiv1">This month</string>
-    <string name="do_not_support_url">&quot;This type of URL isn&apos;t supported&quot;</string>
+    <string name="do_not_support_url">"This type of URL isn't supported"</string>
     <string name="doc_filter">اسناد</string>
     <string name="download">دانلودها</string>
     <string name="download_auth">درحال گرفتن اعتبارنامه…</string>
@@ -196,12 +196,12 @@
     <string name="get_account_dialog_msg">Getting account info…</string>
     <string name="get_data_failed">اطلاعات دریافت نشد. یک یا دو دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="get_order_dialog_msg">Getting order info…</string>
-    <string name="get_order_fail_msg">&quot;Couldn&apos;t create order&quot;</string>
+    <string name="get_order_fail_msg">"Couldn't create order"</string>
     <string name="gigabyteShort">GB</string>
-    <string name="goto_global_search">Searching web for \&quot;%1$s\&quot;</string>
+    <string name="goto_global_search">Searching web for \"%1$s\"</string>
     <string name="guess_like">ممکن است همچنین دوست داشته باشید</string>
-    <string name="h5_net_error">&quot;Couldn&apos;t load %s (%s)&quot;</string>
-    <string name="h5_net_error_tip">&quot;Couldn&apos;t open URL&quot;</string>
+    <string name="h5_net_error">"Couldn't load %s (%s)"</string>
+    <string name="h5_net_error_tip">"Couldn't open URL"</string>
     <string name="high_speed_channel">Xunlei accelerator (paid):  </string>
     <string name="high_speed_tryout">Download speed is low, become a Xunlei member</string>
     <string name="high_speed_tryout_percent">Speed boosted by %1$s, become a Xunlei member</string>
@@ -216,11 +216,11 @@
     <string name="info_flow_show">منابع پیشنهاد شده</string>
     <string name="input_valid_address">Enter a file path</string>
     <string name="install">نصب</string>
-    <string name="install_failed">&quot;Couldn&apos;t install %1$s&quot;</string>
+    <string name="install_failed">"Couldn't install %1$s"</string>
     <string name="installing">در حال نصب…</string>
     <string name="insufficient_space">حافظه کافی نیست</string>
     <string name="invalid_address">The file path you entered is invalid</string>
-    <string name="jump_rank_hint">&quot;Take a look at today&apos;s download rankings &gt;&quot;</string>
+    <string name="jump_rank_hint">"Take a look at today's download rankings &gt;"</string>
     <string name="keep_queued_download">نگه داشتن</string>
     <string name="kilobyteShort">KB</string>
     <string name="load_finish_hint">برای حالا کافیست.</string>
@@ -247,31 +247,31 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="net_error">به شبکه متصل شده و دوباره تلاش کنید</string>
-    <string name="network_error">&quot;Can&apos;t connect to the network&quot;</string>
+    <string name="network_error">"Can't connect to the network"</string>
     <string name="new_add">New download</string>
     <string name="new_add_bt">Add torrent</string>
     <string name="no_downloads">بدون فایل</string>
     <string name="no_file_hint">وظیفه دانلود برای این فایل از پیش وجود دارد</string>
-    <string name="no_net">&quot;Couldn&apos;t connect to the network&quot;</string>
+    <string name="no_net">"Couldn't connect to the network"</string>
     <string name="no_result_for_keyword">«%1$s» پیدا نشد</string>
     <string name="no_share_file">این فایل همرسانی نشد</string>
     <string name="no_share_file_content">فایلی را که انتخاب کرده‌اید پیشتر حذف شده است</string>
     <string name="no_share_files">فایل‌هایی را که پیشتر حذف شده‌اند را نمی‌توان همرسانی کرد</string>
     <string name="no_share_files_content">برخی فایل‌هایی که تلاش می‌کنید همرسانی شوند، پیشتر حذف شده‌اند. فایل‌های دیگر با موفقیت همرسانی شدند.</string>
     <string name="no_vip_info">Get Xunlei membership to speed up downloads</string>
-    <string name="no_vip_show_info">&quot;Speed up downloads
-across all your devices with Xunlei&quot;</string>
+    <string name="no_vip_show_info">"Speed up downloads
+across all your devices with Xunlei"</string>
     <string name="not_set">Not set</string>
     <string name="notify_disabled_net_by_app">دسترسی به اینترنت محدود شد</string>
     <string name="notify_install_guide_forward_text">Open</string>
     <string name="notify_install_guide_msg">Installed successfully</string>
     <string name="notify_install_guide_title">Installed %s successfully</string>
-    <string name="notify_not_support">&quot;Such notifications aren&apos;t supported, update now&quot;</string>
+    <string name="notify_not_support">"Such notifications aren't supported, update now"</string>
     <string name="notify_only_wifi_download">در انتظار Wi-Fi</string>
     <string name="one_month">1 month</string>
     <string name="only_support_torrent">تنها فایل‌های تورنت پشتیبانی می‌شوند</string>
@@ -285,7 +285,7 @@ across all your devices with Xunlei&quot;</string>
     <string name="other">سایر</string>
     <string name="other_filter">سایر</string>
     <string name="package_filter">بسته‌ها</string>
-    <string name="path_no_available">&quot;This path isn&apos;t available&quot;</string>
+    <string name="path_no_available">"This path isn't available"</string>
     <string name="pause_download">مکث</string>
     <string name="paused">متوقف شد</string>
     <string name="paused_by_app">متوقف شد</string>
@@ -306,11 +306,11 @@ across all your devices with Xunlei&quot;</string>
     <string name="pref_summary_max_bytes_limit_format">انتظار برای اتصال به Wi-Fi در صورت فراتر رفتن اندازه فایل از %s</string>
     <string name="pref_summary_no_limit_popup">نامحدود</string>
     <string name="pref_title_enable_max_bytes_popup">نمایش یادآوری اینترنت مصرف شده</string>
-    <string name="preference_copied">\&quot;%1$s\&quot; copied to clipboard.</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="preferences_title">تنظیمات</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="privacy_tip_cancel">لغو</string>
-    <string name="privacy_tip_content">&quot;Use Xunlei Accelerator to speed up downloads? The URL of the download&apos;s host will uploaded to Xunlei&apos;s servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service.&quot;</string>
+    <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
     <string name="privacy_tip_ok">تأیید</string>
     <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
     <string name="quit_btn">Exit</string>
@@ -337,7 +337,7 @@ across all your devices with Xunlei&quot;</string>
     <string name="retry_download">تلاش دوباره</string>
     <string name="revert_default">بازیابی به تنظیمات پیش‌فرض</string>
     <string name="revert_download_path">از محل دانلود پیش‌فرض استفاده شود؟</string>
-    <string name="save_path">&quot;ذخیره دانلودها در: &quot;</string>
+    <string name="save_path">"ذخیره دانلودها در: "</string>
     <string name="save_text">%1$s￥ صرفه‌جویی کنید</string>
     <string name="search_app_name">下载管理</string>
     <string name="search_clear_history_btn">Clear search history</string>
@@ -398,8 +398,8 @@ across all your devices with Xunlei&quot;</string>
     <string name="sniff_associate_text">Popular</string>
     <string name="sniff_bt_text">Torrent file</string>
     <string name="sniff_btn_text">Source</string>
-    <string name="sniff_cannot_use">&quot;Can&apos;t use global search, tap the link to download&quot;</string>
-    <string name="sniff_connect_error_page_tips">&quot;Couldn&apos;t open URL&quot;</string>
+    <string name="sniff_cannot_use">"Can't use global search, tap the link to download"</string>
+    <string name="sniff_connect_error_page_tips">"Couldn't open URL"</string>
     <string name="sniff_connect_error_refresh">Reload</string>
     <string name="sniff_copyright_text">به دلیل مسائل حق چاپ و نشر نتایج را نمی‌توان نمایش داد</string>
     <string name="sniff_download_task_already_exist">This download already exists</string>
@@ -418,7 +418,7 @@ across all your devices with Xunlei&quot;</string>
     <string name="sniff_shortcut_cloudconfig_title">Just a sec…</string>
     <string name="sniff_shortcut_create">Shortcut created</string>
     <string name="sniff_shortcut_exist">Shortcut already exists</string>
-    <string name="sniff_shortcut_failed">&quot;Couldn&apos;t create shortcut&quot;</string>
+    <string name="sniff_shortcut_failed">"Couldn't create shortcut"</string>
     <string name="sniff_shortcut_name">Web search</string>
     <string name="sniff_shortcut_tip">You can add a Home screen shortcut for web search</string>
     <string name="sniff_shortcut_tip2">Find sources for the downloads from your Home screen.</string>
@@ -426,7 +426,7 @@ across all your devices with Xunlei&quot;</string>
     <string name="sniff_terms_agree">Accept</string>
     <string name="sniff_terms_agree_new">Agree</string>
     <string name="sniff_terms_check_text">Agree to Terms of Service</string>
-    <string name="sniff_terms_msg">You should accept \&quot;Terms of Use\&quot; to start using a third party search engine.</string>
+    <string name="sniff_terms_msg">You should accept \"Terms of Use\" to start using a third party search engine.</string>
     <string name="sniff_terms_msg_a">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it.</string>
     <string name="sniff_terms_msg_b">This search feature is provided by a third-party developer. You need to agree to the Terms of Service before you can use it. If you agree to the Terms, tap the check mark below.</string>
     <string name="sniff_terms_msg_bold">Terms of Use</string>
@@ -446,7 +446,7 @@ across all your devices with Xunlei&quot;</string>
     <string name="speed_stop">Cancel</string>
     <string name="speed_tip_netwrok_fail">A network error occurred, try again</string>
     <string name="speed_tip_netwrok_timeout">Connection timed out, try again</string>
-    <string name="speed_tip_no_netwrok">&quot;Couldn&apos;t connect to the network. Connect and try again.&quot;</string>
+    <string name="speed_tip_no_netwrok">"Couldn't connect to the network. Connect and try again."</string>
     <string name="speed_title">Test WLAN speed</string>
     <string name="speed_title_result">Test WLAN speed</string>
     <string name="start_analysis">Check now</string>
@@ -484,9 +484,9 @@ across all your devices with Xunlei&quot;</string>
     <string name="title_tips">Attention</string>
     <string name="title_unbind_xunlei">Remove your Xunlei Account</string>
     <string name="toast_only_wifi_download">برای دانلود این مورد به Wi-Fi متصل شوید</string>
-    <string name="toast_update_data_limit_fail">&quot;Couldn&apos;t set&quot;</string>
+    <string name="toast_update_data_limit_fail">"Couldn't set"</string>
     <string name="toast_xunlei_engine_open">Turned Xunlei download accelerator on</string>
-    <string name="torrent_file_error">&quot;Couldn&apos;t parse this torrent file&quot;</string>
+    <string name="torrent_file_error">"Couldn't parse this torrent file"</string>
     <string name="torrent_no_subfile">No subfiles in this torrent</string>
     <string name="total_speedup">تقویت سرعت (کل)</string>
     <string name="try_download">Try to download</string>
@@ -507,12 +507,12 @@ across all your devices with Xunlei&quot;</string>
     <string name="vip_auto_speedup">Xunlei download accelerator is on</string>
     <string name="vip_expire_show_info">Xunlei membership expired.</string>
     <string name="vip_expire_today_show_info">Xunlei membership expired.</string>
-    <string name="vip_show_info">&quot;5 million members.
-Accelerate downloads across all your devices.&quot;</string>
+    <string name="vip_show_info">"5 million members.
+Accelerate downloads across all your devices."</string>
     <string name="vip_speedup">Speed boost</string>
     <string name="web_dialog_cancel">Cancel</string>
     <string name="web_dialog_confirm">OK</string>
-    <string name="xiaomi_account_not_exist_message">&quot;This Mi Account doesn&apos;t exist&quot;</string>
+    <string name="xiaomi_account_not_exist_message">"This Mi Account doesn't exist"</string>
     <string name="xl_annual_vip_open">Yearly membership (%1$s Mi Credits or %2$s monthly)</string>
     <string name="xl_annual_vip_renew">Renew for 1 year (%1$s Mi Credits or %2$s monthly)</string>
     <string name="xl_bind_account">Add existing Xunlei account </string>
@@ -528,7 +528,7 @@ Accelerate downloads across all your devices.&quot;</string>
     <string name="xl_privilege_speedup">Download accelerator</string>
     <string name="xl_privilege_speedup_info">High-speed channel and support for offline downloads</string>
     <string name="xl_privilege_storage">Huge storage space</string>
-    <string name="xl_privilege_storage_info">&quot;There&apos;s enough space for all your downloads&quot;</string>
+    <string name="xl_privilege_storage_info">"There's enough space for all your downloads"</string>
     <string name="xl_privilege_support">Multiple devices</string>
     <string name="xl_privilege_title">Xunlei membership</string>
     <string name="xl_validate_title">Valid until:  </string>

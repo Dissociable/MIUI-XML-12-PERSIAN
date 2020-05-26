@@ -113,7 +113,7 @@
     <string name="fully_managed_device_provisioning_step_1_header">دردسترس قرار دادن برنامه‌های کاری</string>
     <string name="fully_managed_device_provisioning_step_2_header">این دستگاه خصوصی نیست</string>
     <string name="fully_managed_device_provisioning_step_2_subheader">‏ممکن است سرپرست IT بتواند داده‌ها و فعالیتتان را در این دستگاه ببیند.</string>
-    <string name="fully_managed_device_provisioning_summary">&quot;‏Use this device to easily access your work apps (برای دسترسی آسان به برنامه‌های کاری، از این دستگاه استفاده کنید). This device isn&apos;t private, so your IT admin may be able to see your data and activity (این دستگاه خصوصی نیست و بنابراین ممکن است سرپرست IT بتواند داده‌ها و فعالیتتان را ببیند). To learn more, contact your IT admin (برای آشنایی بیشتر، با سرپرست IT تماس بگیرید).&quot;</string>
+    <string name="fully_managed_device_provisioning_summary">"‏Use this device to easily access your work apps (برای دسترسی آسان به برنامه‌های کاری، از این دستگاه استفاده کنید). This device isn't private, so your IT admin may be able to see your data and activity (این دستگاه خصوصی نیست و بنابراین ممکن است سرپرست IT بتواند داده‌ها و فعالیتتان را ببیند). To learn more, contact your IT admin (برای آشنایی بیشتر، با سرپرست IT تماس بگیرید)."</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="if_questions_contact_admin">‏اگر سؤالی دارید، با سرپرست IT تماس بگیرید</string>

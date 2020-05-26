@@ -87,36 +87,36 @@
 <item>کارت Tencent King</item>
 </string-array>
 <string-array name="date_of_app_all">
-<item>&quot;دیروز (اینترنت همراه) &quot;</item>
-<item>&quot;امروز (اینترنت همراه) &quot;</item>
-<item>&quot;ماه گذشته (اینترنت همراه) &quot;</item>
-<item>&quot;این ماه (اینترنت همراه) &quot;</item>
-<item>&quot;دیروز (Wi-Fi) &quot;</item>
-<item>&quot;امروز (Wi-Fi) &quot;</item>
-<item>&quot;ماه گذشته (Wi-Fi) &quot;</item>
-<item>&quot;این ماه (Wi-Fi) &quot;</item>
+<item>"دیروز (اینترنت همراه) "</item>
+<item>"امروز (اینترنت همراه) "</item>
+<item>"ماه گذشته (اینترنت همراه) "</item>
+<item>"این ماه (اینترنت همراه) "</item>
+<item>"دیروز (Wi-Fi) "</item>
+<item>"امروز (Wi-Fi) "</item>
+<item>"ماه گذشته (Wi-Fi) "</item>
+<item>"این ماه (Wi-Fi) "</item>
 </string-array>
 <string-array name="date_of_traffic">
-<item>&quot;دیروز &quot;</item>
-<item>&quot;امروز &quot;</item>
-<item>&quot;ماه گذشته &quot;</item>
-<item>&quot;این ماه &quot;</item>
+<item>"دیروز "</item>
+<item>"امروز "</item>
+<item>"ماه گذشته "</item>
+<item>"این ماه "</item>
 </string-array>
 <string-array name="date_of_traffic_cmcc">
-<item>&quot;این هفته &quot;</item>
-<item>&quot;امروز &quot;</item>
-<item>&quot;این ماه &quot;</item>
+<item>"این هفته "</item>
+<item>"امروز "</item>
+<item>"این ماه "</item>
 </string-array>
 <string-array name="date_of_traffic_prefix">
-<item>&quot;دیروز: &quot;</item>
-<item>&quot;امروز: &quot;</item>
-<item>&quot;ماه گذشته: &quot;</item>
-<item>&quot;این ماه: &quot;</item>
+<item>"دیروز: "</item>
+<item>"امروز: "</item>
+<item>"ماه گذشته: "</item>
+<item>"این ماه: "</item>
 </string-array>
 <string-array name="date_of_traffic_prefix_cmcc">
-<item>&quot;این هفته: &quot;</item>
-<item>&quot;امروز: &quot;</item>
-<item>&quot;این ماه: &quot;</item>
+<item>"این هفته: "</item>
+<item>"امروز: "</item>
+<item>"این ماه: "</item>
 </string-array>
 <string-array name="debug_open_intercept">
 <item>دسترسی و ویرایش فایل‌های دستگاه شما با استفاده از رایانه امکان‌پذیر خواهد بود</item>
@@ -156,8 +156,8 @@
 <item>红包来了</item>
 </string-array>
 <string-array name="mi_service_traffic_type">
-<item>&quot;مصرف موبایل &quot;</item>
-<item>&quot;مصرف Wi-Fi &quot;</item>
+<item>"مصرف موبایل "</item>
+<item>"مصرف Wi-Fi "</item>
 </string-array>
 <string-array name="miui_optimization_close_intercept">
 <item>نکته مهم: چندین برنامه سیستمی ممکن است کارکرد درستشان متوقف شود.</item>
@@ -401,7 +401,7 @@
 <item>طرح اینترنت همراه نامحدود</item>
 </string-array>
 <string-array name="traffic_type">
-<item>&quot;مصرف اینترنت همراه &quot;</item>
-<item>&quot;مصرف Wi-Fi &quot;</item>
+<item>"مصرف اینترنت همراه "</item>
+<item>"مصرف Wi-Fi "</item>
 </string-array>
 </resources>

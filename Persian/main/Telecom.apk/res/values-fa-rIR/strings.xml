@@ -154,21 +154,21 @@
     <string name="bluetooth_sap_profile_summary_connected">‏متصل به SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی سیم‌کارت</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">بیت‌های بلوتوث صوتی در هر نمونه</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: تعداد بیت در نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: تعداد بیت در نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">حالت کانال بلوتوث‌ صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: حالت کانال&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: حالت کانال"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">‏کدک LDAC صوتی بلوتوث: کیفیت پخش</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">&quot;‏راه‌اندازی LDAC صوتی بلوتوثی
-انتخاب کدک: کیفیت پخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"‏راه‌اندازی LDAC صوتی بلوتوثی
+انتخاب کدک: کیفیت پخش"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">سرعت نمونه بلوتوث صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: سرعت نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: سرعت نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">پخش جریانی: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">کدک بلوتوث صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">‏انتخاب نسخه AVRCP بلوتوث</string>
     <string name="bluetooth_select_avrcp_version_string">‏نسخه AVRCP بلوتوث</string>
     <string name="bluetooth_show_devices_without_names">نمایش دستگاه‌های بلوتوث بدون نام</string>
@@ -186,8 +186,8 @@
     <string name="bugreport_in_power_summary">نمایش دکمه‌ای در منوی روشن/خاموش برای گرفتن گزارش اشکال</string>
     <string name="button_convert_fbe">پاک کردن و تبدیل…</string>
     <string name="callFailed_simError">SIM card error</string>
-    <string name="can_not_dial_vt_while_voice_prompt">&quot;Can&apos;t make a video call while a voice call is in progress&quot;</string>
-    <string name="can_not_dial_while_vt_prompt">&quot;Can&apos;t dial while a video call in process&quot;</string>
+    <string name="can_not_dial_vt_while_voice_prompt">"Can't make a video call while a voice call is in progress"</string>
+    <string name="can_not_dial_while_vt_prompt">"Can't dial while a video call in process"</string>
     <string name="cancel">لغو</string>
     <string name="cant_call_due_to_no_supported_service">به‌دلیل اینکه هیچ حساب تماسی وجود ندارد که از این نوع تماس پشتیبانی کند، تماس برقرار نشد.</string>
     <string name="cant_call_due_to_ongoing_call">نمی‌توان تماسی برقرار کرد. %1$s تماس دیگر درحال انجام است.</string>
@@ -217,10 +217,10 @@
     <string name="connected_via_network_scorer_default">اتصال خودکار ازطریق ارائه‌دهنده رتبه‌بندی شبکه</string>
     <string name="connected_via_passpoint">‏متصل از طریق %1$s</string>
     <string name="content_description_menu_button">منو</string>
-    <string name="convert_to_fbe_warning">&quot;تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
+    <string name="convert_to_fbe_warning">"تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
  !!هشدار!! این کار تمام داده‌هایتان را پاک می‌کند.
  این ویژگی در نسخه آلفا قرار دارد و ممکن است به‌درستی کار نکند.
- برای ادامه، «پاک کردن و تبدیل…» را فشار دهید.&quot;</string>
+ برای ادامه، «پاک کردن و تبدیل…» را فشار دهید."</string>
     <string name="convert_to_file_encryption">تبدیل به رمزگذاری برحسب فایل</string>
     <string name="convert_to_file_encryption_done">از قبل به رمزگذاری بر حسب فایل تبدیل شده است</string>
     <string name="convert_to_file_encryption_enabled">تبدیل…</string>
@@ -260,8 +260,8 @@
     <string name="development_settings_not_available">گزینه‌های برنامه‌نویس برای این کاربر موجود نیست</string>
     <string name="development_settings_summary">تنظیم گزینه‌های مربوط به طراحی برنامه</string>
     <string name="development_settings_title">گزینه‌های برنامه‌نویسان</string>
-    <string name="dial_conference_fail_prompt">&quot;Can&apos;t dial conference directly because current network doesn&apos;t support VoLTE.&quot;</string>
-    <string name="dial_vt_fail_prompt">&quot;Current network doesn&apos;t support VoLTE. Switch to regular voice call?&quot;</string>
+    <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
+    <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
     <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
     <string name="direct_boot_unaware_dialog_message">توجه: بعد از راه‌اندازی تا زمانی‌که قفل تلفنتان را باز نکنید، این برنامه نمی‌تواند شروع شود</string>
     <string name="disable_overlays">‏غیر فعال کردن پوشش HW</string>
@@ -308,9 +308,9 @@
     <string name="inactive_app_inactive_summary">غیرفعال. برای تغییر حالت ضربه بزنید.</string>
     <string name="inactive_apps_title">برنامه‌های آماده به‌کار</string>
     <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
-    <string name="incall_error_call_failed">&quot;Couldn&apos;t make call.&quot;</string>
+    <string name="incall_error_call_failed">"Couldn't make call."</string>
     <string name="incall_error_power_off">Turn off Airplane mode to make a call.</string>
-    <string name="incall_error_supp_service_unknown">&quot;This service isn&apos;t supported.&quot;</string>
+    <string name="incall_error_supp_service_unknown">"This service isn't supported."</string>
     <string name="install_other_apps">نصب برنامه‌های ناشناس</string>
     <string name="keep_screen_on">بیدار ماندن</string>
     <string name="keep_screen_on_summary">صفحه هرگز در حین شارژ شدن به حالت خواب نمی‌رود</string>
@@ -376,7 +376,7 @@
     <string name="notification_missedCallsMsg">%s تماس از دست رفته</string>
     <string name="notification_missedCallsTitle">تماسهای از دست رفته</string>
     <string name="notification_missedWorkCallTitle">تماس کاری از دست رفته</string>
-    <string name="number_tag_divider">&quot; ｜ &quot;</string>
+    <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_preferred_feedback_reporter"></string>
     <string name="oem_unlock_enable">بازکردن سازنده تجهیزات اصلی</string>
     <string name="oem_unlock_enable_summary">اجازه دهید قفل بوت‌لودر باز شود</string>
@@ -480,7 +480,7 @@
     <string name="select_webview_provider_toast_text">این انتخاب دیگر معتبر نیست. دوباره امتحان کنید.</string>
     <string name="settings_package">com.android.settings</string>
     <string name="show_all_anrs">نمایش موارد «برنامه پاسخ نمی‌دهد» پس‌زمینه</string>
-    <string name="show_all_anrs_summary">نمایش گفتگوی \&quot;برنامه پاسخ نمی‌دهد\&quot; برای برنامه‌های پس‌زمینه</string>
+    <string name="show_all_anrs_summary">نمایش گفتگوی \"برنامه پاسخ نمی‌دهد\" برای برنامه‌های پس‌زمینه</string>
     <string name="show_hw_layers_updates">نمایش به‌روزرسانی‌های لایه‌های سخت‌افزار</string>
     <string name="show_hw_layers_updates_summary">وقتی لایه‌های سخت‌افزاری به‌روزرسانی‌ می‌شوند، به رنگ سبز درآیند</string>
     <string name="show_hw_screen_updates">نمایش به‌روزرسانی‌های نما</string>
@@ -669,10 +669,10 @@
     <string name="wifi_wapi_as_certificate">AS certificate</string>
     <string name="wifi_wapi_cert_mode_hand_text">Hand select the certificate</string>
     <string name="wifi_wapi_certification_dont_exist">The WAPI certificates does not exist. Please intall them.</string>
-    <string name="wifi_wapi_fail_to_auth">&quot;WAPI authentication failed
-Please check validity of certificates&quot;</string>
-    <string name="wifi_wapi_fail_to_init">&quot;Unable to open WAPI certificates
-Credential storage might not enable&quot;</string>
+    <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
+Please check validity of certificates"</string>
+    <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
+Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
     <string name="window_animation_scale_title">مقیاس پویانمایی پنجره</string>

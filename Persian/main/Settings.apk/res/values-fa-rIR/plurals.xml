@@ -357,20 +357,20 @@
 <item quantity="one">اعتماد یا حذف گواهی</item>
 </plurals>
 <plurals name="ssl_ca_cert_info_message">
-<item quantity="other">&quot;%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
+<item quantity="other">"%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
 
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.&quot;</item>
-<item quantity="one">&quot;%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
+برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
+<item quantity="one">"%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
 
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.&quot;</item>
+برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
 </plurals>
 <plurals name="ssl_ca_cert_info_message_device_owner">
-<item quantity="other">&quot;%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
+<item quantity="other">"%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
 
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.&quot;</item>
-<item quantity="one">&quot;%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
+برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
+<item quantity="one">"%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
 
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.&quot;</item>
+برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
 </plurals>
 <plurals name="ssl_ca_cert_settings_button">
 <item quantity="other">بررسی گواهی‌ها</item>
@@ -421,16 +421,16 @@
 <item quantity="one">%d ساعت</item>
 </plurals>
 <plurals name="usage_state_hour_text">
-<item quantity="other">&quot;  ساعت&quot;</item>
-<item quantity="one">&quot;  ساعت&quot;</item>
+<item quantity="other">"  ساعت"</item>
+<item quantity="one">"  ساعت"</item>
 </plurals>
 <plurals name="usage_state_minute">
 <item quantity="other">%d دقیقه</item>
 <item quantity="one">%d دقیقه</item>
 </plurals>
 <plurals name="usage_state_miunte_text">
-<item quantity="other">&quot;  دقیقه&quot;</item>
-<item quantity="one">&quot;  دقیقه&quot;</item>
+<item quantity="other">"  دقیقه"</item>
+<item quantity="one">"  دقیقه"</item>
 </plurals>
 <plurals name="usage_state_noti_count">
 <item quantity="other">%d اعلان</item>
@@ -457,12 +457,12 @@
 <item quantity="one">روزهای هفته: %d دقیقه</item>
 </plurals>
 <plurals name="usagestats_device_notification_des_hour">
-<item quantity="other">&quot;  ساعت&quot;</item>
-<item quantity="one">&quot;  ساعت&quot;</item>
+<item quantity="other">"  ساعت"</item>
+<item quantity="one">"  ساعت"</item>
 </plurals>
 <plurals name="usagestats_device_notification_des_min">
-<item quantity="other">&quot;  دقیقه&quot;</item>
-<item quantity="one">&quot;  دقیقه&quot;</item>
+<item quantity="other">"  دقیقه"</item>
+<item quantity="one">"  دقیقه"</item>
 </plurals>
 <plurals name="virus_scan_app_find_risk">
 <item quantity="other">%d خطر یافت شد</item>

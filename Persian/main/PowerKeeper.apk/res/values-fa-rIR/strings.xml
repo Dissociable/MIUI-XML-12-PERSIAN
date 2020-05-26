@@ -57,8 +57,8 @@
     <string name="config_restrict_running_title">محدود کردن فعالیت پس‌زمینه</string>
     <string name="config_restrict_running_warning">برنامه‌ها در پس‌زمینه بسته خواهند شد. این‌گونه ممکن است باعث بد کار کردن آن‌ها شود.</string>
     <string name="config_scenario_policies_title">هماهنگ‌سازی‌ها</string>
-    <string name="config_suggest_description">&quot;شناسایی برنامه‌ها و فعالیت‌ها برای ادامه فرآیندهای مهم.
-بهینه ساز باتری برنامه‌های مهم را به صورت انتخابی درمان می‌کند.&quot;</string>
+    <string name="config_suggest_description">"شناسایی برنامه‌ها و فعالیت‌ها برای ادامه فرآیندهای مهم.
+بهینه ساز باتری برنامه‌های مهم را به صورت انتخابی درمان می‌کند."</string>
     <string name="config_suggest_suffix_title">بهینه‌ساز باتری (توصیه شده)</string>
     <string name="confirm">تأیید</string>
     <string name="copy">کپی</string>
@@ -71,10 +71,10 @@
     <string name="extreme_add_white_list_title">موارد استثنای پس‌زمینه</string>
     <string name="extreme_mode_max_item_alert">هنگام روشن بودن بهینه‌ساز بی‌نهایت باتری می‌توانید تا ۴ برنامه را برای اجرا در پس‌زمینه انتخاب کنید</string>
     <string name="extreme_power_config_mode_category">بهینه‌ساز بی‌نهایت باتری</string>
-    <string name="extreme_power_config_mode_desc">بهینه‌ساز بی‌نهایت باتری تمام فعالیت پس‌زمینه یک برنامه را پس از خارج شدن و بازگشت به صفحه اصلی متوقف می‌کند. این برنامه به شما اعلان یا دریافت به‌روزرسانی ارسال نخواهد کرد.&quot;
-&quot;اگر می‌خواهید برنامه‌ای در پس‌زمینه اجرا شود، در بخش موارد تازه آن را قفل کرده و یا در زیر بخش موارد استثنای پس‌زمینه بیافزایید. هنگام روشن بودن بهینه‌ساز بی‌نهایت باتری تا ۴ برنامه می‌توانند در پس‌زمینه اجرا شوند.&quot;
-&quot;بهینه‌ساز بی‌نهایت باتری به صورت پیش‌فرض NFC را خاموش می‌کند. می‌توانید آن را در تنظیمات تغییر دهید.&quot;
-&quot;برای اطمینان از امکان استفاده عادی تمام ویژگی‌های دستگاه شما، بهینه‌ساز بی‌نهایت باتری پس از شارژ ۳۰% دستگاه به صورت خودکار خاموش خواهد شد.</string>
+    <string name="extreme_power_config_mode_desc">بهینه‌ساز بی‌نهایت باتری تمام فعالیت پس‌زمینه یک برنامه را پس از خارج شدن و بازگشت به صفحه اصلی متوقف می‌کند. این برنامه به شما اعلان یا دریافت به‌روزرسانی ارسال نخواهد کرد."
+"اگر می‌خواهید برنامه‌ای در پس‌زمینه اجرا شود، در بخش موارد تازه آن را قفل کرده و یا در زیر بخش موارد استثنای پس‌زمینه بیافزایید. هنگام روشن بودن بهینه‌ساز بی‌نهایت باتری تا ۴ برنامه می‌توانند در پس‌زمینه اجرا شوند."
+"بهینه‌ساز بی‌نهایت باتری به صورت پیش‌فرض NFC را خاموش می‌کند. می‌توانید آن را در تنظیمات تغییر دهید."
+"برای اطمینان از امکان استفاده عادی تمام ویژگی‌های دستگاه شما، بهینه‌ساز بی‌نهایت باتری پس از شارژ ۳۰% دستگاه به صورت خودکار خاموش خواهد شد.</string>
     <string name="extreme_power_config_mode_summary">بهینه‌ساز بی‌نهایت باتری فعالیت پس‌زمینه را محدود کرده و همگام‌سازی را متوقف می‌کند.</string>
     <string name="extreme_power_config_mode_title">بهینه‌ساز بی‌نهایت باتری</string>
     <string name="extreme_power_settings_title">تنظیمات</string>
@@ -92,10 +92,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="nonui_mode_config_description">وقتی MIUI تشخیص دهد که شما از دستگاه استفاده نمی‌کنید؛ نمایشگر برای اعلان‌ها روشن نمی‌شود، چراغ LED، حس‌گر اثر انگشت و کنترل‌های لمسی خاموش می‌شوند تا در مصرف باتری صرفه‌جویی شود.</string>
     <string name="nonui_mode_config_title">حالت غیر انفعالی</string>
     <string name="not_set">تنظیم نشده است</string>
@@ -134,7 +134,7 @@
     <string name="scenario_policies_summary">برای هماهنگ‌سازی‌های متفاوت راهبردهای متفاوت صرفه‌جویی برق را به‌کار گیرید.</string>
     <string name="scenario_policies_title">هماهنگ‌سازی‌های هوشمند</string>
     <string name="scenario_policies_warmcontrol">کنترل دما</string>
-    <string name="search_input_txt_na">&quot;&lt;font color=&apos;#ff0000&apos;&gt;%s&lt;/font&gt;&quot;</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
     <string name="search_menu_title">جستجو</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
     <string name="show_system_app">نمایش برنامه‌های سیستم</string>
@@ -149,7 +149,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="sucess">انجام شد</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
-    <string name="update_profile_failture_not_connect_wifi">&quot;Couldn&apos;t update. Connect to WLAN and try again.&quot;</string>
+    <string name="update_profile_failture_not_connect_wifi">"Couldn't update. Connect to WLAN and try again."</string>
     <string name="update_profile_sucess">Updated from server sucessfully</string>
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>

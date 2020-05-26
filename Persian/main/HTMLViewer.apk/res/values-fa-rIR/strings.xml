@@ -7,18 +7,18 @@
     <string name="autoconnect">اتصال خودکار</string>
     <string name="ime_privacy_policy">انتخاب صفحه کلید</string>
     <string name="legal_written_offer">Written Offer</string>
-    <string name="license_host_unreachable">&quot;به شبکه متصل نشد. برای مشاهده این اطلاعات،
-به %s در یک دستگاه متصل دیگر بروید.&quot;</string>
+    <string name="license_host_unreachable">"به شبکه متصل نشد. برای مشاهده این اطلاعات،
+به %s در یک دستگاه متصل دیگر بروید."</string>
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="mibi_license">توافقنامه کاربر اعتبارهای Mi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="open_wifi_connect_and_use_data_summary">درحال استفاده از اینترنت همراه. برای تعویض به Wi-Fi ضربه بزنید.</string>
     <string name="open_wifi_connect_summary">برای مشاهده جزئیات ضربه بزنید.</string>
     <string name="open_wifi_connect_title">به %1$s متصل شد</string>

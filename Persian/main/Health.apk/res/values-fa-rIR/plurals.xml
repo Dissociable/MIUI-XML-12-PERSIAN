@@ -62,8 +62,8 @@
 <item quantity="one">%1$d مورد ضبط شده</item>
 </plurals>
 <plurals name="dream_talk_segment_unit">
-<item quantity="other">&quot; instances&quot;</item>
-<item quantity="one">&quot; instance&quot;</item>
+<item quantity="other">" instances"</item>
+<item quantity="one">" instance"</item>
 </plurals>
 <plurals name="duration_unit_hour_format">
 <item quantity="other">%1$d hrs</item>
@@ -82,8 +82,8 @@
 <item quantity="one">هدف: %1$d گام</item>
 </plurals>
 <plurals name="goal_unit">
-<item quantity="other">&quot; گام&quot;</item>
-<item quantity="one">&quot; گام&quot;</item>
+<item quantity="other">" گام"</item>
+<item quantity="one">" گام"</item>
 </plurals>
 <plurals name="goal_unit_with_number">
 <item quantity="other">%1$d steps</item>
@@ -161,8 +161,8 @@
 <item quantity="one">Goal: %1$d hour</item>
 </plurals>
 <plurals name="sleep_management_exp_hours">
-<item quantity="other">&quot;Current settings won't guarantee you %1$d hours of sleep daily. You need more than that.&quot;</item>
-<item quantity="one">&quot;Current settings won't guarantee you %1$d hour of sleep daily. You need more than that.&quot;</item>
+<item quantity="other">"Current settings won't guarantee you %1$d hours of sleep daily. You need more than that."</item>
+<item quantity="one">"Current settings won't guarantee you %1$d hour of sleep daily. You need more than that."</item>
 </plurals>
 <plurals name="step_num_format">
 <item quantity="other">%1$d گام</item>
@@ -237,12 +237,12 @@
 <item quantity="one">%1$d step today</item>
 </plurals>
 <plurals name="unit_days">
-<item quantity="other">&quot; روز&quot;</item>
-<item quantity="one">&quot; روز&quot;</item>
+<item quantity="other">" روز"</item>
+<item quantity="one">" روز"</item>
 </plurals>
 <plurals name="unit_times">
-<item quantity="other">&quot; times&quot;</item>
-<item quantity="one">&quot; time&quot;</item>
+<item quantity="other">" times"</item>
+<item quantity="one">" time"</item>
 </plurals>
 <plurals name="user_age_display_format_year">
 <item quantity="other">%1$d سال</item>

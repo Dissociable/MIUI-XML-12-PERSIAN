@@ -27,7 +27,7 @@
     <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
     <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
     <string name="abc_toolbar_collapse_description">کوچک کردن</string>
-    <string name="about_download_fail">&quot;Couldn&apos;t download&quot;</string>
+    <string name="about_download_fail">"Couldn't download"</string>
     <string name="about_downloading">Downloading %s</string>
     <string name="about_item_function">New features</string>
     <string name="about_net_error">Check your network settings and try again.</string>
@@ -79,7 +79,7 @@
     <string name="ad_pop_btn_hidden">Hide</string>
     <string name="ad_pop_des">Downloading app:</string>
     <string name="add">Add</string>
-    <string name="add_cw_fail_tip">&quot;Couldn&apos;t add wallpaper&quot;</string>
+    <string name="add_cw_fail_tip">"Couldn't add wallpaper"</string>
     <string name="add_cw_success_tip">Added wallpaper successfully</string>
     <string name="add_first_cw_toast1">Added successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
     <string name="add_first_cw_toast2">Added some items successfully. Turned on Wallpaper Carousel and started the slideshow.</string>
@@ -116,7 +116,7 @@
     <string name="cancel_lockscreen">Cancel</string>
     <string name="cancel_network">Exit</string>
     <string name="carousel_declaration_btn_text">Turn on Wallpaper Carousel</string>
-    <string name="carousel_declaration_cta">&quot;Wallpaper Carousel requires the internet connection to work normally. To get access to online content, you must agree with our &lt;a href=&apos;%s&apos;&gt;Privacy Policy&lt;/a&gt;. Agree?&quot;</string>
+    <string name="carousel_declaration_cta">"Wallpaper Carousel requires the internet connection to work normally. To get access to online content, you must agree with our &lt;a href='%s'&gt;Privacy Policy&lt;/a&gt;. Agree?"</string>
     <string name="carousel_declaration_cta_btn_text">Agree and turn on</string>
     <string name="carousel_declaration_des">See beautiful places and get exciting surprises with Wallpaper Carousel</string>
     <string name="carousel_declaration_des2">Add your custom images to Wallpaper Carousel</string>
@@ -126,7 +126,7 @@
     <string name="carousel_suggest">Attention</string>
     <string name="carousel_suggest1">Get new wallpapers delivered straight to your Lock screen every day for free.</string>
     <string name="carousel_suggest2">Is Wallpaper Carousel on?</string>
-    <string name="category_subscribe_failed">&quot;Couldn&apos;t subscribe&quot;</string>
+    <string name="category_subscribe_failed">"Couldn't subscribe"</string>
     <string name="change_activate_email">تغییر نشانی ایمیل</string>
     <string name="change_password">تغییر گذرواژه</string>
     <string name="change_time">Switch wallpapers</string>
@@ -156,30 +156,30 @@
     <string name="current_connection_invalid">Wait until the device connects to the network</string>
     <string name="current_data_invalid">An error occurred</string>
     <string name="current_network_invalid">Connect to the network first</string>
-    <string name="current_no_more_pictures">&quot;That&apos;s all for now&quot;</string>
+    <string name="current_no_more_pictures">"That's all for now"</string>
     <string name="current_permission_network_denied">Allow Wallpaper Carousel to access network</string>
     <string name="custom_wallpaper_des">Turn on Wallpaper Carousel, add your photos and online images to the mix to make them appear in the slideshow automatically.</string>
     <string name="cw_add">Add</string>
     <string name="cw_add2">Add (%1$d)</string>
-    <string name="cw_add_fail">&quot;Couldn&apos;t add to slideshow&quot;</string>
-    <string name="cw_add_num_tip">&quot;Can&apos;t add more items to the slideshow&quot;</string>
+    <string name="cw_add_fail">"Couldn't add to slideshow"</string>
+    <string name="cw_add_num_tip">"Can't add more items to the slideshow"</string>
     <string name="cw_add_success">Added to slideshow successfully</string>
-    <string name="cw_add_tip_fail">&quot;Couldn&apos;t add&quot;</string>
+    <string name="cw_add_tip_fail">"Couldn't add"</string>
     <string name="cw_add_wallpaper">Add wallpaper</string>
     <string name="cw_add_wallpaper_more_recomm">More recommendations</string>
     <string name="cw_added">Added</string>
-    <string name="cw_added_fav_fail">&quot;Couldn&apos;t load data&quot;</string>
+    <string name="cw_added_fav_fail">"Couldn't load data"</string>
     <string name="cw_added_fav_no_pic">No items here.</string>
     <string name="cw_added_toast">This item was added before.</string>
     <string name="cw_adding">Adding (%1$d)</string>
-    <string name="cw_album_no_pic">&quot;Couldn&apos;t find images on your device&quot;</string>
+    <string name="cw_album_no_pic">"Couldn't find images on your device"</string>
     <string name="cw_album_no_right">Allow Wallpaper Carousel to access Gallery</string>
     <string name="cw_all_folder">Recent images</string>
-    <string name="cw_batch_all_added_tip">&quot;Can&apos;t add items that were added before.&quot;</string>
+    <string name="cw_batch_all_added_tip">"Can't add items that were added before."</string>
     <string name="cw_batch_part_tip_fail">Some items were added</string>
     <string name="cw_batch_part_tip_success">Added successfully. Some items had been added before.</string>
     <string name="cw_batch_tip_success">Added successfully</string>
-    <string name="cw_del_tip_fail">&quot;Couldn&apos;t delete&quot;</string>
+    <string name="cw_del_tip_fail">"Couldn't delete"</string>
     <string name="cw_del_tip_success">Deleted successfully</string>
     <string name="cw_delete">Delete</string>
     <string name="cw_delete2">Delete (%d)</string>
@@ -188,7 +188,7 @@
     <string name="cw_my_fav">Favorites</string>
     <string name="cw_permission_tip">Allow Wallpaper Carousel to access storage in Settings &gt; App settings.</string>
     <string name="cw_wallpaper_empty_dlg_btn">Got it</string>
-    <string name="cw_wallpaper_empty_dlg_content">&quot;You haven&apos;t added any items to your slideshow. Switched to recommendations.&quot;</string>
+    <string name="cw_wallpaper_empty_dlg_content">"You haven't added any items to your slideshow. Switched to recommendations."</string>
     <string name="cw_wallpaper_empty_dlg_title">No items</string>
     <string name="cw_wallpaper_manager">Manage wallpapers</string>
     <string name="day">Every day</string>
@@ -211,29 +211,29 @@
     <string name="detail_menu_setting">App settings</string>
     <string name="detail_menu_settingbtn_setting">Settings</string>
     <string name="detail_menu_settingbtn_share">Share</string>
-    <string name="detail_menu_wall">&quot;Today&apos;s wallpapers&quot;</string>
+    <string name="detail_menu_wall">"Today's wallpapers"</string>
     <string name="detail_no_more_data">No data</string>
     <string name="detail_no_more_recomm">No more items to show.</string>
-    <string name="detail_no_net">&quot;Couldn&apos;t connect to the network.&quot;</string>
+    <string name="detail_no_net">"Couldn't connect to the network."</string>
     <string name="detail_outer_menu_icon">Menu</string>
-    <string name="detail_recomm_fail">&quot;Couldn&apos;t get recommendations&quot;</string>
+    <string name="detail_recomm_fail">"Couldn't get recommendations"</string>
     <string name="detail_recomm_load_tip">Matching your interests…</string>
     <string name="detail_share_moment">Moments</string>
     <string name="detail_share_qq">QQ</string>
     <string name="detail_share_qzone">Qzone</string>
     <string name="detail_share_wechat">WeChat</string>
     <string name="detail_share_weibo">Weibo</string>
-    <string name="detail_toast_deny_apply">&quot;Can&apos;t apply.&quot;</string>
-    <string name="detail_toast_deny_dislike">&quot;Can&apos;t delete&quot;</string>
-    <string name="detail_toast_deny_favor">&quot;Can&apos;t add to favorites.&quot;</string>
-    <string name="detail_toast_dislike_fail">&quot;Couldn&apos;t delete&quot;</string>
+    <string name="detail_toast_deny_apply">"Can't apply."</string>
+    <string name="detail_toast_deny_dislike">"Can't delete"</string>
+    <string name="detail_toast_deny_favor">"Can't add to favorites."</string>
+    <string name="detail_toast_dislike_fail">"Couldn't delete"</string>
     <string name="detail_toast_favor_permission">Allow Wallpaper Carousel to access storage in Security.</string>
     <string name="diagnosis_log_send_failed">رخدادها ارسال نشدند. دوباره تلاش کنید.</string>
-    <string name="diagnosis_log_sent_format">&quot;رخدادها با موفقیت ارسال شدند.
+    <string name="diagnosis_log_sent_format">"رخدادها با موفقیت ارسال شدند.
 شناسه%s
-این کد را به مسئول مربوطه ارسال کنید.&quot;</string>
+این کد را به مسئول مربوطه ارسال کنید."</string>
     <string name="disable_dlg_cancel">Cancel</string>
-    <string name="disable_dlg_content">&quot;You won&apos;t be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?&quot;</string>
+    <string name="disable_dlg_content">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
     <string name="disable_dlg_ok">Turn off</string>
     <string name="disable_dlg_title">Turn off Wallpaper Carousel?</string>
     <string name="dislike">Delete</string>
@@ -259,7 +259,7 @@
     <string name="favor_list_no_data">No items here.</string>
     <string name="favor_list_title">Favorites</string>
     <string name="favor_success">Added to favorites successfully</string>
-    <string name="feed_article_entrance_about">About \&quot;%s\&quot;</string>
+    <string name="feed_article_entrance_about">About \"%s\"</string>
     <string name="find_psw">گذرواژه را فراموش کرده‌ام</string>
     <string name="fixable_behavior">com.mfashiongallery.emag.app.detail.ui.FixableAppBarLayoutBehavior</string>
     <string name="for_diagnosis_usage_only">رخدادها فقط برای عیب‌یابی استفاده خواهند شد.</string>
@@ -289,12 +289,12 @@
     <string name="input_new_pwd">گذرواژه جدید را وارد کنید</string>
     <string name="isornot_your_mi_account">آیا این حساب کاربری Mi شماست؟</string>
     <string name="just_a_second">چند لحظه صبر کنید…</string>
-    <string name="later">&quot;Don&apos;t turn off&quot;</string>
+    <string name="later">"Don't turn off"</string>
     <string name="launch_bg_permission_exception">Allow Wallpaper Carousel to display pop-up windows while running in the background in Security</string>
     <string name="like">Add to favorites</string>
     <string name="liked">Added to favorites</string>
     <string name="lks_left_net_deny">Network connection is restricted</string>
-    <string name="lks_left_net_error">&quot;Couldn&apos;t connect to the network.&quot;</string>
+    <string name="lks_left_net_error">"Couldn't connect to the network."</string>
     <string name="lks_left_top_notice">Tap here to go back to the top</string>
     <string name="lks_left_top_notice_refresh">Tap to view new items</string>
     <string name="lks_logo_desc2">Fresh wallpapers daily</string>
@@ -357,26 +357,26 @@
     <string name="miui_digital_clock_dot">:</string>
     <string name="miui_lock_screen_date">EEEE, MMMM d</string>
     <string name="miui_lock_screen_date_12">EEEE, MMMM d</string>
-    <string name="miui_lock_screen_date_two_lines">&quot;EEEE
-MMMM d&quot;</string>
-    <string name="miui_lock_screen_date_two_lines_12">&quot;EEEE
-MMMM d&quot;</string>
-    <string name="miui_lock_screen_large_date">&quot;EEE
-M/dd&quot;</string>
-    <string name="miui_lock_screen_large_date_12">&quot;EEE
-M/dd&quot;</string>
-    <string name="miui_vertical_time_format_12">&quot;hh
-mm&quot;</string>
-    <string name="miui_vertical_time_format_24">&quot;HH
-mm&quot;</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+MMMM d"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+MMMM d"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+M/dd"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+M/dd"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mode_auto_desc">Turn on Wallpaper Carousel to receive new images automatically</string>
     <string name="mode_auto_desc_open">Receive new images automatically</string>
     <string name="mode_auto_desc_selected">Receiving new images automatically</string>
@@ -391,7 +391,7 @@ mm&quot;</string>
     <string name="more_article">More articles</string>
     <string name="morning_bookmark_tab">Greeting</string>
     <string name="morning_greet">Good morning!</string>
-    <string name="morning_greet_mark">&quot; Mi Morning Greetings&quot;</string>
+    <string name="morning_greet_mark">" Mi Morning Greetings"</string>
     <string name="morning_greet_title">Morning greetings</string>
     <string name="morning_picture_tab">Image</string>
     <string name="mtrl_badge_numberless_content_description">New notification</string>
@@ -429,13 +429,13 @@ mm&quot;</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
     <string name="need_open_gallery">Turn on Wallpaper Carousel</string>
-    <string name="new_feature_title">&quot;What&apos;s new&quot;</string>
+    <string name="new_feature_title">"What's new"</string>
     <string name="nick_name">نام مستعار</string>
     <string name="no_account">وارد حساب نشده است</string>
-    <string name="no_long_show">&quot;Don&apos;t show again&quot;</string>
-    <string name="no_networdk">&quot;Couldn&apos;t connect to the network&quot;</string>
+    <string name="no_long_show">"Don't show again"</string>
+    <string name="no_networdk">"Couldn't connect to the network"</string>
     <string name="no_phone">شماره تلفن وجود ندارد</string>
-    <string name="no_pic_data">&quot;Couldn&apos;t find images&quot;</string>
+    <string name="no_pic_data">"Couldn't find images"</string>
     <string name="ok">تأیید</string>
     <string name="ok_enable_network_prov">Agree</string>
     <string name="ok_enable_network_prov2">Agree</string>
@@ -452,18 +452,18 @@ mm&quot;</string>
     <string name="open_guid_des">Go to Settings &gt; Permissions &gt; Other permissions &gt; Wallpaper Carousel and give the app all the required permissions.</string>
     <string name="open_sub_title">Select categories</string>
     <string name="open_title">Wallpaper Carousel</string>
-    <string name="open_unable">&quot;Wallpaper Carousel only works with MIUI&apos;s default Lock screen.&quot;</string>
+    <string name="open_unable">"Wallpaper Carousel only works with MIUI's default Lock screen."</string>
     <string name="opened">On</string>
     <string name="pager_load_hd">View original image</string>
     <string name="passport_access_denied">دسترسی رد شد</string>
     <string name="passport_account_label">حساب Mi</string>
-    <string name="passport_account_name">&quot;حساب: %1$s &quot;</string>
+    <string name="passport_account_name">"حساب: %1$s "</string>
     <string name="passport_activate_token_expired">کد تایید منقضی شد. دوباره تلاش کنید.</string>
     <string name="passport_area_code_title">کد ناحیه</string>
     <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">نام کاربری یا گذرواژه معتبر است</string>
     <string name="passport_barcode_add_account_prompt">برای افزودن یک حساب، بعد از وارد شدن کد QR را دوباره اسکن کنید.</string>
-    <string name="passport_can_not_receive_verification_code">&quot;Can&apos;t receive verification code?&quot;</string>
+    <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
     <string name="passport_captcha_title">کد امنیتی</string>
     <string name="passport_checking_account">درحال بررسی گذرواژه…</string>
     <string name="passport_close">بستن</string>
@@ -565,7 +565,7 @@ mm&quot;</string>
     <string name="platform_unavailable_wechatmoment">Install WeChat</string>
     <string name="platform_unavailable_weibo">Install Weibo</string>
     <string name="privacy_setting">Privacy settings</string>
-    <string name="prv_end">&lt;CDATA&gt;&quot;That&apos;s all for now.&quot;&lt;/CDATA&gt;</string>
+    <string name="prv_end">&lt;CDATA&gt;"That's all for now."&lt;/CDATA&gt;</string>
     <string name="prv_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="prv_nodata">&lt;CDATA&gt;No data&lt;/CDATA&gt;</string>
     <string name="psw_hint">گذرواژه</string>
@@ -579,8 +579,8 @@ mm&quot;</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="recommend_switch_desc">Receive content recommendations based on your preferences</string>
     <string name="recommend_switch_dlg_close">Turn off</string>
-    <string name="recommend_switch_dlg_desc">&quot;You won&apos;t be able to receive recommendations based on your preferences if you turn this feature off.&quot;</string>
-    <string name="recommend_switch_dlg_other">&quot;Don&apos;t turn off&quot;</string>
+    <string name="recommend_switch_dlg_desc">"You won't be able to receive recommendations based on your preferences if you turn this feature off."</string>
+    <string name="recommend_switch_dlg_other">"Don't turn off"</string>
     <string name="recommend_switch_dlg_title">Turn off recommendations?</string>
     <string name="recommend_switch_title">Personalized recommendations</string>
     <string name="refresh_network">Refresh</string>
@@ -599,10 +599,10 @@ mm&quot;</string>
     <string name="rv_with_footer_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
     <string name="rv_with_footer_pull_load_more">Pull down to view more</string>
     <string name="same_new_and_old_pwd">با گذرواژه کنونی نمی‌تواند یکی باشد</string>
-    <string name="save_hdpicture_in_favor">View HD images in \&quot;Favorites\&quot;</string>
+    <string name="save_hdpicture_in_favor">View HD images in \"Favorites\"</string>
     <string name="save_picture_success">Saved successfully</string>
     <string name="save_to_album">Saved to Gallery successfully</string>
-    <string name="save_to_album_fail">&quot;Couldn&apos;t save&quot;</string>
+    <string name="save_to_album_fail">"Couldn't save"</string>
     <string name="scribe_btn_ok">Subscribe</string>
     <string name="scribe_title1">Subscribe to Wallpaper Carousel</string>
     <string name="search">Search</string>
@@ -625,14 +625,14 @@ mm&quot;</string>
     <string name="setting_des">You can set up your slideshow at Settings &gt; Lock screen &amp; password &gt; Wallpaper Carousel</string>
     <string name="setting_head">Settings</string>
     <string name="setting_ok">Settings</string>
-    <string name="setting_tip">&quot;Don&apos;t show again&quot;</string>
+    <string name="setting_tip">"Don't show again"</string>
     <string name="setting_title">Slideshow</string>
     <string name="settings">Settings</string>
     <string name="share">Share</string>
     <string name="share_today_morning">Share</string>
-    <string name="shield">&quot;Block: &quot;</string>
-    <string name="shield_failed">&quot;Couldn&apos;t block item&quot;</string>
-    <string name="shield_tag_ceil">&quot;Can&apos;t block more items&quot;</string>
+    <string name="shield">"Block: "</string>
+    <string name="shield_failed">"Couldn't block item"</string>
+    <string name="shield_tag_ceil">"Can't block more items"</string>
     <string name="shield_tag_dislike_desc">Select to make such images appear less frequently</string>
     <string name="shield_tag_dislike_title">Not interested</string>
     <string name="shield_tag_entrance_desc">Select to block all images from this category</string>
@@ -643,7 +643,7 @@ mm&quot;</string>
     <string name="shortcut_ask">Allow creating shortcuts in the Security</string>
     <string name="shortcut_created">Created shortcut successfully</string>
     <string name="shortcut_exist">Shortcut already exists</string>
-    <string name="shortcut_failed">&quot;Couldn&apos;t create shortcut&quot;</string>
+    <string name="shortcut_failed">"Couldn't create shortcut"</string>
     <string name="show_wallpaper_loop_entry_title">Slideshow settings</string>
     <string name="sign_in">درحال ورود</string>
     <string name="sign_in_progress">درحال ورود…</string>
@@ -655,7 +655,7 @@ mm&quot;</string>
     <string name="sns_sign_in">راه‌های دیگر برای ورود</string>
     <string name="sst_auto_recommand_desc">Subscribe to your favorite categories to receive fresh images and stories delivered to your Lock screen daily.</string>
     <string name="sst_auto_recommand_title">Get recommendations for customized wallpapers</string>
-    <string name="sst_change_wallpaper_desc">&quot;Select where you&apos;d like to apply the wallpaper&quot;</string>
+    <string name="sst_change_wallpaper_desc">"Select where you'd like to apply the wallpaper"</string>
     <string name="sst_change_wallpaper_desk">Home screen</string>
     <string name="sst_change_wallpaper_lock">Lock screen</string>
     <string name="sst_change_wallpaper_lock_desk">Lock screen and Home screen</string>
@@ -674,7 +674,7 @@ mm&quot;</string>
     <string name="sst_feedback_title">Feedback</string>
     <string name="sst_grid_view_select_all">Select all</string>
     <string name="sst_grid_view_unselect_all">Deselect all</string>
-    <string name="sst_lockscreen_show_headline_desc">&quot;Show wallpaper&apos;s title under the clock on the Lock screen&quot;</string>
+    <string name="sst_lockscreen_show_headline_desc">"Show wallpaper's title under the clock on the Lock screen"</string>
     <string name="sst_lockscreen_show_headline_title">Show title on Lock screen</string>
     <string name="sst_logo_desc">Fresh wallpapers daily</string>
     <string name="sst_mode_selection">Mode</string>
@@ -723,7 +723,7 @@ mm&quot;</string>
     <string name="subscribe_dlg_btn">Start</string>
     <string name="subscribe_dlg_btn_txt">Subscribe</string>
     <string name="subscribe_dlg_content">Subscribe to get fresh wallpapers delivered to your Lock screen daily and receive morning greetings.</string>
-    <string name="subscribe_dlg_content2">Subscribe to \&quot;%1$s\&quot;</string>
+    <string name="subscribe_dlg_content2">Subscribe to \"%1$s\"</string>
     <string name="subscribe_dlg_desc">Subscribe to view slideshows</string>
     <string name="subscribe_dlg_title">Add your favorite images to the mix</string>
     <string name="subscribe_free">Subscribe</string>
@@ -736,25 +736,25 @@ mm&quot;</string>
     <string name="subscribe_success_content_per_three_hour">Change wallpaper every 3 hours</string>
     <string name="subscribe_success_content_per_unlock">Change wallpaper every time device is locked</string>
     <string name="subscribe_update_time_setting">Set a different interval</string>
-    <string name="summary">&quot;Agree to our &lt;a href=&apos;%s&apos;&gt;Privacy Policy&lt;/a&gt; to view online content. If you disagree, local wallpapers will still be available.&quot;</string>
-    <string name="summary2">&quot;By using this feature, you&apos;re agreeing to our &lt;font color=&apos;#37A5FF&apos;&gt;&lt;a href =&apos;%1$s&apos;&gt;User Agreement&lt;/font&gt;&lt;/a&gt; and &lt;font color=&apos;#37A5FF&apos;&gt;&lt;a href=&apos;%2$s&apos;&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;. This feature needs to connect to the internet to work normally.​&quot;</string>
-    <string name="summary_international">&quot;By using this feature, you&apos;re agreeing to our &lt;a href =&apos;%1$s&apos;&gt;User Agreement&lt;/a&gt; and &lt;a href=&apos;%2$s&apos;&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​&quot;</string>
+    <string name="summary">"Agree to our &lt;a href='%s'&gt;Privacy Policy&lt;/a&gt; to view online content. If you disagree, local wallpapers will still be available."</string>
+    <string name="summary2">"By using this feature, you're agreeing to our &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;User Agreement&lt;/font&gt;&lt;/a&gt; and &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Privacy Policy&lt;/font&gt;&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
+    <string name="summary_international">"By using this feature, you're agreeing to our &lt;a href ='%1$s'&gt;User Agreement&lt;/a&gt; and &lt;a href='%2$s'&gt;Privacy Policy&lt;/a&gt;. This feature needs to connect to the internet to work normally.​"</string>
     <string name="sure_close_gallery">Turn off Wallpaper Carousel?</string>
-    <string name="sure_close_gallery_des">&quot;You won&apos;t be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?&quot;</string>
+    <string name="sure_close_gallery_des">"You won't be able to have fresh images delivered to your Home screen and Lock screen if you turn off Wallpaper Carousel. Turn off anyway?"</string>
     <string name="system_default">Default</string>
     <string name="tab_user_title_bar_text">Settings</string>
-    <string name="tb_collapse_desc">Hide the \&quot;Share\&quot; menu</string>
+    <string name="tb_collapse_desc">Hide the \"Share\" menu</string>
     <string name="temporary_not_available">این قابلیت هنوز در دسترس نیست</string>
-    <string name="theme_apply_failured">&quot;Couldn&apos;t apply, try again later&quot;</string>
+    <string name="theme_apply_failured">"Couldn't apply, try again later"</string>
     <string name="theme_apply_lockscreen_apply">Turning on Wallpaper Carousel…</string>
-    <string name="theme_apply_lockscreen_failed">&quot;Couldn&apos;t apply&quot;</string>
+    <string name="theme_apply_lockscreen_failed">"Couldn't apply"</string>
     <string name="theme_apply_lockscreen_success">Applied successfully</string>
     <string name="theme_apply_success">Applied successfully</string>
     <string name="theme_applying">Applying…</string>
     <string name="theme_close_maml">Wallpaper Carousel images will replace Lock screen wallpaper.</string>
     <string name="theme_des">Apply default theme and turn on Wallpaper Carousel again.</string>
     <string name="theme_des_lock_style">Apply default Lock screen and turn on Wallpaper Carousel again.</string>
-    <string name="theme_des_maml">&quot;This might take a few seconds. Other components of the current theme won&apos;t be affected. The theme will be refreshed to apply changes.&quot;</string>
+    <string name="theme_des_maml">"This might take a few seconds. Other components of the current theme won't be affected. The theme will be refreshed to apply changes."</string>
     <string name="theme_ok">Settings</string>
     <string name="theme_title">Switch to default theme</string>
     <string name="theme_title_lock_style">Switch to default Lock screen</string>
@@ -765,18 +765,18 @@ mm&quot;</string>
     <string name="time_current">Just now</string>
     <string name="toast_ad_down_tip">Downloading app…</string>
     <string name="toast_ad_down_tip2">Downloading %s…</string>
-    <string name="toast_connect_failed_tip">&quot;Couldn&apos;t connect. Wait a minute or teo and try again.&quot;</string>
+    <string name="toast_connect_failed_tip">"Couldn't connect. Wait a minute or teo and try again."</string>
     <string name="toast_has_close_gallery">Turned off Wallpaper Carousel successfully</string>
     <string name="toast_has_open_gallery">Turned on Wallpaper Carousel successfully</string>
-    <string name="toast_load_failed_tip">&quot;Couldn&apos;t load items&quot;</string>
-    <string name="toast_load_hd_fail">&quot;Couldn&apos;t load original image&quot;</string>
+    <string name="toast_load_failed_tip">"Couldn't load items"</string>
+    <string name="toast_load_hd_fail">"Couldn't load original image"</string>
     <string name="toast_neterror_tip">A network error occurred</string>
     <string name="toast_update_no_more_newest_feeds">No new items for now</string>
     <string name="top_search_tip">Search for the categories you like</string>
     <string name="torch">Flashlight</string>
     <string name="uninstall_introducation_text_desc">Wallpaper Carousel delivers new quality images directly to your Lock screen. Make sure you can do without its features before you uninstall the app.</string>
     <string name="uninstall_introduction_text_title">About Wallpaper Carousel</string>
-    <string name="uninstall_warning_text_desc">&quot;Without Wallpaper Carousel you won&apos;t be able to receive new Lock screen wallpapers regularly. However, you&apos;ll be able to download and install the app again. Delete Wallpaper Carousel?&quot;</string>
+    <string name="uninstall_warning_text_desc">"Without Wallpaper Carousel you won't be able to receive new Lock screen wallpapers regularly. However, you'll be able to download and install the app again. Delete Wallpaper Carousel?"</string>
     <string name="uninstall_warning_text_title">Deleting Wallpaper Carousel</string>
     <string name="update_email_address_dialog_message">پیش از به‌روزرسانی ایمیل بازیابی لازم است هویت خود را تأیید کنید.</string>
     <string name="update_email_address_dialog_title">به‌روزرسانی ایمیل بازیابی</string>
@@ -799,8 +799,8 @@ mm&quot;</string>
     <string name="weibo_redirect_uri"></string>
     <string name="wlan_download">Update over WLAN only</string>
     <string name="wlan_download_cn">Update over WLAN only</string>
-    <string name="wm_storage_left">&quot;Remaining: &quot;</string>
-    <string name="wm_storage_used">&quot;Occupied: &quot;</string>
+    <string name="wm_storage_left">"Remaining: "</string>
+    <string name="wm_storage_used">"Occupied: "</string>
     <string name="wp_desktop_enable_title">Home screen slideshow</string>
     <string name="wp_lockscreen_enable_title">Lock screen slideshow</string>
     <string name="xw_subscribe"></string>

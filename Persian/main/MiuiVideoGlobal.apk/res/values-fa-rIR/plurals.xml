@@ -53,8 +53,8 @@
 <item quantity="one">اندازه فایل: %.2f کیلوبایت</item>
 </plurals>
 <plurals name="plus_search_result_title">
-<item quantity="other">%2$s نتیجه درباره \&quot;%1$s\&quot; یافت شد</item>
-<item quantity="one">%2$s نتیجه درباره \&quot;%1$s\&quot; یافت شد</item>
+<item quantity="other">%2$s نتیجه درباره \"%1$s\" یافت شد</item>
+<item quantity="one">%2$s نتیجه درباره \"%1$s\" یافت شد</item>
 </plurals>
 <plurals name="plus_serval_pictures">
 <item quantity="other">%d تصویر</item>

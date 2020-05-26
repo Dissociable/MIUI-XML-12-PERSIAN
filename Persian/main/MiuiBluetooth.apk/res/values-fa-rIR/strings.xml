@@ -53,8 +53,8 @@
     <string name="app_process_limit_title">محدودیت فرایند پس‌زمینه</string>
     <string name="available_via_carrier">قابل دسترسی از طریق %1$s</string>
     <string name="available_via_passpoint">قابل دسترسی از طریق %1$s</string>
-    <string name="band_24G">&quot; (باند ۲.۴ گیگاهرتزی)&quot;</string>
-    <string name="band_5G">&quot; (باند ۵ گیگاهرتزی)&quot;</string>
+    <string name="band_24G">" (باند ۲.۴ گیگاهرتزی)"</string>
+    <string name="band_5G">" (باند ۵ گیگاهرتزی)"</string>
     <string name="battery_info_status_charging">درحال شارژ</string>
     <string name="battery_info_status_charging_lower">درحال شارژ</string>
     <string name="battery_info_status_discharging">شارژ نمی‌شود</string>
@@ -144,17 +144,17 @@
     <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی به سیم‌کارت</string>
     <string name="bluetooth_search_for_devices">جستجوی دستگاه‌ها</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">بیت‌های صدای بلوتوث به ازای نمونه</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-بیت‌ها به ازای نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"انتخاب کدک صدای بلوتوث:
+بیت‌ها به ازای نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">حالت کانال صدای بلوتوث</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-حالت کانال&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"انتخاب کدک صدای بلوتوث:
+حالت کانال"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">کدک LDAC صدای بلوتوث: کیفیت بازپخش</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">&quot;انتخاب کدک LDAC صدای بلوتوث:
-کیفیت بازپخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"انتخاب کدک LDAC صدای بلوتوث:
+کیفیت بازپخش"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">نرخ نمونه صدای بلوتوث</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-نرخ نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"انتخاب کدک صدای بلوتوث:
+نرخ نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">درحال پخش: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">کدک صوتی بلوتوث</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">انتخاب رها‌سازی کدک صوتی بلوتوث</string>
@@ -189,10 +189,10 @@
     <string name="connected_via_network_scorer_default">به صورت خودکار از طریق ارائه دهنده شبکه برتر وصل شد</string>
     <string name="connected_via_passpoint">متصل شده از طریق %1$s</string>
     <string name="content_description_menu_button">منو</string>
-    <string name="convert_to_fbe_warning">&quot;بخش داده‌ها را به فایل رمزگذاری شده تبدیل کنید.
+    <string name="convert_to_fbe_warning">"بخش داده‌ها را به فایل رمزگذاری شده تبدیل کنید.
  هشدار: این کار باعث پاک کردن همه داده‌های شما می‌شود.
  این ویژگی درحال توسعه است و ممکن است به درستی کار نکند.
- گزینه &apos;پاک‌سازی و تبدیل…&apos; را زده تا ادامه یابد.&quot;</string>
+ گزینه 'پاک‌سازی و تبدیل…' را زده تا ادامه یابد."</string>
     <string name="convert_to_file_encryption">تبدیل به رمزگذاری فایل</string>
     <string name="convert_to_file_encryption_done">فایل‌ها رمزگذاری شده‌اند</string>
     <string name="convert_to_file_encryption_enabled">تبدیل…</string>
@@ -345,10 +345,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mobile_data_always_on">فعال بودن همیشگی اینترنت همراه</string>
     <string name="mobile_data_always_on_summary">همیشه اینترنت همراه فعال باشد. حتی زمانی که Wi‑Fi فعال است (برای جابجایی سریع شبکه).</string>
     <string name="mock_location_app">انتخاب برنامه موقعیت ساختگی</string>
@@ -656,10 +656,10 @@
     <string name="wifi_wapi_as_certificate">گواهی AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">انتخاب به‌صورت دستی</string>
     <string name="wifi_wapi_certification_dont_exist">گذرواژه وارد شده شبکه اشتباه است.</string>
-    <string name="wifi_wapi_fail_to_auth">&quot;تأیید هویت WAPI کامل نشد.
-مطمئن شوید گواهی‌های شما معتبرند.&quot;</string>
-    <string name="wifi_wapi_fail_to_init">&quot;گواهی‌های WAPI باز نمی‌شوند.
-به نظر می‌رسد گواهی دادن به حافظه فعال نیست.&quot;</string>
+    <string name="wifi_wapi_fail_to_auth">"تأیید هویت WAPI کامل نشد.
+مطمئن شوید گواهی‌های شما معتبرند."</string>
+    <string name="wifi_wapi_fail_to_init">"گواهی‌های WAPI باز نمی‌شوند.
+به نظر می‌رسد گواهی دادن به حافظه فعال نیست."</string>
     <string name="wifi_wapi_psk_type">نوع گذرواژه</string>
     <string name="wifi_wapi_user_certificate">گواهی کاربر</string>
     <string name="window_animation_scale_title">مقیاس پنجره پویانمایی</string>

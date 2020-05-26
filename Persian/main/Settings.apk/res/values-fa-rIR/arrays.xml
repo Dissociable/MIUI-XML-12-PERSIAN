@@ -667,9 +667,9 @@
 </string-array>
 <string-array name="bluetooth_audio_active_device_summaries">
 <item/>
-<item>&quot; | فعال&quot;</item>
-<item>&quot; | فعال (رسانه)&quot;</item>
-<item>&quot; | فعال (گوشی)&quot;</item>
+<item>" | فعال"</item>
+<item>" | فعال (رسانه)"</item>
+<item>" | فعال (گوشی)"</item>
 </string-array>
 <string-array name="bluetooth_avrcp_version_values">
 <item>avrcp14</item>
@@ -1731,22 +1731,22 @@
 <item>تنظیم چرخه مصرف...</item>
 </string-array>
 <string-array name="date_of_app_all">
-<item>&quot;امروز (اینترنت همراه) &quot;</item>
-<item>&quot;این ماه ( اینترنت همراه) &quot;</item>
-<item>&quot;ماه گذشته (اینترنت همراه) &quot;</item>
-<item>&quot;امروز (Wi-Fi) &quot;</item>
-<item>&quot;این ماه (Wi-Fi) &quot;</item>
-<item>&quot;ماه گذشته (Wi-Fi) &quot;</item>
+<item>"امروز (اینترنت همراه) "</item>
+<item>"این ماه ( اینترنت همراه) "</item>
+<item>"ماه گذشته (اینترنت همراه) "</item>
+<item>"امروز (Wi-Fi) "</item>
+<item>"این ماه (Wi-Fi) "</item>
+<item>"ماه گذشته (Wi-Fi) "</item>
 </string-array>
 <string-array name="date_of_traffic">
-<item>&quot;امروز &quot;</item>
-<item>&quot;این ماه &quot;</item>
-<item>&quot;ماه گذشته &quot;</item>
+<item>"امروز "</item>
+<item>"این ماه "</item>
+<item>"ماه گذشته "</item>
 </string-array>
 <string-array name="date_of_traffic_prefix">
-<item>&quot;امروز: &quot;</item>
-<item>&quot;این ماه: &quot;</item>
-<item>&quot;ماه گذشته: &quot;</item>
+<item>"امروز: "</item>
+<item>"این ماه: "</item>
+<item>"ماه گذشته: "</item>
 </string-array>
 <string-array name="debug_hw_overdraw_entries">
 <item>خاموش</item>
@@ -2387,8 +2387,8 @@
 <item>مجوزهای گروه کاربر را در گروه ترکیب فعلی تأیید کنید</item>
 <item>دوباره وارد شوید</item>
 <item>دسترسی به دستگاه نصب شده: mtpfs /media/mtp از طریق مدیریت فایل؛ همانند پوشه محلی.</item>
-<item>&quot;حذف دستگاه: usermount -u /media/mtp
-توجه: فقط برای Ubuntu 8.04!&quot;</item>
+<item>"حذف دستگاه: usermount -u /media/mtp
+توجه: فقط برای Ubuntu 8.04!"</item>
 </string-array>
 <string-array name="msd_pc_system_retry_mac">
 <item>@string/msd_install_retry_reinstall_mac</item>
@@ -3410,8 +3410,8 @@
 <item>2</item>
 </string-array>
 <string-array name="traffic_type">
-<item>&quot;مصرف اینترنت همراه &quot;</item>
-<item>&quot;مصرف Wi-Fi &quot;</item>
+<item>"مصرف اینترنت همراه "</item>
+<item>"مصرف Wi-Fi "</item>
 </string-array>
 <string-array name="transition_animation_scale_entries">
 <item>پویانمایی خاموش</item>
@@ -3724,7 +3724,7 @@
 <item>PWD</item>
 <item>SIM</item>
 <item>AKA</item>
-<item>&quot;AKA'&quot;</item>
+<item>"AKA'"</item>
 </string-array>
 <string-array name="wifi_eap_method_add_sim">
 <item>PEAP</item>
@@ -3789,7 +3789,7 @@
 <item>GTC</item>
 <item>سیم کارت</item>
 <item>AKA</item>
-<item>&quot;AKA'&quot;</item>
+<item>"AKA'"</item>
 </string-array>
 <string-array name="wifi_phase2_entries">
 <item>هیچ‌کدام</item>

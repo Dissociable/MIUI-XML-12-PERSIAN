@@ -31,14 +31,14 @@
     <string name="account_bind_secure_phone_title">Add recovery phone number</string>
     <string name="account_crop_user_avatar">Crop photo</string>
     <string name="account_empty_user_name">Enter your Mi Account username</string>
-    <string name="account_error_all_space_user_name">&quot;Username can&apos;t contain only space characters&quot;</string>
-    <string name="account_error_invalid_user_name">&quot;Name can&apos;t contain &lt;, &gt;, or /&quot;</string>
-    <string name="account_error_longer_user_name">&quot;Name can&apos;t be longer than 20 characters&quot;</string>
+    <string name="account_error_all_space_user_name">"Username can't contain only space characters"</string>
+    <string name="account_error_invalid_user_name">"Name can't contain &lt;, &gt;, or /"</string>
+    <string name="account_error_longer_user_name">"Name can't be longer than 20 characters"</string>
     <string name="account_error_shorter_user_name">Name must be longer than 2 characters</string>
     <string name="account_error_user_birthday">The birthday you entered is invalid</string>
     <string name="account_error_user_name">This nickname is invalid. Try a different one.</string>
     <string name="account_invalid_user_avatar">This photo is invalid. Try a different one.</string>
-    <string name="account_limit_update_birthday">&quot;Can&apos;t update birthday right now&quot;</string>
+    <string name="account_limit_update_birthday">"Can't update birthday right now"</string>
     <string name="account_no_set">None</string>
     <string name="account_none_bind_info">None</string>
     <string name="account_none_user_name">None</string>
@@ -63,7 +63,7 @@
     <string name="action_submit">ارسال</string>
     <string name="action_update_phone">Change phone number</string>
     <string name="activate_email_notice">Make sure to activate your account within 24 hours</string>
-    <string name="activity_not_found_notice">&quot;Can&apos;t find the app&quot;</string>
+    <string name="activity_not_found_notice">"Can't find the app"</string>
     <string name="add_to_trust_device">This is a trusted device</string>
     <string name="announcement">توجه</string>
     <string name="app_empty">برنامه‌ها یافت نشدند.</string>
@@ -76,7 +76,7 @@
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="btn_send">ارسال</string>
     <string name="bugreport_dialog_not_show_again">دوباره نمایش داده نشود</string>
-    <string name="bugreport_dialog_submit_content">&lt;Data&gt;شما درحال ذخیره گزارشات نرم‌افزاری روی این دستگاه هستید. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت شما باشند. در صورتی که نمی‌خواهید این اطلاعات افشاء شوند گزارشات را با شخص دیگری همرسانی نکنید. انتخاب \&quot;پذیرفتن\&quot; به معنی آن است که شما&lt;a href=\&quot;%1$s\&quot;&gt; سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;توافقنامه کاربر&lt;/a&gt; ما را خوانده و پذیرفته‌اید.&lt;/Data&gt;</string>
+    <string name="bugreport_dialog_submit_content">&lt;Data&gt;شما درحال ذخیره گزارشات نرم‌افزاری روی این دستگاه هستید. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت شما باشند. در صورتی که نمی‌خواهید این اطلاعات افشاء شوند گزارشات را با شخص دیگری همرسانی نکنید. انتخاب \"پذیرفتن\" به معنی آن است که شما&lt;a href=\"%1$s\"&gt; سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;توافقنامه کاربر&lt;/a&gt; ما را خوانده و پذیرفته‌اید.&lt;/Data&gt;</string>
     <string name="bugreport_dump_complete_notification_summary">برای مشاهده ضربه بزنید.</string>
     <string name="bugreport_dump_complete_notification_title">گزارش اشکال ایجاد شد</string>
     <string name="bugreport_dump_start_notification_summary">این کار ممکن است چند دقیقه طول بکشد.</string>
@@ -90,13 +90,13 @@
     <string name="catch_full_log_add_photo">افوزدن عکس</string>
     <string name="catch_full_log_add_photo_dialog_content">اگر اشکالی که گزارش می‌کنید به کیفیت تصویر دوربین مربوط می‌شود، یک عکس نمونه اصلی (بریده نشده) افزوده تا به ما در یافتن اشکال کمک کنید. اکنون عکس افزوده شود؟</string>
     <string name="catch_full_log_dialog_confirm_text">رفتن به صفحه اصلی</string>
-    <string name="catch_full_log_dialog_content">MIUI درحال ایجاد گزارش است. این کار ممکن است روی کارایی کلی دستگاه شما اثر بگذارد. در صورتی که نمی‌توانید اشکالی را که می‌خواهید گزارش کنید را بازتولید کنید به گزارشات باز گشته و روی \&quot;لغو\&quot; بزنید.</string>
+    <string name="catch_full_log_dialog_content">MIUI درحال ایجاد گزارش است. این کار ممکن است روی کارایی کلی دستگاه شما اثر بگذارد. در صورتی که نمی‌توانید اشکالی را که می‌خواهید گزارش کنید را بازتولید کنید به گزارشات باز گشته و روی \"لغو\" بزنید.</string>
     <string name="catch_full_log_dump_hprof_failed">گزارش کندی تولید نشد</string>
-    <string name="catch_full_log_item_content_catch_direct">&quot;۱. به ویژگی که می‌خواهید آن را گزارش کنید باز گشته و باز تولید کنید.
-۲. به این صفحه باز گشته و روی \&quot;پایان و بارگذاری\&quot; بزنید.&quot;</string>
-    <string name="catch_full_log_item_content_need_open">&quot;۱. روی \&quot;تولید گزارش\&quot; بزنید.
+    <string name="catch_full_log_item_content_catch_direct">"۱. به ویژگی که می‌خواهید آن را گزارش کنید باز گشته و باز تولید کنید.
+۲. به این صفحه باز گشته و روی \"پایان و بارگذاری\" بزنید."</string>
+    <string name="catch_full_log_item_content_need_open">"۱. روی \"تولید گزارش\" بزنید.
 ۲. به ویژگی که می‌خواهید آن را گزارش کنید باز گشته و باز تولید کنید.
-۳. به این صفحه باز گشته و روی \&quot;پایان و بارگذاری\&quot; بزنید.&quot;</string>
+۳. به این صفحه باز گشته و روی \"پایان و بارگذاری\" بزنید."</string>
     <string name="catch_full_log_item_content_title">مراحل:</string>
     <string name="catch_full_log_item_title_audio">صدا، ضبط صدا و صدای تماس</string>
     <string name="catch_full_log_item_title_bt">بلوتوث</string>
@@ -108,13 +108,13 @@
     <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
     <string name="catch_full_log_notification_content">برای بازگشت به گزارشات ضربه بزنید</string>
     <string name="catch_full_log_notification_title">درحال تولید گزارش…</string>
-    <string name="catch_full_log_privacy_content_audio">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات درباره صداهای روی دستگاه شما، شامل تاریخچه پخش و تاریخچه ضبط باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \&quot;پذیرفتن\&quot; در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_bt">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات مصرف دستگاه بلوتوث (شامل تاریخچه تماس، پیام‌ها، فایل‌های منتقل شده و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \&quot;پذیرفتن\&quot; در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_gps">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات شخصی و اطلاعات موقعیت مکانی شما باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \&quot;پذیرفتن\&quot; در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_sensor">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات جمع‌آوری شده توسط حس‌گرهای دستگاه شما (همچون حس‌گر نور محیطی، فشار سنج، گام شمار، مغناطیس سنج و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \&quot;پذیرفتن\&quot; در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_signal">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی پیام‌ها، تاریخچه تماس، اطلاعات شبکه و داده‌های ارتباطات شما باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \&quot;پذیرفتن\&quot; در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_wifi">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات شخصی، اطلاعات موقعیت و نیز نشانی‌های IP و MAC دستگاه شما باشند. در صورتی که به یک شبکه Wi-Fi رمزگذاری نشده وصل شده‌اید، ممکن است بتوانیم به بخش‌هایی از داده‌های ارتباطاتی شما دسترسی پیدا کنیم. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \&quot;پذیرفتن\&quot; در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_wifi_china">&quot;You&apos;re generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you&apos;re connected to an unencrypted WLAN network, we might also be able to access parts of your communication data. Be careful and don&apos;t disclose these logs to other people. By tapping \&quot;Agree\&quot; below, you&apos;re agreeing that we&apos;ll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report.&quot;</string>
+    <string name="catch_full_log_privacy_content_audio">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات درباره صداهای روی دستگاه شما، شامل تاریخچه پخش و تاریخچه ضبط باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \"پذیرفتن\" در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_bt">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات مصرف دستگاه بلوتوث (شامل تاریخچه تماس، پیام‌ها، فایل‌های منتقل شده و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \"پذیرفتن\" در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_gps">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات شخصی و اطلاعات موقعیت مکانی شما باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \"پذیرفتن\" در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_sensor">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات جمع‌آوری شده توسط حس‌گرهای دستگاه شما (همچون حس‌گر نور محیطی، فشار سنج، گام شمار، مغناطیس سنج و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \"پذیرفتن\" در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_signal">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی پیام‌ها، تاریخچه تماس، اطلاعات شبکه و داده‌های ارتباطات شما باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \"پذیرفتن\" در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_wifi">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات شخصی، اطلاعات موقعیت و نیز نشانی‌های IP و MAC دستگاه شما باشند. در صورتی که به یک شبکه Wi-Fi رمزگذاری نشده وصل شده‌اید، ممکن است بتوانیم به بخش‌هایی از داده‌های ارتباطاتی شما دسترسی پیدا کنیم. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \"پذیرفتن\" در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_wifi_china">"You're generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you're connected to an unencrypted WLAN network, we might also be able to access parts of your communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
     <string name="catch_full_log_start_dump_hprof">تولید گزارش کندی</string>
     <string name="catch_full_log_submit_directly">ارسال</string>
     <string name="change_activate_email">Change email address</string>
@@ -122,7 +122,7 @@
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="choose_to_signin">Yes</string>
-    <string name="choose_to_signup">&quot;No, I&apos;ll create one&quot;</string>
+    <string name="choose_to_signup">"No, I'll create one"</string>
     <string name="close_feedback_main">پنهان کردن</string>
     <string name="collect_diagnosis_log">Collect logs</string>
     <string name="confirm_activate_email">Verified</string>
@@ -139,10 +139,10 @@
     <string name="customer_service_complain">گزارش خدمات به مشتریان</string>
     <string name="customer_service_station">موقعیت‌های خدمات</string>
     <string name="description">این مسئله را توضیح دهید</string>
-    <string name="diagnosis_log_send_failed">&quot;Couldn&apos;t send logs. Try again.&quot;</string>
-    <string name="diagnosis_log_sent_format">&quot;Sent logs successfully.
+    <string name="diagnosis_log_send_failed">"Couldn't send logs. Try again."</string>
+    <string name="diagnosis_log_sent_format">"Sent logs successfully.
 ID:%s
-Send this code to the supervisor.&quot;</string>
+Send this code to the supervisor."</string>
     <string name="discard_draft_dialog_button_cancel">ماندن در همین‌جا</string>
     <string name="discard_draft_dialog_button_discard">صرف‌نظر</string>
     <string name="discard_draft_dialog_content">هر تغییری که در این گزارش ایجاد کرده باشید از دست خواهد رفت.</string>
@@ -185,7 +185,7 @@ Send this code to the supervisor.&quot;</string>
     <string name="feedback_answer_detail_submit_dialog_confirm">ارسال</string>
     <string name="feedback_answer_detail_submit_dialog_content">شما می‌توانید اشکالی که با آن روبرو شده‌اید را توضیح داده و ما نیز تلاش می‌کنیم آن را برطرف کنیم. بازخورد ارسال شود؟</string>
     <string name="feedback_answer_detail_submit_dialog_title">بازخورد ارسال شود؟</string>
-    <string name="feedback_bug_status_change_notification_desc">%1$s مشکل \&quot;%2$s\&quot; شد</string>
+    <string name="feedback_bug_status_change_notification_desc">%1$s مشکل \"%2$s\" شد</string>
     <string name="feedback_choose_app_tag">انتخاب اشکال</string>
     <string name="feedback_choose_module">انتخاب موارد</string>
     <string name="feedback_choose_module_hint">لازم</string>
@@ -230,7 +230,7 @@ Send this code to the supervisor.&quot;</string>
     <string name="feedback_probability_label">احتمال</string>
     <string name="feedback_remind_login_btn">ورود</string>
     <string name="feedback_report_remind_login_desc">با حساب Mi خود وارد شوید تا مهندسین ما بتوانند با شما تماس بگیرند.</string>
-    <string name="feedback_report_remind_login_desc2">شما همچنین می‌توانید روند گزارش خود را در \&quot;گزارش‌های من\&quot; مشاهده کنید.</string>
+    <string name="feedback_report_remind_login_desc2">شما همچنین می‌توانید روند گزارش خود را در \"گزارش‌های من\" مشاهده کنید.</string>
     <string name="feedback_reproductivity_everytime">هر بار</string>
     <string name="feedback_reproductivity_occasionally">گهگاه</string>
     <string name="feedback_reproductivity_often">بیشتر وقت‌ها</string>
@@ -238,17 +238,17 @@ Send this code to the supervisor.&quot;</string>
     <string name="feedback_retest_label">مراحل ایجاد دوباره</string>
     <string name="feedback_select_images">یک تصویر یا یک ویدئوی کوتاه بیافزایید</string>
     <string name="feedback_select_modem_log">افزودن گزارشات مودم</string>
-    <string name="feedback_select_modem_log_not_select_desc">\&quot;گزارشات مودم افزوده شده\&quot; انتخاب نشده</string>
-    <string name="feedback_select_modem_log_select_desc">\&quot;گزارشات مودم افزوده شده\&quot; انتخاب شده</string>
+    <string name="feedback_select_modem_log_not_select_desc">\"گزارشات مودم افزوده شده\" انتخاب نشده</string>
+    <string name="feedback_select_modem_log_select_desc">\"گزارشات مودم افزوده شده\" انتخاب شده</string>
     <string name="feedback_select_problem">اشکالات</string>
-    <string name="feedback_select_problem_not_select_desc">\&quot;اشکالات\&quot; انتخاب نشده</string>
-    <string name="feedback_select_problem_select_desc">\&quot;اشکالات\&quot; انتخاب شده</string>
+    <string name="feedback_select_problem_not_select_desc">\"اشکالات\" انتخاب نشده</string>
+    <string name="feedback_select_problem_select_desc">\"اشکالات\" انتخاب شده</string>
     <string name="feedback_select_suggestion">پیشنهادات</string>
-    <string name="feedback_select_suggestion_not_select_desc">\&quot;پیشنهادات\&quot; انتخاب نشده</string>
-    <string name="feedback_select_suggestion_select_desc">\&quot;پیشنهادات\&quot; انتخاب شده</string>
+    <string name="feedback_select_suggestion_not_select_desc">\"پیشنهادات\" انتخاب نشده</string>
+    <string name="feedback_select_suggestion_select_desc">\"پیشنهادات\" انتخاب شده</string>
     <string name="feedback_select_upload_log">افزودن گزارش</string>
-    <string name="feedback_select_upload_log_not_select_desc">\&quot;گزارشات افزوده شده\&quot; انتخاب نشده</string>
-    <string name="feedback_select_upload_log_select_desc">\&quot;گزارشات افزوده شده\&quot; انتخاب شده</string>
+    <string name="feedback_select_upload_log_not_select_desc">\"گزارشات افزوده شده\" انتخاب نشده</string>
+    <string name="feedback_select_upload_log_select_desc">\"گزارشات افزوده شده\" انتخاب شده</string>
     <string name="feedback_status_answered">پاسخ داده شده</string>
     <string name="feedback_status_change_notification_title">روند گزارش شما به‌روز شد</string>
     <string name="feedback_status_collect_log_failed">گزارش‌ها دریافت نشدند</string>
@@ -276,12 +276,12 @@ Send this code to the supervisor.&quot;</string>
     <string name="feedback_submit_failed_notification_title">گزارش ارسال نشد</string>
     <string name="feedback_submit_hint">هر زمان با مشکلی مواجه شدید، اشکالات را گزارش دهید تا به ما در حل سریع‌تر آنها کمک کنید.</string>
     <string name="feedback_submit_hint1">ما درباره روند گزارش شما به شما اطلاع خواهیم داد</string>
-    <string name="feedback_submit_hint2">به \&quot;گزارشات من\&quot; رفته تا جزئیات را مشاهده کنید</string>
+    <string name="feedback_submit_hint2">به \"گزارشات من\" رفته تا جزئیات را مشاهده کنید</string>
     <string name="feedback_submit_hint_gone">پیام بسته شده</string>
     <string name="feedback_submit_succ">با موفقیت ارسال شد</string>
     <string name="feedback_submit_succ_button">انجام شد</string>
     <string name="feedback_submitting">درحال ارسال</string>
-    <string name="feedback_suggestion_status_change_notification_desc">%1$s پیشنهاد \&quot;%2$s\&quot; شد</string>
+    <string name="feedback_suggestion_status_change_notification_desc">%1$s پیشنهاد \"%2$s\" شد</string>
     <string name="feedback_third_packagename_hint">کدام برنامه سوم‌شخص اشکال ایجاد می‌کند؟</string>
     <string name="feedback_title">عنوان</string>
     <string name="feedback_title_hint">اشکال را به صورت خلاصه توضیح دهید</string>
@@ -297,7 +297,7 @@ Send this code to the supervisor.&quot;</string>
     <string name="from">از %1$s</string>
     <string name="get_back_pwd">Resetting password</string>
     <string name="get_ph_ticket">Get code</string>
-    <string name="get_phone_bind_exceed_limit">&quot;You can associate up to 3 Mi Accounts with a phone number. Can&apos;t add new accounts.&quot;</string>
+    <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
     <string name="get_phone_verifycode_exceed_limit">Too many verification codes have been sent to this number. Wait 24 hours and try again.</string>
     <string name="google_application_id"></string>
     <string name="goon_feedback_main">ادامه</string>
@@ -306,8 +306,8 @@ Send this code to the supervisor.&quot;</string>
     <string name="hint_feedback_main">این مسئله را توضیح دهید</string>
     <string name="i_know">OK</string>
     <string name="identity">Identification</string>
-    <string name="inconsistent_pwd">&quot;Passwords don&apos;t match&quot;</string>
-    <string name="input_email_address_notice">&quot;We&apos;ll use this email to verify your account&quot;</string>
+    <string name="inconsistent_pwd">"Passwords don't match"</string>
+    <string name="input_email_address_notice">"We'll use this email to verify your account"</string>
     <string name="input_new_pwd">Enter new password</string>
     <string name="isornot_your_mi_account">Is this your Mi Account?</string>
     <string name="issue_search">جستجو</string>
@@ -349,17 +349,17 @@ Send this code to the supervisor.&quot;</string>
     <string name="message_label">پیام</string>
     <string name="mi_service_dialog_cancel">خروج</string>
     <string name="mi_service_dialog_confirm">باز کردن</string>
-    <string name="mi_service_dialog_content">همه ویژگی‌های بازخورد به برنامه جدید \&quot;خدمات و بازخوردها\&quot; منتقل شده‌اند. برنامه بازخورد از صفحه اصلی شما حذف خواهد شد. روی \&quot;باز کردن\&quot; زده تا \&quot;خدمات و بازخوردها\&quot; را امتحان کنید.</string>
-    <string name="mi_service_dialog_title">معرفی \&quot;خدمات و بازخوردها\&quot;</string>
+    <string name="mi_service_dialog_content">همه ویژگی‌های بازخورد به برنامه جدید \"خدمات و بازخوردها\" منتقل شده‌اند. برنامه بازخورد از صفحه اصلی شما حذف خواهد شد. روی \"باز کردن\" زده تا \"خدمات و بازخوردها\" را امتحان کنید.</string>
+    <string name="mi_service_dialog_title">معرفی \"خدمات و بازخوردها\"</string>
     <string name="min_error">%1$s شما باید طولانی‌تر باشد.</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mobile_data_note_dialog_cancel">منتظر Wi-Fi می‌مانم</string>
     <string name="mobile_data_note_dialog_cancel_china">Wait for WLAN</string>
     <string name="mobile_data_note_dialog_confirm">بارگذاری</string>
@@ -409,14 +409,14 @@ Send this code to the supervisor.&quot;</string>
     <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">نام کاربری یا گذرواژه معتبر است</string>
     <string name="passport_barcode_add_account_prompt">برای متصل شدن به یک حساب، بعد از وارد شدن کد QR را دوباره اسکن کنید.</string>
-    <string name="passport_can_not_receive_verification_code">&quot;Can&apos;t receive verification code?&quot;</string>
+    <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
     <string name="passport_captcha_title">Captcha</string>
     <string name="passport_checking_account">درحال بررسی گذرواژه…</string>
     <string name="passport_close">Close</string>
     <string name="passport_delete_account">خروج</string>
     <string name="passport_email">نشانی ایمیل</string>
-    <string name="passport_empty_password">&quot;Password can&apos;t be empty&quot;</string>
-    <string name="passport_empty_user_name">&quot;Username can&apos;t be empty&quot;</string>
+    <string name="passport_empty_password">"Password can't be empty"</string>
+    <string name="passport_empty_user_name">"Username can't be empty"</string>
     <string name="passport_error_auth_fail">Session expired. Sign in again.</string>
     <string name="passport_error_device_id">شناسه دستگاه دریافت نمی‌شود</string>
     <string name="passport_error_email">نشانی ایمیلی که وارد کردید نامعتبر است</string>
@@ -428,7 +428,7 @@ Send this code to the supervisor.&quot;</string>
     <string name="passport_error_empty_voice_code">Enter captcha</string>
     <string name="passport_error_illegal_pwd">گذرواژه نامعتبر</string>
     <string name="passport_error_network">نمی‌توان به شبکه متصل شد</string>
-    <string name="passport_error_no_password_user">&quot;You haven&apos;t set the password yet. Sign in with SMS.&quot;</string>
+    <string name="passport_error_no_password_user">"You haven't set the password yet. Sign in with SMS."</string>
     <string name="passport_error_phone_error">شماره تلفن نامعتبر</string>
     <string name="passport_error_server">خطای سرور</string>
     <string name="passport_error_unknown">نمی‌توان وارد شد</string>
@@ -478,8 +478,8 @@ Send this code to the supervisor.&quot;</string>
     <string name="passport_unknow_error">An unknown error occurred</string>
     <string name="passport_unknow_host_network_error">Check your network settings and try again</string>
     <string name="passport_unknow_network_error">A network error occurred</string>
-    <string name="passport_user_agreement_link">&quot;&lt;Data&gt;I&apos;ve read and agree to Xiaomi&apos;s &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;&quot;</string>
-    <string name="passport_user_agreement_link_more">&quot;&lt;Data&gt;I&apos;ve read and agree to the following documents: Xiaomi&apos;s &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;&quot;</string>
+    <string name="passport_user_agreement_link">"&lt;Data&gt;I've read and agree to Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%2$s&gt;Privacy Policy&lt;/a&gt;.&lt;/Data&gt;"</string>
+    <string name="passport_user_agreement_link_more">"&lt;Data&gt;I've read and agree to the following documents: Xiaomi's &lt;a href=%1$s&gt;User Agreement&lt;/a&gt; and &lt;a href=%4$s&gt;Privacy Policy&lt;/a&gt;, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
     <string name="passport_user_id_intro">Enter password for %1$s</string>
     <string name="passport_v_code_error">Verification code is incorrect</string>
     <string name="passport_vcode_notification_title">تاییدیه ورود شما کامل نشده است</string>
@@ -522,13 +522,13 @@ Send this code to the supervisor.&quot;</string>
     <string name="report_miui">گزارش اشکال</string>
     <string name="request_camera_permission_message">This service need to ask your permission follows, we will strictly abide by relevant laws to protect your personal information: &lt;br&gt;&lt;br&gt;&lt;b&gt; Access Camera: experience real-time recording services for setting Avatar &lt;/b&gt;&lt;br&gt;&lt;br&gt; If you do not agree to call the above permissions, this function will not work properly, but it will not affect your use of the basic functions of this application. You can choose to turn off the above permission call in the system settings to withdraw your consent.</string>
     <string name="resend_active_email">Resend</string>
-    <string name="resend_email_reach_limit_message">&quot;You&apos;ve requested too many verification emails. Make sure that the verification email isn&apos;t in your inbox&apos;s Spam folder.&quot;</string>
+    <string name="resend_email_reach_limit_message">"You've requested too many verification emails. Make sure that the verification email isn't in your inbox's Spam folder."</string>
     <string name="resend_email_reach_limit_title">Too many attempts</string>
     <string name="resend_email_success">Sent successfully</string>
     <string name="restart_action">Start over</string>
     <string name="restart_phone_bind_message">It may take some time to receive SMS. Start over anyway?</string>
     <string name="restart_phone_bind_title">Change recovery phone</string>
-    <string name="same_new_and_old_pwd">&quot;Can&apos;t be the same as current password&quot;</string>
+    <string name="same_new_and_old_pwd">"Can't be the same as current password"</string>
     <string name="screen_lock">قفل صفحه</string>
     <string name="search_menu_title">جستجو</string>
     <string name="second_position">۳#</string>
@@ -552,8 +552,8 @@ Send this code to the supervisor.&quot;</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="submit_dialog_cancel">مخالف</string>
     <string name="submit_dialog_confirm">پذیرفتن</string>
-    <string name="submit_dialog_content">&lt;Data&gt;برای استفاده از بازخورد، شما باید &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;توافقنامه کاربر&lt;/a&gt; ما را بپذیرید. اشکالاتی که گزارش می‌کنید همراه با مواردی که ضمیمه‌های آن (ممکن است حاوی اطلاعات شخصی همچون اطلاعات درباره دستگاه و شبکه شما باشد) در سرورهای MIUI بارگذاری خواهند شد. این کار به ما در یافتن و حل اشکالاتی که گزارش می‌کنید به ما کمک خواهد کرد.&lt;/Data&gt;</string>
-    <string name="submit_dialog_content_global">&lt;Data&gt;بازخورد شما همراه با پیوست‌های آن (درصورت داشتن) و گزارشات (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) به سرورهای MIUI ارسال خواهند شد. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب پذیرفتن به معنی آن است که شما &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و پذیرفته‌اید.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content">&lt;Data&gt;برای استفاده از بازخورد، شما باید &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;توافقنامه کاربر&lt;/a&gt; ما را بپذیرید. اشکالاتی که گزارش می‌کنید همراه با مواردی که ضمیمه‌های آن (ممکن است حاوی اطلاعات شخصی همچون اطلاعات درباره دستگاه و شبکه شما باشد) در سرورهای MIUI بارگذاری خواهند شد. این کار به ما در یافتن و حل اشکالاتی که گزارش می‌کنید به ما کمک خواهد کرد.&lt;/Data&gt;</string>
+    <string name="submit_dialog_content_global">&lt;Data&gt;بازخورد شما همراه با پیوست‌های آن (درصورت داشتن) و گزارشات (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) به سرورهای MIUI ارسال خواهند شد. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب پذیرفتن به معنی آن است که شما &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و پذیرفته‌اید.&lt;/Data&gt;</string>
     <string name="submit_dialog_title">ارسال گزارش</string>
     <string name="submit_feedback_info_failed">گزارش ارسال نشد</string>
     <string name="suggestion_description">توضیحات را اینجا اضافه کنید</string>
@@ -564,7 +564,7 @@ Send this code to the supervisor.&quot;</string>
     <string name="tab_title_my_reports">گزارش‌های من</string>
     <string name="tab_title_preferences">تنظیمات</string>
     <string name="tab_title_report">بازخورد</string>
-    <string name="temporary_not_available">&quot;This feature isn&apos;t available yet&quot;</string>
+    <string name="temporary_not_available">"This feature isn't available yet"</string>
     <string name="ticket_hint">Verification code</string>
     <string name="ticket_invalid">The code you entered is incorrect</string>
     <string name="ticket_sign_in">Sign in via SMS</string>
@@ -605,9 +605,9 @@ Send this code to the supervisor.&quot;</string>
     <string name="topic_author">۱#</string>
     <string name="update_dialog_cancel">لغو</string>
     <string name="update_dialog_confirm">به‌روزرسانی</string>
-    <string name="update_dialog_content_log">&quot;موارد جدید:
+    <string name="update_dialog_content_log">"موارد جدید:
 %1$s
-اندازه: %2$s&quot;</string>
+اندازه: %2$s"</string>
     <string name="update_dialog_content_version">حالا می‌توانید به نسخه %1$s به‌روز کنید.</string>
     <string name="update_dialog_title">یک به‌روزرسانی در دسترس است</string>
     <string name="update_email_address_dialog_message">You need to verify your identity before you update the recovery email.</string>
@@ -630,10 +630,10 @@ Send this code to the supervisor.&quot;</string>
     <string name="weibo_redirect_uri"></string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-    <string name="xiaomi_update_sdk_dialog_message">&quot;Introducing version %1$s
-Size: %2$s&quot;</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">&quot;Introducing version %1$s
-Delta update size: %2$s&quot;</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>

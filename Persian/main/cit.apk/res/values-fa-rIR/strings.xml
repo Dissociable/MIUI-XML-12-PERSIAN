@@ -4,7 +4,7 @@
     <string name="ATV_FM">ATV FM</string>
     <string name="ATVtestcheck">ATV Test Check</string>
     <string name="AcceAMag">Acc/Mag</string>
-    <string name="Accelerometer_Calibrate_Result">&quot;accelarate device calibrate&apos;s result:&quot;</string>
+    <string name="Accelerometer_Calibrate_Result">"accelarate device calibrate's result:"</string>
     <string name="BTDetail">BT Details</string>
     <string name="BTSearch">BT Searching</string>
     <string name="BTTestmode">BT Test Mode</string>
@@ -14,10 +14,10 @@
     <string name="BT_scan_over">BT scan over!</string>
     <string name="Bluetooth">Bluetooth:</string>
     <string name="Cali_not_complete">Calibration not completed</string>
-    <string name="CannotFindAtv">&quot;Can&apos;t find ATV application&quot;</string>
-    <string name="CannotFindCALL">&quot;Can&apos;t find Phone application&quot;</string>
-    <string name="CannotFindCamera">&quot;Can&apos;t find Camera application&quot;</string>
-    <string name="CannotFindFM">&quot;Can&apos;t find FM application&quot;</string>
+    <string name="CannotFindAtv">"Can't find ATV application"</string>
+    <string name="CannotFindCALL">"Can't find Phone application"</string>
+    <string name="CannotFindCamera">"Can't find Camera application"</string>
+    <string name="CannotFindFM">"Can't find FM application"</string>
     <string name="CannotfindCamera">Cannot find camera application</string>
     <string name="China_mobile_10086">China Mobile(10086)</string>
     <string name="China_mobile_112">dial(112)</string>
@@ -79,9 +79,9 @@
     <string name="UIM1_unregistered">Unregistered UIM1</string>
     <string name="UIM2_unregistered">Unregistered UIM2</string>
     <string name="UIM_unregistered">Unregistered UIM</string>
-    <string name="UIT87">&quot;  [UIT87]&quot;</string>
-    <string name="UIT88">&quot;  [UIT88]&quot;</string>
-    <string name="UIT89">&quot;  [UIT89]&quot;</string>
+    <string name="UIT87">"  [UIT87]"</string>
+    <string name="UIT88">"  [UIT88]"</string>
+    <string name="UIT89">"  [UIT89]"</string>
     <string name="Uim">USIM</string>
     <string name="Uim1_has_insert">UIM1 inserted</string>
     <string name="Uim1_not_insert">UIM1 not insert</string>
@@ -104,7 +104,7 @@
     <string name="acce_X">X :</string>
     <string name="acce_Y">Y :</string>
     <string name="acce_Z">Z :</string>
-    <string name="accelarator_attention">&quot;the picture below will pointer to phone been placed orientation(horizontal, up, down, left, right), if there is no picture been showed or pointer mistake, then it&apos;s error&quot;</string>
+    <string name="accelarator_attention">"the picture below will pointer to phone been placed orientation(horizontal, up, down, left, right), if there is no picture been showed or pointer mistake, then it's error"</string>
     <string name="accelerator_test">Accelerator</string>
     <string name="accept">Use this recording</string>
     <string name="accuracy">Accuracy(m) :</string>
@@ -124,14 +124,14 @@
     <string name="adjust_ok">Calibration success</string>
     <string name="aifsninfo">Aifsn:</string>
     <string name="aifsnlimit">[0-255]</string>
-    <string name="aifsnnum">&quot;AIFS slots num[0-255]
-only in frame mode&quot;</string>
+    <string name="aifsnnum">"AIFS slots num[0-255]
+only in frame mode"</string>
     <string name="aifsnout">Aifsn should be from 0 to 255!</string>
     <string name="air_state">Air state</string>
     <string name="air_state_close">air close</string>
     <string name="air_state_open">air open</string>
-    <string name="airplane_error_msg">&quot;You can&apos;t use FM when the phone is in airplane mode.&quot;</string>
-    <string name="airplane_error_msg_dlg">&quot;You can&apos;t use FM when the phone is in airplane mode, Please press the close button or the Back key to close it!&quot;</string>
+    <string name="airplane_error_msg">"You can't use FM when the phone is in airplane mode."</string>
+    <string name="airplane_error_msg_dlg">"You can't use FM when the phone is in airplane mode, Please press the close button or the Back key to close it!"</string>
     <string name="alertdialog_message">Please wait for 10s,then power off to write the result!</string>
     <string name="alertdialog_title">Notification：</string>
     <string name="all_pass">All test item are pass</string>
@@ -172,8 +172,8 @@ only in frame mode&quot;</string>
     <string name="backlight_light">Backlight</string>
     <string name="backlight_test">Backlight</string>
     <string name="banding_limit">[0-1]</string>
-    <string name="banding_title">&quot;channel_banding [0-20M  1-40M]&quot;</string>
-    <string name="banding_title2">&quot;channel_banding [0-20M  1-40M 3-80M]&quot;</string>
+    <string name="banding_title">"channel_banding [0-20M  1-40M]"</string>
+    <string name="banding_title2">"channel_banding [0-20M  1-40M 3-80M]"</string>
     <string name="baseband_version">Baseband version</string>
     <string name="battery_info">battery info</string>
     <string name="battery_info_ac_current_label">Charge current:</string>
@@ -225,9 +225,9 @@ only in frame mode&quot;</string>
     <string name="blueledblink">Blue led blink?</string>
     <string name="blueledtest">Blue LED</string>
     <string name="bluetooth">bluetooth</string>
-    <string name="bluetooth_scan_mode_connectable">&quot;can&apos;t be discoverable(can be connectable)&quot;</string>
+    <string name="bluetooth_scan_mode_connectable">"can't be discoverable(can be connectable)"</string>
     <string name="bluetooth_scan_mode_discoverable">can be discoverable(can be connectable)</string>
-    <string name="bluetooth_scan_mode_none">&quot;can&apos;t be discoverable(can&apos;t be connectable)&quot;</string>
+    <string name="bluetooth_scan_mode_none">"can't be discoverable(can't be connectable)"</string>
     <string name="boardid">Board ID:</string>
     <string name="bottom_ant">Bottom Ant</string>
     <string name="bsp">BSP version</string>
@@ -254,13 +254,13 @@ only in frame mode&quot;</string>
     <string name="camera_cal_fail">Fail</string>
     <string name="camera_cal_fail_message">Calibrate fail</string>
     <string name="camera_cal_get_picture_success">Getting picture success, you can begin calibrate</string>
-    <string name="camera_cal_message">&quot;Testing step:
+    <string name="camera_cal_message">"Testing step:
  1.Click capture button
  2.It will autosave picture after capture
- 3.According the message to calibration, click the pass button after calibration success&quot;</string>
+ 3.According the message to calibration, click the pass button after calibration success"</string>
     <string name="camera_cal_pass">Pass</string>
     <string name="camera_cal_success_message">Calibrate success</string>
-    <string name="camera_cal_text">&quot;Camera didn&apos;t calibrate, please finish calibration&quot;</string>
+    <string name="camera_cal_text">"Camera didn't calibrate, please finish calibration"</string>
     <string name="camera_cal_title">Camera calibration</string>
     <string name="camera_click_to_capture">Click screen to capture</string>
     <string name="camera_done">Done</string>
@@ -274,7 +274,7 @@ only in frame mode&quot;</string>
     <string name="cannot_find_file">cannot find music file--speakertest.mp3</string>
     <string name="cannot_open">Cannot open</string>
     <string name="cannot_read">Cannot read</string>
-    <string name="cannotfindbtdevice">&quot;can&apos;t find any bt device, please check if any bt device around can be discovery&quot;</string>
+    <string name="cannotfindbtdevice">"can't find any bt device, please check if any bt device around can be discovery"</string>
     <string name="cannotgetwifiservice">Cannot get wifi service</string>
     <string name="cannotgetwifistate">Cannot get wifi state</string>
     <string name="cannotgotoairplane">Can not go to airplane mode</string>
@@ -312,7 +312,7 @@ only in frame mode&quot;</string>
     <string name="cit_bluetooth_logging_confirm_notify">Do you agree to enable logging?</string>
     <string name="cit_bluetooth_logging_confirm_ok">Agree</string>
     <string name="cit_bluetooth_logging_confirm_title">Bluetooth Logging Privacy Warning</string>
-    <string name="cit_nv_flag">&quot;CIT NV Flag: &quot;</string>
+    <string name="cit_nv_flag">"CIT NV Flag: "</string>
     <string name="clear">Clear</string>
     <string name="click_button_to_start_test">click the button to start test</string>
     <string name="click_to_start_test">click the screen to start test</string>
@@ -325,8 +325,8 @@ only in frame mode&quot;</string>
     <string name="cpu_id">CPU ID</string>
     <string name="credibility">Cred%</string>
     <string name="cta">CTA version</string>
-    <string name="cta_softver">&quot;CTA  version number:&quot;</string>
-    <string name="current_value">&quot;Current value: &quot;</string>
+    <string name="cta_softver">"CTA  version number:"</string>
+    <string name="current_value">"Current value: "</string>
     <string name="custombt">[BT]:</string>
     <string name="customft">[FT]:</string>
     <string name="customsn">[SN]:</string>
@@ -355,7 +355,7 @@ only in frame mode&quot;</string>
     <string name="empty_carrier_text">Empty carrier command</string>
     <string name="enable">enable</string>
     <string name="enable_qxdm_logging">enable QXDM LOG</string>
-    <string name="encrypt">&quot;System Encrypt &quot;</string>
+    <string name="encrypt">"System Encrypt "</string>
     <string name="encrypt_state">System Encrypt State:</string>
     <string name="enrol">Enrol</string>
     <string name="enrolCount">EnrolCount</string>
@@ -424,7 +424,7 @@ only in frame mode&quot;</string>
     <string name="freqout">Frequency should be from 1 to 13!</string>
     <string name="frequence">Frequence</string>
     <string name="frequence2">Frequence:</string>
-    <string name="frequence_range">&quot; (Range:%2.1f~%2.1fMHz)&quot;</string>
+    <string name="frequence_range">" (Range:%2.1f~%2.1fMHz)"</string>
     <string name="front_camera">FrontCamera</string>
     <string name="fullfingers">Full FingerPrints</string>
     <string name="fwrev_info">Firmware Version:</string>
@@ -483,8 +483,8 @@ only in frame mode&quot;</string>
     <string name="invalidvalues">Invalid channel</string>
     <string name="ir_test">IR TEST</string>
     <string name="isdeleteall">Are you sure to delete all?</string>
-    <string name="isdeleteselected">&quot;Are you sure to delete
-the selected?&quot;</string>
+    <string name="isdeleteselected">"Are you sure to delete
+the selected?"</string>
     <string name="item20M">20M</string>
     <string name="item40M">40M</string>
     <string name="item80M">80M</string>
@@ -517,14 +517,14 @@ the selected?&quot;</string>
     <string name="lcd_click_continue">Click screen to continue</string>
     <string name="lcd_test">Color</string>
     <string name="lcminfo">LCM information</string>
-    <string name="learn_test">&quot;Hello I&apos;m sorry!I said \&quot;sorry!\&quot; &quot;</string>
+    <string name="learn_test">"Hello I'm sorry!I said \"sorry!\" "</string>
     <string name="led_info">Please note if the LED blink or not in 3 color</string>
     <string name="led_test">Led</string>
     <string name="ledblink">led blink?</string>
     <string name="ledtest">LED</string>
     <string name="ledtest_info">The follow items will be random switch on. Please select the current status of the light</string>
-    <string name="light_and_proximity_attention">&quot;If put your hand cover the devices of light and proximity, then the light sensor&apos;s value will become smaller, and the proximity sensor&apos;s value changes from 1.0 to 0.0, otherwise test result is error!(Note: The value of light sensor changes slowly, need to hold on hand for a few seconds)&quot;</string>
-    <string name="light_attention">&quot;If put your hand cover the devices of light, then the light sensor&apos;s value will become smaller, otherwise test result is error!(Note: The value of light sensor changes slowly, need to hold on hand for a few seconds)&quot;</string>
+    <string name="light_and_proximity_attention">"If put your hand cover the devices of light and proximity, then the light sensor's value will become smaller, and the proximity sensor's value changes from 1.0 to 0.0, otherwise test result is error!(Note: The value of light sensor changes slowly, need to hold on hand for a few seconds)"</string>
+    <string name="light_attention">"If put your hand cover the devices of light, then the light sensor's value will become smaller, otherwise test result is error!(Note: The value of light sensor changes slowly, need to hold on hand for a few seconds)"</string>
     <string name="light_sensor_adjust">Light sensor calibration</string>
     <string name="light_sensor_test">Light sensor test</string>
     <string name="lightsensorinfo">No Light Sensor</string>
@@ -557,7 +557,7 @@ the selected?&quot;</string>
     <string name="memory_size">Memory Size</string>
     <string name="menu_key">menu key</string>
     <string name="message_recorded">Message recorded</string>
-    <string name="mic1_rec_loop">&quot;Main mic &quot;</string>
+    <string name="mic1_rec_loop">"Main mic "</string>
     <string name="mic1_spk_loop">Mic speak Test</string>
     <string name="mic1_toast">voice less than 33.8db Mic1 test fail pull out earphone Mic1 test again</string>
     <string name="mic1test">MIC1</string>
@@ -582,15 +582,15 @@ the selected?&quot;</string>
     <string name="modeselect">Preferred network mode</string>
     <string name="modout">Mod should be from 0 to 4!</string>
     <string name="modulated">Modulated</string>
-    <string name="modulateinfo">&quot;Mod: sine---Continuous unmodulated Tx
+    <string name="modulateinfo">"Mod: sine---Continuous unmodulated Tx
 tx99---Continuous modulated Tx.AIFS=0
 tx100---Continuous modulated bug unframed Tx
 frame---Continuous modulated Tx, please set AIFS
-off---Disabling continuous Tx&quot;</string>
+off---Disabling continuous Tx"</string>
     <string name="modulatelimit">[0-4]</string>
-    <string name="modulatenum">&quot;0-siner 1-frame
+    <string name="modulatenum">"0-siner 1-frame
 2-tx99r 3-tx100
-4-off&quot;</string>
+4-off"</string>
     <string name="modulatetest">Mod:</string>
     <string name="module_num">Model number:</string>
     <string name="morefingers">Has 5 Fingerprints,Please Remove some Fingerprints and try again!</string>
@@ -598,12 +598,12 @@ off---Disabling continuous Tx&quot;</string>
     <string name="motor_continue_warning">please click continue button first!</string>
     <string name="motor_info">Please note if the motor vibrate or not</string>
     <string name="motor_info0">Motor Test:</string>
-    <string name="motor_info1">&quot;1,please click the continuous vibration
- to sure it is ok&quot;</string>
-    <string name="motor_info2">&quot;2,Then click the random vibration test:
+    <string name="motor_info1">"1,please click the continuous vibration
+ to sure it is ok"</string>
+    <string name="motor_info2">"2,Then click the random vibration test:
  this will random vibration test,
  select the number according to
- the actual number of vibration&quot;</string>
+ the actual number of vibration"</string>
     <string name="motor_no_warning">can not cancel vibrator because no vibrator mode</string>
     <string name="motor_receive_info">Note: play music from Receive, motor vibrate!</string>
     <string name="motor_receiver_test">receiver＆ Motor</string>
@@ -647,9 +647,9 @@ off---Disabling continuous Tx&quot;</string>
     <string name="old">Old</string>
     <string name="only_eng_available">Only available in Eng build</string>
     <string name="open_device_error">Fail: open accelarate device error!</string>
-    <string name="open_gps">&quot;You need to open GPS.
+    <string name="open_gps">"You need to open GPS.
 
- Now wo goto settings, and then you need to check the item \&quot;Use GPS satellites\&quot;, after that press back key here&quot;</string>
+ Now wo goto settings, and then you need to check the item \"Use GPS satellites\", after that press back key here"</string>
     <string name="openfail">Open file error</string>
     <string name="oppositive_headset_plug_in">Opposite direction headphones has inset</string>
     <string name="ota_settings_normal">Formal Server</string>
@@ -664,12 +664,12 @@ off---Disabling continuous Tx&quot;</string>
     <string name="pass">Pass</string>
     <string name="patterninfo">Pattern:</string>
     <string name="patternlimit">[0-5]</string>
-    <string name="patternnum">&quot;0-all zero\u0009 1-all ones
+    <string name="patternnum">"0-all zero\u0009 1-all ones
 2-repeating 10
-3-PN7\u00094-PN9\u00095-PN15&quot;</string>
+3-PN7\u00094-PN9\u00095-PN15"</string>
     <string name="patternout">Pattern should be from 0 to 5!</string>
     <string name="phone_test">Phone</string>
-    <string name="phoneruning_error_msg">&quot;You can&apos;t use FM when the phone is in calling.&quot;</string>
+    <string name="phoneruning_error_msg">"You can't use FM when the phone is in calling."</string>
     <string name="pkgsizeinfo">Package size:</string>
     <string name="pkgsizelimit">[32-1500]</string>
     <string name="pkgsizeout">package size should be from 32 to 1500!</string>
@@ -683,7 +683,7 @@ off---Disabling continuous Tx&quot;</string>
     <string name="play_music_on_sd">Play mp3 on SD card</string>
     <string name="play_music_pa">Smart PA Calibration And Play Sound</string>
     <string name="play_music_pa_new">Speaker Calibration</string>
-    <string name="play_music_test">&quot;Play Music &quot;</string>
+    <string name="play_music_test">"Play Music "</string>
     <string name="play_over_and_judge">Play over, please to judge if pass or fail</string>
     <string name="playing">The recorder is Playing...</string>
     <string name="playover">play recording complete</string>
@@ -705,8 +705,8 @@ off---Disabling continuous Tx&quot;</string>
     <string name="powerlimit_mod">[0-15]</string>
     <string name="powerlimit_mod_aw550">[0-13]</string>
     <string name="powerlimit_unmod">[0-11]</string>
-    <string name="powernum">&quot;unmod:0-11
-mod:0-15&quot;</string>
+    <string name="powernum">"unmod:0-11
+mod:0-15"</string>
     <string name="powerout">Power should be from 0 to 14 or 0 to 11 in unmod mode!</string>
     <string name="preset_add">Add</string>
     <string name="preset_delete">Delete</string>
@@ -728,33 +728,33 @@ mod:0-15&quot;</string>
     <string name="psensor_near">P Sensor near</string>
     <string name="psn">PSN:</string>
     <string name="qc">HW:</string>
-    <string name="qc_nv_flag">&quot;QC NV Flag: &quot;</string>
+    <string name="qc_nv_flag">"QC NV Flag: "</string>
     <string name="qcreporttitle">HW Test Report</string>
     <string name="radioInfo_cid">CID</string>
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_display_dbm">dBm</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_unknown">unknown</string>
-    <string name="radio_info_band_label">&quot;[BAND]   :&quot;</string>
+    <string name="radio_info_band_label">"[BAND]   :"</string>
     <string name="radio_info_freq_label">[CHANNEL]:</string>
-    <string name="radio_info_mcc_label">&quot;[MCC]    :&quot;</string>
-    <string name="radio_info_mnc_label">&quot;[MNC]    :&quot;</string>
+    <string name="radio_info_mcc_label">"[MCC]    :"</string>
+    <string name="radio_info_mnc_label">"[MNC]    :"</string>
     <string name="radio_info_neighboring_location_label">[Neighbor]</string>
     <string name="radio_info_network_type_label">[RFMODE] :</string>
-    <string name="radio_info_signal_cid_label">&quot;[CID]    :&quot;</string>
-    <string name="radio_info_signal_location_label">&quot;[LAC]    :&quot;</string>
-    <string name="radio_info_signal_strength_label">&quot;[RSSI]   :&quot;</string>
-    <string name="radio_info_state_label">&quot;[STATE]  :&quot;</string>
+    <string name="radio_info_signal_cid_label">"[CID]    :"</string>
+    <string name="radio_info_signal_location_label">"[LAC]    :"</string>
+    <string name="radio_info_signal_strength_label">"[RSSI]   :"</string>
+    <string name="radio_info_state_label">"[STATE]  :"</string>
     <string name="rate">Rate:</string>
     <string name="rateandfreqout">Rate should be from 0 to 11 and Frequency should be from 1 to 13!</string>
     <string name="ratelimit">[0-11]</string>
-    <string name="ratenum">&quot;Rate(Mb)
+    <string name="ratenum">"Rate(Mb)
 0--1Mb\u00091--2Mb
 2--5.5Mb\u00093--11Mb
 4----6Mb\u00095--9Mb 
 6--12Mb\u00097--18Mb
 8--24Mb\u00099--36Mb
-10-48Mb\u000911-54Mb&quot;</string>
+10-48Mb\u000911-54Mb"</string>
     <string name="rateout">Rate should be from 0 to 11!</string>
     <string name="re_scan">Re scan</string>
     <string name="real_call_test">Sim Card Call</string>
@@ -844,14 +844,14 @@ mod:0-15&quot;</string>
     <string name="smartpaing">Smart PA Calibration now,Please wait......</string>
     <string name="smartpastart">Smart PA Calibration Prepare......</string>
     <string name="sn">[ S/N]:</string>
-    <string name="sn_fmt">&quot;%s
-&quot;</string>
+    <string name="sn_fmt">"%s
+"</string>
     <string name="softver">Software version:</string>
     <string name="softversion">Software version</string>
     <string name="softversion_hint">Enter the function test？</string>
     <string name="someinfo">Some info</string>
     <string name="sound_file_delete">sound file is not exit ,can not play！</string>
-    <string name="speak_from_mic">&quot;Speaking to the MIC, the speaker playback.The sound must more than  &quot;&lt;b&gt;29DB&lt;/b&gt;.</string>
+    <string name="speak_from_mic">"Speaking to the MIC, the speaker playback.The sound must more than  "&lt;b&gt;29DB&lt;/b&gt;.</string>
     <string name="speak_from_sub_mic">Speaking to the Sub MIC, the speaker playback. The sound must more than &lt;b&gt;29DB&lt;/b&gt;.</string>
     <string name="speaker">Speaker</string>
     <string name="speakerinfo">speaker test</string>
@@ -888,24 +888,24 @@ mod:0-15&quot;</string>
     <string name="testinf2">TESTINF</string>
     <string name="testinfo">[TESTINF]:</string>
     <string name="testing">AutoTest Running...</string>
-    <string name="testresult_qrcodetext_hint">&quot;0: Fail
+    <string name="testresult_qrcodetext_hint">"0: Fail
 1: Pass
-N: no test&quot;</string>
-    <string name="testresult_qrcodetext_prefix">&quot;Test Result: &quot;</string>
+N: no test"</string>
+    <string name="testresult_qrcodetext_prefix">"Test Result: "</string>
     <string name="textview">TextView</string>
     <string name="top_ant">Top ANt</string>
     <string name="touchpanel_bow">Draw Bow</string>
     <string name="touchpanel_grid">Draw Grid</string>
     <string name="touchpanel_test">Touchpanel</string>
-    <string name="tp_autotest_fail">&quot;Touchpanel Auto Test complete!
+    <string name="tp_autotest_fail">"Touchpanel Auto Test complete!
 
-\u0009 FAIL!&quot;</string>
-    <string name="tp_autotest_fail_timeout">&quot;Test time out!
+\u0009 FAIL!"</string>
+    <string name="tp_autotest_fail_timeout">"Test time out!
 
-\u0009\u0009 FAIL!&quot;</string>
-    <string name="tp_autotest_pass">&quot;Touchpanel Auto Test complete!
+\u0009\u0009 FAIL!"</string>
+    <string name="tp_autotest_pass">"Touchpanel Auto Test complete!
 
-\u0009 PASS!&quot;</string>
+\u0009 PASS!"</string>
     <string name="tp_autotest_start">Please do not touch the screen and flat on the table during the test...</string>
     <string name="tp_autotest_title">TouchpanelAutoTest</string>
     <string name="tp_black">Black</string>
@@ -914,7 +914,7 @@ N: no test&quot;</string>
     <string name="tp_lockdown">LockDown:</string>
     <string name="tp_multi_point">And click on the screen of the two points or two gray round, if be blue said it through!</string>
     <string name="tp_selftest">Touchpanel selftest</string>
-    <string name="tp_selftest_result">&quot;Selftest result:  &quot;</string>
+    <string name="tp_selftest_result">"Selftest result:  "</string>
     <string name="tp_selftest_working">Selftest proceeding, pls keep screen on</string>
     <string name="tp_version">TP Version:</string>
     <string name="tp_white">White</string>
@@ -927,7 +927,7 @@ N: no test&quot;</string>
     <string name="uit87">[ UIT87]:</string>
     <string name="uit88">[ UIT88]:</string>
     <string name="uit89">[ UIT89]:</string>
-    <string name="unit">&quot; MHz&quot;</string>
+    <string name="unit">" MHz"</string>
     <string name="unknown">unknown</string>
     <string name="unlock">Unlock</string>
     <string name="unmodulated">Unmodulated</string>
@@ -935,14 +935,14 @@ N: no test&quot;</string>
     <string name="verify">Verify</string>
     <string name="verifying">Verifying</string>
     <string name="version">Version</string>
-    <string name="version_fmt">&quot;Software Version: %s
+    <string name="version_fmt">"Software Version: %s
 Hardware Version:%s
 Model:%s
 PRL:%s
 UIMID:%s
 MEID:%s
 pESN:%s
-&quot;</string>
+"</string>
     <string name="versionnumber">Version number</string>
     <string name="vice_front_camera">Vice FrontCamera</string>
     <string name="volume_down">volume down</string>

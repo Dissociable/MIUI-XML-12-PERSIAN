@@ -169,11 +169,11 @@
     <string name="micloud_battery_low_notification_message">برای همگام‌سازی شارژر را وصل کنید</string>
     <string name="micloud_battery_low_notification_title">باتری ضعیف است</string>
     <string name="micloud_buy_member_safe">حافظه فضای ابری بیشتری بگیرید</string>
-    <string name="micloud_check_sim_notify_text">&quot;به نظر می‌رسد سیم‌کارت خود را تغییر داده‌اید. وارد
-حساب Mi خود شوید تا فضای ابری Xiaomi را دوباره فعال نمایید.&quot;</string>
+    <string name="micloud_check_sim_notify_text">"به نظر می‌رسد سیم‌کارت خود را تغییر داده‌اید. وارد
+حساب Mi خود شوید تا فضای ابری Xiaomi را دوباره فعال نمایید."</string>
     <string name="micloud_check_sim_notify_title">فعال‌سازی دوباره فضای ابری Xiaomi</string>
-    <string name="micloud_check_sim_title">&quot;به نظر می‌رسد سیم‌کارت خود را تغییر داده‌اید. وارد
-حساب Mi خود شوید تا فضای ابری Xiaomi را دوباره فعال نمایید.&quot;</string>
+    <string name="micloud_check_sim_title">"به نظر می‌رسد سیم‌کارت خود را تغییر داده‌اید. وارد
+حساب Mi خود شوید تا فضای ابری Xiaomi را دوباره فعال نمایید."</string>
     <string name="micloud_confusion_account_hint">تغییراتی که شما بر روی این دستگاه ایجاد کرده اید با تمامی دستگاه‌های شما همگام‌سازی خواهد شد. برای حفاظت از حساب کاربری خود، پیشنهاد می‌کنیم هنگامی که از دیگر دستگاه‌ها استفاده نمی‌کنید همگام‌سازی با آنها را خاموش کنید.</string>
     <string name="micloud_confusion_account_name">حساب:</string>
     <string name="micloud_confusion_account_notify_text">دستگاه دیگری درحال اصلاح حساب Mi شماست. همین حالا اکانت خود را بررسی کنید.</string>
@@ -206,8 +206,8 @@
     <string name="micloud_confusion_yes">بله</string>
     <string name="micloud_detail_fail">همگام‌سازی نمی‌شود</string>
     <string name="micloud_detail_query_error">حالت همگام‌سازی فراهم نمی‌شود</string>
-    <string name="micloud_dspt">&quot;مخاطبین، پیام‌ها، تاریخچه تماس و موارد دیگر را در بین همه دستگاه‌های خود همگام‌سازی کنید.
-در صورت گم شدن دستگاهتان آن را مکان‌یابی و قفل کنید.&quot;</string>
+    <string name="micloud_dspt">"مخاطبین، پیام‌ها، تاریخچه تماس و موارد دیگر را در بین همه دستگاه‌های خود همگام‌سازی کنید.
+در صورت گم شدن دستگاهتان آن را مکان‌یابی و قفل کنید."</string>
     <string name="micloud_dspt_provision">از فضای ابری Xiaomi برای همگام‌سازی داده‌ها، پیدا کردن دستگاه خود و اشتراک‌گذاری موارد با دوستان استفاده کنید.</string>
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_xms">از فضای ابری Xiaomi برای همگام‌سازی داده‌ها استفاده کنید.</string>
@@ -399,23 +399,23 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mx_dspt">پیام‌رسان Mi</string>
-    <string name="mx_dspt_provision">&quot;پیام‌رسان Mi به شما این امکان را می‌دهد تا هنگام اتصال به Wi-Fi بدون تحمل هزینه، به دیگر دستگاه‌های MIUI پیام بفرستید.
+    <string name="mx_dspt_provision">"پیام‌رسان Mi به شما این امکان را می‌دهد تا هنگام اتصال به Wi-Fi بدون تحمل هزینه، به دیگر دستگاه‌های MIUI پیام بفرستید.
 
-می‌توانید این ویژگی را در تنظیمات در هر زمانی روشن یا خاموش کنید.&quot;</string>
-    <string name="mx_dspt_provision_privacy">&quot;این ویژگی ممکن است نیازمند شماره تلفن شما باشد. ممکن است یک پیامک خروجی برای فعال‌کردن این خدمات لازم باشد. شرکت مخابراتی شما برای این پیامک از شما هزینه دریافت خواهد کرد.
+می‌توانید این ویژگی را در تنظیمات در هر زمانی روشن یا خاموش کنید."</string>
+    <string name="mx_dspt_provision_privacy">"این ویژگی ممکن است نیازمند شماره تلفن شما باشد. ممکن است یک پیامک خروجی برای فعال‌کردن این خدمات لازم باشد. شرکت مخابراتی شما برای این پیامک از شما هزینه دریافت خواهد کرد.
 
-این ویژگی، شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Mi ارسال خواهد کرد.&quot;</string>
-    <string name="mx_dspt_provision_privacy_2_sim">&quot;این ویژگی ممکن است نیازمند شماره تلفن شما باشد. ممکن است ۲ پیامک خروجی برای فعال‌کردن این خدمات لازم باشد. شرکت مخابراتی شما برای این پیامک‌ها از شما هزینه دریافت خواهد کرد.
+این ویژگی، شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Mi ارسال خواهد کرد."</string>
+    <string name="mx_dspt_provision_privacy_2_sim">"این ویژگی ممکن است نیازمند شماره تلفن شما باشد. ممکن است ۲ پیامک خروجی برای فعال‌کردن این خدمات لازم باشد. شرکت مخابراتی شما برای این پیامک‌ها از شما هزینه دریافت خواهد کرد.
 
-این ویژگی، شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Mi ارسال خواهد کرد.&quot;</string>
-    <string name="mx_dspt_provision_privacy_no_sim">&quot;این ویژگی ممکن است نیازمند شماره تلفن شما باشد. هنگامی که سیم‌کارت شناسایی شود ممکن است یک پیامک خروجی برای فعال‌کردن این خدمات لازم باشد. شرکت مخابراتی شما برای این پیامک از شما هزینه دریافت خواهد کرد.
+این ویژگی، شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Mi ارسال خواهد کرد."</string>
+    <string name="mx_dspt_provision_privacy_no_sim">"این ویژگی ممکن است نیازمند شماره تلفن شما باشد. هنگامی که سیم‌کارت شناسایی شود ممکن است یک پیامک خروجی برای فعال‌کردن این خدمات لازم باشد. شرکت مخابراتی شما برای این پیامک از شما هزینه دریافت خواهد کرد.
 
-این ویژگی، شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Mi ارسال خواهد کرد.&quot;</string>
+این ویژگی، شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Mi ارسال خواهد کرد."</string>
     <string name="mx_dspt_provision_with_voip">با استفاده از اتصال به اینترنت با دیگر دستگاه‌های MIUI تماس رایگان برقرار کنید. شما می‌توانید این ویژگی را در بخش تنظیمات در هر زمانی روشن یا خاموش کنید. VoIP توسط Wihui پیشتیبانی می‌شود. سیاست حفظ حریم خصوصی Weihui را مشاهده کنید</string>
     <string name="mx_dspt_provision_with_voip2">سیاست حفظ حریم خصوصی</string>
     <string name="mx_sub_dspt_provision">پیام‌رسان Mi</string>
@@ -426,9 +426,9 @@
     <string name="pay_info_dialog_confirm_to_pay">پرداخت %s</string>
     <string name="pay_info_dialog_mibi_balance_prefix">استفاده از اعتبارهای Mi باقی مانده: %s</string>
     <string name="pay_info_dialog_title">روش پرداخت را انتخاب کنید</string>
-    <string name="phone_number_required_dspt_provision">&quot;این خدمات به شماره تلفن شما نیاز دارد. &quot;</string>
+    <string name="phone_number_required_dspt_provision">"این خدمات به شماره تلفن شما نیاز دارد. "</string>
     <string name="picker_list_empty">No contacts here</string>
-    <string name="picker_search_empty">&quot;Couldn&apos;t find contacts&quot;</string>
+    <string name="picker_search_empty">"Couldn't find contacts"</string>
     <string name="picker_search_hint">Search</string>
     <string name="pre_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="pre_user_agreement">توافقنامه کاربر</string>
@@ -467,8 +467,8 @@
     <string name="share_weibo_not_installed">Weibo نصب نشده است.</string>
     <string name="share_weixin_not_installed">WeChat نصب نشده است.</string>
     <string name="short_cut_desc">آیکون فضای ابری Xiaomi به صفحه اصلی افزوده شود؟</string>
-    <string name="sina_share_fail">&quot;Couldn&apos;t send&quot;</string>
-    <string name="sina_share_fail_content_repeat">&quot;You&apos;ve already shared this.&quot;</string>
+    <string name="sina_share_fail">"Couldn't send"</string>
+    <string name="sina_share_fail_content_repeat">"You've already shared this."</string>
     <string name="sina_share_pendding">Sending…</string>
     <string name="sina_share_success">Sent</string>
     <string name="sina_token_expired_warning">Weibo account expired, add the account again.</string>
@@ -507,11 +507,11 @@
     <string name="sync_dspt_entrance_provision_network">این برنامه برای کارکرد عادی به اتصال به اینترنت نیاز دارد. همگام‌سازی داده‌ها ممکن است به اینترنت همراه و روشن کردن Wi-Fi نیاز داشته باشد.</string>
     <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">رد شدن از این مرحله</string>
-    <string name="sync_dspt_provision">&quot;عکس‌ها، مخاطبین، یادداشت‌ها و موارد بیشتر را در تمام دستگاه‌های خود همگام‌سازی کنید یا به آنها دسترسی داشته باشید در &quot;</string>
+    <string name="sync_dspt_provision">"عکس‌ها، مخاطبین، یادداشت‌ها و موارد بیشتر را در تمام دستگاه‌های خود همگام‌سازی کنید یا به آنها دسترسی داشته باشید در "</string>
     <string name="sync_dspt_provision2">i.mi.com</string>
     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
-    <string name="sync_dspt_provision3">&quot;. شما می‌توانید این قابلیت را در هر زمان در تنظیمات روشن یا خاموش کنید.
-&quot;</string>
+    <string name="sync_dspt_provision3">". شما می‌توانید این قابلیت را در هر زمان در تنظیمات روشن یا خاموش کنید.
+"</string>
     <string name="sync_item_calllog_summary">همگام‌سازی تاریخچه تماس‌های گرفته شده و دریافت شده در این تلفن</string>
     <string name="sync_item_calllog_title">همگام‌سازی تاریخچه تماس</string>
     <string name="sync_item_sms_summary">همگام‌سازی پیام‌های کوتاه ارسالی و دریافتی در این تلفن</string>
@@ -535,8 +535,8 @@
     <string name="trying_to_connect_to_network">درحال اتصال به شبکه…</string>
     <string name="user_agreement_content">با استفاده از این خدمات شما %s را می‌پذیرید.</string>
     <string name="user_agreement_link">شرایط استفاده خدمات فضای ابری Xiaomi</string>
-    <string name="user_agreement_p5">&quot;
-&quot;</string>
+    <string name="user_agreement_p5">"
+"</string>
     <string name="user_agreement_title">شرایط استفاده از خدمات فضای ابری Xiaomi</string>
     <string name="user_agreement_url">app://com.miui.cloudservice.user_agreement.license</string>
     <string name="user_storage_info_available_text_prefix">%s در دسترس است</string>
@@ -557,7 +557,7 @@
     <string name="warning_bar_title_sync_off">همگام‌سازی با فضای ابری Xiaomi خاموش است</string>
     <string name="wipe_data_dialog_button_check_sync">بررسی وضعیت همگام‌سازی</string>
     <string name="wipe_data_dialog_msg">برخی موارد %s همگام‌سازی نشده‌اند. آن‌ها در دستگاه شما ذخیره شده و حذف نخواهند شد.</string>
-    <string name="wipe_data_dialog_msg_and_on">&quot; و برخی موارد دیگر&quot;</string>
+    <string name="wipe_data_dialog_msg_and_on">" و برخی موارد دیگر"</string>
     <string name="wipe_data_dialog_msg_separator">، </string>
     <string name="wipe_data_dialog_title">موارد همگام‌سازی نشده‌اند</string>
     <string name="wipe_data_query_progress_title">درحال بررسی…</string>

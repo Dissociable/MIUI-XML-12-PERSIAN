@@ -36,12 +36,12 @@
     <string name="unable_to_save_cert">گواهی‌نامه ذخیره نشد. حافظه اطلاعات کاربری فعال نیست یا به‌درستی راه‌اندازی نشده است.</string>
     <string name="userkey_type">الگوریتم:</string>
     <string name="wifi_cancel_label">لغو</string>
-    <string name="wifi_config_text">&quot;‏نام: %1$s
+    <string name="wifi_config_text">"‏نام: %1$s
 FQDN: %2$s
 کنسرسیوم فراگردی: %3$s
 دامنه: %4$s
 روش نویسنده: EAP-%5$s
-&quot;</string>
+"</string>
     <string name="wifi_detail_label">جزئیات</string>
     <string name="wifi_detail_title">‏جزئیات برای %s</string>
     <string name="wifi_dismiss_label">رد کردن</string>
@@ -54,16 +54,16 @@ FQDN: %2$s
     <string name="wifi_installer_fail_title">نصب ممکن نیست</string>
     <string name="wifi_installing_label">در حال نصب</string>
     <string name="wifi_no_config">هیچ‌کدام</string>
-    <string name="wifi_sim_config_text">&quot;‏سیم‌کارت: %s
-&quot;</string>
+    <string name="wifi_sim_config_text">"‏سیم‌کارت: %s
+"</string>
     <string name="wifi_title">‏نمایه Wi-Fi</string>
-    <string name="wifi_tls_config_text">&quot;‏گواهی کلاینت:
+    <string name="wifi_tls_config_text">"‏گواهی کلاینت:
 %1$s
 کلید: %2$s
-&quot;</string>
-    <string name="wifi_trust_config_text">&quot;‏گواهی قابل اعتماد:
+"</string>
+    <string name="wifi_trust_config_text">"‏گواهی قابل اعتماد:
 %s
-&quot;</string>
-    <string name="wifi_ttls_config_text">&quot;‏نام کاربر: %s
-&quot;</string>
+"</string>
+    <string name="wifi_ttls_config_text">"‏نام کاربر: %s
+"</string>
 </resources>

@@ -92,7 +92,7 @@
     <string name="error_sdcard_unmounted">اکنون کارت SD را وارد کنید</string>
     <string name="expand_button_title">پیشرفته</string>
     <string name="export_to_note">صادر کردن</string>
-    <string name="faq">&quot;常见问题：
+    <string name="faq">"常见问题：
 
  1.订单包含哪些状态？
  订单包含转写中、已完成、转写失败三种状态，订单转写完成后，转写的文字会显示在相应的录音文件中，可点开录音文件查看。
@@ -101,7 +101,7 @@
  转写失败的订单，会自动办理退款，退款会在5个工作日内返回您原支付账号，请及时留意支付账户账单，以便核实退款到账情况，如果逾期未到账，请拨打客服热线（400-100-5678）与我们联系。
 
  3.怎么能让录音转的文字更精准？
- 录音转文字目前仅支持普通话转写，转写结果的准确度会受到距离、环境、说话人口音等问题的影响，准确率可能会有较大差别，如果希望转文字更精准，可以选择离手机更近、说普通话的方式。&quot;</string>
+ 录音转文字目前仅支持普通话转写，转写结果的准确度会受到距离、环境、说话人口音等问题的影响，准确率可能会有较大差别，如果希望转文字更精准，可以选择离手机更近、说普通话的方式。"</string>
     <string name="head_set_tip_dialog_msg">هدفون‌های خود را قطع کرده تا بتوانید صدا را با پیش‌تنظیمات خاص ضبط کنید (مانند: موسیقی، صدای صحبت).</string>
     <string name="head_set_tip_dialog_ok">فهمیدم</string>
     <string name="head_set_tip_dialog_title">استفاده از میکروفن داخلی</string>
@@ -132,10 +132,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="network_tip_dialog_cancel">نمی‌پذیرم</string>
     <string name="network_tip_dialog_content">ضبط کننده باید به اینترنت وصل باشد تا به‌طور عادی کار کند. می‌پذیرید؟</string>
     <string name="network_tip_dialog_ok">پذیرفتن</string>
@@ -214,7 +214,7 @@
     <string name="recognition_error_download_msg">موتور تبدیل به نوشتار را دانلود کرده تا این خدمات قابل دسترسی شود.</string>
     <string name="recognition_error_download_ok">دانلود</string>
     <string name="recognition_error_download_title">بدون موتور تبدیل به نوشتار</string>
-    <string name="recognition_error_downloading">&quot;در حال دانلود &quot;</string>
+    <string name="recognition_error_downloading">"در حال دانلود "</string>
     <string name="recognition_error_engine">خطای موتور تبدیل به نوشتار</string>
     <string name="recognition_error_engine_singleton">موتور تبدیل به نوشتار مشغول است</string>
     <string name="recognition_error_format">فرمت صوتی نامعتبر</string>
@@ -231,10 +231,10 @@
     <string name="recognition_process_dialog_confirm">آغاز اجباری</string>
     <string name="recognition_process_dialog_title">وظایف درحال انجام</string>
     <string name="recognition_status_downloaded">موتور تبدیل به نوشتار با موفقیت دانلود شد</string>
-    <string name="recognition_status_downloading">&quot;در حال دانلود &quot;</string>
-    <string name="recognition_status_init">&quot;در حال آماده سازی &quot;</string>
+    <string name="recognition_status_downloading">"در حال دانلود "</string>
+    <string name="recognition_status_init">"در حال آماده سازی "</string>
     <string name="recognition_stop_current">توقف کار درحال انجام</string>
-    <string name="recognition_terms">&quot;尊敬的用户，您好！
+    <string name="recognition_terms">"尊敬的用户，您好！
 
  欢迎在小米录音机使用语音转文字服务，该服务由安徽听见科技有限公司提供，能够快速将录音整理成文字，解决日常会议、教育培训、媒体传播等各种场景下的语音转文字问题，提升工作效率。
 
@@ -250,7 +250,7 @@
  （1）因非听见科技原因，文稿内容被公开的
  （2）法律法规要求、行政司法机关要求、或其他有权机关要求披露的
  3.上述条款在听见科技完成语音转文字服务后三年内有效。
- 4.用户保证其使用听见科技提供的语音转文字服务转写的录音内容，不违反当地相关法律、法规、政策的规定；不涉及有损中华人民共和国国家安全和利益的信息；也不涉及任何反动、色情、迷信、赌博、诽谤他人等违法信息；且不会侵犯任何人的合法权益，包括但不限于知识产权、名誉权、肖像权、商业秘密等。用户因违反上述条款所引起的纠纷、赔偿责任等一律由用户自行承担，若由此给听见科技造成损失的，用户应当承担赔偿责任。&quot;</string>
+ 4.用户保证其使用听见科技提供的语音转文字服务转写的录音内容，不违反当地相关法律、法规、政策的规定；不涉及有损中华人民共和国国家安全和利益的信息；也不涉及任何反动、色情、迷信、赌博、诽谤他人等违法信息；且不会侵犯任何人的合法权益，包括但不限于知识产权、名誉权、肖像权、商业秘密等。用户因违反上述条款所引起的纠纷、赔偿责任等一律由用户自行承担，若由此给听见科技造成损失的，用户应当承担赔偿责任。"</string>
     <string name="recognize_choose_dialog_offline">تبدیل به نوشتار رایگان</string>
     <string name="recognize_choose_dialog_offline_desp">بدون اتصال به اینترنت موارد ضبط شده را به نوشتار تبدیل کنید</string>
     <string name="recognize_choose_dialog_online">تبدیل به نوشتار در فضای ابری</string>
@@ -327,7 +327,7 @@
     <string name="shortcut_stop_record">توقف ضبط</string>
     <string name="sound_recorder_settings">تنظیمات</string>
     <string name="speech_recognition_complete">به نوشتار تبدیل شد</string>
-    <string name="speech_recognition_running_tip">&quot;در حال پردازش &quot;</string>
+    <string name="speech_recognition_running_tip">"در حال پردازش "</string>
     <string name="start">ادامه</string>
     <string name="status_bar_back">جهت بازگشت به ضبط‌کننده ضربه بزنید</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -342,7 +342,7 @@
     <string name="text_btn_pause">مکث</string>
     <string name="text_btn_play">پخش</string>
     <string name="text_btn_recognize">تبدیل به نوشتار</string>
-    <string name="text_btn_recognize_pending">&quot;در حال بررسی &quot;</string>
+    <string name="text_btn_recognize_pending">"در حال بررسی "</string>
     <string name="text_btn_recording">ضبط</string>
     <string name="text_btn_wave">موج</string>
     <string name="text_finish">تأیید</string>

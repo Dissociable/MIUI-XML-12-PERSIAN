@@ -44,7 +44,7 @@
     <string name="disageement_abnormal_download">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این خدمات استفاده کنید.</string>
     <string name="disagree">انصراف</string>
     <string name="disagreement_abnormal_running">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.</string>
-    <string name="disagreement_abnormal_running_fast_pairing">&quot;If you don&apos;t agree to grant such permissions, you won&apos;t be able to use this app. You can choose to restrict permissions in the Settings in such cases.&quot;</string>
+    <string name="disagreement_abnormal_running_fast_pairing">"If you don't agree to grant such permissions, you won't be able to use this app. You can choose to restrict permissions in the Settings in such cases."</string>
     <string name="disagreement_donnot_use_application">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکنید.</string>
     <string name="disagreement_donnot_use_product">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این محصولات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این محصولات استفاده نکنید.</string>
     <string name="disagreement_donnot_use_service">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این خدمات استفاده نکنید.</string>
@@ -91,8 +91,8 @@
     <string name="next_fingerprint">بعدی</string>
     <string name="note_introduction">این برنامه به شما اجازه ایجاد، نمایش و ویرایش یادداشت‌ها را می‌دهد.</string>
     <string name="other_settings">تنظیمات بیشتر</string>
-    <string name="other_settings_ad_dialog_content">&quot;پس از خاموش کردن این ویژگی، دیگر آگهی‌های شخصی‌سازی شده را دریافت نخواهید کرد. با این وجود، همچنان آگهی‌هایی که با سلایق شما بی‌ارتباط هستند دریافت خواهید کرد. شما می‌توانید درباره آگهی‌های شخصی‌سازی شده در سیاست حفظ حریم خصوصی Xiaomi بیشتر بدانید.
-در هر صورت آگهی‌های شخصی‌سازی شده خاموش شوند؟&quot;</string>
+    <string name="other_settings_ad_dialog_content">"پس از خاموش کردن این ویژگی، دیگر آگهی‌های شخصی‌سازی شده را دریافت نخواهید کرد. با این وجود، همچنان آگهی‌هایی که با سلایق شما بی‌ارتباط هستند دریافت خواهید کرد. شما می‌توانید درباره آگهی‌های شخصی‌سازی شده در سیاست حفظ حریم خصوصی Xiaomi بیشتر بدانید.
+در هر صورت آگهی‌های شخصی‌سازی شده خاموش شوند؟"</string>
     <string name="other_settings_ad_disable_summary">روشن کردن آگهی‌های شخصی‌سازی شده</string>
     <string name="other_settings_ad_enable">آگهی‌های شخصی‌سازی شده</string>
     <string name="other_settings_ad_enable_summary">شخصی‌سازی آگهی‌ها بر اساس سلایق شما</string>
@@ -158,8 +158,8 @@
     <string name="pref_title_voice_slot">سیم‌کارت صوتی ترجیحی</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="protect_persoanl_info_statement">ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.</string>
-    <string name="provision_inputmethod_policy_description">&quot;
-سیاست حفظ حریم خصوصی صفحه کلید انتخاب شده را مشاهده کنید.&quot;</string>
+    <string name="provision_inputmethod_policy_description">"
+سیاست حفظ حریم خصوصی صفحه کلید انتخاب شده را مشاهده کنید."</string>
     <string name="provision_inputmethod_policy_description1">سیاست حفظ حریم خصوصی</string>
     <string name="recorder_introduction">از این برنامه می‌توانید برای ضبط صدا و پشتیبان‌گیری موارد ضبط شده در فضای ابری استفاده کیند.</string>
     <string name="require_authority_statement">برای اجازه ارائه خدمات پایه‌ای ما به شما، لازم است تا مجوزهای زیر را به منظور گردآوری اطلاعات شخصی خود به ما بدهید:</string>
@@ -215,9 +215,9 @@
     <string name="system_navigation_mode">حالت ناوبری سیستم</string>
     <string name="terms_of_use">شرایط و ضوابط</string>
     <string name="terms_of_use_ble_htmlViewer">، ارائه دهنده موقعیت Fused، نمایش‌گر HTML</string>
-    <string name="terms_of_use_label">&quot;توافقنامه کاربر و سیاست حفظ حریم خصوصی ما را خوانده تا دریابید که چه اطلاعاتی را ما گردآوری می‌کنیم، چگونه از آن‌ها استفاده کرده و چه انتخاب‌هایی برای شما امکان‌پذیر است.
+    <string name="terms_of_use_label">"توافقنامه کاربر و سیاست حفظ حریم خصوصی ما را خوانده تا دریابید که چه اطلاعاتی را ما گردآوری می‌کنیم، چگونه از آن‌ها استفاده کرده و چه انتخاب‌هایی برای شما امکان‌پذیر است.
 پیش از استفاده از MIUI باید توافقنامه کاربر و سیاست حریم خصوصی ما را بپذیرید.
-%s و بخش‌های حساب Mi به اینترنت وصل شده و موقعیت شما را به دست خواهند آورد.&quot;</string>
+%s و بخش‌های حساب Mi به اینترنت وصل شده و موقعیت شما را به دست خواهند آورد."</string>
     <string name="terms_of_use_label_Mistore">افزونه سیستم فروشگاه Mi</string>
     <string name="terms_of_use_label_mab">، MAB</string>
     <string name="terms_of_use_label_package">, نصب کننده بسته</string>
@@ -225,15 +225,15 @@
     <string name="terms_of_use_label_systemhelper">، خدمات ثبت‌نام غیر حضوری</string>
     <string name="terms_of_use_label_updater">, به‌روزرسان</string>
     <string name="terms_of_use_lable_apps">خدمات Mi، خدمات فعال‌سازی سیم‌کارت Mi، فضای ابری Xiaomi، یافتن دستگاه، صفحه اصلی، بازی‌ها، MIUI Daemon، بخش‌های سیستم MSA، خدمات ترجمه، برنامه‌های فوری، قفسه برنامه، آمار، پیوند Mi</string>
-    <string name="terms_of_use_lable_default_input_method_facemoji">&quot;
+    <string name="terms_of_use_lable_default_input_method_facemoji">"
 
-پیش از استفاده از این ویژگی باید سیاست حفظ حریم خصوصی Facemoji را بپذیرید.&quot;</string>
-    <string name="terms_of_use_lable_default_input_method_kika">&quot;
+پیش از استفاده از این ویژگی باید سیاست حفظ حریم خصوصی Facemoji را بپذیرید."</string>
+    <string name="terms_of_use_lable_default_input_method_kika">"
 
-پیش از استفاده از این ویژگی باید سیاست حفظ حریم خصوصی Kika را بپذیرید.&quot;</string>
-    <string name="terms_of_use_lable_default_input_method_mint">&quot;
+پیش از استفاده از این ویژگی باید سیاست حفظ حریم خصوصی Kika را بپذیرید."</string>
+    <string name="terms_of_use_lable_default_input_method_mint">"
 
-پیش از استفاده از این ویژگی باید سیاست حفظ حریم خصوصی صفحه کلید Mint را بپذیرید.&quot;</string>
+پیش از استفاده از این ویژگی باید سیاست حفظ حریم خصوصی صفحه کلید Mint را بپذیرید."</string>
     <string name="terms_of_use_lable_gms">، خدمات Google Play</string>
     <string name="terms_of_use_lable_smart_cards">، کارت‌های هوشمند</string>
     <string name="terms_of_use_lable_vsimcore">، MConnService</string>
@@ -243,9 +243,9 @@
     <string name="user_agreement">توافقنامه کاربر</string>
     <string name="user_agreement_declare">پیش از استفاده از MIUI شما باید توافق‌نامه کاربر و سیاست حفظ حریم خصوصی ما را خوانده و بپذیرید. مادامی که دستگاه شما فعال باشد، خدمات فعال‌سازی سیم‌کارت Mi، فضای ابری Xiaomi، یافتن دستگاه، صفحه اصلی، عبارت‌های پرکاربرد، خدمات ترجمه MIUI Daemon، نمایش‌گر HTML، دستیار AI، باتری و کارایی، یابنده مصرف برق، Joyose، تنظیمات AI سیستم عامل، مدیریت مجوزها و به‌روزرسان به شبکه وصل خواهند شد. خدمات هوشمند به شبکه وصل و به موقعیت شما دسترسی خواهد داشت.</string>
     <string name="voice_assist_advice">Mi AI به شما اجازه استفاده از فرمان صوتی را می‌دهد ولی باتری بیشتری مصرف می‌کند (هر ساعت ۱+%).</string>
-    <string name="voice_assist_condition">&quot;شما در موقعیت‌های زیر می‌توانید از Mi AI استفاده کنید:r
+    <string name="voice_assist_condition">"شما در موقعیت‌های زیر می‌توانید از Mi AI استفاده کنید:r
 ۱. هنگامی که نمایشگر روشن باشد.r
-۲. هنگام گوش دادن به موسیقی درحالی که نمایشگر خاموش باشد.&quot;</string>
+۲. هنگام گوش دادن به موسیقی درحالی که نمایشگر خاموش باشد."</string>
     <string name="voice_assist_desp">به گوشی خود بگویید «Mi AI.« Mi AI صدای شما را شناسایی کرده و می‌توانید دستگاه را کنترل کنید.</string>
     <string name="voice_assist_title">بیدار شدن با صدا</string>
     <string name="welcome">خوش آمدید</string>

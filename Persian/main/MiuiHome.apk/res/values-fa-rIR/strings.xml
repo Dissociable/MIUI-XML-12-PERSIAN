@@ -367,10 +367,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mtzgadget_missing_text">ابزارک در دسترس نیست</string>
     <string name="multi_selecting_tips">برای برداشتن یک برنامه، آیکون آن را کشیده و اینجا بیاندازید.</string>
     <string name="no_detail_page">صفحه بدون جزئیات</string>
@@ -546,7 +546,7 @@
     <string name="uninstall_result_succeeded">با موفقیت حذف شد</string>
     <string name="uninstall_with_xspace_dialog_message">موارد مرتبط با برنامه‌های همزاد همراه داده‌های برنامه با هم حذف خواهند شد.</string>
     <string name="uninstall_xspace_dialog_message">حذف برنامه همزاد تمام داده‌های برنامه را حذف خواهد کرد.</string>
-    <string name="uninstall_xspace_dialog_title_format">\&quot;%s\&quot; دوگانه حذف شود؟</string>
+    <string name="uninstall_xspace_dialog_title_format">\"%s\" دوگانه حذف شود؟</string>
     <string name="unknown_artist_name">هنرمند نامشخص</string>
     <string name="unnamed_folder_name">پوشه</string>
     <string name="v7_preference_off">خاموش</string>

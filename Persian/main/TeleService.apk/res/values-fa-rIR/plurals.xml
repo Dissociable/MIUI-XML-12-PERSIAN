@@ -33,10 +33,10 @@
 <item quantity="one">%s hour</item>
 </plurals>
 <plurals name="pin_attempts">
-<item quantity="other">&quot;
-%d attempts remaining.&quot;</item>
-<item quantity="one">&quot;
-%d attempt remaining.&quot;</item>
+<item quantity="other">"
+%d attempts remaining."</item>
+<item quantity="one">"
+%d attempt remaining."</item>
 </plurals>
 <plurals name="wifi_tether_connected_summary">
 <item quantity="other">‏%1$d دستگاه متصل</item>

@@ -93,8 +93,8 @@
     <string name="button_text_delete_timer">حذف (%d)</string>
     <string name="button_text_next_step">بعدی</string>
     <string name="button_text_next_step_timer">(%d) بعدی</string>
-    <string name="call_record_or">&quot; یا &quot;</string>
-    <string name="caller_info_name_delimiter">&quot; یا &quot;</string>
+    <string name="call_record_or">" یا "</string>
+    <string name="caller_info_name_delimiter">" یا "</string>
     <string name="cancel_action">لغو</string>
     <string name="close">خاموش</string>
     <string name="config_camera_component">com.android.camera/com.android.camera.Camera</string>
@@ -149,7 +149,7 @@
     <string name="global_actions_silent_mode">حالت بی‌صدا</string>
     <string name="handset_text_unsupported_handset_insert">Tap to view details</string>
     <string name="handset_text_usb_handset_insert">Tap to open additional settings</string>
-    <string name="handset_title_unsupported_handset_insert">&quot;USB earphone adapters aren&apos;t supported&quot;</string>
+    <string name="handset_title_unsupported_handset_insert">"USB earphone adapters aren't supported"</string>
     <string name="handset_title_usb_handset_insert">Playing sound over USB</string>
     <string name="handy_mode_enter_dlg_msg">وارد حالت یک‌دستی شود؟</string>
     <string name="handy_mode_enter_dlg_title">ورود به حالت یک‌دستی</string>

@@ -116,20 +116,20 @@
     <string name="accessibility_video_pause_button">ضبط ویدئو مکث شد</string>
     <string name="accessibility_video_resume_button">ضبط ویدئو ادامه داده شد</string>
     <string name="accessibility_zoom_button">حالت بزرگ‌نمایی</string>
-    <string name="ai_scene_mode_use_hint_text">&quot;تشخیص صحنه‌ها با استفاده از AI
-و تنظیم خودکار اولویت‌ها&quot;</string>
+    <string name="ai_scene_mode_use_hint_text">"تشخیص صحنه‌ها با استفاده از AI
+و تنظیم خودکار اولویت‌ها"</string>
     <string name="ai_scene_top_moon_off">حالت کم نور</string>
     <string name="ai_scene_top_tip">حالت ماه</string>
     <string name="ai_watermark_title">نشان AI</string>
-    <string name="ambi_file_name_format">&quot;&apos;AMBI&apos;_yyyyMMdd_HHmmss&quot;</string>
+    <string name="ambi_file_name_format">"'AMBI'_yyyyMMdd_HHmmss"</string>
     <string name="ambilight_description_title">About long exposure</string>
     <string name="ambilight_intro_crowd_moving_part1">When shooting on a crowded street, ask your subject to stand still. Other people will appear as blurry trails.</string>
     <string name="ambilight_intro_crowd_moving_part2">You can also take pictures of busy traffic and moving crowds. Long exposure will keep the buildings crisp, but all moving objects will be blurry.</string>
-    <string name="ambilight_intro_light_track">Use a light source to \&quot;paint\&quot; over a dark scene to bring all the lit pieces together in one image.</string>
+    <string name="ambilight_intro_light_track">Use a light source to \"paint\" over a dark scene to bring all the lit pieces together in one image.</string>
     <string name="ambilight_intro_magic_star">Use this mode in places with low light pollution. The exposure will be set to %d seconds, so using a tripod is a great idea.</string>
-    <string name="ambilight_intro_silky_water_part1">Use this mode when shooting moving clouds. It will give the sky an \&quot;oil painting\&quot; effect.</string>
+    <string name="ambilight_intro_silky_water_part1">Use this mode when shooting moving clouds. It will give the sky an \"oil painting\" effect.</string>
     <string name="ambilight_intro_silky_water_part2">This mode makes moving water (rivers, waterfalls, and lakes) look like satin.</string>
-    <string name="ambilight_intro_star_track">&quot;Shooting the starry sky for a long time can capture the trajectories of stars. Don&apos;t forget to use a tripod and shoot continuously for at least %d minutes.&quot;</string>
+    <string name="ambilight_intro_star_track">"Shooting the starry sky for a long time can capture the trajectories of stars. Don't forget to use a tripod and shoot continuously for at least %d minutes."</string>
     <string name="ambilight_intro_traffic_light">At night, you can capture the trajectory of bright moving lights (on cars and ships, for example). This mode allows to preview the final result on your screen in real time.</string>
     <string name="ambilight_scene_crowd_moving">Moving crowd</string>
     <string name="ambilight_scene_light_track">Light painting</string>
@@ -1349,7 +1349,7 @@
     <string name="cezanne_s_v_b">false</string>
     <string name="cezanne_s_v_f_m">true</string>
     <string name="cezanne_s_z_m">false</string>
-    <string name="clone_do_not_move_phone">&quot;Don&apos;t move your device&quot;</string>
+    <string name="clone_do_not_move_phone">"Don't move your device"</string>
     <string name="clone_guide_tip1">Cloning only works with people.</string>
     <string name="clone_guide_tip3">Avoid moving objects and monotone backgrounds.</string>
     <string name="clone_guide_tip4">Hold your device steady and make sure your subject is sufficiently lit.</string>
@@ -1364,7 +1364,7 @@
     <string name="clone_guide_video_title2">Cloning in videos</string>
     <string name="clone_landscape_hint">分身模式仅支持横屏拍摄</string>
     <string name="clone_mode_start_hint">Tap the shutter button to start</string>
-    <string name="clone_no_person_found">&quot;Couldn&apos;t find your subject&quot;</string>
+    <string name="clone_no_person_found">"Couldn't find your subject"</string>
     <string name="clone_offset_is_too_large">手机偏移过大，请重新拍摄</string>
     <string name="clone_photo_mode">拍照模式</string>
     <string name="clone_put_phone_back_in_place">请把手机恢复原位</string>
@@ -2012,8 +2012,8 @@
     <string name="do_not_remind_me">دوباره نمایش داده نشود</string>
     <string name="document_blackwhite">سیاه و سفید</string>
     <string name="document_blur_warn">文字拍摄模糊</string>
-    <string name="document_mode_use_hint_text_body">&quot;تنظیم و بهبود خودکار
-اسناد اسکن شده&quot;</string>
+    <string name="document_mode_use_hint_text_body">"تنظیم و بهبود خودکار
+اسناد اسکن شده"</string>
     <string name="document_mode_use_hint_text_title">اسکن سند</string>
     <string name="document_origin">اصلی</string>
     <string name="document_strengthen">بهبود یافته</string>
@@ -2118,7 +2118,7 @@
     <string name="edit_slim_nose">بینی</string>
     <string name="edit_smile">لبخند</string>
     <string name="emoticon">Sticker pack</string>
-    <string name="empty">&quot; &quot;</string>
+    <string name="empty">" "</string>
     <string name="equuleus_c_0x16">true</string>
     <string name="equuleus_c_0x18">true</string>
     <string name="equuleus_c_0x40">v0</string>
@@ -2287,8 +2287,8 @@
     <string name="face_score_info">امتیاز: %.1f</string>
     <string name="fps960_toast">تصویربرداری با حرکت آهسته در آخرین یک چهارم ضبط آغاز خواهد شد</string>
     <string name="fragment_tab_name_bokeh">بوکه</string>
-    <string name="front_camera_hint_text_place">&quot;گرفتن عکس از خود راحت‌تر خواهد بود
-اگر گوشی خود را بچرخانید&quot;</string>
+    <string name="front_camera_hint_text_place">"گرفتن عکس از خود راحت‌تر خواهد بود
+اگر گوشی خود را بچرخانید"</string>
     <string name="front_camera_hint_text_rotate">گوشی خود را بچرخانید</string>
     <string name="front_common">2:SHOT ON MI PHONE</string>
     <string name="front_laurus">1:SHOT ON MI CC 9e</string>
@@ -2868,16 +2868,16 @@
     <string name="hercules_s_v_b">false</string>
     <string name="hercules_s_v_f_m">true</string>
     <string name="hibernate_hint">برای بیدار کردن دوربین روی صفحه بزنید</string>
-    <string name="hine_hht">&quot;در نور کم، دوربین چندین عکس خواهد گرفت
-و سپس یک عکس را با کمترین مقدار پارازیت ایجاد خواهد کرد.&quot;</string>
+    <string name="hine_hht">"در نور کم، دوربین چندین عکس خواهد گرفت
+و سپس یک عکس را با کمترین مقدار پارازیت ایجاد خواهد کرد."</string>
     <string name="hint_ae_af_lock">فوکوس خودکار و نوردهی خودکار قفل شده‌اند.</string>
     <string name="hint_ae_af_lock_extra">Auto focus and auto exposure have been locked. Switch to Google Lens in the Camera settings</string>
     <string name="hint_ae_lock">نوردهی خودکار قفل است</string>
     <string name="hint_device_water_mark">برچسب عکس به صورت خودکار افزوده خواهد شد.</string>
     <string name="hint_eye_light">جلوه‌های درخشش چشم‌ها هنگام روشن بودن فلاش بهتر کار می‌کنند</string>
     <string name="hint_fast_motion">ویدئویی که شما ضبط می‌کنید، سریع‌تر پخش خواهد شد.</string>
-    <string name="hint_groupshot">&quot;دوربین عکس‌های چندگانه خواهد گرفت
-سپس یک عکسی که همه در بهترین حالت به نظر می‌رسند را ایجاد خواهد کرد.&quot;</string>
+    <string name="hint_groupshot">"دوربین عکس‌های چندگانه خواهد گرفت
+سپس یک عکسی که همه در بهترین حالت به نظر می‌رسند را ایجاد خواهد کرد."</string>
     <string name="hint_groupshot_beauty">در عکس‌های گروهی نمی‌توان از حالت زیبایی استفاده کرد</string>
     <string name="hint_mimovie">برای تاثیر بهتر در حالت افقی عکس‌برداری کنید</string>
     <string name="hint_slow_motion">ویدئویی که شما ضبط می‌کنید، آهسته‌تر پخش خواهد شد.</string>
@@ -2886,10 +2886,10 @@
     <string name="hunt_dual_water_mark">نشان دوربین دوگانه به صورت خودکار افزوده خواهد شد.</string>
     <string name="id_card_mode_hint_back">پشت کارت شناسایی خود را اسکن کنید</string>
     <string name="id_card_mode_hint_front">روی کارت شناسایی خود را اسکن کنید</string>
-    <string name="id_card_mode_use_hint_text_body">&quot;هر دو طرف کارت شناسایی خود را در یک تصویر ترکیب کنید.
-تصویر آن را به صورت بی‌سیم روی کاغذ A4 چاپ کنید.&quot;</string>
+    <string name="id_card_mode_use_hint_text_body">"هر دو طرف کارت شناسایی خود را در یک تصویر ترکیب کنید.
+تصویر آن را به صورت بی‌سیم روی کاغذ A4 چاپ کنید."</string>
     <string name="id_card_mode_use_hint_text_title">اسکن کارت شناسایی</string>
-    <string name="image_file_name_format">&quot;&apos;IMG&apos;_yyyyMMdd_HHmmss&quot;</string>
+    <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
     <string name="install_confirmed">نصب</string>
     <string name="joyeuse_parent">excalibur</string>
     <string name="kaleidoscope_fragment_tab_name">زیبابین</string>
@@ -3243,16 +3243,16 @@
     <string name="lavender_s_p_a">true</string>
     <string name="lavender_s_s_n">true</string>
     <string name="lavender_s_z_m">true</string>
-    <string name="lens_dirty_detected_content">&quot;به نظر می‌رسد لنز دوربین شما کثیف است.
-لنز را برای تأثیر بهتر تمیز کنید.&quot;</string>
+    <string name="lens_dirty_detected_content">"به نظر می‌رسد لنز دوربین شما کثیف است.
+لنز را برای تأثیر بهتر تمیز کنید."</string>
     <string name="lens_dirty_detected_title_back">لنز دوربین پشت کثیف است</string>
     <string name="lens_dirty_detected_title_front">لنز دوربین جلو کثیف است</string>
     <string name="lighting_hint_needed">موضوع خود را در کانون نور قرار دهید</string>
     <string name="lighting_hint_title">نورپردازی استودیویی</string>
     <string name="lighting_hint_too_close">دوربین را دورتر ببرید</string>
     <string name="lighting_hint_too_far">دوربین را نزدیک‌تر ببرید</string>
-    <string name="lighting_hint_usage">&quot;می‌توانید در حالت پرتره از نورپردازی
-استودیویی استفاده کنید&quot;</string>
+    <string name="lighting_hint_usage">"می‌توانید در حالت پرتره از نورپردازی
+استودیویی استفاده کنید"</string>
     <string name="lighting_pattern_dot">نقطه‌ها</string>
     <string name="lighting_pattern_holi">جشن هولی</string>
     <string name="lighting_pattern_leaf">برگ‌ها</string>
@@ -3497,8 +3497,8 @@
     <string name="lying_direct_hint">جهت کنونی</string>
     <string name="macro_mode">ماکرو</string>
     <string name="macro_mode_tip">فاصله بین لنز و شیء نباید بیش از ۱۰ سانتی‌متر باشد</string>
-    <string name="macro_mode_use_hint_text_body">&quot;از حالت ماکرو برای بزرگ‌نمایی اجسام کوچک
-در عکس‌ها استفاده کنید&quot;</string>
+    <string name="macro_mode_use_hint_text_body">"از حالت ماکرو برای بزرگ‌نمایی اجسام کوچک
+در عکس‌ها استفاده کنید"</string>
     <string name="macro_mode_use_hint_text_title">ماکرو</string>
     <string name="makeup_reset_toast">جلوه‌های آرایشی با موفقیت پاک شدند</string>
     <string name="manually_raw_hint">RAW</string>
@@ -3626,7 +3626,7 @@
     <string name="mimoji_check_normal">کلید شاتر را بزنید</string>
     <string name="mimoji_confirm">تأیید</string>
     <string name="mimoji_create_emoticon">Create sticker pack</string>
-    <string name="mimoji_create_emoticon_error">&quot;Couldn&apos;t create sticker pack&quot;</string>
+    <string name="mimoji_create_emoticon_error">"Couldn't create sticker pack"</string>
     <string name="mimoji_create_emoticon_progress">Creating sticker pack…</string>
     <string name="mimoji_create_tips">مستقیم به دوربین نگاه کرده تا Mimoji خود را بسازید</string>
     <string name="mimoji_delete">حذف</string>
@@ -3696,10 +3696,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mode_edit_cancel">Cancel</string>
     <string name="mode_edit_exit">Exit</string>
     <string name="mode_edit_exit_message">All changes will be lost if you exit now. Exit anyway?</string>
@@ -3873,9 +3873,9 @@
     <string name="monet_s_v_b">false</string>
     <string name="monet_s_v_f_m">true</string>
     <string name="monet_s_z_m">true</string>
-    <string name="more_mode_style">&quot;Select how you&apos;d like to arrange all camera modes&quot;</string>
-    <string name="more_mode_style_popup">\&quot;More\&quot; panel</string>
-    <string name="more_mode_style_tab">\&quot;More\&quot; tab</string>
+    <string name="more_mode_style">"Select how you'd like to arrange all camera modes"</string>
+    <string name="more_mode_style_popup">\"More\" panel</string>
+    <string name="more_mode_style_tab">\"More\" tab</string>
     <string name="multi_window_mode_not_supported">در حالت چند پنجره از دوربین استفاده نمی‌شود</string>
     <string name="music_hint_tt">服务来源爱听卓乐</string>
     <string name="network_access_user_notice_agree">پذیرفتن</string>
@@ -4009,7 +4009,7 @@
     <string name="onc_s_o_a_w">true</string>
     <string name="onc_s_z_m">true</string>
     <string name="only_mimoji_multi_window_mode_not_supported">این ویژگی در حالت چند پنجره استفاده نمی‌شود</string>
-    <string name="pano_file_name_format">&quot;&apos;PANO&apos;_yyyyMMdd_HHmmss&quot;</string>
+    <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
     <string name="pano_file_name_prefix">PANO_</string>
     <string name="pano_how_to_use_prompt_align_reference_line">پیکان را با خط وسط هم‌تراز کنید</string>
     <string name="pano_how_to_use_prompt_go_on_moving">ادامه دهید…</string>
@@ -4034,7 +4034,7 @@
     <string name="parameter_histogram_title">بافت‌نگار</string>
     <string name="parameter_iso_description">مقدار ISO می‌تواند به‌صورت خودکار توسط نورسنج تعیین شود. همچنین می‌توانید مقدار را به صورت دستی تغییر دهید. به یاد داشته باشید که اگرچه ISO بالاتر دوربین شما را نسبت به نور حساس‌تر می‌کند اما اخلالات دیجیتالی ببیشتری در تصویر شما به‌جای می‌گذارد.</string>
     <string name="parameter_iso_title">حساسیت ISO</string>
-    <string name="parameter_lens_description">&quot;شما می‌توانید بین چند لنز موجود تعویض کنید: &quot;</string>
+    <string name="parameter_lens_description">"شما می‌توانید بین چند لنز موجود تعویض کنید: "</string>
     <string name="parameter_lens_marco">، MACRO (لنز ماکرو)</string>
     <string name="parameter_lens_st">، S-TELE (لنز بزرگ‌نمایی)</string>
     <string name="parameter_lens_t">، TELE (لنز بسته)</string>
@@ -4594,8 +4594,8 @@
     <string name="portait_effect_entry_sepia">قرمز قهوه‌ای</string>
     <string name="portait_effect_entry_story">داستان</string>
     <string name="portait_effect_entry_tea">چای</string>
-    <string name="portrait_bokeh_first_tips">&quot;از حالت پرتره برای تار کردن
-پس‌زمینه عکس‌های خود استفاده کنید&quot;</string>
+    <string name="portrait_bokeh_first_tips">"از حالت پرتره برای تار کردن
+پس‌زمینه عکس‌های خود استفاده کنید"</string>
     <string name="portrait_bokeh_text">حالت پرتره</string>
     <string name="portrait_bokeh_tips">جسم را در فاصله ۱.۵ متری قرار دهید</string>
     <string name="portrait_india_effect_entry_memory">خاطره</string>
@@ -4613,10 +4613,10 @@
     <string name="portrait_mode_lowlight_hint">اکنون بسیار تاریک است</string>
     <string name="portrait_mode_too_close_hint">از موضوع کمی دورتر کنید</string>
     <string name="portrait_mode_too_far_hint">جسم را در فاصله ۲ متری قرار دهید</string>
-    <string name="portrait_mode_use_hint">&quot;حالت پرتره پس زمینه را تار
-و افراد را به بیرون برجسته می‌کند.&quot;</string>
-    <string name="portrait_mode_use_hint_for_bokeh">&quot;حالت پرتره را امتحان کنید.
-جسم را درحالی که پس‌زمینه آن تار است شفاف نگه دارید.&quot;</string>
+    <string name="portrait_mode_use_hint">"حالت پرتره پس زمینه را تار
+و افراد را به بیرون برجسته می‌کند."</string>
+    <string name="portrait_mode_use_hint_for_bokeh">"حالت پرتره را امتحان کنید.
+جسم را درحالی که پس‌زمینه آن تار است شفاف نگه دارید."</string>
     <string name="pref_960_watermark_title">نشان ۹۶۰ فریم/ث</string>
     <string name="pref_advance_settings">تنظیمات بیشتر</string>
     <string name="pref_ai_detect">تشخیص AI</string>
@@ -4791,7 +4791,7 @@
     <string name="pref_camera_hdr_entry_off">خاموش</string>
     <string name="pref_camera_hdr_title">HDR</string>
     <string name="pref_camera_heic_image_format_description">عکس‌ها در قالب فایل تصویری با کارایی بالا فضای کمتری اشغال می‌کنند، اما توسط برخی برنامه‌ها پشتیبانی نمی‌شوند</string>
-    <string name="pref_camera_heic_image_format_description2">&quot;High efficiency image file format saves storage space, but isn&apos;t supported by some third party apps. You can&apos;t take live photos and remove watermarks in HEIF&quot;</string>
+    <string name="pref_camera_heic_image_format_description2">"High efficiency image file format saves storage space, but isn't supported by some third party apps. You can't take live photos and remove watermarks in HEIF"</string>
     <string name="pref_camera_heic_image_format_title">قالب HEIF</string>
     <string name="pref_camera_hfr_entry_2x">۶۰</string>
     <string name="pref_camera_hfr_entry_3x">۹۰</string>
@@ -5066,7 +5066,7 @@
     <string name="pref_pro_video_volumekey_function_default">shutter</string>
     <string name="pref_qc_focus_position_title">F</string>
     <string name="pref_qc_focus_position_title_abbr">F</string>
-    <string name="pref_retain_camera_common_mode_summary">Open Camera at the previously used mode instead of switching to \&quot;Photo\&quot;</string>
+    <string name="pref_retain_camera_common_mode_summary">Open Camera at the previously used mode instead of switching to \"Photo\"</string>
     <string name="pref_retain_camera_mode_summary">دوربین را به حالتی که دفعه پیش برنامه را باز کرده بودید تعویض می‌کند.</string>
     <string name="pref_retain_camera_mode_title">ذخیره حالت پیشین</string>
     <string name="pref_scan_qrcode_default">true</string>
@@ -5141,7 +5141,7 @@
     <string name="pref_watermark_off">خاموش</string>
     <string name="pref_watermark_on">روشن</string>
     <string name="pref_watermark_title">نشان</string>
-    <string name="preference_copied">\&quot;%1$s\&quot; copied to clipboard.</string>
+    <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="preparing_sd">بررسی کارتSD…</string>
     <string name="preview_back_pressed_hint">Tap again to go back to preview</string>
     <string name="pro_color_mode">رنگ حرفه‌ای</string>
@@ -5539,7 +5539,7 @@
     <string name="snap_confirmed">جایگزینی</string>
     <string name="spaceIsLow_content_external_storage_priority">فضای کارت SD در حال اتمام است</string>
     <string name="spaceIsLow_content_primary_storage_priority">فضای حافظه USB در حال اتمام است</string>
-    <string name="speech_shutter_open_tip">Say \&quot;拍照\&quot; or \&quot;茄子\&quot; to take a photo</string>
+    <string name="speech_shutter_open_tip">Say \"拍照\" or \"茄子\" to take a photo</string>
     <string name="speech_shutter_tip">Voice shutter</string>
     <string name="start_capture">تأیید</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -5827,17 +5827,17 @@
     <string name="ultra_pixel_photography_open_tip">Ultra HD %s روشن است</string>
     <string name="ultra_pixel_portrait_hint">پرتره نور کم</string>
     <string name="ultra_pixel_zoom_no_support_tip">بزرگ‌نمایی در حالت Ultra HD %s کار نمی‌کند</string>
-    <string name="ultra_tele_use_hint_text_body">&quot;از بزرگ‌نمایی ۵۰ برابر برای گرفتن عکس
-اجسام دور با جزئیات بزرگ‌تر استفاده کنید&quot;</string>
+    <string name="ultra_tele_use_hint_text_body">"از بزرگ‌نمایی ۵۰ برابر برای گرفتن عکس
+اجسام دور با جزئیات بزرگ‌تر استفاده کنید"</string>
     <string name="ultra_tele_use_hint_text_title">بزرگ‌نمایی ۵۰ برابر</string>
     <string name="ultra_wide_bokeh_close_tip">حالت تمام بدن خاموش است</string>
     <string name="ultra_wide_bokeh_open_tip">حالت تمام بدن</string>
     <string name="ultra_wide_close_tip">حالت زاویه فوق باز خاموش است</string>
     <string name="ultra_wide_mode">زاویه فوق باز</string>
-    <string name="ultra_wide_mode_use_hint_text">&quot;از این حالت استفاده کرده تا منظره بیشتری را در عکس خود جای دهید.
-حالت زاویه فوق باز هنگامی که نمی‌توانید از صحنه دورتر شوید به کمک شما می‌آید.&quot;</string>
-    <string name="ultra_wide_mode_use_hint_text_sat">&quot;از حالت زاویه فوق باز 0.6X استفاده کرده تا جزئیات بیشتری از منظره در عکس گنجانده شود.
-حالت زاویه فوق باز هنگامی که نمی‌توانید از صحنه دورتر شوید به کار می‌آید.&quot;</string>
+    <string name="ultra_wide_mode_use_hint_text">"از این حالت استفاده کرده تا منظره بیشتری را در عکس خود جای دهید.
+حالت زاویه فوق باز هنگامی که نمی‌توانید از صحنه دورتر شوید به کمک شما می‌آید."</string>
+    <string name="ultra_wide_mode_use_hint_text_sat">"از حالت زاویه فوق باز 0.6X استفاده کرده تا جزئیات بیشتری از منظره در عکس گنجانده شود.
+حالت زاویه فوق باز هنگامی که نمی‌توانید از صحنه دورتر شوید به کار می‌آید."</string>
     <string name="ultra_wide_open_tip">حالت زاویه فوق باز</string>
     <string name="ultra_wide_open_tip_sat">زاویه فوق باز 0.6X</string>
     <string name="ultra_wide_recommend_tip_hint">آزمایش حالت زاویه فوق باز</string>
@@ -6090,7 +6090,7 @@
     <string name="video_effect_entry_rome">رم</string>
     <string name="video_effect_entry_summer_day">تابستان</string>
     <string name="video_effect_entry_wind_sing">نسیم</string>
-    <string name="video_file_name_format">&quot;&apos;VID&apos;_yyyyMMdd_HHmmss&quot;</string>
+    <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
     <string name="video_reach_size_limit">به محدودیت اندازه رسیده است.</string>
     <string name="video_tag_flag_title">برچسب</string>
     <string name="video_ultra_clear_tip">4K UHD</string>
@@ -6125,8 +6125,8 @@
     <string name="vv_mode_menu_item_name">VLOG</string>
     <string name="vv_stability_hint">دستگاه خود را پایدار نگه دارید</string>
     <string name="vv_start">گرفتن ولاگ</string>
-    <string name="vv_use_hint_text_body">&quot;حالت ولاگ به شما امکان ضبط
-و ویرایش ویدئوها را در هر زمان می‌دهد&quot;</string>
+    <string name="vv_use_hint_text_body">"حالت ولاگ به شما امکان ضبط
+و ویرایش ویدئوها را در هر زمان می‌دهد"</string>
     <string name="vv_use_hint_text_title">ولاگ</string>
     <string name="wait">چند لحظه صبر کنید…</string>
     <string name="watermark_tab_city">شهر</string>

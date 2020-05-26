@@ -64,8 +64,8 @@
     <string name="backup_data">انتخاب موارد برای پشتیبان‌گیری</string>
     <string name="backup_delete">حذف:</string>
     <string name="backup_empty">بدون پشتیبان‌گیری.</string>
-    <string name="backup_empty_info">&quot; از داده‌ها، تنظیمات و برنامه‌های خود پشتیبان‌گیری کنید&quot;</string>
-    <string name="backup_empty_info_onpad">&quot; از اطلاعات، تنظیمات و برنامه‌های خود پشتیبان‌گیری کنید&quot;</string>
+    <string name="backup_empty_info">" از داده‌ها، تنظیمات و برنامه‌های خود پشتیبان‌گیری کنید"</string>
+    <string name="backup_empty_info_onpad">" از اطلاعات، تنظیمات و برنامه‌های خود پشتیبان‌گیری کنید"</string>
     <string name="backup_error">پشتیبان‌گیری نشد</string>
     <string name="backup_failed">پشتیبان‌گیری نشد</string>
     <string name="backup_file_error">پشتیبان‌گیری نشد</string>
@@ -104,10 +104,10 @@
     <string name="click_soft_ap_to_link">یک کانون داغ برای اتصال انتخاب کنید</string>
     <string name="click_to_view">برای مشاهده ضربه بزنید</string>
     <string name="close_twice_auth_btn">خاموش کردن مجوز دو مرحله‌ای</string>
-    <string name="close_twice_auth_note">&quot;توجه:
-پس از ایجاد یک پرسش امنیتی جدید و تأیید زادروز خود، مجوز دو مرحله‌ای شناسه Apple شما خاموش خواهد شد. در صورتی که گزینه‌ای برای خاموش کردن مجوز دو مرحله‌ای در صفحه حساب شناسه Apple نمی‌بینید، نمی‌توانید آن را خاموش کنید.&quot;</string>
-    <string name="close_twice_auth_operation">&quot;پیوند:
-برای بستن https://appleid.apple.com/#!&amp;page=signin&quot;</string>
+    <string name="close_twice_auth_note">"توجه:
+پس از ایجاد یک پرسش امنیتی جدید و تأیید زادروز خود، مجوز دو مرحله‌ای شناسه Apple شما خاموش خواهد شد. در صورتی که گزینه‌ای برای خاموش کردن مجوز دو مرحله‌ای در صفحه حساب شناسه Apple نمی‌بینید، نمی‌توانید آن را خاموش کنید."</string>
+    <string name="close_twice_auth_operation">"پیوند:
+برای بستن https://appleid.apple.com/#!&amp;page=signin"</string>
     <string name="close_twice_auth_step_1">۱. از هر مرورگری با هر رایانه‌ای به appleid.apple.com بروید.</string>
     <string name="close_twice_auth_step_2">۲. وارد حساب شناسه Apple که می‌خواهید تأیید هویت دو مرحله‌ای را غیر فعال کنید شده، به بخش «Security» تنظیمات حساب رفته و «Edit» را بزنید.</string>
     <string name="close_twice_auth_step_3">۳. روی گزینه «Turn Off Two-Factor Authentication» کلیک کرده و سپس دوباره برای تأیید کلیک کنید.</string>
@@ -118,14 +118,14 @@
     <string name="cloud_backup_login">وارد حساب Mi خود شوید</string>
     <string name="cloud_backup_window_title">نسخه‌های پشتیبان فضای ابری Xiaomi</string>
     <string name="cloud_home_title">فضای ابری Xiaomi</string>
-    <string name="cloud_item_info_summary">&quot; (محلی: %1$s | فضای ابری Xiaomi: %2$s)&quot;</string>
-    <string name="cloud_last_backup">&quot;آخرین پشتیبان‌گیری در &quot;</string>
+    <string name="cloud_item_info_summary">" (محلی: %1$s | فضای ابری Xiaomi: %2$s)"</string>
+    <string name="cloud_last_backup">"آخرین پشتیبان‌گیری در "</string>
     <string name="cloud_no_backup">بدون پشتیبان‌گیری</string>
     <string name="cloud_restore_guide">برای بازنشانی داده‌های کاربر جهت %s، بازیابی را بزنید</string>
     <string name="cloud_restore_title">بازیابی اطلاعات پشتیبان</string>
     <string name="cloud_restore_window_title">بازیابی از فضای ابری Xiaomi</string>
     <string name="cloud_search">درحال جستجو…</string>
-    <string name="comma_seperator">&quot;، &quot;</string>
+    <string name="comma_seperator">"، "</string>
     <string name="compute_backup_info">درحال دریافت اطلاعات پشتیبان‌گیری…</string>
     <string name="compute_delete_contact_info">در حال دریافت اطلاعات…</string>
     <string name="confirm_exit_link">ترک کردن</string>
@@ -205,13 +205,13 @@
     <string name="findlost_contact">بازیابی مخاطبین</string>
     <string name="findlost_contact_online">بازیابی مخاطبین از فضای ابری</string>
     <string name="flash_drive_backup_btn">پشتیبان‌گیری در درایو USB</string>
-    <string name="flash_drive_backup_note">&quot;برنامه‌ها را در یک درایو USB پشتیبان‌گیری کنید.
-مطمئن شوید که پیش از آغاز درایو USB فضای کافی دارد.&quot;</string>
+    <string name="flash_drive_backup_note">"برنامه‌ها را در یک درایو USB پشتیبان‌گیری کنید.
+مطمئن شوید که پیش از آغاز درایو USB فضای کافی دارد."</string>
     <string name="flash_drive_backup_restore">نسخه‌های پشتیبان USB</string>
     <string name="flash_drive_connection_failed">درایو USB قطع شد</string>
     <string name="flash_drive_restore_btn">بازیابی از درایو USB</string>
-    <string name="flash_drive_search_backup_files">&quot;درحال جستجوی فایل‌های پشتیبان USB…
-فایل‌های پشتیبان را دستکاری یا تغییر نام ندهید.&quot;</string>
+    <string name="flash_drive_search_backup_files">"درحال جستجوی فایل‌های پشتیبان USB…
+فایل‌های پشتیبان را دستکاری یا تغییر نام ندهید."</string>
     <string name="gallery_summary">تنظیمات گالری (عکس‌ها را شامل نمی‌شود)</string>
     <string name="guarded_mode_dialog_backup_message">پشتیبان‌گیری‌ها در حالت میهمان مجاز نیستند.</string>
     <string name="guarded_mode_dialog_title">شما در حالت مهمان هستید</string>
@@ -224,11 +224,11 @@
     <string name="hsa_send_again_countdown">ارسال دوباره (%dثانیه)</string>
     <string name="hsa_send_failed">کد تایید ارسال نشد. یک یا دو دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="hsa_sending">در حال ارسال…</string>
-    <string name="hsa_tip_message">&quot;۱. در صورتی که نمی‌توانید کد تایید را دریافت کنید، مطمئن شوید که وارد حساب iCloud روی دستگاه Apple خود شده‌اید.r
-۲. در صورتی که وارد کردن کد تایید کمکی نکرد، تأیید دو مرحله‌ای را خاموش کنید. &quot;</string>
+    <string name="hsa_tip_message">"۱. در صورتی که نمی‌توانید کد تایید را دریافت کنید، مطمئن شوید که وارد حساب iCloud روی دستگاه Apple خود شده‌اید.r
+۲. در صورتی که وارد کردن کد تایید کمکی نکرد، تأیید دو مرحله‌ای را خاموش کنید. "</string>
     <string name="hsa_tip_message_shutdown_hsa">چگونه مجوز دو مرحله‌ای را خاموش کنیم</string>
-    <string name="hsa_tip_message_with_device">&quot;۱. یک پیام به همراه کد تأیید به «%s» که با شناسه Apple شما مرتبط است ارسال شده است.r
-۲. در صورتی که کد تایید کار نکرد، مجوز دو مرحله‌ای را خاموش کنید.&quot;</string>
+    <string name="hsa_tip_message_with_device">"۱. یک پیام به همراه کد تأیید به «%s» که با شناسه Apple شما مرتبط است ارسال شده است.r
+۲. در صورتی که کد تایید کار نکرد، مجوز دو مرحله‌ای را خاموش کنید."</string>
     <string name="hsa_tip_title">نکات:</string>
     <string name="hsa_title">مجوز دو مرحله‌ای</string>
     <string name="hsa_verify_failed">مجوز دو مرحله‌ای ناموفق بود</string>
@@ -237,22 +237,22 @@
     <string name="hsa_verify_shutdown">خاموش کردن</string>
     <string name="iCloud_ID_verification_tip">در دستگاه Apple خود روی «Allow» زده تا کد تایید نمایان شود. کد تأیید را اینجا وارد کنید.</string>
     <string name="icloud_backup_tip">وارد حساب iCloud دستگاه iOS قدیمی خود شوید</string>
-    <string name="icloud_how_to_backup_tip_steps">&quot;۱. تنظیمات دستگاه iOS خود را باز کرده و iCloud را انتخاب کنید.r
+    <string name="icloud_how_to_backup_tip_steps">"۱. تنظیمات دستگاه iOS خود را باز کرده و iCloud را انتخاب کنید.r
 ۲. کلید وضعیت مخاطبین و سایر موارد (contacts and other items) را تغییر دهید.r
-عکس‌ها را انتخاب کرده و وضعیت کلید iCloud Photo Library را تغییر دهید.&quot;</string>
+عکس‌ها را انتخاب کرده و وضعیت کلید iCloud Photo Library را تغییر دهید."</string>
     <string name="icloud_how_to_backup_tip_summary">برای وارد کردن داده‌ها از iOS، باید یک پشتیبان‌گیری از iCloud ایجاد کنید.</string>
     <string name="icloud_how_to_backup_tip_title">نکات:</string>
     <string name="icloud_login_title">ورود به iCloud</string>
-    <string name="icloud_need_sync">&quot;برای وارد کردن داده‌ها از iOS،r
-شما باید ابتدا یک پشتیبان‌گیری از iCloud ایجاد کنید.&quot;</string>
+    <string name="icloud_need_sync">"برای وارد کردن داده‌ها از iOS،r
+شما باید ابتدا یک پشتیبان‌گیری از iCloud ایجاد کنید."</string>
     <string name="icloud_need_wifi_message">شما به Wi-Fi متصل نیستید. برای وارد کردن داده‌ها از iCloud، به Wi-Fi وصل شوید.</string>
     <string name="icloud_need_wifi_title">به Wi-Fi متصل شوید</string>
     <string name="import_again">وارد کردن دوباره</string>
     <string name="import_data_from_icloud">وارد کردن داده‌ها از iCloud</string>
-    <string name="import_from_xiaomi_account_hint1">&quot;1.\u0009برنامه Mi Talk را دانلود کرده و وارد شوید.
+    <string name="import_from_xiaomi_account_hint1">"1.\u0009برنامه Mi Talk را دانلود کرده و وارد شوید.
 \u0009http://www.miliao.com
 
-2.\u0009به تنظیمات Mi Talk رفته «پشتیبان‌گیری از مخاطبین به حساب Mi» را بزنید&quot;</string>
+2.\u0009به تنظیمات Mi Talk رفته «پشتیبان‌گیری از مخاطبین به حساب Mi» را بزنید"</string>
     <string name="import_from_xiaomi_account_hint2">اگر قبلاً نسخه پشتیبان تهیه کرده‌اید، بعدی را بزنید.</string>
     <string name="import_from_xiaomi_account_hint_title">از Mi Talk برای پشتیبان‌گیری از مخاطبین بین دستگاه‌هایتان استفاده کنید.</string>
     <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
@@ -262,10 +262,10 @@
     <string name="list_footer_tip_title">نکات:</string>
     <string name="loading_data">درحال بارگذاری داده‌ها</string>
     <string name="local_app_name">پشتیبان‌گیری</string>
-    <string name="local_back_up_detail_description">&quot;نکته:
+    <string name="local_back_up_detail_description">"نکته:
 ۱. به منظور پیش‌گیری از از دست دادن داده‌ها، از نسخه‌های محلی روی رایانه خود پشتیبان‌گیری کنید.
 ۲. همواره پیش از بازنشانی به تنظیمات کارخانه پشتیبان‌گیری‌های محلی را روی رایانه خود کپی کنید؛ در غیر این صورت، پشتیبان‌گیری‌های محلی از بین خواهند رفت.
-۳. پشتیبان‌گیری‌های محلی کجا ذخیره شده‌اند؟ %1$s&quot;</string>
+۳. پشتیبان‌گیری‌های محلی کجا ذخیره شده‌اند؟ %1$s"</string>
     <string name="local_backup_select_activity">ایجاد یک نسخه پشتیبان</string>
     <string name="local_backup_window_title">اطلاعات پشتیبان‌گیری محلی</string>
     <string name="local_button_backup_data">پشتیبان‌گیری</string>
@@ -311,10 +311,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mms_title">پیام‌رسانی چندرسانه‌ای</string>
     <string name="multi_select_title">%1$s انتخاب شد</string>
     <string name="multi_user_mode_backup_message">در حالت چند کاربر نمی‌توانید از پشتیبان‌گیری استفاده کنید. برای ادامه حالت چند کاربر را خاموش کنید.</string>
@@ -333,9 +333,9 @@
     <string name="new_local_button_backup">پشتیبان‌گیری</string>
     <string name="new_local_button_restore">بازیابی</string>
     <string name="new_local_click_to_jump">برای نمایش دستورالعمل‌های جزئی ضربه بزنید</string>
-    <string name="new_local_detail_description">&quot;نکته:
+    <string name="new_local_detail_description">"نکته:
 %1$d. به منظور جلوگیری از از دست رفتن داده‌ها، نسخه‌های پشتیبان را در رایانه خود کپی کنید. %2$s.
-%3$d. نسخه‌های پشتیبان در MIUI-Backup-AllBackup ذخیره خواهند شد.&quot;</string>
+%3$d. نسخه‌های پشتیبان در MIUI-Backup-AllBackup ذخیره خواهند شد."</string>
     <string name="new_local_tab_backup">پشتیبان‌گیری در دستگاه موبایل</string>
     <string name="new_local_tab_restore">بازیابی از دستگاه موبایل</string>
     <string name="new_low_storage_title">فضای ذخیره سازی کافی نیست</string>
@@ -363,9 +363,9 @@
     <string name="new_tab_pc_backup">پشتیبان‌گیری در رایانه</string>
     <string name="new_tab_pc_restore">بازیابی از رایانه</string>
     <string name="new_task_finished">انجام شده</string>
-    <string name="new_usb_detail_description">&quot;نکته:
+    <string name="new_usb_detail_description">"نکته:
 %1$d. این روش اجازه پشتیبان‌گیری برنامه‌های سوم‌شخص و داده‌های آن‌ها را می‌دهد.
-%2$d. مطمئن شوید برای ذخیره پشتیبان‌گیری‌ها فضای ذخیره سازی کافی در درایو USB شما وجود دارد.&quot;</string>
+%2$d. مطمئن شوید برای ذخیره پشتیبان‌گیری‌ها فضای ذخیره سازی کافی در درایو USB شما وجود دارد."</string>
     <string name="new_usb_disconnect_dialog_message">ابتدا یک درایو USB وصل کنید.</string>
     <string name="new_usb_disconnect_dialog_title">درایو USB یافت نشد</string>
     <string name="new_usb_select_data_no_space">فقط %s از حافظه در درایو USB شما در دسترس است. فضای ذخیره‌سازی را آزاد کنید.</string>
@@ -452,13 +452,13 @@
     <string name="retry">تلاش دوباره</string>
     <string name="reverse_all">پاک کردن همه</string>
     <string name="router_backup_hint">دستگاه خود را روشن نگه دارید</string>
-    <string name="save_finish_with_failing_items">&quot;انتقال قطع شد.r
-داده‌هایی که وارد نشدند باید دوباره وارد شوند.&quot;</string>
-    <string name="saving_data">&quot;درحال وارد کردن داده‌ها از iCloud…r
-Wi-Fi را خاموش نکنید&quot;</string>
+    <string name="save_finish_with_failing_items">"انتقال قطع شد.r
+داده‌هایی که وارد نشدند باید دوباره وارد شوند."</string>
+    <string name="saving_data">"درحال وارد کردن داده‌ها از iCloud…r
+Wi-Fi را خاموش نکنید"</string>
     <string name="saving_data_no_time">درحال بازیابی داده‌ها…</string>
-    <string name="saving_data_space_low">&quot;فضای ذخیره‌سازی کافی نیست.r
-حداقل %s فضا آزاد کنید.&quot;</string>
+    <string name="saving_data_space_low">"فضای ذخیره‌سازی کافی نیست.r
+حداقل %s فضا آزاد کنید."</string>
     <string name="sc_bad_request">درخواست نامعتبر</string>
     <string name="sc_internal_server_error">خطای داخلی سرور</string>
     <string name="sc_network_unavailable">اتصال خود را بررسی کرده و دوباره تلاش کنید.</string>
@@ -514,7 +514,7 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="system_backup">پشتیبان‌گیری</string>
     <string name="system_backup_info">تنظیمات سیستم و چیدمان صفحه اصلی</string>
     <string name="task_backup_cancel_progress">متوقف کردن…</string>
-    <string name="task_backup_finished_local">&quot;پشتیببان‌گیری شد &quot;</string>
+    <string name="task_backup_finished_local">"پشتیببان‌گیری شد "</string>
     <string name="task_canceled">پشتیبان‌گیری لغو شد</string>
     <string name="task_canceled_all_local">لغو شد</string>
     <string name="task_canceled_local">پشتیبان‌گیری ناقص(%s)</string>
@@ -522,7 +522,7 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="task_failed">پشتیبان‌گیری نشد</string>
     <string name="task_failed_all_local">پشتیبان‌گیری نشد</string>
     <string name="task_failed_local">پشتیبان‌گیری ناقص(%s)</string>
-    <string name="task_finished">&quot;با موفقیت پشتیبان‌گیری شد &quot;</string>
+    <string name="task_finished">"با موفقیت پشتیبان‌گیری شد "</string>
     <string name="task_local_backup_cancel_dialog">پشتیبان‌گیری تمام نشده است. درهرحال متوقف شود؟</string>
     <string name="task_pending">در حال انتظار…</string>
     <string name="task_post_running">در حال پشتیبان‌گیری…</string>
@@ -530,7 +530,7 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="task_progress">جریان</string>
     <string name="task_restore_cancel_dialog">ممکن است متوقف کردن موجب از دست دادن اطلاعات شود.</string>
     <string name="task_restore_cancel_progress">متوقف کردن…</string>
-    <string name="task_restore_finished_local">&quot;بازیابی شد &quot;</string>
+    <string name="task_restore_finished_local">"بازیابی شد "</string>
     <string name="task_restore_none">چیزی برای بازیابی وجود ندارد</string>
     <string name="task_running_backup_dialog">پشتیبان‌گیری درحال انجام است. برای مشاهده تأیید را بزنید.</string>
     <string name="task_running_backup_hint">این کارایی درحال حاضر در پس‌زمینه در حال اجرا است</string>
@@ -578,9 +578,9 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="trans_detail_item_app_data_selected_tip">برنامه‌های مشابه نیز انتخاب شدند.</string>
     <string name="trans_detail_item_app_data_skip_data">داده‌ها برنامه منتقل نمی‌شوند</string>
     <string name="trans_detail_item_app_data_too_large_tip">به نظر می‌رسد مورد برای انتقال بسیار بزرگ است.</string>
-    <string name="trans_detail_list_footer">&quot;۱. شما می‌توانید برنامه‌های خاصی که می‌خواهید انتقال دهید را انتخاب کنید.
+    <string name="trans_detail_list_footer">"۱. شما می‌توانید برنامه‌های خاصی که می‌خواهید انتقال دهید را انتخاب کنید.
 ۲. در صورتی که داده‌های برنامه را انتخاب کنید، برنامه مربوطه نیز انتخاب خواهند شد.
-۳ داده‌های برنامه‌های WeChat و QQ ممکن است به دلیل اشکالات سازگاری منتقل نشوند. می‌توانید از ویژگی‌های انتقال درون برنامه‌های استفاده کنید.&quot;</string>
+۳ داده‌های برنامه‌های WeChat و QQ ممکن است به دلیل اشکالات سازگاری منتقل نشوند. می‌توانید از ویژگی‌های انتقال درون برنامه‌های استفاده کنید."</string>
     <string name="trans_detail_page_tip">هرچه موارد بیشتری انتخاب کنید، مدت انتقال نیز طولانی‌تر خواهد شد.</string>
     <string name="trans_detail_qq_data">داده‌های QQ (شامل تاریخچه گپ‌ها)</string>
     <string name="trans_detail_sys_data_list_title">برنامه‌های سیستم</string>
@@ -600,8 +600,8 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="trans_generating_qrcode">درحال ایجاد کد QR…</string>
     <string name="trans_install_guide_button_start">آغاز</string>
     <string name="trans_install_guide_page_title">جابجاگر Mi را در گوشی قدیمی خود نصب کنید</string>
-    <string name="trans_install_guide_scan_install_tip">&quot;این کد QR را با گوشی قدیمی خود اسکن کرده
-تا جابجاگر Mi را دانلود و نصب کنید.&quot;</string>
+    <string name="trans_install_guide_scan_install_tip">"این کد QR را با گوشی قدیمی خود اسکن کرده
+تا جابجاگر Mi را دانلود و نصب کنید."</string>
     <string name="trans_install_guide_step1_content">با گوشی قدیمی خود کد QR را اسکن کرده تا «جابجاگر Mi» را دانلود و نصب کنید.</string>
     <string name="trans_install_guide_step1_title">گام ۱</string>
     <string name="trans_install_guide_step2_content">پس از کامل شدن نصب، «آغاز» را در زیر بزنید.</string>
@@ -650,8 +650,8 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="trans_intro_title_private">آلبوم پنهان:</string>
     <string name="trans_main_tutor">انتقال مخاطبین، تاریخچه تماس، پیام‌ها، چیدمان صفحه اصلی، برنامه‌ها، تنظیمات و غیره به یک دستگاه جدید</string>
     <string name="trans_my_device">دستگاه‌ من</string>
-    <string name="trans_native_no_space">&quot;در دستگاه قدیمی فضای ذخیره‌سازی کافی موجود نیست (%s موجود است).
-فضای ذخیره‌سازی را آزاد کرده و یا فقط موارد مهم را منتقل کنید.&quot;</string>
+    <string name="trans_native_no_space">"در دستگاه قدیمی فضای ذخیره‌سازی کافی موجود نیست (%s موجود است).
+فضای ذخیره‌سازی را آزاد کرده و یا فقط موارد مهم را منتقل کنید."</string>
     <string name="trans_old_phone_low_space_msg">جابجاگر Mi برای انتقال داده‌ها به کمی فضای ذخیره‌سازی نیاز دارد. اما به نظر می‌رسد در دستگاه قدیمی فضای کافی وجود ندارد. فضا را در «امنیت» آزاد کرده و یا فقط موارد مهم را منتقل کنید.</string>
     <string name="trans_old_phone_low_space_title">فضای ذخیره‌ سازی کافی وجود ندارد</string>
     <string name="trans_one_key_migrate">جابجاگر Mi</string>
@@ -662,16 +662,16 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="trans_open_location_title">روشن کردن خدمات موقعیت مکانی</string>
     <string name="trans_operate_func_one">شیوه الف</string>
     <string name="trans_operate_func_two">شیوه ب</string>
-    <string name="trans_operate_new_phone_tips">&quot;به تنظیمات &gt; تنظیمات بیشتر &gt; جابجاگر Mi رفته
-[من یک گیرنده هستم] را زده تا یک کد QR ایجاد شود&quot;</string>
-    <string name="trans_operate_old_phone_tips1">&quot;1. برنامه جابجاگر Mi را روی دستگاه قدیمی خود نصب کنید
+    <string name="trans_operate_new_phone_tips">"به تنظیمات &gt; تنظیمات بیشتر &gt; جابجاگر Mi رفته
+[من یک گیرنده هستم] را زده تا یک کد QR ایجاد شود"</string>
+    <string name="trans_operate_old_phone_tips1">"1. برنامه جابجاگر Mi را روی دستگاه قدیمی خود نصب کنید
 2. برنامه را باز کرده و گزینه آغاز را بزنید
-3. کد QR را با دستگاه قدیمی خود اسکن کنید&quot;</string>
+3. کد QR را با دستگاه قدیمی خود اسکن کنید"</string>
     <string name="trans_operate_old_phone_tips2">به تنظیمات &gt; تنظیمات بیشتر &gt; جابجاگر Mi بروید، روی [من یک فرستنده‌ام] ضربه بزنید</string>
-    <string name="trans_operate_reconnect_new_tips">&quot;صبر کرده تا گوشی جدید «اتصال قطع شد» را نمایش دهد.
-سپس «اتصال دوباره» را زده تا یک کد QR ایجاد کنید.&quot;</string>
-    <string name="trans_operate_reconnect_old_tips">&quot;صبر کرده تا گوشی قدیمی «اتصال قطع شد» را نمایش دهد.
-سپس «اتصال دوباره» را زده تا کد QR اسکن شود.&quot;</string>
+    <string name="trans_operate_reconnect_new_tips">"صبر کرده تا گوشی جدید «اتصال قطع شد» را نمایش دهد.
+سپس «اتصال دوباره» را زده تا یک کد QR ایجاد کنید."</string>
+    <string name="trans_operate_reconnect_old_tips">"صبر کرده تا گوشی قدیمی «اتصال قطع شد» را نمایش دهد.
+سپس «اتصال دوباره» را زده تا کد QR اسکن شود."</string>
     <string name="trans_operate_tip_for_other_android">جابجاگر Mi را در گوشی قدیمی خود باز کرده، «آغاز» را زده و کد QR بالا را اسکن کنید.</string>
     <string name="trans_pausing">درحال مکث کردن…</string>
     <string name="trans_please_waiting">چند لحظه صبر کنید…</string>
@@ -687,9 +687,9 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="trans_progress_subdescript_transingsddata_sender">در حال ارسال %1$s فایل کارت SD، %2$s انجام شده است</string>
     <string name="trans_progress_subdescript_waiting">در انتظار دریافت %s</string>
     <string name="trans_receiver">من یک گیرنده‌ام</string>
-    <string name="trans_receiver_time_remained">&quot;%s باقی مانده‌است.
+    <string name="trans_receiver_time_remained">"%s باقی مانده‌است.
 کانون داغ Wi-Fi را خاموش نکنید.
-دستگاه‌ها را نزدیک یکدیگر نگه دارید.&quot;</string>
+دستگاه‌ها را نزدیک یکدیگر نگه دارید."</string>
     <string name="trans_receiving_completed">با موفقیت دریافت شد</string>
     <string name="trans_restoring">در حال بازیابی…</string>
     <string name="trans_restoring_no_items">در حال دریافت اطلاعات…</string>
@@ -699,13 +699,13 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="trans_security_tips_message">برخی برنامه‌ها از جابجاگر Mi پشتیبانی نمی‌کنند.</string>
     <string name="trans_security_tips_title">سازگاری با جابجاگر Mi</string>
     <string name="trans_select_data">موارد را برای ارسال انتخاب کنید</string>
-    <string name="trans_select_data_no_space">&quot;در دستگاه جدید فضای ذخیره‌سازی کافی موجود نیست (%s موجود است).
-فضای ذخیره‌سازی را آزاد کرده و یا فقط موارد مهم را منتقل کنید.&quot;</string>
-    <string name="trans_select_data_tips">&quot;موارد را برای انتقال انتخاب کنید.
+    <string name="trans_select_data_no_space">"در دستگاه جدید فضای ذخیره‌سازی کافی موجود نیست (%s موجود است).
+فضای ذخیره‌سازی را آزاد کرده و یا فقط موارد مهم را منتقل کنید."</string>
+    <string name="trans_select_data_tips">"موارد را برای انتقال انتخاب کنید.
 موارد مشابه دستگاه جدید بازنویسی خواهند شد.
-(اندازه موارد منتقل شده‌ای که می‌بینید براورد تقریبی است.)&quot;</string>
-    <string name="trans_select_data_too_large">&quot;شما موارد زیادی را برای انتقال انتخاب کرده‌اید.
-فقط موارد مهم را انتخاب کرده تا انتقال سریع‌تر انجام شود.&quot;</string>
+(اندازه موارد منتقل شده‌ای که می‌بینید براورد تقریبی است.)"</string>
+    <string name="trans_select_data_too_large">"شما موارد زیادی را برای انتقال انتخاب کرده‌اید.
+فقط موارد مهم را انتخاب کرده تا انتقال سریع‌تر انجام شود."</string>
     <string name="trans_select_device_receive">یک دستگاه را برای دریافت اطلاعات انتخاب کنید.</string>
     <string name="trans_select_device_send">یک دستگاه را برای انتقال اطلاعات انتخاب کنید.</string>
     <string name="trans_select_notification_message">برای مشاهده ضربه بزنید</string>
@@ -713,11 +713,11 @@ Wi-Fi را خاموش نکنید&quot;</string>
     <string name="trans_sender">من یک فرستنده‌ام</string>
     <string name="trans_sender_connectting">تایید برروی دستگاه جدید</string>
     <string name="trans_sender_searching">در حال جستجو برای دستگاه‌های جدید</string>
-    <string name="trans_sender_searching_ensurance">&quot;مطمئن شوید که دستگاه قدیمی روشن است
-در انتظار اتصال دستگاه قدیمی…&quot;</string>
-    <string name="trans_sender_time_remained">&quot;%s باقی مانده‌است.
+    <string name="trans_sender_searching_ensurance">"مطمئن شوید که دستگاه قدیمی روشن است
+در انتظار اتصال دستگاه قدیمی…"</string>
+    <string name="trans_sender_time_remained">"%s باقی مانده‌است.
 Wi-Fi را خاموش نکنید.
-دستگاه‌ها را نزدیک یکدیگر نگه دارید.&quot;</string>
+دستگاه‌ها را نزدیک یکدیگر نگه دارید."</string>
     <string name="trans_sending_completed">با موفقیت فرستاده شد</string>
     <string name="trans_show_qr_code_label">اتصال به دستگاه قدیمی</string>
     <string name="trans_show_qr_code_tips">اسکن کد QR با استفاده از دستگاه قدیمی</string>
@@ -727,32 +727,32 @@ Wi-Fi را خاموش نکنید.
     <string name="trans_success_dialog_button_market_favourable_comment">به جابجاگر Mi امتیاز دهید</string>
     <string name="trans_success_dialog_button_survey">نظر سنجی</string>
     <string name="trans_success_dialog_market_comment_and_survey_title">آماده حرکت هستید! به ما بگویید درباره جابجاگر Mi چه فکر می‌کنید.</string>
-    <string name="trans_success_dialog_market_comment_title">&quot;دستگاه جدید شما حالا مثل خانه می‌ماند.
-جابجاگر Mi را پسندیدید؟&quot;</string>
+    <string name="trans_success_dialog_market_comment_title">"دستگاه جدید شما حالا مثل خانه می‌ماند.
+جابجاگر Mi را پسندیدید؟"</string>
     <string name="trans_success_dialog_survey_title">از بازخورد شما قدردانی می‌کنیم</string>
     <string name="trans_success_survey_hint">ابتدا همه جاهای خالی را پر کنید.</string>
     <string name="trans_switching_5g">درحال تعویض به Wi-Fi ۵گیگاهرتز…</string>
     <string name="trans_time_format_second">کمتر از ۱ دقیقه</string>
     <string name="trans_time_spent">زمان صرف شده: %s</string>
-    <string name="trans_wait_trans_data">&quot;به دستگاه قدیمی وصل شد.
-در حال انتظار برای انتقال…&quot;</string>
-    <string name="trans_waiting_ensurance">&quot;مطمئن شوید که دستگاه قدیمی روشن است
-و جابجاگر Mi روشن است&quot;</string>
+    <string name="trans_wait_trans_data">"به دستگاه قدیمی وصل شد.
+در حال انتظار برای انتقال…"</string>
+    <string name="trans_waiting_ensurance">"مطمئن شوید که دستگاه قدیمی روشن است
+و جابجاگر Mi روشن است"</string>
     <string name="trans_waiting_for_sender">درانتظار اتصال دستگاه قدیمی…</string>
     <string name="trans_wlan_tips_message">هنگام انتقال Wi-Fi را خاموش و یا به شبکه Wi-Fi دیگر تعویض نکنید. در غیر این صورت، جابجاگر Mi نمی‌تواند داده‌ها را جابجا کند.</string>
     <string name="trans_wlan_tips_title">Wi-Fi را خاموش نکنید</string>
     <string name="unit_byte">بایت</string>
     <string name="unknown_hint">نامشخص</string>
-    <string name="usb_backup_select_data_too_large">&quot;فایل‌های انتخاب شده بزرگ هستند. مطمئن شوید که درایو USB فضای کافی دارد.
-فقط موارد مهم را منتقل کنید.&quot;</string>
-    <string name="usb_restore_select_data_too_large">&quot;فایل‌های پشتیبان بزرگ هستند. بازیابی آن‌ها ممکن است کمی طول بکشد.
-بازیابی فقط فایل‌های مهم می‌تواند سریع‌تر باشد.&quot;</string>
-    <string name="usb_trans_native_no_space">&quot;فقط %s در دستگاه شما موجود است.
-فضای بیشتری آزاد کرده و یا چند انتقال کوچک انجام دهید.&quot;</string>
+    <string name="usb_backup_select_data_too_large">"فایل‌های انتخاب شده بزرگ هستند. مطمئن شوید که درایو USB فضای کافی دارد.
+فقط موارد مهم را منتقل کنید."</string>
+    <string name="usb_restore_select_data_too_large">"فایل‌های پشتیبان بزرگ هستند. بازیابی آن‌ها ممکن است کمی طول بکشد.
+بازیابی فقط فایل‌های مهم می‌تواند سریع‌تر باشد."</string>
+    <string name="usb_trans_native_no_space">"فقط %s در دستگاه شما موجود است.
+فضای بیشتری آزاد کرده و یا چند انتقال کوچک انجام دهید."</string>
     <string name="usb_trans_old_phone_low_space_msg">برای بسته‌بندی فایل‌های پشتیبان شما به فضای بیشتری نیاز است. برای ادامه انتقال فضای کافی وجود ندارد. می‌توانید در بخش امنیت فضای بیشتری آزاد کرده و فایل‌های غیر ضروری را حذف کرده و یا تلاش کنید فقط موارد مهم را انتقال دهید.</string>
     <string name="usb_trans_old_phone_low_space_title">فضای کافی وجود ندارد</string>
-    <string name="usb_trans_select_data_no_space">&quot;فقط %s در درایو USB شما موجود است.
-فضای بیشتری آزاد کرده و یا فقط موارد مهم را منتقل کنید.&quot;</string>
+    <string name="usb_trans_select_data_no_space">"فقط %s در درایو USB شما موجود است.
+فضای بیشتری آزاد کرده و یا فقط موارد مهم را منتقل کنید."</string>
     <string name="user_feedback">بازخورد</string>
     <string name="user_name">شناسه Apple یا ایمیل</string>
     <string name="user_name_null">نام کاربری نمی‌تواند خالی باشد</string>
@@ -762,9 +762,9 @@ Wi-Fi را خاموش نکنید.
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>
     <string name="view_password_description">نمایش گذرواژه</string>
-    <string name="wait_link">&quot;جابجاگر Mi را در دستگاه قدیمی باز کرده،
+    <string name="wait_link">"جابجاگر Mi را در دستگاه قدیمی باز کرده،
 روی «من یک فرستنده‌ام»زده و یک کانون داغ را برای اتصال انتخاب کنید.
-صفحه را پیش از برقراری اتصال نبندید.&quot;</string>
+صفحه را پیش از برقراری اتصال نبندید."</string>
     <string name="waiting">چند لحظه صبر کنید…</string>
     <string name="wifi_title">تنظیمات Wi-Fi</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
@@ -775,9 +775,9 @@ Wi-Fi را خاموش نکنید.
     <string name="xiaomi_megabytes_unit">%1$sمگابایت</string>
     <string name="xiaomi_router">روتر Mi</string>
     <string name="xiaomi_router_location">روترMi %s</string>
-    <string name="xiaomi_update_dialog_message">&quot;معرفی نسخه %1$s
-اندازه: %2$s&quot;</string>
-    <string name="xiaomi_update_dialog_message_diff">&quot;معرفی نسخه %1$s
-اندازه به‌روزرسانی دلتا:‌ %2$s&quot;</string>
+    <string name="xiaomi_update_dialog_message">"معرفی نسخه %1$s
+اندازه: %2$s"</string>
+    <string name="xiaomi_update_dialog_message_diff">"معرفی نسخه %1$s
+اندازه به‌روزرسانی دلتا:‌ %2$s"</string>
     <string name="xiaomi_update_dialog_title">به‌روزرسانی در دسترس است</string>
 </resources>

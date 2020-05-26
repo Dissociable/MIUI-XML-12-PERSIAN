@@ -102,9 +102,9 @@
     <string name="alert_dialog_download_confirm">در آستانه دانلود برنامه</string>
     <string name="alert_dialog_download_default_title">دانلود برنامه</string>
     <string name="alert_dialog_download_fail">برنامه دانلود نشد</string>
-    <string name="alert_dialog_download_plugin">&quot;در آستانه دانلود و نصب افزونه HD:  &quot;</string>
+    <string name="alert_dialog_download_plugin">"در آستانه دانلود و نصب افزونه HD:  "</string>
     <string name="alert_dialog_download_prepare">درحال آماده کردن دانلود…</string>
-    <string name="alert_dialog_download_progress">&quot;درحال دانلود برنامه: &quot;</string>
+    <string name="alert_dialog_download_progress">"درحال دانلود برنامه: "</string>
     <string name="all">نمایش همه</string>
     <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
     <string name="app_name">ویدئوی Mi</string>
@@ -198,7 +198,7 @@
     <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
     <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
-    <string name="com_facebook_tooltip_default">&quot;You&apos;re in control - choose what info you want to share with apps.&quot;</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
     <string name="com_mixpanel_android_close">Close</string>
     <string name="com_mixpanel_android_done">Done</string>
     <string name="com_mixpanel_android_notification_image">Image not displayed</string>
@@ -217,7 +217,7 @@
     <string name="comment_model_delete_fail">حذف نشد</string>
     <string name="comment_model_delete_success">با موفقیت حذف شد</string>
     <string name="comment_model_reply">پاسخ‌ها</string>
-    <string name="comment_model_reply_comment">&quot;پاسخ به %s: &quot;</string>
+    <string name="comment_model_reply_comment">"پاسخ به %s: "</string>
     <string name="comment_model_report">گزارش</string>
     <string name="comment_model_report_fail">گزارش نشد</string>
     <string name="comment_model_report_success">با موفقیت گزارش شد</string>
@@ -257,10 +257,10 @@
     <string name="define_roundedimageview"></string>
     <string name="description">توضیحات</string>
     <string name="diagnosis_log_send_failed">رخدادها ارسال نشدند. دوباره تلاش کنید.</string>
-    <string name="diagnosis_log_sent_format">&quot;رخدادها با موفقیت ارسال شدند.
+    <string name="diagnosis_log_sent_format">"رخدادها با موفقیت ارسال شدند.
 شناسه%s
-این کد را به مسئول مربوطه ارسال کنید.&quot;</string>
-    <string name="dialog_privacy_info_new2">برای امکان استفاده از خدمات آن، شما باید بپذیرید که %1$s اطلاعات شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. زدن روی \&quot;پذیرفتن\&quot; در زیر، به منزله خواندن و پذیرفتن &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما توسط شما تلقی می‌شود.</string>
+این کد را به مسئول مربوطه ارسال کنید."</string>
+    <string name="dialog_privacy_info_new2">برای امکان استفاده از خدمات آن، شما باید بپذیرید که %1$s اطلاعات شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. زدن روی \"پذیرفتن\" در زیر، به منزله خواندن و پذیرفتن &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما توسط شما تلقی می‌شود.</string>
     <string name="dialog_privacy_title">مجوز</string>
     <string name="dialog_revoke_privacy_info_new2">پس از باطل کردن مجوز، این برنامه جمع‌آوری داده‌ها را متوقف کرده و همه داده‌های مرتبط را از سرورهای ما حذف خواهد کرد. این کار ممکن است باعث گردد برنامه عملاً غیر قابل استفاده شود. در هر صورت مجوز باطل شود؟</string>
     <string name="dialog_revoke_privacy_title">ابطال مجوز</string>
@@ -386,10 +386,10 @@
     <string name="galleryplus_gallery_view_tags">نمایش علامت</string>
     <string name="galleryplus_is_higher_definition">پیش‌نمایش HD باز شد</string>
     <string name="galleryplus_permission_content">به ویدئوی Mi مجوزهای لازم را داده تا بتوانید از این ویژگی استفاده کنید.</string>
-    <string name="galleryplus_permission_content2">&quot;برای امکان استفاده از این ویژگی به تنظیمات &gt; برنامه‌ها &gt; ویدئوی Mi &gt; مجوزهای برنامه رفته و به ویدئوی Mi اجازه انجام کارهای زیر را بدهید:
+    <string name="galleryplus_permission_content2">"برای امکان استفاده از این ویژگی به تنظیمات &gt; برنامه‌ها &gt; ویدئوی Mi &gt; مجوزهای برنامه رفته و به ویدئوی Mi اجازه انجام کارهای زیر را بدهید:
 
 ۱. دسترسی به حافظه
-۲. دسترسی به شناسه دستگاه&quot;</string>
+۲. دسترسی به شناسه دستگاه"</string>
     <string name="galleryplus_permission_open_settings">تنظیمات</string>
     <string name="galleryplus_permission_refuse">خیر، سپاسگزارم</string>
     <string name="galleryplus_permission_retry">مجوزها</string>
@@ -453,8 +453,8 @@
     <string name="issue">اشکال</string>
     <string name="just_a_second">چند لحظه صبر کنید…</string>
     <string name="language_later_setting_tips">شما می‌توانید تنظیمات زبان خود را در نمایه &gt; زبان تغییر دهید.</string>
-    <string name="language_select_tips">&quot;زمان ترجیحی خود را برای ویدئوها
-انتخاب کنید&quot;</string>
+    <string name="language_select_tips">"زمان ترجیحی خود را برای ویدئوها
+انتخاب کنید"</string>
     <string name="language_setting_tips">تنظیمات زبان خود را انتخاب کرده تا پیشنهادات محتوایی مربوط‌تری دریافت کنید. شما می‌توانید تنظیمات زبان را در نمایه &gt; زبان تغییر دهید.</string>
     <string name="language_setting_tips_dialog">تنظیمات زبان برای محتوا را می‌توانید در حساب &gt; زبان انتخاب کنید.</string>
     <string name="later">بعداً</string>
@@ -521,7 +521,7 @@
     <string name="lv_folder_null">پوشه ناشناس</string>
     <string name="lv_fullscreen">تمام‌صفحه</string>
     <string name="lv_hide_folder">ویدئوهای پنهان</string>
-    <string name="lv_hide_prompt">با موفقیت تنظیم شد. موارد پنهان شده را در پوشه \&quot;ویدئوهای پنهان\&quot; مشاهده کنید.</string>
+    <string name="lv_hide_prompt">با موفقیت تنظیم شد. موارد پنهان شده را در پوشه \"ویدئوهای پنهان\" مشاهده کنید.</string>
     <string name="lv_history">تاریخچه</string>
     <string name="lv_history_null">هیچ موردی اینجا نیست</string>
     <string name="lv_home_favorites">موارد پسندیده</string>
@@ -577,7 +577,7 @@
     <string name="lv_subtitle_onlinesub_loading">درحال بارگذاری زیرنویس…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">درحال بارگذاری زیرنویس…</string>
     <string name="lv_subtitle_onlinesub_right_declare">توضیحات سلب مسئولیت</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">زیرنویس‌ها را &lt;br/&gt;&lt;br/&gt;از &lt;a href=\&quot;http://www.opensubtitles.org\&quot;&gt;opensubtitles.org&lt;/a&gt; دریافت کنید.&lt;br/&gt;&lt;br/&gt;همه زیرنویس‌های آنلاین توسط &lt;a href=\&quot;http://www.opensubtitles.org\&quot;&gt;opensubtitles.org&lt;/a&gt; ارائه شده‌اند.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">زیرنویس‌ها را &lt;br/&gt;&lt;br/&gt;از &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; دریافت کنید.&lt;br/&gt;&lt;br/&gt;همه زیرنویس‌های آنلاین توسط &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; ارائه شده‌اند.</string>
     <string name="lv_subtitle_onlinesub_save_failed">زیرنویس افزوده نشد</string>
     <string name="lv_subtitle_onlinesub_save_success">زیرنویس با موفقیت افزوده شد</string>
     <string name="lv_subtitle_onlinesub_search_keyword">برای جستجو کلیدواژه‌ها را وارد کنید</string>
@@ -689,7 +689,7 @@
     <string name="ovp_detail_more_summary">بیشتر</string>
     <string name="ovp_detail_require_pay">برای اجاره</string>
     <string name="ovp_detail_require_subscription">نیاز به اشتراک دارد</string>
-    <string name="ovp_detail_score">&quot;درحال امتیازدهی: &quot;</string>
+    <string name="ovp_detail_score">"درحال امتیازدهی: "</string>
     <string name="ovp_detail_shortcut">میان‌بر</string>
     <string name="ovp_detail_summary">خلاصه</string>
     <string name="ovp_detail_v_all_episode">همه قسمت‌ها</string>
@@ -698,7 +698,7 @@
     <string name="ovp_detail_v_episode_count">به قسمت %d به‌روز شد</string>
     <string name="ovp_detail_v_episode_download_null">این قسمت دانلود نمی‌شود</string>
     <string name="ovp_detail_v_variety_episode_count">به فصل %s به‌روز شد</string>
-    <string name="ovp_episode_suffix">&quot;قسمت %d &quot;</string>
+    <string name="ovp_episode_suffix">"قسمت %d "</string>
     <string name="ovp_favor">موارد پسندیده</string>
     <string name="ovp_favor_null">هیچ موردی اینجا نیست.</string>
     <string name="ovp_feedback_title">بازخورد ویدئوی Mi</string>
@@ -730,8 +730,8 @@
     <string name="ovp_player_plugin_dlg_no_content">هیچ افزونه پخش ویدئویی نصب نیست.</string>
     <string name="ovp_player_plugin_dlg_title">افزونه‌های پخش ویدئو</string>
     <string name="ovp_player_update_dialog_info">برای پخش این ویدئو افزونه ویدئوی Mi را به آخرین نسخه به‌روز کنید. به‌روز شود؟</string>
-    <string name="ovp_player_update_info">&quot;این ویدئو پخش نمی‌شود.
-ابتدا ویدئوی Mi را به آخرین نسخه به‌روزرسانی کنید.&quot;</string>
+    <string name="ovp_player_update_info">"این ویدئو پخش نمی‌شود.
+ابتدا ویدئوی Mi را به آخرین نسخه به‌روزرسانی کنید."</string>
     <string name="ovp_playlist">فهرست پخش</string>
     <string name="ovp_plugin_install_failure">افزونه نصب نشد</string>
     <string name="ovp_resolution_auto">خودکار</string>
@@ -759,13 +759,13 @@
     <string name="partner_id">3041</string>
     <string name="passport_access_denied">دسترسی رد شد</string>
     <string name="passport_account_label">حساب Mi</string>
-    <string name="passport_account_name">&quot;حساب: %1$s &quot;</string>
+    <string name="passport_account_name">"حساب: %1$s "</string>
     <string name="passport_activate_token_expired">کد تایید منقضی شد. دوباره تلاش کنید.</string>
     <string name="passport_area_code_title">کد ناحیه</string>
     <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">نام کاربری یا گذرواژه معتبر است</string>
     <string name="passport_barcode_add_account_prompt">برای افزودن یک حساب، بعد از وارد شدن کد QR را دوباره اسکن کنید.</string>
-    <string name="passport_can_not_receive_verification_code">&quot;Can&apos;t receive verification code?&quot;</string>
+    <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
     <string name="passport_captcha_title">کد امنیتی</string>
     <string name="passport_checking_account">درحال بررسی گذرواژه…</string>
     <string name="passport_close">بستن</string>
@@ -834,8 +834,8 @@
     <string name="passport_unknow_error">یک خطای نامشخص روی داد</string>
     <string name="passport_unknow_host_network_error">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
     <string name="passport_unknow_network_error">خطای شبکه رخ داده است</string>
-    <string name="passport_user_agreement_link">&lt;Data&gt;من &lt;a href=\&quot;%1$s\&quot;&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; Xiaomi را خوانده و می‌پذیریم.&lt;/Data&gt;</string>
-    <string name="passport_user_agreement_link_more">&lt;Data&gt;من اسناد زیر را خوانده و می‌پذیرم: &lt;a href=\&quot;%1$s\&quot;&gt;توافقنامه کاربر&lt;/a&gt; و &lt;a href=\&quot;%4$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; Xiaomi، &lt;a href=\&quot;%2$s\&quot;&gt;\&quot;%3$s\&quot;&lt;/a&gt;.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link">&lt;Data&gt;من &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; Xiaomi را خوانده و می‌پذیریم.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link_more">&lt;Data&gt;من اسناد زیر را خوانده و می‌پذیرم: &lt;a href=\"%1$s\"&gt;توافقنامه کاربر&lt;/a&gt; و &lt;a href=\"%4$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; Xiaomi، &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="passport_user_id_intro">گذرواژه را برای %1$s وارد کنید</string>
     <string name="passport_v_code_error">کد تایید اشتباه است</string>
     <string name="passport_vcode_notification_title">تاییدیه ورود شما کامل نشده است</string>
@@ -854,10 +854,10 @@
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="permission_continue">ادامه</string>
-    <string name="permission_info">&quot;ویدئوی Mi برای انجام کارهای زیر نیاز به دسترسی به شماره IMEI دستگاه شما دارد:
+    <string name="permission_info">"ویدئوی Mi برای انجام کارهای زیر نیاز به دسترسی به شماره IMEI دستگاه شما دارد:
  
 بهبود سفارشی کردن خدماتش برای دستگاه شما؛
-افزایش امنیت حساب شما&quot;</string>
+افزایش امنیت حساب شما"</string>
     <string name="permission_info1">ویدئوی Mi برای انجام کارهای زیر نیاز به دسترسی به شماره IMEI دستگاه شما دارد:</string>
     <string name="permission_info2">بهبود سفارشی کردن خدماتش برای دستگاه شما؛</string>
     <string name="permission_info3">افزایش امنیت حساب شما.</string>
@@ -903,17 +903,17 @@
     <string name="plus_menu_delete_popup_text">حذف شود؟</string>
     <string name="plus_menu_properties">مشخصات</string>
     <string name="plus_menu_rename">تغییر نام</string>
-    <string name="plus_menu_rename_fail">نام فایل نمی‌تواند حاوی \&quot;/\&quot; باشد</string>
+    <string name="plus_menu_rename_fail">نام فایل نمی‌تواند حاوی \"/\" باشد</string>
     <string name="plus_menu_share">همرسانی</string>
     <string name="plus_mine_gallery">آلبوم‌های من</string>
     <string name="plus_mine_videos">ویدئوهای من</string>
     <string name="plus_player_8k_video_not_support">ویدئوهای 8K را نمی‌توان روی این دستگاه پخش کرد</string>
     <string name="plus_player_audio_track">فایل صوتی</string>
-    <string name="plus_player_detail_file_location">&quot;موقعیت: &quot;</string>
-    <string name="plus_player_detail_file_name">&quot;نام فایل: &quot;</string>
-    <string name="plus_player_detail_file_param">&quot;مؤلفه‌ها: &quot;</string>
-    <string name="plus_player_detail_file_path">&quot;مسیر: &quot;</string>
-    <string name="plus_player_detail_file_time">&quot;برچسب زمان: &quot;</string>
+    <string name="plus_player_detail_file_location">"موقعیت: "</string>
+    <string name="plus_player_detail_file_name">"نام فایل: "</string>
+    <string name="plus_player_detail_file_param">"مؤلفه‌ها: "</string>
+    <string name="plus_player_detail_file_path">"مسیر: "</string>
+    <string name="plus_player_detail_file_time">"برچسب زمان: "</string>
     <string name="plus_player_hide">پنهان کردن</string>
     <string name="plus_player_pip">PiP</string>
     <string name="plus_player_pip_unsupport">از PiP در این نسخه از سیستم شما پشتیبانی نمی‌شود.</string>
@@ -943,7 +943,7 @@
     <string name="plus_player_subtitle_local_add_success">زیرنویس با موفقیت افزوده شد</string>
     <string name="plus_player_subtitle_no_file">هیچ زیرنویسی اینجا نیست.</string>
     <string name="plus_player_subtitle_online">زیرنویس آنلاین</string>
-    <string name="plus_player_subtitle_online_declare_content">یک گام تا جستجو برای &lt;br/&gt;زیرنویس در پایگاه داده &lt;a href=\&quot;http://www.opensubtitles.org\&quot;&gt;opensubtitles.org&lt;/a&gt; قرار دارید. &lt;br/&gt;تمام زیرنویس‌ها توسط &lt;a href=\&quot;http://www.opensubtitles.org\&quot;&gt;opensubtitles.org&lt;/a&gt; ارائه شده‌اند.</string>
+    <string name="plus_player_subtitle_online_declare_content">یک گام تا جستجو برای &lt;br/&gt;زیرنویس در پایگاه داده &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; قرار دارید. &lt;br/&gt;تمام زیرنویس‌ها توسط &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; ارائه شده‌اند.</string>
     <string name="plus_player_subtitle_online_declare_title">توضیحات سلب مسئولیت</string>
     <string name="plus_player_subtitle_online_download_fail">زیرنویس‌ها دانلود نشدند</string>
     <string name="plus_player_subtitle_online_download_start">درحال دانلود زیرنویس‌ها…</string>
@@ -1084,10 +1084,10 @@
     <string name="sns_access_token_expired_warning">مهلت به پایان رسیده است. برای اتصال دوباره به این حساب، دوباره وارد شوید.</string>
     <string name="sns_bind_limit">تلاش‌ها بیش از حد بودند. راه‌های دیگر را برای ورود انتخاب کنید.</string>
     <string name="sns_sign_in">راه‌های دیگر برای ورود</string>
-    <string name="source">&quot;منبع: &quot;</string>
-    <string name="srl_component_falsify">&quot;%s falsify area,
+    <string name="source">"منبع: "</string>
+    <string name="srl_component_falsify">"%s falsify area,
  Represents the height[%.1fdp] of drag at run time,
- It does not show anything.&quot;</string>
+ It does not show anything."</string>
     <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
     <string name="srl_footer_failed">Load Failed</string>
     <string name="srl_footer_finish">Load Success</string>
@@ -1103,7 +1103,7 @@
     <string name="srl_header_refreshing">Refreshing…</string>
     <string name="srl_header_release">Release To Refresh</string>
     <string name="srl_header_secondary">Release To Second Floor</string>
-    <string name="srl_header_update">&quot;&apos;Last Update&apos; M-d HH:mm&quot;</string>
+    <string name="srl_header_update">"'Last Update' M-d HH:mm"</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">کارت SD</string>
     <string name="storage_internal_sdcard">حافظه داخلی</string>
@@ -1159,7 +1159,7 @@
     <string name="ticket_sign_in">ورود با پیامک</string>
     <string name="title_publisher">سازندگان</string>
     <string name="title_subscribe">اشتراک‌ها</string>
-    <string name="toast_no_data">&quot;This item isn&apos;t available now. Come back later.&quot;</string>
+    <string name="toast_no_data">"This item isn't available now. Come back later."</string>
     <string name="toast_request_too_frequently">عجله نکنید!</string>
     <string name="toast_share_failed">همرسانی نشد. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="today">امروز</string>
@@ -1224,10 +1224,10 @@
     <string name="weibo_redirect_uri"></string>
     <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
-    <string name="xiaomi_update_sdk_dialog_message">&quot;Introducing version %1$s
-Size: %2$s&quot;</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">&quot;Introducing version %1$s
-Delta update size: %2$s&quot;</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>

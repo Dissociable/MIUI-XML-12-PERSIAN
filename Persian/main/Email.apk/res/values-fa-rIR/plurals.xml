@@ -49,12 +49,12 @@
 <item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; بی‌صدا شد.</item>
 </plurals>
 <plurals name="conversation_not_important">
-<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;&quot; پیام از پوشه 'مهم' حذف شدند&quot;</item>
-<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;&quot; از پوشه 'مهم' حذف شد&quot;</item>
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt;" پیام از پوشه 'مهم' حذف شدند"</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt;" از پوشه 'مهم' حذف شد"</item>
 </plurals>
 <plurals name="conversation_not_spam">
-<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; از پوشه \&quot;هرزنامه\&quot; حذف شد</item>
-<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; از پوشه \&quot;اهرزنامه\&quot; حذف شد</item>
+<item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; از پوشه \"هرزنامه\" حذف شد</item>
+<item quantity="one">&lt;b&gt;%1$d&lt;/b&gt; از پوشه \"اهرزنامه\" حذف شد</item>
 </plurals>
 <plurals name="conversation_phished">
 <item quantity="other">&lt;b&gt;%1$d&lt;/b&gt; پیام به عنوان هرزنامه گزارش شد</item>
@@ -129,7 +129,7 @@
 <item quantity="one">%1$dپیام قدیمی تر</item>
 </plurals>
 <plurals name="unsent_messages_in_outbox">
-<item quantity="other">&quot;%1$s  پیام فرستاده نشده در %2$s &quot;</item>
-<item quantity="one">&quot;%1$s  پیام فرستاده نشده در %2$s &quot;</item>
+<item quantity="other">"%1$s  پیام فرستاده نشده در %2$s "</item>
+<item quantity="one">"%1$s  پیام فرستاده نشده در %2$s "</item>
 </plurals>
 </resources>

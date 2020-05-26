@@ -50,10 +50,10 @@
     <string name="bt_sm_2_2">فضای مورد نیاز: %1$s</string>
     <string name="bt_toast_1">فایل دریافت می‌شود: پیشرفت دریافت را در پانل اعلان‌ها بررسی کنید.</string>
     <string name="bt_toast_2">فایل را نمی‌توان دریافت کرد.</string>
-    <string name="bt_toast_3">دریافت فایل از \&quot;%1$s\&quot; متوقف شد</string>
-    <string name="bt_toast_4">ارسال فایل به \&quot;%1$s\&quot;</string>
-    <string name="bt_toast_5">ارسال %1$s فایل به \&quot;%2$s\&quot;</string>
-    <string name="bt_toast_6">ارسال فایل به \&quot;%1$s\&quot; متوقف شد</string>
+    <string name="bt_toast_3">دریافت فایل از \"%1$s\" متوقف شد</string>
+    <string name="bt_toast_4">ارسال فایل به \"%1$s\"</string>
+    <string name="bt_toast_5">ارسال %1$s فایل به \"%2$s\"</string>
+    <string name="bt_toast_6">ارسال فایل به \"%1$s\" متوقف شد</string>
     <string name="btopp_live_folder">بلوتوث دریافت شد</string>
     <string name="defaultname">کیت خودرو</string>
     <string name="defaultnumber">000000</string>
@@ -64,7 +64,7 @@
     <string name="download_fail_line2">فایل: %1$s</string>
     <string name="download_fail_line3">دلیل: %1$s</string>
     <string name="download_fail_ok">تأیید</string>
-    <string name="download_line1">از: \&quot;%1$s\&quot;</string>
+    <string name="download_line1">از: \"%1$s\"</string>
     <string name="download_line2">فایل: %1$s</string>
     <string name="download_line3">اندازه فایل: %1$s</string>
     <string name="download_line4"></string>
@@ -83,7 +83,7 @@
     <string name="incoming_file_confirm_cancel">نپذیرفتن</string>
     <string name="incoming_file_confirm_content">فایل ورودی پذیرفته شود؟</string>
     <string name="incoming_file_confirm_ok">پذیرفتن</string>
-    <string name="incoming_file_confirm_timeout_content">هنگام پذیرش یک فایل ورودی از \&quot;%1$s\&quot; وقفه زمانی پیش آمد</string>
+    <string name="incoming_file_confirm_timeout_content">هنگام پذیرش یک فایل ورودی از \"%1$s\" وقفه زمانی پیش آمد</string>
     <string name="incoming_file_confirm_timeout_ok">تأیید</string>
     <string name="incoming_file_confirm_title">انتقال فایل</string>
     <string name="incoming_file_toast_msg">Incoming file from another device. Confirm you want to receive this file.</string>
@@ -97,8 +97,8 @@
     <string name="miui_transfer_outbound_title">ارسالی</string>
     <string name="no_transfers">سابقه انتقال خالی است.</string>
     <string name="not_exist_file">فایلی وجود ندارد</string>
-    <string name="not_exist_file_desc">&quot;فایل موجود نیست. 
-&quot;</string>
+    <string name="not_exist_file_desc">"فایل موجود نیست. 
+"</string>
     <string name="notification_received">اشتراک بلوتوث: %1$s دریافت شد</string>
     <string name="notification_received_fail">اشتراک بلوتوث: فایل %1$sدریافت نشد</string>
     <string name="notification_receiving">اشتراک بلوتوث: در حال دریافت %1$s</string>
@@ -158,14 +158,14 @@
     <string name="unknownNumber">ناشناس</string>
     <string name="unknown_device">دستگاه ناشناس</string>
     <string name="unknown_file">فایل ناشناس</string>
-    <string name="unknown_file_desc">&quot;هیچ برنامه‌ای برای کار با این نوع فایل وجود ندارد.
-&quot;</string>
+    <string name="unknown_file_desc">"هیچ برنامه‌ای برای کار با این نوع فایل وجود ندارد.
+"</string>
     <string name="update_record">تأیید سابقه</string>
     <string name="upload_fail_cancel">بستن</string>
-    <string name="upload_fail_line1">فایل به \&quot;%1$s\&quot; ارسال نشد.</string>
+    <string name="upload_fail_line1">فایل به \"%1$s\" ارسال نشد.</string>
     <string name="upload_fail_line1_2">فایل: %1$s</string>
     <string name="upload_fail_ok">دوباره امتحان کنید</string>
-    <string name="upload_line1">به: \&quot;%1$s\&quot;</string>
+    <string name="upload_line1">به: \"%1$s\"</string>
     <string name="upload_line3">نوع فایل: %1$s (%2$s)</string>
     <string name="upload_line5">در حال ارسال فایل...</string>
     <string name="upload_succ_line5">فایل ارسال شد</string>

@@ -330,8 +330,8 @@
     <string name="available_via_carrier">قابل دسترسی از طریق %1$s</string>
     <string name="available_via_passpoint">قابل دسترسی از طریق %1$s</string>
     <string name="back">بازگشت</string>
-    <string name="band_24G">&quot; (باند ۲.۴ گیگاهرتزی)&quot;</string>
-    <string name="band_5G">&quot; (باند ۵ گیگاهرتزی)&quot;</string>
+    <string name="band_24G">" (باند ۲.۴ گیگاهرتزی)"</string>
+    <string name="band_5G">" (باند ۵ گیگاهرتزی)"</string>
     <string name="battery">باتری</string>
     <string name="battery_detail_charging_summary">هنگام شارژ کردن بهینه‌ساز باتری در دسترس نیست</string>
     <string name="battery_detail_switch_summary">کاهش کارایی و داده‌های پس‌زمینه</string>
@@ -441,17 +441,17 @@
     <string name="bluetooth_sap_profile_summary_connected">به SAP وصل شد</string>
     <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی به سیم‌کارت</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">بیت‌های صدای بلوتوث به ازای نمونه</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-بیت‌ها به ازای نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"انتخاب کدک صدای بلوتوث:
+بیت‌ها به ازای نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">حالت کانال صدای بلوتوث</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-حالت کانال&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"انتخاب کدک صدای بلوتوث:
+حالت کانال"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">کدک LDAC صدای بلوتوث: کیفیت بازپخش</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">&quot;انتخاب کدک LDAC صدای بلوتوث:
-کیفیت بازپخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"انتخاب کدک LDAC صدای بلوتوث:
+کیفیت بازپخش"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">نرخ نمونه صدای بلوتوث</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">&quot;انتخاب کدک صدای بلوتوث:
-نرخ نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"انتخاب کدک صدای بلوتوث:
+نرخ نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">درحال پخش: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">کدک صوتی بلوتوث</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">انتخاب رها‌سازی کدک صوتی بلوتوث</string>
@@ -557,10 +557,10 @@
     <string name="connected_via_passpoint">متصل شده از طریق %1$s</string>
     <string name="content_description_menu_button">منو</string>
     <string name="control_quick_settings_tiles_super_save">gps,nfc,screenshot,vibrate</string>
-    <string name="convert_to_fbe_warning">&quot;بخش داده‌ها را به فایل رمزگذاری شده تبدیل کنید.
+    <string name="convert_to_fbe_warning">"بخش داده‌ها را به فایل رمزگذاری شده تبدیل کنید.
  هشدار: این کار باعث پاک کردن همه داده‌های شما می‌شود.
  این ویژگی درحال توسعه است و ممکن است به درستی کار نکند.
- گزینه &apos;پاک‌سازی و تبدیل…&apos; را زده تا ادامه یابد.&quot;</string>
+ گزینه 'پاک‌سازی و تبدیل…' را زده تا ادامه یابد."</string>
     <string name="convert_to_file_encryption">تبدیل به رمزگذاری فایل</string>
     <string name="convert_to_file_encryption_done">فایل‌ها رمزگذاری شده‌اند</string>
     <string name="convert_to_file_encryption_enabled">تبدیل…</string>
@@ -580,9 +580,9 @@
     <string name="data_saver_description">برای کاهش مصرف اینترنت همراه، صرفه‌جویی کننده اینترنت همراه از ارسال یا دریافت اینترنت همراه برخی برنامه‌ها در پس‌زمینه جلوگیری می‌کند. برنامه‌ای که درحال استفاده هستید به اینترنت همراه دسترسی دارد ولی کمتر استفاده می‌شود. این به معنی آن است که برای مثال تصاویر تا زمانی که روی آن‌ها نزنید باز نمی‌شوند.</string>
     <string name="data_saver_enable_button">روشن کردن</string>
     <string name="data_saver_enable_title">صرفه‌جویی کننده اینترنت همراه روشن شود؟</string>
-    <string name="data_usage_disabled_dialog">&quot;سقفی که تنظیم کرده‌اید پر شده است. دیگر از اینترنت همراه استفاده نمی‌شود.
+    <string name="data_usage_disabled_dialog">"سقفی که تنظیم کرده‌اید پر شده است. دیگر از اینترنت همراه استفاده نمی‌شود.
 
-در صورت ادامه ممکن است هزینه‌های اضافی برای اینترنت همراه در پی داشته باشد.&quot;</string>
+در صورت ادامه ممکن است هزینه‌های اضافی برای اینترنت همراه در پی داشته باشد."</string>
     <string name="data_usage_disabled_dialog_3g_title">اینترنت 2G-3G مکث شده است</string>
     <string name="data_usage_disabled_dialog_4g_title">اینترنت 4G مکث شده است</string>
     <string name="data_usage_disabled_dialog_enable">ادامه</string>
@@ -663,7 +663,7 @@
     <string name="drive_mode_tip_notch">حالت رانندگی</string>
     <string name="emergency_call_string">اضطراری</string>
     <string name="empty_shade_text">بدون اعلان</string>
-    <string name="empty_title">&quot; &quot;</string>
+    <string name="empty_title">" "</string>
     <string name="enable_adb">اشکال‌زدایی USB</string>
     <string name="enable_adb_summary">حالت عیب‌یابی هنگامی که USB متصل است</string>
     <string name="enable_bluetooth_confirmation_ok">روشن کردن</string>
@@ -790,9 +790,9 @@
     <string name="hidden_notifications_text">پیش از باز کردن قفل، آن‌ها را ببینید</string>
     <string name="hidden_notifications_title">دریافت سریع‌تر اعلان‌ها</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="high_temp_dialog_message">&quot;گوشی شما به صورت خودکار خنک خواهد شد. همچنان می‌توانید از گوشی خود استفاده کنید ولی ممکن است کندتر باشد.
+    <string name="high_temp_dialog_message">"گوشی شما به صورت خودکار خنک خواهد شد. همچنان می‌توانید از گوشی خود استفاده کنید ولی ممکن است کندتر باشد.
 
-هنگامی که گوشی شما خنک شد به صورت عادی کار خواهد کرد.&quot;</string>
+هنگامی که گوشی شما خنک شد به صورت عادی کار خواهد کرد."</string>
     <string name="high_temp_notif_message">برخی ویژگی‌ها هنگام خنک شدن گوشی ممکن است محدود شده باشند</string>
     <string name="high_temp_title">گوشی در حال گرم شدن است</string>
     <string name="home">تنظیمات صفحه اصلی</string>
@@ -837,17 +837,17 @@
     <string name="instant_apps_message_with_help">App opened without being installed. Tap to learn more.</string>
     <string name="instant_apps_title">%1$s running</string>
     <string name="interruption_level_alarms">فقط هشدارها</string>
-    <string name="interruption_level_alarms_twoline">&quot;فقط
-هشدارها&quot;</string>
+    <string name="interruption_level_alarms_twoline">"فقط
+هشدارها"</string>
     <string name="interruption_level_none">سکوت کامل</string>
-    <string name="interruption_level_none_twoline">&quot;سکوت
-کامل&quot;</string>
+    <string name="interruption_level_none_twoline">"سکوت
+کامل"</string>
     <string name="interruption_level_none_with_warning">سکوت کامل. این کار باعث ساکت کردن صفحه خوان نیز می‌شود.</string>
     <string name="interruption_level_priority">فقط اولویت</string>
-    <string name="interruption_level_priority_twoline">&quot;فقط
-اولویت&quot;</string>
-    <string name="invalid_charger">&quot;شارژر USB مورد پشتیبانی نیست.
-فقط از شارژر داده شده استفاده کنید.&quot;</string>
+    <string name="interruption_level_priority_twoline">"فقط
+اولویت"</string>
+    <string name="invalid_charger">"شارژر USB مورد پشتیبانی نیست.
+فقط از شارژر داده شده استفاده کنید."</string>
     <string name="invalid_charger_text">فقط از شارژر داده شده استفاده کنید.</string>
     <string name="invalid_charger_title">شارژر USB مورد پشتیبانی نیست.</string>
     <string name="invalid_confirm_pin_hint">PINها با هم مطابقت ندارند</string>
@@ -856,7 +856,7 @@
     <string name="ir_mcc">432</string>
     <string name="keep_screen_on">بیدار ماندن</string>
     <string name="keep_screen_on_summary">نمایشگر هرگز هنگام شارژ کردن به خواب نخواهد رفت</string>
-    <string name="keyboard_key">\&quot;</string>
+    <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">بازگشت</string>
     <string name="keyboard_key_backspace">پس‌برد</string>
     <string name="keyboard_key_button_template">دکمه %1$s</string>
@@ -954,8 +954,8 @@
     <string name="keyguard_password_enter_puk_prompt">کد PUK سیم‌کارت</string>
     <string name="keyguard_password_entry_touch_hint">برای وارد کردن گذرواژه ضربه بزنید</string>
     <string name="keyguard_password_wrong_pin_code">کد PIN نادرست است.</string>
-    <string name="keyguard_permanent_disabled_sim_instructions">&quot;سیم‌کارت شما به صورت دائم غیرفعال شده است
- برای تهیه یک سیم‌کارت دیگر با ارائه دهنده خدمات بیسیم خود تماس بگیرید.&quot;</string>
+    <string name="keyguard_permanent_disabled_sim_instructions">"سیم‌کارت شما به صورت دائم غیرفعال شده است
+ برای تهیه یک سیم‌کارت دیگر با ارائه دهنده خدمات بیسیم خود تماس بگیرید."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">سیم‌کارت غیرقابل استفاده است.</string>
     <string name="keyguard_plugged_in">درحال شارژ</string>
     <string name="keyguard_plugged_in_charging_fast">درحال شارژ سریع</string>
@@ -971,9 +971,9 @@
     <string name="kg_enter_confirm_pin_hint">تأیید PIN جدید را تأیید کنید</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">شما %1$d تلاش ناموفق برای باز کردن قفل گوشی داشتید. پس از %2$d تلاش ناموفق دیگر، نمایه کاری حذف می‌شود و تمام داده‌هاش از دست خواهد رفت.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">شما %1$d تلاش ناموفق برای باز کردن قفل گوشی داشتید. پس از %2$d تلاش ناموفق دیگر، این کاربر حذف می‌شود و تمام داده‌هاش از دست خواهد رفت.</string>
-    <string name="kg_failed_attempts_almost_at_login">&quot;الگوی خود را %1$d بار نادرست کشیده‌اید. پس از %2$d تلاش ناموفق دیگر، از شما خواسته می‌شود به وسیله یک حساب ایمیل، قفل گوشی خود را باز نمایید.
+    <string name="kg_failed_attempts_almost_at_login">"الگوی خود را %1$d بار نادرست کشیده‌اید. پس از %2$d تلاش ناموفق دیگر، از شما خواسته می‌شود به وسیله یک حساب ایمیل، قفل گوشی خود را باز نمایید.
 
- %3$d ثانیه دیگر دوباره تلاش کنید.&quot;</string>
+ %3$d ثانیه دیگر دوباره تلاش کنید."</string>
     <string name="kg_failed_attempts_almost_at_wipe">شما %1$d تلاش ناموفق برای باز کردن قفل گوشی داشتید. پس از %2$d تلاش ناموفق دیگر، این گوشی بازنشانی می‌شود که تمام داده‌های کاربر از دست خواهد رفت.</string>
     <string name="kg_failed_attempts_now_erasing_profile">شما %d تلاش ناموفق برای باز کردن قفل گوشی داشتید. اکنون نمایه کاری حذف می‌شود و تمام داده‌هایش حذف خواهد شد.</string>
     <string name="kg_failed_attempts_now_erasing_user">شما %d تلاش ناموفق برای باز کردن قفل گوشی داشتید. اکنون کاربر حذف می‌شود و تمام داده‌هایش حذف خواهد شد.</string>
@@ -1010,15 +1010,15 @@
     <string name="kg_sim_pin_instructions_multi">کد PIN سیم‌کارت برای «%1$s» را وارد کنید</string>
     <string name="kg_sim_unlock_progress_dialog_message">در حال گشودن قفل سیم‌کارت…</string>
     <string name="kg_too_many_failed_attempts_countdown">%d ثانیه دیگر دوباره تلاش کنید.</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">&quot;شما گذرواژه خود را %1$d بار به اشتباه وارد کردید. 
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"شما گذرواژه خود را %1$d بار به اشتباه وارد کردید. 
 
-%2$d ثانیه دیگر دوباره تلاش کنید.&quot;</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">&quot;شما الگوی خود را %1$d بار به اشتباه کشیدید. 
+%2$d ثانیه دیگر دوباره تلاش کنید."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"شما الگوی خود را %1$d بار به اشتباه کشیدید. 
 
-%2$d ثانیه دیگر دوباره تلاش کنید.&quot;</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">&quot;شما کد PIN را %1$d بار به اشتباه وارد کردید. 
+%2$d ثانیه دیگر دوباره تلاش کنید."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"شما کد PIN را %1$d بار به اشتباه وارد کردید. 
 
-%2$d ثانیه دیگر دوباره تلاش کنید.&quot;</string>
+%2$d ثانیه دیگر دوباره تلاش کنید."</string>
     <string name="kg_wrong_password">گذرواژه نادرست است</string>
     <string name="kg_wrong_pattern">الگو نادرست است</string>
     <string name="kg_wrong_pin">PIN نادرست است</string>
@@ -1030,7 +1030,7 @@
     <string name="left_keycode">رمز کلیدی چپ</string>
     <string name="left_nav_bar_button_type">نوع دکمه اضافی چپ</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">&quot;, &quot;</string>
+    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">در حال بارگذاری…</string>
     <string name="local_backup_password_summary_change">ضربه زده تا گذرواژه پشتیبان‌گیری‌های دسکتاپ را تغییر داده یا حذف کنید</string>
     <string name="local_backup_password_summary_none">پشتیبان‌گیری‌های کامل صفحه اصلی درحال حاضر محافظت شده نیستند</string>
@@ -1041,10 +1041,10 @@
     <string name="lock_screen_carrier_airplane_mode_on">حالت هواپیما</string>
     <string name="lock_screen_date">EEEE، d MMMM</string>
     <string name="lock_screen_date_12">EEEE، d MMMM</string>
-    <string name="lock_screen_date_two_lines">&quot;EEEE
-d MMMM&quot;</string>
-    <string name="lock_screen_date_two_lines_12">&quot;EEEE
-d MMMM&quot;</string>
+    <string name="lock_screen_date_two_lines">"EEEE
+d MMMM"</string>
+    <string name="lock_screen_date_two_lines_12">"EEEE
+d MMMM"</string>
     <string name="lock_screen_magazine_default_content">بخشی از تصاویر تازه</string>
     <string name="lock_screen_magazine_default_title">تصاویر چرخشی</string>
     <string name="lock_screen_magazine_global_button_text">بیشتر</string>
@@ -1064,9 +1064,9 @@ d MMMM&quot;</string>
     <string name="lockscreen_carrier_default">بدون خدمات</string>
     <string name="lockscreen_charging_msg">درحال شارژ</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">شما %d تلاش ناموفق برای باز کردن قفل گوشی داشتید. پس از %d تلاش ناموفق دیگر، گوشی به تنظیمات پیش‌فرض کارخانه برمی‌گردد و تمام داده‌های کاربر از دست خواهد رفت.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">&quot;گذرواژه خود را %d بار نادرست وارد کرده‌اید. پس از %d تلاش ناموفق دیگر، از شما خواسته می‌شود به وسیله ورود به حساب Mi خود، قفل گوشی را باز نمایید.
+    <string name="lockscreen_failed_attempts_almost_glogin">"گذرواژه خود را %d بار نادرست وارد کرده‌اید. پس از %d تلاش ناموفق دیگر، از شما خواسته می‌شود به وسیله ورود به حساب Mi خود، قفل گوشی را باز نمایید.
 
- بعد از %d ثانیه دوباره تلاش کنید.&quot;</string>
+ بعد از %d ثانیه دوباره تلاش کنید."</string>
     <string name="lockscreen_failed_attempts_now_wiping">شما %d تلاش ناموفق برای باز کردن قفل گوشی داشتید. اکنون تلفن به تنظیمات پیش‌فرض کارخانه برمی‌گردد.</string>
     <string name="lockscreen_none">هیچ کدام</string>
     <string name="lockscreen_shortcut_left">میان‌بر چپ</string>
@@ -1074,8 +1074,8 @@ d MMMM&quot;</string>
     <string name="lockscreen_sim_error_message_short">سیم‌کارت معتبر نیست.</string>
     <string name="lockscreen_unlock_left">میان‌بر چپ نیز قفل را باز می‌کند</string>
     <string name="lockscreen_unlock_right">میان‌بر راست نیز قفل را باز می‌کند</string>
-    <string name="long_screenshot_guide_text">&quot;برای گرفتن طومار
-عکس ضربه بزنید&quot;</string>
+    <string name="long_screenshot_guide_text">"برای گرفتن طومار
+عکس ضربه بزنید"</string>
     <string name="long_screenshot_not_support_msg">این برنامه از طومار عکس صفحه پشتیبانی نمی‌کند</string>
     <string name="long_screenshot_out_of_memory_error">تصویر خیلی بزرگ است</string>
     <string name="long_screenshot_processing">درحال پردازش…</string>
@@ -1125,10 +1125,10 @@ d MMMM&quot;</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mland">Marshmallow Land</string>
     <string name="mobile_data">اینترنت همراه</string>
     <string name="mobile_data_always_on">فعال بودن همیشگی اینترنت همراه</string>
@@ -1139,53 +1139,53 @@ d MMMM&quot;</string>
     <string name="monitoring_button_view_policies">مشاهده سیاست‌ها</string>
     <string name="monitoring_description_app">شما به %1$s وصل شده‌اید که می‌تواند بر فعالیت شبکه شما شامل ایمیل‌ها، برنامه‌ها و تارنماها نظارت کند.</string>
     <string name="monitoring_description_app_personal">شما به %1$s وصل شده‌اید که می‌تواند فعالیت شبکه شخصی شما شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
-    <string name="monitoring_description_app_personal_work">&quot;نمایه کاری شما توسط %1$sمدیریت شده است. نمایه به %2$s متصل است که می‌تواند بر فعالیت شبکه کاری شما شامل ایمیل‌ها، برنامه‌ها و تارنماها نظارت کند.
+    <string name="monitoring_description_app_personal_work">"نمایه کاری شما توسط %1$sمدیریت شده است. نمایه به %2$s متصل است که می‌تواند بر فعالیت شبکه کاری شما شامل ایمیل‌ها، برنامه‌ها و تارنماها نظارت کند.
 
-شما همچنین به %3$s وصل شده‌اید که می‌تواند بر فعالیت شبکه شخصی شما نظارت کند.&quot;</string>
-    <string name="monitoring_description_app_work">&quot;نمایه کاری شما توسط %1$s مدیریت شده است. نمایه به %2$s متصل است که می‌تواند بر فعالیت شبکه کاری شما شامل ایمیل‌ها، برنامه‌ها و تارنماها نظارت کند.
+شما همچنین به %3$s وصل شده‌اید که می‌تواند بر فعالیت شبکه شخصی شما نظارت کند."</string>
+    <string name="monitoring_description_app_work">"نمایه کاری شما توسط %1$s مدیریت شده است. نمایه به %2$s متصل است که می‌تواند بر فعالیت شبکه کاری شما شامل ایمیل‌ها، برنامه‌ها و تارنماها نظارت کند.
 
-برای اطلاعات بیشتر با مدیر خود تماس بگیرید.&quot;</string>
+برای اطلاعات بیشتر با مدیر خود تماس بگیرید."</string>
     <string name="monitoring_description_ca_cert_settings">باز کردن گواهینامه‌های مورد اعتماد</string>
-    <string name="monitoring_description_ca_cert_settings_separator">&quot; &quot;</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">یک مجوز گواهی روی این دستگاه نصب شده است. ترافیک شبکه امن شما ممکن است نظارت و یا تغییر داده شود.</string>
     <string name="monitoring_description_do_body">مدیر شما می‌تواند تنظیمات، دسترسی شرکتی، برنامه‌ها، داده‌های مرتبط با دستگاه و اطلاعات موقعیت مکانی دستگاه شما را نظارت و مدیریت کند.</string>
     <string name="monitoring_description_do_body_vpn">شما به %1$s وصل شده‌اید که می‌تواند فعالیت شبکه شما شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
     <string name="monitoring_description_do_header_generic">دستگاه شما توسط %1$s مدیریت می‌شود.</string>
     <string name="monitoring_description_do_header_with_name">%1$s از %2$s برای مدیریت دستگاه شما استفاده می‌کند.</string>
     <string name="monitoring_description_do_learn_more">اطلاعات بیشتر</string>
-    <string name="monitoring_description_do_learn_more_separator">&quot; &quot;</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">سازمان شما یک مجوز گواهی را در نمایه کاری شما نصب کرده است. ترافیک شبکه امن شما ممکن است نظارت و یا تغییر داده شود.</string>
     <string name="monitoring_description_managed_profile_named_vpn">نمایه کاری شما به %1$s وصل شده است، که می‌تواند فعالیت شبکه شما، شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
-    <string name="monitoring_description_management">&quot;دستگاه شما توسط سازمان شما مدیریت شده است.
+    <string name="monitoring_description_management">"دستگاه شما توسط سازمان شما مدیریت شده است.
 
 مدیر شما می‌تواند تنظیمات را نظارت و مدیریت کند.
 
-برای اطلاعات بیشتر با مدیر خود تماس بگیرید.&quot;</string>
+برای اطلاعات بیشتر با مدیر خود تماس بگیرید."</string>
     <string name="monitoring_description_management_ca_certificate">سازمان شما یک مجوز گواهی را روی این دستگاه نصب کرده است. ترافیک شبکه امن شما ممکن است نظارت و یا تغییر داده شود.</string>
     <string name="monitoring_description_management_network_logging">مدیر شما ضبط شبکه را روشن کرده است که می‌تواند ترافیک را روی دستگاه شما نظارت کند.</string>
-    <string name="monitoring_description_named_management">&quot;دستگاه شما توسط %1$s مدیریت شده است.
+    <string name="monitoring_description_named_management">"دستگاه شما توسط %1$s مدیریت شده است.
 
 مدیر شما می‌تواند تنظیمات را نظارت و مدیریت کند.
 
-برای اطلاعات بیشتر با مدیر خود تماس بگیرید.&quot;</string>
+برای اطلاعات بیشتر با مدیر خود تماس بگیرید."</string>
     <string name="monitoring_description_named_vpn">شما به %1$s وصل شده‌اید، که می‌تواند فعالیت شبکه شما، شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
-    <string name="monitoring_description_network_logging">&quot;مدیر شما ضبط شبکه را روشن کرده است که می‌تواند ترافیک دستگاه شما را نظارت کند.
+    <string name="monitoring_description_network_logging">"مدیر شما ضبط شبکه را روشن کرده است که می‌تواند ترافیک دستگاه شما را نظارت کند.
 
-برای اطلاعات بیشتر با مدیر خود تماس بگیرید.&quot;</string>
+برای اطلاعات بیشتر با مدیر خود تماس بگیرید."</string>
     <string name="monitoring_description_personal_profile_named_vpn">نمایه شخصی شما به %1$s وصل شده است، که می‌تواند فعالیت شبکه شما، شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
     <string name="monitoring_description_two_named_vpns">شما به %1$s و %2$s وصل شده‌اید که می‌تواند فعالیت شبکه شما شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
-    <string name="monitoring_description_vpn">&quot;شما به برنامه‌ای اجازه ایجاد اتصال VPN داده‌اید.
+    <string name="monitoring_description_vpn">"شما به برنامه‌ای اجازه ایجاد اتصال VPN داده‌اید.
 
-این برنامه می‌تواند فعالیت دستگاه و شبکه شما شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.&quot;</string>
-    <string name="monitoring_description_vpn_profile_owned">&quot;نمایه کاری شما توسط %1$s مدیریت می‌شود.
+این برنامه می‌تواند فعالیت دستگاه و شبکه شما شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند."</string>
+    <string name="monitoring_description_vpn_profile_owned">"نمایه کاری شما توسط %1$s مدیریت می‌شود.
 
 مدیر شما امکان نظارت بر فعالیت شبکه شامل ایمیل‌ها، برنامه‌ها و تارنماها را دارد.
 
 برای اطلاعات بیشتر با مدیر خود تماس بگیرید.
 
-همچنین شما به یک VPN که می‌تواند فعالیت شبکه شما را نظارت کند وصل شده‌اید.&quot;</string>
+همچنین شما به یک VPN که می‌تواند فعالیت شبکه شما را نظارت کند وصل شده‌اید."</string>
     <string name="monitoring_description_vpn_settings">باز کردن تنظیمات VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">&quot; &quot;</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">گواهی‌های CA</string>
     <string name="monitoring_subtitle_network_logging">ضبط شبکه</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1298,7 +1298,7 @@ d MMMM&quot;</string>
     <string name="notification_storage_float">External storage</string>
     <string name="notification_summary_message_format">%1$s: %2$s</string>
     <string name="notification_tap_again">دوباره بزنید تا باز شود</string>
-    <string name="notification_template_text">&quot; یک اعلان دارد. برای مشاهده ضربه بزنید.&quot;</string>
+    <string name="notification_template_text">" یک اعلان دارد. برای مشاهده ضربه بزنید."</string>
     <string name="np_mcc">429</string>
     <string name="oem_preferred_feedback_reporter"></string>
     <string name="oem_unlock_enable">باز کردن قفل OEM</string>
@@ -1370,35 +1370,35 @@ d MMMM&quot;</string>
     <string name="power_discharge_by_only_short">تا %1$s</string>
     <string name="power_discharging_duration">About %1$s left (%2$s)</string>
     <string name="power_discharging_duration_enhanced">About %1$s left based on your usage (%2$s)</string>
-    <string name="power_notification_controls_description">&quot;با کنترل‌های پیشرفته اعلان شما می‌توانید سطح اهمیت اعلان برنامه‌ای را از ۰ تا ۵ انتخاب کنید. 
+    <string name="power_notification_controls_description">"با کنترل‌های پیشرفته اعلان شما می‌توانید سطح اهمیت اعلان برنامه‌ای را از ۰ تا ۵ انتخاب کنید. 
 
-&quot;سطح ۵&quot; 
+"سطح ۵" 
 - در بالای فهرست اعلان نمایش داده می‌شود 
 - اعلان تمام‌صفحه اجازه داده می‌شود 
 - همیشه اعلان‌ها نمایش داده می‌شوند 
 
-&quot;سطح ۴&quot; 
+"سطح ۴" 
 - از باز شدن اعلان تمام‌صفحه جلوگیری می‌شود 
 - همیشه اعلان‌ها نمایش داده می‌شوند 
 
-&quot;سطح ۳&quot; 
+"سطح ۳" 
 - از باز شدن اعلان تمام‌صفحه جلوگیری می‌شود 
 - هرگز اعلان‌ها نمایش داده نمی‌شوند 
 
-&quot;سطح ۲&quot; 
+"سطح ۲" 
 - از باز شدن اعلان تمام‌صفحه جلوگیری می‌شود 
 - هرگز اعلان‌ها نمایش داده نمی‌شوند 
 - هرگز صدایی تولید و لرزشی انجام نمی‌شود 
 
-&quot;سطح ۱&quot; 
+"سطح ۱" 
 - از باز شدن اعلان تمام‌صفحه جلوگیری می‌شود 
 - هرگز اعلان‌ها نمایش داده نشود 
 - هرگز صدایی تولید و لرزشی انجام نمی‌شود 
 - از روی صفحه قفل و نوار وضعیت پنهان می‌شوند 
 - در پایین فهرست اعلان‌ها نمایش داده می‌شوند 
 
-&quot;سطح ۰&quot; 
-- همه اعلان‌ها از سوی برنامه مسدود می‌شوند &quot;</string>
+"سطح ۰" 
+- همه اعلان‌ها از سوی برنامه مسدود می‌شوند "</string>
     <string name="power_remaining_charging_duration_only">%1$s مانده تا کامل شارژ شود</string>
     <string name="power_remaining_duration_only">نزدیک به %1$s مانده است</string>
     <string name="power_remaining_duration_only_enhanced">بر اساس مصرف شما نزدیک به %1$s مانده است</string>
@@ -1480,7 +1480,7 @@ d MMMM&quot;</string>
     <string name="quick_settings_cellular_detail_data_usage">مصرف اینترنت همراه</string>
     <string name="quick_settings_cellular_detail_data_used">%s مصرف شده است</string>
     <string name="quick_settings_cellular_detail_data_warning">هشدار %s</string>
-    <string name="quick_settings_cellular_detail_dialog_message_turnoff">&quot;If you turn off mobile data, you won&apos;t be able to use the internet unless you connect to WLAN. You&apos;ll still be able to send MMS. Turn off mobile data anyway?&quot;</string>
+    <string name="quick_settings_cellular_detail_dialog_message_turnoff">"If you turn off mobile data, you won't be able to use the internet unless you connect to WLAN. You'll still be able to send MMS. Turn off mobile data anyway?"</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">Using mobile data may generate additional charges depending on your payment plan. Allow using mobile data anyway?</string>
     <string name="quick_settings_cellular_detail_dialog_negative_button_cancel">Cancel</string>
     <string name="quick_settings_cellular_detail_dialog_positive_button_ok">Allow</string>
@@ -1554,7 +1554,7 @@ d MMMM&quot;</string>
     <string name="quick_settings_screenshot_label">عکس صفحه</string>
     <string name="quick_settings_secondary_label_until">تا %s</string>
     <string name="quick_settings_settings_label">تنظیمات</string>
-    <string name="quick_settings_sim_disabled">&quot; (غیر فعال)&quot;</string>
+    <string name="quick_settings_sim_disabled">" (غیر فعال)"</string>
     <string name="quick_settings_sync_label">همگام‌سازی</string>
     <string name="quick_settings_tethering_label">همرسانی شبکه</string>
     <string name="quick_settings_tiles">default</string>
@@ -1737,8 +1737,8 @@ d MMMM&quot;</string>
     <string name="speed_label_slow">کند</string>
     <string name="speed_label_very_fast">خیلی تند</string>
     <string name="speed_label_very_slow">خیلی کند</string>
-    <string name="ssl_ca_cert_warning">&quot;شبکه ممکن است
-نظارت شود&quot;</string>
+    <string name="ssl_ca_cert_warning">"شبکه ممکن است
+نظارت شود"</string>
     <string name="standby_bucket_summary">آماده‌باش برنامه وضعیت: %s</string>
     <string name="start_dreams">محافظ نمایشگر</string>
     <string name="stat_sys_data_connected_1x_half">1X</string>
@@ -1753,17 +1753,17 @@ d MMMM&quot;</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm aa</string>
     <string name="status_bar_clock_date_weekday_format">EEE dd/MM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEE dd/MM</string>
-    <string name="status_bar_date_format">&quot;E
-d MMM&quot;</string>
-    <string name="status_bar_date_format_12">&quot;E
-d MMM&quot;</string>
+    <string name="status_bar_date_format">"E
+d MMM"</string>
+    <string name="status_bar_date_format_12">"E
+d MMM"</string>
     <string name="status_bar_ethernet">اترنت</string>
     <string name="status_bar_input_method_settings_configure_input_methods">ایجاد شیوه‌های ورودی</string>
     <string name="status_bar_latest_events_title">اعلان‌ها</string>
-    <string name="status_bar_network_flow_content">&quot;امروز: %1$s  مانده: %2$s&quot;</string>
+    <string name="status_bar_network_flow_content">"امروز: %1$s  مانده: %2$s"</string>
     <string name="status_bar_network_flow_exceed_content">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;بیشتر از طرح: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
-    <string name="status_bar_network_flow_limit">&quot;   حد ماهانه: %1$s   &quot;</string>
-    <string name="status_bar_network_flow_purchase">&quot;   خرید &gt;&quot;</string>
+    <string name="status_bar_network_flow_limit">"   حد ماهانه: %1$s   "</string>
+    <string name="status_bar_network_flow_purchase">"   خرید &gt;"</string>
     <string name="status_bar_network_flow_today">امروز: %1$s</string>
     <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">بدون اعلان</string>
@@ -1772,8 +1772,8 @@ d MMM&quot;</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_notification_inspect_item_title">تنظیمات اعلان‌ها</string>
     <string name="status_bar_ongoing_events_title">در حال انجام</string>
-    <string name="status_bar_recent_guide_all">&quot;برای بستن به بالا بکشید
- برای قفل کردن به پایین بکشید&quot;</string>
+    <string name="status_bar_recent_guide_all">"برای بستن به بالا بکشید
+ برای قفل کردن به پایین بکشید"</string>
     <string name="status_bar_recent_guide_bottom">برای قفل کردن به پایین بکشید</string>
     <string name="status_bar_recent_guide_top">برای بستن به بالا بکشید</string>
     <string name="status_bar_recent_inspect_item_title">اطلاعات برنامه</string>
@@ -1838,12 +1838,12 @@ d MMM&quot;</string>
     <string name="tethering_hardware_offload_summary">استفاده از افزاینده سرعت سخت‌افزار همرسانی در صورت در دسترس بودن</string>
     <string name="tethering_settings_not_available">تنظیمات همرسانی شبکه برای این کاربر در دسترس نیستند</string>
     <string name="theme">Theme</string>
-    <string name="thermal_shutdown_dialog_message">&quot;گوشی شما خیلی داغ بود. خاموش شد تا خنک شود. گوشی شما اکنون به صورت عادی کار می‌کند.
+    <string name="thermal_shutdown_dialog_message">"گوشی شما خیلی داغ بود. خاموش شد تا خنک شود. گوشی شما اکنون به صورت عادی کار می‌کند.
 
 گوشی شما ممکن است خیلی داغ شود اگر شما:
 \u0009• برنامه‌های منبع فشرده (مانند بازی‌ها، ویدئوها و یا برنامه‌های مسیریابی)
 \u0009• دانلود یا بارگذاری فایل‌های بزرگ
-\u0009• استفاده از گوشی در دمای بالا&quot;</string>
+\u0009• استفاده از گوشی در دمای بالا"</string>
     <string name="thermal_shutdown_message">گوشی شما اکنون به صورت عادی کار می‌کند</string>
     <string name="thermal_shutdown_title">تلفن به دلیل گرمای زیاد خاموش شد</string>
     <string name="time_unit_just_now">همین الان</string>
@@ -1922,8 +1922,8 @@ d MMM&quot;</string>
     <string name="usb_audio_disable_routing">غیرفعال کردن مسیریابی صدای USB</string>
     <string name="usb_audio_disable_routing_summary">غیرفعال کردن مسیریابی خودکار به لوازم جانبی صدای USB</string>
     <string name="usb_debugging_always">همیشه به این کامپیوتر اجازه داده شود</string>
-    <string name="usb_debugging_message">&quot;اثر انگشت کلید RSA کامپیوتر عبارت است از:
-%1$s&quot;</string>
+    <string name="usb_debugging_message">"اثر انگشت کلید RSA کامپیوتر عبارت است از:
+%1$s"</string>
     <string name="usb_debugging_secondary_user_message">کاربری که در حال حاضر وارد حساب این دستگاه شده است نمی‌تواند اشکال‌زدایی USB را روشن کند. برای استفاده از این ویژگی به یک کاربر مدیر تعویض کنید.</string>
     <string name="usb_debugging_secondary_user_title">اشکال‌زدایی USB مجاز نیست</string>
     <string name="usb_debugging_title">اجازه اشکال‌زدایی USB داده شود؟</string>
@@ -1955,9 +1955,9 @@ d MMM&quot;</string>
     <string name="use_ptp_button_title">اتصال به عنوان دوربین (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">استفاده از زبان سیستم</string>
     <string name="user_add_user">افزودن کاربر</string>
-    <string name="user_add_user_message_short">&quot;هنگامی که کاربر جدیدی می‌افزایید، آن شخص لازم است تا فضای خود را ایجاد کند.
+    <string name="user_add_user_message_short">"هنگامی که کاربر جدیدی می‌افزایید، آن شخص لازم است تا فضای خود را ایجاد کند.
 
-هر کاربری می‌تواند برای سایر کاربران برنامه‌ها را به‌روز کند.&quot;</string>
+هر کاربری می‌تواند برای سایر کاربران برنامه‌ها را به‌روز کند."</string>
     <string name="user_add_user_title">کاربر جدید افزوده شود؟</string>
     <string name="user_guest">مهمان</string>
     <string name="user_guide_for_notification">به پایین کشیده تا کرکره اعلان باز شود</string>
@@ -2113,10 +2113,10 @@ d MMM&quot;</string>
     <string name="wifi_wapi_as_certificate">گواهی AS</string>
     <string name="wifi_wapi_cert_mode_hand_text">انتخاب به‌صورت دستی</string>
     <string name="wifi_wapi_certification_dont_exist">گذرواژه وارد شده شبکه اشتباه است.</string>
-    <string name="wifi_wapi_fail_to_auth">&quot;تأیید هویت WAPI کامل نشد.
-مطمئن شوید گواهی‌های شما معتبرند.&quot;</string>
-    <string name="wifi_wapi_fail_to_init">&quot;گواهی‌های WAPI باز نمی‌شوند.
-به نظر می‌رسد گواهی دادن به حافظه فعال نیست.&quot;</string>
+    <string name="wifi_wapi_fail_to_auth">"تأیید هویت WAPI کامل نشد.
+مطمئن شوید گواهی‌های شما معتبرند."</string>
+    <string name="wifi_wapi_fail_to_init">"گواهی‌های WAPI باز نمی‌شوند.
+به نظر می‌رسد گواهی دادن به حافظه فعال نیست."</string>
     <string name="wifi_wapi_psk_type">نوع گذرواژه</string>
     <string name="wifi_wapi_user_certificate">گواهی کاربر</string>
     <string name="window_animation_scale_title">مقیاس پنجره پویانمایی</string>

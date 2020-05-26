@@ -128,21 +128,21 @@
     <string name="bluetooth_sap_profile_summary_connected">‏متصل به SAP</string>
     <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی سیم‌کارت</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">بیت‌های بلوتوث صوتی در هر نمونه</string>
-    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: تعداد بیت در نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: تعداد بیت در نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_channel_mode">حالت کانال بلوتوث‌ صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: حالت کانال&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_channel_mode_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: حالت کانال"</string>
     <string name="bluetooth_select_a2dp_codec_ldac_playback_quality">‏کدک LDAC صوتی بلوتوث: کیفیت پخش</string>
-    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">&quot;‏راه‌اندازی LDAC صوتی بلوتوثی
-انتخاب کدک: کیفیت پخش&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_ldac_playback_quality_dialog_title">"‏راه‌اندازی LDAC صوتی بلوتوثی
+انتخاب کدک: کیفیت پخش"</string>
     <string name="bluetooth_select_a2dp_codec_sample_rate">سرعت نمونه بلوتوث صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب: سرعت نمونه&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_sample_rate_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب: سرعت نمونه"</string>
     <string name="bluetooth_select_a2dp_codec_streaming_label">پخش جریانی: %1$s</string>
     <string name="bluetooth_select_a2dp_codec_type">کدک بلوتوث صوتی</string>
-    <string name="bluetooth_select_a2dp_codec_type_dialog_title">&quot;راه‌اندازی کدک صوتی بلوتوثی
-انتخاب&quot;</string>
+    <string name="bluetooth_select_a2dp_codec_type_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
+انتخاب"</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">‏انتخاب نسخه AVRCP بلوتوث</string>
     <string name="bluetooth_select_avrcp_version_string">‏نسخه AVRCP بلوتوث</string>
     <string name="bluetooth_show_devices_without_names">نمایش دستگاه‌های بلوتوث بدون نام</string>
@@ -179,10 +179,10 @@
     <string name="connected_via_network_scorer_default">اتصال خودکار ازطریق ارائه‌دهنده رتبه‌بندی شبکه</string>
     <string name="connected_via_passpoint">‏متصل از طریق %1$s</string>
     <string name="content_description_menu_button">منو</string>
-    <string name="convert_to_fbe_warning">&quot;تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
+    <string name="convert_to_fbe_warning">"تبدیل پارتیشن داده‌ای به رمزگذاری مبتنی بر فایل.
  !!هشدار!! این کار تمام داده‌هایتان را پاک می‌کند.
  این ویژگی در نسخه آلفا قرار دارد و ممکن است به‌درستی کار نکند.
- برای ادامه، «پاک کردن و تبدیل…» را فشار دهید.&quot;</string>
+ برای ادامه، «پاک کردن و تبدیل…» را فشار دهید."</string>
     <string name="convert_to_file_encryption">تبدیل به رمزگذاری برحسب فایل</string>
     <string name="convert_to_file_encryption_done">از قبل به رمزگذاری بر حسب فایل تبدیل شده است</string>
     <string name="convert_to_file_encryption_enabled">تبدیل…</string>
@@ -455,7 +455,7 @@
     <string name="share">هم‌رسانی</string>
     <string name="share_trace">ردیابی هم‌رسانی شود؟</string>
     <string name="show_all_anrs">نمایش موارد «برنامه پاسخ نمی‌دهد» پس‌زمینه</string>
-    <string name="show_all_anrs_summary">نمایش گفتگوی \&quot;برنامه پاسخ نمی‌دهد\&quot; برای برنامه‌های پس‌زمینه</string>
+    <string name="show_all_anrs_summary">نمایش گفتگوی \"برنامه پاسخ نمی‌دهد\" برای برنامه‌های پس‌زمینه</string>
     <string name="show_hw_layers_updates">نمایش به‌روزرسانی‌های لایه‌های سخت‌افزار</string>
     <string name="show_hw_layers_updates_summary">وقتی لایه‌های سخت‌افزاری به‌روزرسانی‌ می‌شوند، به رنگ سبز درآیند</string>
     <string name="show_hw_screen_updates">نمایش به‌روزرسانی‌های نما</string>
@@ -647,10 +647,10 @@
     <string name="wifi_wapi_as_certificate">AS certificate</string>
     <string name="wifi_wapi_cert_mode_hand_text">Hand select the certificate</string>
     <string name="wifi_wapi_certification_dont_exist">The WAPI certificates does not exist. Please intall them.</string>
-    <string name="wifi_wapi_fail_to_auth">&quot;WAPI authentication failed
-Please check validity of certificates&quot;</string>
-    <string name="wifi_wapi_fail_to_init">&quot;Unable to open WAPI certificates
-Credential storage might not enable&quot;</string>
+    <string name="wifi_wapi_fail_to_auth">"WAPI authentication failed
+Please check validity of certificates"</string>
+    <string name="wifi_wapi_fail_to_init">"Unable to open WAPI certificates
+Credential storage might not enable"</string>
     <string name="wifi_wapi_psk_type">Password type</string>
     <string name="wifi_wapi_user_certificate">User certificate</string>
     <string name="window_animation_scale_title">مقیاس پویانمایی پنجره</string>

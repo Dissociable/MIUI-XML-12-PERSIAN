@@ -344,10 +344,10 @@
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="monday">دوشنبه</string>
     <string name="monday_short">دوشنبه</string>
     <string name="monday_shortest">دوشنبه</string>
@@ -424,7 +424,7 @@
     <string name="permission_phone_state_desc">برای توقف ضبط یادداشت‌های صوتی هنگام تماس</string>
     <string name="permission_read_contact_desc">مرتبط کردن یادداشت‌های ساخته شده هنگام تماس‌ها با مخاطبین</string>
     <string name="permission_storage_desc">برای ذخیره یادداشت‌ها به صورت تصویر</string>
-    <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI صداهای ضبط شده شما و شناسه دستگاه را برای نوشتاری کردن صدا و ایجاد یادداشت‌های صوتی گردآوری خواهد کرد. درباره Mi AI در &lt;a href=\&quot;%1$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; بیشتر بدانید.&lt;/Data&gt;</string>
+    <string name="permission_xiaoai_desc">&lt;Data&gt;Mi AI صداهای ضبط شده شما و شناسه دستگاه را برای نوشتاری کردن صدا و ایجاد یادداشت‌های صوتی گردآوری خواهد کرد. درباره Mi AI در &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; بیشتر بدانید.&lt;/Data&gt;</string>
     <string name="permlab_accessNote">دسترسی به یادداشت‌ها</string>
     <string name="pm">ب.ظ</string>
     <string name="pref_desc_skip_confirm_for_quick_delete">با ۲ انگشت به سمت بالا کشیده تا یادداشت‌ها را بدون تأیید حذف کنید</string>
@@ -619,17 +619,17 @@
     <string name="toast_reach_text_limit_truncate">این یادداشت بسیار طولانی است. برخی قسمت‌های متن از انتها حذف شده است.</string>
     <string name="toast_refuse_to_record_when_in_call">هنگام تماس نمی‌توان از این ویژگی استفاده کرد</string>
     <string name="toast_refuse_to_record_when_in_multi_window">این ویژگی با تجزیه نمایشگر کار نمی‌کند</string>
-    <string name="toast_refuse_to_use_contact">&quot;مجوزهای مخاطبین محدود شده‌اند.
-به یادداشت‌ها اجازه خواندن مخاطبین و یافتن حساب‌ها در دستگاه را بدهید.&quot;</string>
-    <string name="toast_refuse_to_use_external_storage">&quot;مجوزهای حافظه محدود شده‌اند.
-به یادداشت‌ها اجازه خواندن محتوای کارت SD را بدهید.&quot;</string>
-    <string name="toast_refuse_to_use_phone_state">&quot;مجوزهای تلفن محدود شده‌اند.
-به یادداشت‌ها اجازه خواندن وضعیت و هویت تلفن را بدهید.&quot;</string>
-    <string name="toast_refuse_to_use_record_audio">&quot;مجوزهای میکروفن محدود شده‌اند.
-به یادداشت‌ها اجازه ضبط صدا را بدهید.&quot;</string>
+    <string name="toast_refuse_to_use_contact">"مجوزهای مخاطبین محدود شده‌اند.
+به یادداشت‌ها اجازه خواندن مخاطبین و یافتن حساب‌ها در دستگاه را بدهید."</string>
+    <string name="toast_refuse_to_use_external_storage">"مجوزهای حافظه محدود شده‌اند.
+به یادداشت‌ها اجازه خواندن محتوای کارت SD را بدهید."</string>
+    <string name="toast_refuse_to_use_phone_state">"مجوزهای تلفن محدود شده‌اند.
+به یادداشت‌ها اجازه خواندن وضعیت و هویت تلفن را بدهید."</string>
+    <string name="toast_refuse_to_use_record_audio">"مجوزهای میکروفن محدود شده‌اند.
+به یادداشت‌ها اجازه ضبط صدا را بدهید."</string>
     <string name="today">امروز</string>
     <string name="todo_alert_title_delete">حذف کارهای انجام شده</string>
-    <string name="todo_audio_default_content">&quot;[کار صوتی] &quot;</string>
+    <string name="todo_audio_default_content">"[کار صوتی] "</string>
     <string name="todo_custom_remind_tag_pattern_with_md">MM/dd HH:mm</string>
     <string name="todo_custom_remind_tag_pattern_with_ymd">yyyy/MM/dd HH:mm</string>
     <string name="todo_edit_audio_hint">کار خود را بگویید</string>
@@ -666,7 +666,7 @@
     <string name="todo_menu_delete">حذف</string>
     <string name="todo_module_name">کارها</string>
     <string name="todo_notify_alarm_title">یادآوری کار</string>
-    <string name="todo_schedule_time_expired">&quot; (تاریخ گذشته)&quot;</string>
+    <string name="todo_schedule_time_expired">" (تاریخ گذشته)"</string>
     <string name="todo_schedule_time_for_picker_hm">H mm</string>
     <string name="todo_schedule_time_hm">HH:mm</string>
     <string name="todo_schedule_time_md">dd/MM</string>

@@ -228,9 +228,9 @@
 </string-array>
 <string-array name="bluetooth_audio_active_device_summaries">
 <item/>
-<item>&quot; | فعال&quot;</item>
-<item>&quot; | فعال (رسانه)&quot;</item>
-<item>&quot; | فعال (گوشی)&quot;</item>
+<item>" | فعال"</item>
+<item>" | فعال (رسانه)"</item>
+<item>" | فعال (گوشی)"</item>
 </string-array>
 <string-array name="bluetooth_avrcp_version_values">
 <item>avrcp14</item>

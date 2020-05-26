@@ -13,20 +13,20 @@
 <item quantity="one">%1$d/%2$d مورد</item>
 </plurals>
 <plurals name="hour">
-<item quantity="other">&lt;g id=&quot;hour&quot;&gt;%1$d&lt;/g&gt; ساعت</item>
-<item quantity="one">&lt;g id=&quot;hour&quot;&gt;%1$d&lt;/g&gt; ساعت</item>
+<item quantity="other">&lt;g id="hour"&gt;%1$d&lt;/g&gt; ساعت</item>
+<item quantity="one">&lt;g id="hour"&gt;%1$d&lt;/g&gt; ساعت</item>
 </plurals>
 <plurals name="icloud_importing_title_count_desc">
 <item quantity="other">%d مورد وارد شدند</item>
 <item quantity="one">%d مورد وارد شد</item>
 </plurals>
 <plurals name="minute">
-<item quantity="other">&lt;g id=&quot;minute&quot;&gt;%1$d&lt;/g&gt; دقیقه</item>
-<item quantity="one">&lt;g id=&quot;minute&quot;&gt;%1$d&lt;/g&gt; دقیقه</item>
+<item quantity="other">&lt;g id="minute"&gt;%1$d&lt;/g&gt; دقیقه</item>
+<item quantity="one">&lt;g id="minute"&gt;%1$d&lt;/g&gt; دقیقه</item>
 </plurals>
 <plurals name="save_item_failed_summary_seg1">
-<item quantity="other">&quot;%d مورد وارد شدند. &quot;</item>
-<item quantity="one">&quot;%d مورد وارد شد. &quot;</item>
+<item quantity="other">"%d مورد وارد شدند. "</item>
+<item quantity="one">"%d مورد وارد شد. "</item>
 </plurals>
 <plurals name="save_item_failed_summary_seg2">
 <item quantity="other">%d مورد را دوباره وارد کنید.</item>

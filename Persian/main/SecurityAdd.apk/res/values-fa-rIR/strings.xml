@@ -94,7 +94,7 @@
     <string name="dialog_market_score_subtitle_step1">برای امتیاز دادن به این برنامه روی ستاره‌ها بزنید</string>
     <string name="dialog_market_score_subtitle_step2">همچنین می‌توانید نظر خود را بدهید.</string>
     <string name="dialog_market_score_subtitle_step3">به این برنامه امتیاز بدهید</string>
-    <string name="dialog_market_score_title_step1_format">\&quot;%s\&quot; را می‌پسندید؟</string>
+    <string name="dialog_market_score_title_step1_format">\"%s\" را می‌پسندید؟</string>
     <string name="dialog_market_score_title_step2">از بارخورد شما سپاسگزاریم!</string>
     <string name="dual_app_title">برنامه‌های همزاد</string>
     <string name="dual_app_words">هر حسابی سزاوار برنامه‌های خودش است</string>
@@ -105,7 +105,7 @@
     <string name="duration_time_end">结束时间</string>
     <string name="duration_time_start">开始时间</string>
     <string name="duration_use_interval_title">每次使用不超过(分钟)</string>
-    <string name="empty">&quot; &quot;</string>
+    <string name="empty">" "</string>
     <string name="ew_detail_earthquake_center_title">Epicenter</string>
     <string name="ew_detail_earthquake_feel_little">Slight shaking</string>
     <string name="ew_detail_earthquake_feel_max">Very strong</string>
@@ -153,13 +153,13 @@
     <string name="gamebox_no_network_btn">بارگذاری دوباره</string>
     <string name="gb_alipays_can_not_complete">پرداخت کامل نمی‌شود. برای ادامه نصب کنید.</string>
     <string name="gb_weixinpay_can_not_complete">پرداخت کامل نمی‌شود. برای ادامه نصب کنید.</string>
-    <string name="gdpr_msg">&lt;Data&gt;برای استفاده از ویژگی‌های ابتدایی امنیت، شما باید بپذیرید که Xiaomi داده‌های شخصی شما شامل اطلاعات درباره راه‌های استفاده از ویژگی‌های امنیت (مانند: آمار مصرف اینترنت همراه، اطلاعات درباره بدافزار، همچنین اطلاعات پایه‌ای درباره دستگاه شما) و دیگر انواع اطلاعاتی که در &lt;a href=\&quot;https://privacy.mi.com/all/%1$s_%2$s\&quot;&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; مشخص شده است را گردآوری، پردازش و استفاده خواهد کرد.&lt;/Data&gt;</string>
+    <string name="gdpr_msg">&lt;Data&gt;برای استفاده از ویژگی‌های ابتدایی امنیت، شما باید بپذیرید که Xiaomi داده‌های شخصی شما شامل اطلاعات درباره راه‌های استفاده از ویژگی‌های امنیت (مانند: آمار مصرف اینترنت همراه، اطلاعات درباره بدافزار، همچنین اطلاعات پایه‌ای درباره دستگاه شما) و دیگر انواع اطلاعاتی که در &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; مشخص شده است را گردآوری، پردازش و استفاده خواهد کرد.&lt;/Data&gt;</string>
     <string name="guide_desc_1">家长全面掌握和管理宝贝使用情况</string>
-    <string name="guide_desc_2">&quot;精选专属定制童趣应用
-安全优质,陪伴成长&quot;</string>
+    <string name="guide_desc_2">"精选专属定制童趣应用
+安全优质,陪伴成长"</string>
     <string name="guide_desc_3">全方位覆盖双语、动画、儿歌等早教内容</string>
-    <string name="guide_desc_4">&quot;防短信扣费、流量超标、电话漏接
-安全有保障&quot;</string>
+    <string name="guide_desc_4">"防短信扣费、流量超标、电话漏接
+安全有保障"</string>
     <string name="guide_title_1">视力保护 时间管理</string>
     <string name="guide_title_2">儿童应用 趣味益智</string>
     <string name="guide_title_3">海量内容 知识学堂</string>

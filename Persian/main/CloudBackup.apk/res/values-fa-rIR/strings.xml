@@ -81,18 +81,18 @@
     <string name="cloud_app_restore_success">برنامه‌ها بازیابی شدند</string>
     <string name="cloud_app_restore_wifi_prompt">بازیابی از نسخه‌های پشتیبان فضای ابری.</string>
     <string name="cloud_back_up_date_format">yyyy/MM/dd HH:mm</string>
-    <string name="cloud_back_up_detail_discription">&quot;این موارد هنگام وصل شدن دستگاه شما به Wi-Fi در فضای ابری Xiaomi پشتیبان‌گیری خواهند شد: 
+    <string name="cloud_back_up_detail_discription">"این موارد هنگام وصل شدن دستگاه شما به Wi-Fi در فضای ابری Xiaomi پشتیبان‌گیری خواهند شد: 
 *  برنامه‌ها، چیدمان صفحه اصلی و تصاویر زمینه 
 *  هشدار، ساعت و تنظیمات زمان 
 *  تنظیمات اعلان‌ها 
 *  MIUI و تنظیمات سیستم 
-نکته: داده‌های برنامه‌هایی که نصب کرده‌اید در فضای ابری Xiaomi پشتیبان‌گیری نخواهند شد.&quot;</string>
-    <string name="cloud_back_up_detail_discription_china">&quot;These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
+نکته: داده‌های برنامه‌هایی که نصب کرده‌اید در فضای ابری Xiaomi پشتیبان‌گیری نخواهند شد."</string>
+    <string name="cloud_back_up_detail_discription_china">"These items will be backed up to Xiaomi Cloud when your device is connected to WLAN: 
 *  Apps, Home screen layout, and wallpapers 
 *  Alarm, clock, and time settings 
 *  Notification settings 
 *  MIUI and system settings 
-Note: Data for apps you&apos;ve installed won&apos;t be backed up to Xiaomi Cloud.&quot;</string>
+Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">زمان‌بندی پشتیبان‌گیری</string>
     <string name="cloud_back_up_frequence_long">هر ۷ روز</string>
     <string name="cloud_back_up_frequence_short">هرروز</string>
@@ -181,15 +181,15 @@ Note: Data for apps you&apos;ve installed won&apos;t be backed up to Xiaomi Clou
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">&quot;That&apos;s all for now&quot;</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">&quot;That&apos;s all for now&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">&quot;Couldn&apos;t load items&quot;</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="msg_alert_cancel_restore">درحال بازیابی موارد. متوقف شود؟</string>
     <string name="msg_alert_restore_error">موارد از فضای ابری Xiaomi بازیابی نشدند. دوباره تلاش کنید.</string>
-    <string name="msg_restore_start_with_metered_network">&quot;صفحه اصلی شما دوباره اجرا خواهد شد. برنامه‌های پشتیبان‌گیری شده به صورت خودکار دانلود خواهند شد. &lt;br /&gt;&lt;b&gt;&lt;font color=&apos;red&apos;&gt;%s فایل‌ها دانلود خواهند شد.&lt;/font&gt;&lt;/b&gt;&quot;</string>
+    <string name="msg_restore_start_with_metered_network">"صفحه اصلی شما دوباره اجرا خواهد شد. برنامه‌های پشتیبان‌گیری شده به صورت خودکار دانلود خواهند شد. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s فایل‌ها دانلود خواهند شد.&lt;/font&gt;&lt;/b&gt;"</string>
     <string name="msg_restore_with_metered_network_hint">در صورتی که اقدام به بازیابی این موارد کنید، از اینترنت همراه برای دانلود کردن استفاده خواهد شد.</string>
-    <string name="msg_restore_with_metered_network_pattern">&quot;&lt;font color=&apos;red&apos;&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; فایل‌ها دانلود خواهند شد.&quot;</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; فایل‌ها دانلود خواهند شد."</string>
     <string name="network_error">اتصال به شبکه</string>
     <string name="no_account">وارد حساب Mi نشده‌اید.</string>
     <string name="no_backup">هیچ پشتیبان‌گیری در فضای ابری Xiaomi وجود ندارد.</string>
@@ -221,10 +221,10 @@ Note: Data for apps you&apos;ve installed won&apos;t be backed up to Xiaomi Clou
     <string name="restore_app_order_finish">انجام شد</string>
     <string name="restore_app_order_loading">چند لحظه صبر کنید…</string>
     <string name="restore_app_order_retry">تلاش دوباره</string>
-    <string name="restore_app_order_retry_desc">&quot;به شبکه وصل نشد.
-تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.&quot;</string>
+    <string name="restore_app_order_retry_desc">"به شبکه وصل نشد.
+تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید."</string>
     <string name="restore_app_order_search_hint">موارد را برای تنظیم اولیت جستجو کنید</string>
-    <string name="restore_app_order_search_input_high_light">&quot;&lt;font color=&apos;#ff0800&apos;&gt;%s&lt;/font&gt;&quot;</string>
+    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
     <string name="restore_app_order_search_installed">برنامه‌های این دستگاه</string>
     <string name="restore_app_order_search_normal">برنامه‌های با اولویت عادی</string>
     <string name="restore_app_order_search_prior">برنامه‌های با اولویت بالا</string>

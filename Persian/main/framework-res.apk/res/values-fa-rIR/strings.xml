@@ -49,12 +49,12 @@
     <string name="accessibility_shortcut_disabling_service">«میان‌بر دسترس‌پذیری» %1$s را خاموش کرد</string>
     <string name="accessibility_shortcut_enabling_service">«میان‌بر دسترس‌پذیری» %1$s را روشن کرد</string>
     <string name="accessibility_shortcut_spoken_feedback">برای استفاده از %1$s، هر دو کلید صدا را فشار دهید و سه ثانیه نگه دارید</string>
-    <string name="accessibility_shortcut_toogle_warning">&quot;وقتی میان‌بر روشن است،‌ اگر هر دو دکمه صدا را ۳ ثانیه فشار دهید یکی از قابلیت‌های دسترس‌پذیری شروع می‌شود.
+    <string name="accessibility_shortcut_toogle_warning">"وقتی میان‌بر روشن است،‌ اگر هر دو دکمه صدا را ۳ ثانیه فشار دهید یکی از قابلیت‌های دسترس‌پذیری شروع می‌شود.
 
  قابلیت دسترس‌پذیری کنونی:
  %1$s
 
- می‌توانید در «تنظیمات &gt; دسترس‌پذیری»، قابلیت را تغییر دهید.&quot;</string>
+ می‌توانید در «تنظیمات &gt; دسترس‌پذیری»، قابلیت را تغییر دهید."</string>
     <string name="accessibility_shortcut_warning_dialog_title">از میان‌بر دسترس‌پذیری استفاده شود؟</string>
     <string name="action_bar_home_description">رفتن به صفحهٔ اصلی</string>
     <string name="action_bar_home_description_format">‎%1$s, %2$s</string>
@@ -137,10 +137,10 @@
     <string name="autofill_address_line_1_re">address.?line|address1|addr1|street|strasse|straße|hausnummer|housenumber|house.?name|direccion|dirección|adresse|indirizzo|住所1|morada|endereço|Адрес|地址</string>
     <string name="autofill_address_line_2_re">address.?line2|address2|addr2|street|suite|unit|adresszusatz|ergänzende.?angaben|direccion2|colonia|adicional|addresssuppl|complementnom|appartement|indirizzo2|住所2</string>
     <string name="autofill_address_line_3_re">address.?line3|address3|addr3|street|line3|municipio|batiment|residence|indirizzo3</string>
-    <string name="autofill_address_name_separator">&quot; &quot;</string>
+    <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
-    <string name="autofill_address_summary_separator">&quot;، &quot;</string>
+    <string name="autofill_address_summary_separator">"، "</string>
     <string name="autofill_address_type_same_as_re">same as</string>
     <string name="autofill_address_type_use_my_re">use my</string>
     <string name="autofill_area">منطقه</string>
@@ -429,8 +429,8 @@
     <string name="copy">کپی</string>
     <string name="copyUrl">‏کپی URL</string>
     <string name="country_selection_title">اولویت‌های منطقه</string>
-    <string name="create_contact_using">&quot;ایجاد مخاطب
-با استفاده از %s&quot;</string>
+    <string name="create_contact_using">"ایجاد مخاطب
+با استفاده از %s"</string>
     <string name="cut">برش</string>
     <string name="data_conn_status_title"></string>
     <string name="data_saver_description">برای کمک به کاهش مصرف داده، «صرفه‌جویی داده» از ارسال و دریافت داده در پس‌زمینه ازطرف بعضی برنامه‌ها جلوگیری می‌کند. برنامه‌ای که درحال‌حاضر استفاده می‌کنید می‌تواند به داده‌ها دسترسی داشته باشد اما دفعات دسترسی آن محدود است.این یعنی، برای مثال، تصاویر تا زمانی که روی آن‌ها ضربه نزنید نشان داده نمی‌شوند.</string>
@@ -499,8 +499,8 @@
     <string name="device_storage_monitor_notification_channel">حافظه دستگاه</string>
     <string name="dial">تماس گرفتن</string>
     <string name="dial_desc">تماس با شماره تلفن انتخابی</string>
-    <string name="dial_number_using">&quot;شماره گیری 
-با استفاده از %s&quot;</string>
+    <string name="dial_number_using">"شماره گیری 
+با استفاده از %s"</string>
     <string name="dialog_alert_title">توجه</string>
     <string name="disable_accessibility_shortcut">خاموش کردن میان‌بر</string>
     <string name="disable_tether_notification_message">برای جزئیات، با سرپرستتان تماس بگیرید</string>
@@ -632,17 +632,17 @@
     <string name="face_recalibrate_notification_name">احراز هویت با چهره</string>
     <string name="face_recalibrate_notification_title">ثبت مجدد چهره</string>
     <string name="faceunlock_multiple_failures">دفعات تلاش برای «بازگشایی با چهره» از حداکثر مجاز بیشتر شد</string>
-    <string name="factory_reset_message">&quot;برنامه سرپرست سیستم را نمی‌توان استفاده کرد. دستگاه شما در این لحظه پاک می‌شود.
+    <string name="factory_reset_message">"برنامه سرپرست سیستم را نمی‌توان استفاده کرد. دستگاه شما در این لحظه پاک می‌شود.
 
-اگر سؤالی دارید، با سرپرست سیستم سازمانتان تماس بگیرید.&quot;</string>
+اگر سؤالی دارید، با سرپرست سیستم سازمانتان تماس بگیرید."</string>
     <string name="factory_reset_warning">دستگاهتان پاک خواهد شد</string>
     <string name="factorytest_failed">تست کارخانه انجام نشد</string>
     <string name="factorytest_no_action">‏بسته‌ای یافت نشد که عملکرد FACTORY_TEST را ارائه کند.</string>
     <string name="factorytest_not_system">‏عملکرد FACTORY_TEST تنها برای بسته‌های نصب شده در /system/app پشتیبانی می‌شود.</string>
     <string name="factorytest_reboot">راه‌اندازی مجدد</string>
     <string name="failed_to_copy_to_clipboard">در بریده‌دان کپی نشد</string>
-    <string name="fast_scroll_alphabet">&quot; ABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;</string>
-    <string name="fast_scroll_numeric_alphabet">&quot; 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">کد ویژگی کامل شد.</string>
     <string name="fcError">مشکل در اتصال یا کد ویژگی نامعتبر.</string>
     <string name="fileSizeSuffix">%1$s ‏%2$s</string>
@@ -790,13 +790,13 @@
     <string name="issued_by">صادرکننده:</string>
     <string name="issued_on">صادر شده در:</string>
     <string name="issued_to">صادرشده برای:</string>
-    <string name="js_dialog_before_unload">&quot;%s
+    <string name="js_dialog_before_unload">"%s
 
-مطمئنید می‌خواهید این صفحه را ترک کنید؟&quot;</string>
+مطمئنید می‌خواهید این صفحه را ترک کنید؟"</string>
     <string name="js_dialog_before_unload_negative_button">ماندن در این صفحه</string>
     <string name="js_dialog_before_unload_positive_button">ترک این صفحه</string>
     <string name="js_dialog_before_unload_title">تأیید پیمایش</string>
-    <string name="js_dialog_title">‏صفحه در \&quot;%s\&quot; می‎گوید:</string>
+    <string name="js_dialog_title">‏صفحه در \"%s\" می‎گوید:</string>
     <string name="js_dialog_title_default">جاوا اسکریپت</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">لغو</string>
@@ -838,9 +838,9 @@
     <string name="keyguard_password_entry_touch_hint">برای تایپ گذرواژه ضربه بزنید</string>
     <string name="keyguard_password_wrong_pin_code">پین کد اشتباه است.</string>
     <string name="kg_enter_confirm_pin_hint">تأیید پین کد دلخواه</string>
-    <string name="kg_failed_attempts_almost_at_login">&quot;‏شما الگوی بازگشایی قفل خود را %1$d بار اشتباه کشیده‌اید. پس از %2$d تلاش ناموفق، از شما خواسته می‎شود که با استفاده از یک حساب ایمیل قفل تلفن خود را باز کنید.
+    <string name="kg_failed_attempts_almost_at_login">"‏شما الگوی بازگشایی قفل خود را %1$d بار اشتباه کشیده‌اید. پس از %2$d تلاش ناموفق، از شما خواسته می‎شود که با استفاده از یک حساب ایمیل قفل تلفن خود را باز کنید.
 
- لطفاً پس از %3$d ثانیه دوباره امتحان کنید.&quot;</string>
+ لطفاً پس از %3$d ثانیه دوباره امتحان کنید."</string>
     <string name="kg_failed_attempts_almost_at_wipe">شما به اشتباه %1$d بار اقدام به باز کردن قفل تلفن کرده‌اید. پس از %2$d تلاش ناموفق دیگر، تلفن به پیش‌فرض کارخانه بازنشانی می‌شود و تمام داده‌های کاربر از دست خواهد رفت.</string>
     <string name="kg_failed_attempts_now_wiping">شما به اشتباه %d بار اقدام به باز کردن قفل تلفن کرده‌اید. این تلفن اکنون به پیش‌فرض کارخانه بازنشانی می‌شود.</string>
     <string name="kg_forgot_pattern_button_text">الگو را فراموش کرده‌اید</string>
@@ -848,8 +848,8 @@
     <string name="kg_invalid_puk">پین کد صحیح را دوباره وارد کنید. تلاش‌های مکرر به‌طور دائم سیم کارت را غیرفعال خواهد کرد.</string>
     <string name="kg_invalid_sim_pin_hint">یک پین ۴ تا ۸ رقمی را تایپ کنید.</string>
     <string name="kg_invalid_sim_puk_hint">‏کد PUK باید ۸ عدد داشته باشد.</string>
-    <string name="kg_login_account_recovery_hint">&quot;‏نام کاربری یا گذرواژه خود را فراموش کردید؟
-از &quot;google.com/accounts/recovery بازدید کنید.</string>
+    <string name="kg_login_account_recovery_hint">"‏نام کاربری یا گذرواژه خود را فراموش کردید؟
+از "google.com/accounts/recovery بازدید کنید.</string>
     <string name="kg_login_checking_password">درحال بررسی حساب...</string>
     <string name="kg_login_instructions">‏برای بازگشایی قفل، با حساب Google خود وارد سیستم شوید.</string>
     <string name="kg_login_invalid_input">نام کاربری یا گذرواژه نامعتبر.</string>
@@ -866,16 +866,16 @@
     <string name="kg_reordering_delete_drop_target_text">حذف</string>
     <string name="kg_sim_pin_instructions">پین سیم کارت را وارد کنید</string>
     <string name="kg_sim_unlock_progress_dialog_message">بازگشایی قفل سیم کارت...</string>
-    <string name="kg_text_message_separator">&quot; — &quot;</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message">&quot;گذرواژه خود را %1$d بار اشتباه تایپ کردید. 
+    <string name="kg_text_message_separator">" — "</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">"گذرواژه خود را %1$d بار اشتباه تایپ کردید. 
 
-پس از %2$d ثانیه دوباره امتحان کنید.&quot;</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message">&quot;الگوی بازگشایی قفل خود را %1$d بار اشتباه کشیدید. 
+پس از %2$d ثانیه دوباره امتحان کنید."</string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">"الگوی بازگشایی قفل خود را %1$d بار اشتباه کشیدید. 
 
-لطفاً پس از %2$d ثانیه دوباره امتحان کنید.&quot;</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message">&quot;پین خود را %1$d بار اشتباه تایپ کردید. 
+لطفاً پس از %2$d ثانیه دوباره امتحان کنید."</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">"پین خود را %1$d بار اشتباه تایپ کردید. 
 
-پس از %2$d ثانیه دوباره امتحان کنید.&quot;</string>
+پس از %2$d ثانیه دوباره امتحان کنید."</string>
     <string name="kg_wrong_password">گذرواژه اشتباه</string>
     <string name="kg_wrong_pattern">الگوی اشتباه</string>
     <string name="kg_wrong_pin">پین اشتباه</string>
@@ -893,12 +893,12 @@
     <string name="locale_replacement"></string>
     <string name="locale_search_menu">جستجو</string>
     <string name="lock_pattern_view_aspect">square</string>
-    <string name="lock_to_app_description">&quot;سنجاق زدن صفحه، نمایشگر را در یک نما قفل می‌کند.
+    <string name="lock_to_app_description">"سنجاق زدن صفحه، نمایشگر را در یک نما قفل می‌کند.
 
-برای جدا کردن، دکمه‌های خانه و روشن/خاموش را همزمان فشار داده و نگه دارید.&quot;</string>
-    <string name="lock_to_app_description_accessible">&quot;سنجاق زدن صفحه، نمایشگر را در یک نما قفل می‌کند.
+برای جدا کردن، دکمه‌های خانه و روشن/خاموش را همزمان فشار داده و نگه دارید."</string>
+    <string name="lock_to_app_description_accessible">"سنجاق زدن صفحه، نمایشگر را در یک نما قفل می‌کند.
 
-برای جدا کردن، دکمه‌های خانه و روشن/خاموش را همزمان فشار داده و نگه دارید.&quot;</string>
+برای جدا کردن، دکمه‌های خانه و روشن/خاموش را همزمان فشار داده و نگه دارید."</string>
     <string name="lock_to_app_toast">برای جدا کردن این صفحه، دکمه‌های خانه و روشن/خاموش را هم‌زمان فشار داده و نگه دارید.</string>
     <string name="lock_to_app_toast_accessible">برای جدا کردن این صفحه، دکمه‌های خانه و روشن/خاموش را هم‌زمان فشار داده و نگه دارید.</string>
     <string name="lock_to_app_unlock_password">درخواست گذرواژه قبل از برداشتن پین</string>
@@ -913,13 +913,13 @@
     <string name="lockscreen_carrier_default">بدون سرویس</string>
     <string name="lockscreen_emergency_call">اضطراری</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">شما به اشتباه %1$d بار اقدام به باز کردن قفل تلفن کرده‌اید. پس از%2$d تلاش ناموفق دیگر، تلفن به پیش‌فرض کارخانه بازنشانی می‌شود و تمام داده‌های کاربر از دست خواهد رفت.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">&quot;‏الگوی قفل‌گشایی را %1$d بار اشتباه کشیده‌اید. پس از %2$d تلاش ناموفق دیگر از شما خواسته می‎شود که برای بازگشایی قفل گوشی خود به برنامه Google وارد شوید.
+    <string name="lockscreen_failed_attempts_almost_glogin">"‏الگوی قفل‌گشایی را %1$d بار اشتباه کشیده‌اید. پس از %2$d تلاش ناموفق دیگر از شما خواسته می‎شود که برای بازگشایی قفل گوشی خود به برنامه Google وارد شوید.
 
- پس از %3$d ثانیه دوباره امتحان کنید.&quot;</string>
+ پس از %3$d ثانیه دوباره امتحان کنید."</string>
     <string name="lockscreen_failed_attempts_now_wiping">به‌اشتباه %d بار اقدام به باز کردن قفل تلفن کرده‌اید. این تلفن دیگر به پیش‌فرض کارخانه بازنشانی می‌شود.</string>
     <string name="lockscreen_forgot_pattern_button_text">الگو را فراموش کرده‌اید؟</string>
-    <string name="lockscreen_glogin_account_recovery_hint">&quot;‏نام کاربری یا گذرواژهٔ خود را فراموش کردید؟
-از &quot;google.com/accounts/recovery بازدید کنید.</string>
+    <string name="lockscreen_glogin_account_recovery_hint">"‏نام کاربری یا گذرواژهٔ خود را فراموش کردید؟
+از "google.com/accounts/recovery بازدید کنید.</string>
     <string name="lockscreen_glogin_checking_password">درحال بررسی…</string>
     <string name="lockscreen_glogin_forgot_pattern">بازگشایی قفل حساب</string>
     <string name="lockscreen_glogin_instructions">‏برای بازگشایی قفل، با حساب Google خود وارد سیستم شوید.</string>
@@ -939,8 +939,8 @@
     <string name="lockscreen_pattern_correct">صحیح است!</string>
     <string name="lockscreen_pattern_instructions">الگو را بکشید تا قفل آن باز شود</string>
     <string name="lockscreen_pattern_wrong">دوباره امتحان کنید</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">&quot;سیم‌کارت شما به صورت دائم غیرفعال شده است
-برای تهیه یک سیم‌کارت دیگر با ارائه دهنده خدمات بیسیم خود تماس بگیرید.&quot;</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"سیم‌کارت شما به صورت دائم غیرفعال شده است
+برای تهیه یک سیم‌کارت دیگر با ارائه دهنده خدمات بیسیم خود تماس بگیرید."</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">سیم‌کارت غیرقابل استفاده.</string>
     <string name="lockscreen_return_to_call">بازگشت به تماس</string>
     <string name="lockscreen_screen_locked">صفحه قفل شد.</string>
@@ -952,15 +952,15 @@
     <string name="lockscreen_sound_on_label">صدا روشن</string>
     <string name="lockscreen_storage_locked">باز کردن قفل تمام قابلیت‌ها و داده‌ها</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">پس از %d ثانیه دوباره امتحان کنید.</string>
-    <string name="lockscreen_too_many_failed_attempts_dialog_message">&quot;‏الگوی بازگشایی قفل خود را %1$d بار اشتباه کشیده‎اید. 
+    <string name="lockscreen_too_many_failed_attempts_dialog_message">"‏الگوی بازگشایی قفل خود را %1$d بار اشتباه کشیده‎اید. 
 
-پس از %2$d ثانیه دوباره امتحان کنید.&quot;</string>
-    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">&quot;گذرواژهٔ خود را %1$d بار اشتباه تایپ کرده‌اید. 
+پس از %2$d ثانیه دوباره امتحان کنید."</string>
+    <string name="lockscreen_too_many_failed_password_attempts_dialog_message">"گذرواژهٔ خود را %1$d بار اشتباه تایپ کرده‌اید. 
 
-پس از %2$d ثانیه دوباره امتحان کنید.&quot;</string>
-    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">&quot;‏پین را%1$d  بار اشتباه تایپ کرده‎اید. 
+پس از %2$d ثانیه دوباره امتحان کنید."</string>
+    <string name="lockscreen_too_many_failed_pin_attempts_dialog_message">"‏پین را%1$d  بار اشتباه تایپ کرده‎اید. 
 
-پس از %2$d ثانیه دوباره امتحان کنید.&quot;</string>
+پس از %2$d ثانیه دوباره امتحان کنید."</string>
     <string name="lockscreen_transport_ffw_description">جلو بردن سریع</string>
     <string name="lockscreen_transport_next_description">آهنگ بعدی</string>
     <string name="lockscreen_transport_pause_description">مکث</string>
@@ -1188,7 +1188,7 @@
     <string name="notification_channel_wfc">‏تماس ازطریق Wi-Fi</string>
     <string name="notification_description">Voice call status</string>
     <string name="notification_header_divider_symbol">•</string>
-    <string name="notification_header_divider_symbol_with_spaces">&quot; • &quot;</string>
+    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_hidden_text">اعلان جدید</string>
     <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">شنونده اعلان</string>
@@ -1386,8 +1386,8 @@
     <string name="permission">Permission</string>
     <string name="permission_remember_choice">Remember</string>
     <string name="permission_request_notification_title">مجوز درخواست شد</string>
-    <string name="permission_request_notification_with_subtitle">&quot;مجوز
-برای حساب %s درخواست شد.&quot;</string>
+    <string name="permission_request_notification_with_subtitle">"مجوز
+برای حساب %s درخواست شد."</string>
     <string name="permlab_acceptHandover">ادامه دادن تماس از برنامه‌ای دیگر</string>
     <string name="permlab_accessBackgroundLocation">دسترسی به مکان در پس‌زمینه</string>
     <string name="permlab_accessCoarseLocation">دسترسی به مکان تقریبی (مبتنی بر شبکه) فقط در پیش‌زمینه</string>
@@ -1641,9 +1641,9 @@
     <string name="roamingText9">فراگردی - عملکرد کامل سرویس</string>
     <string name="roamingTextSearching">جستجوی سرویس</string>
     <string name="safeMode">حالت ایمن</string>
-    <string name="safe_media_volume_warning">&quot;میزان صدا را به بالاتر از حد توصیه شده افزایش می‌دهید؟
+    <string name="safe_media_volume_warning">"میزان صدا را به بالاتر از حد توصیه شده افزایش می‌دهید؟
 
-گوش دادن به صداهای بلند برای مدت طولانی می‌تواند به شنوایی‌تان آسیب وارد کند.&quot;</string>
+گوش دادن به صداهای بلند برای مدت طولانی می‌تواند به شنوایی‌تان آسیب وارد کند."</string>
     <string name="sans_serif">sans-serif</string>
     <string name="save_password_label">تأیید</string>
     <string name="save_password_message">می‌خواهید مرورگر این گذرواژه را به خاطر داشته باشد؟</string>
@@ -1876,13 +1876,13 @@
     <string name="usb_ptp_notification_title">‫PTP از طریق USB روشن است</string>
     <string name="usb_storage_activity_title">USB mass storage</string>
     <string name="usb_storage_button_mount">Turn on USB storage</string>
-    <string name="usb_storage_error_message">&quot;There&apos;s a problem using your SD card for USB mass storage.&quot;</string>
-    <string name="usb_storage_message">&quot;You&apos;ve connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android&apos;s SD card.&quot;</string>
+    <string name="usb_storage_error_message">"There's a problem using your SD card for USB mass storage."</string>
+    <string name="usb_storage_message">"You've connected to your computer via USB. Touch the button below if you want to copy files between your computer and your Android's SD card."</string>
     <string name="usb_storage_notification_message">Touch to copy files to/from your computer.</string>
     <string name="usb_storage_notification_title">USB connected</string>
     <string name="usb_storage_stop_button_mount">Turn off USB storage</string>
-    <string name="usb_storage_stop_error_message">&quot;There was a problem turning off USB storage. Check that you&apos;ve unmounted the USB host, then try again.&quot;</string>
-    <string name="usb_storage_stop_message">&quot;Before turning off USB storage, unmount (\&quot;eject\&quot;) your Android&apos;s SD card from your computer.&quot;</string>
+    <string name="usb_storage_stop_error_message">"There was a problem turning off USB storage. Check that you've unmounted the USB host, then try again."</string>
+    <string name="usb_storage_stop_message">"Before turning off USB storage, unmount (\"eject\") your Android's SD card from your computer."</string>
     <string name="usb_storage_stop_notification_message">Touch to turn off USB storage.</string>
     <string name="usb_storage_stop_notification_title">Turn off USB storage</string>
     <string name="usb_storage_stop_title">USB storage in use</string>
@@ -1932,9 +1932,9 @@
     <string name="vr_listener_binding_label">‏شنونده VR</string>
     <string name="wait">منتظر بمانید</string>
     <string name="wallpaper_binding_label">کاغذدیواری</string>
-    <string name="webpage_unresponsive">&quot;این صفحه پاسخ نمی‌دهد.
+    <string name="webpage_unresponsive">"این صفحه پاسخ نمی‌دهد.
 
-آیا می‌خواهید آن را ببندید؟&quot;</string>
+آیا می‌خواهید آن را ببندید؟"</string>
     <string name="websearch">جستجوی وب</string>
     <string name="week">هفته</string>
     <string name="weeks">هفته</string>
@@ -2024,7 +2024,7 @@
     <string name="wifi_wakeup_onboarding_subtext">وقتی نزدیک شبکه ذخیره‌شده با کیفیت بالا هستید</string>
     <string name="wifi_wakeup_onboarding_title">‏Wi‑Fi به‌طور خودکار روشن خواهد شد</string>
     <string name="wifi_watchdog_network_disabled">‏اتصال به Wi-Fi ممکن نیست</string>
-    <string name="wifi_watchdog_network_disabled_detailed">&quot; اتصال اینترنتی ضعیفی دارد.&quot;</string>
+    <string name="wifi_watchdog_network_disabled_detailed">" اتصال اینترنتی ضعیفی دارد."</string>
     <string name="wireless_display_route_description">صفحه نمایش بی‌سیم</string>
     <string name="work_mode_off_message">برنامه‌ها، اعلان‌ها، داده‌ها و سایر قابلیت‌های نمایه کاری شما روشن خواهد شد</string>
     <string name="work_mode_off_title">نمایه کاری روشن شود؟</string>

@@ -133,11 +133,6 @@
 <item>طبیعی</item>
 <item>استاندارد</item>
 </string-array>
-<array name="data_type_name_mcc_mnc_value"/>
-<item>خاموش</item>
-<item>نمایش مناطق رنگ‌آمیزی شده بیرونی</item>
-<item>نمایش مناطق برای کوررنگی قرمز و سبز</item>
-</string-array>
 <string-array name="enable_opengl_traces_entries">
 <item>هیچ کدام</item>
 <item>Logcat</item>

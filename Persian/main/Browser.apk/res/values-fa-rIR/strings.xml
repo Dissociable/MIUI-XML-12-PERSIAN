@@ -268,7 +268,6 @@
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Swipe down to close</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">This is the last tab</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Swipe up to close</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="browserFrameFormResubmitLabel"></string>
     <string name="browserFrameFormResubmitMessage">"The page you're trying to view contains data that has already been submitted. If you resend the data, previous actions (e.g. searches or purchases) will be repeated."</string>
     <string name="browser_default_setting_cancel">Cancel</string>
@@ -544,8 +543,6 @@ to view open tabs from other devices."</string>
     <string name="exo_track_unknown">نامشخص</string>
     <string name="expand_article">View full article</string>
     <string name="expand_button_title">پیشرفته</string>
-    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
-    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
     <string name="favorite">Add to favorites</string>
     <string name="feedback_not_interested_response">"You'll see fewer items of this kind"</string>
@@ -821,10 +818,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_save_password_never">Never</string>
     <string name="mw_save_password_notnow">Not now</string>
     <string name="mw_save_password_remember">Remember</string>
-    <string name="mw_status_bar_notification_info_overflow">999+</string>
     <string name="mw_time_picker_dialog_am">AM</string>
-    <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
-    <string name="mw_time_picker_dialog_minute_second_separator">:</string>
     <string name="mw_time_picker_dialog_pm">PM</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">.</string>
     <string name="mw_time_picker_dialog_title">Set time</string>
@@ -850,7 +844,6 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="navigate_feedback_dislike_tips">Will reduce such video recommendations</string>
     <string name="navigate_feedback_input_report_label">Other reasons</string>
     <string name="navigate_feedback_report">report</string>
-    <string name="navigate_feedback_report_input_length">%1$d/100</string>
     <string name="navigate_feedback_report_input_tips">Leave your question, we will deal with it as soon as possible</string>
     <string name="navigate_feedback_report_success">Report success</string>
     <string name="navigate_feedback_report_title">Report reasons</string>
@@ -902,10 +895,6 @@ Remember that the files you download and the bookmarks you add will still be sav
     <string name="passport_oauth_sucess_tip">Authorized success</string>
     <string name="password">Password</string>
     <string name="password_toggle_content_description">Show password</string>
-    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
-    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
-    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="pause_download">Paused</string>
     <string name="paused_queued_for_wifi">Waiting for connection…</string>
     <string name="paused_unknown">Paused</string>
@@ -1206,7 +1195,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="ssl_unknown">Unknown certificate error.</string>
     <string name="ssl_untrusted">"This certificate isn't from a trusted authority."</string>
     <string name="ssl_warnings_header">There are problems with the security certificate for this site.</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_close">Close</string>
     <string name="storage_internal">Internal storage</string>
     <string name="storage_open">Open</string>
@@ -1636,7 +1624,6 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="suggestion_more_news_start_title_text">Related News</string>
     <string name="suggestion_sliding_item_more_text">SEE MORE</string>
     <string name="suggestion_topic_subtitle_hyphen">Focus</string>
-    <string name="suggestion_topic_subtitle_navtitle_hyphen">·</string>
     <string name="suggestion_translation_more">VIEW MORE</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="surfing__shared__vip_store">VIP</string>

@@ -65,7 +65,6 @@
     <string name="accessibility_camera_button">دوربین</string>
     <string name="accessibility_carrier_network_change_mode">درحال تغییر شبکه شرکت مخابرات.</string>
     <string name="accessibility_cast_name">به %s متصل شد.</string>
-    <string name="accessibility_casting">@string/quick_settings_casting</string>
     <string name="accessibility_casting_turned_off">بازتاباندن صفحه متوقف شد.</string>
     <string name="accessibility_cell_data">اینترنت همراه</string>
     <string name="accessibility_cell_data_off">اینترنت همراه خاموش</string>
@@ -351,14 +350,7 @@
     <string name="battery_low_title">باتری کم است</string>
     <string name="battery_low_title_power_save">بهینه‌ساز باتری</string>
     <string name="battery_low_why">تنظیمات</string>
-    <string name="battery_meter_bg_path">M18.2555408,13 L59.7444592,13 C63.3105342,13 64.6036791,13.3713024 65.9073828,14.0685308 C67.2110865,14.7657592 68.2342408,15.7889135 68.9314692,17.0926172 C69.6286976,18.3963209 70,19.6894658 70,23.2555408 L70,32.7444592 C70,36.3105342 69.6286976,37.6036791 68.9314692,38.9073828 C68.2342408,40.2110865 67.2110865,41.2342408 65.9073828,41.9314692 C64.6036791,42.6286976 63.3105342,43 59.7444592,43 L18.2555408,43 C14.6894658,43 13.3963209,42.6286976 12.0926172,41.9314692 C10.7889135,41.2342408 9.76575919,40.2110865 9.06853082,38.9073828 C8.37130244,37.6036791 8,36.3105342 8,32.7444592 L8,23.2555408 C8,19.6894658 8.37130244,18.3963209 9.06853082,17.0926172 C9.76575919,15.7889135 10.7889135,14.7657592 12.0926172,14.0685308 C13.3963209,13.3713024 14.6894658,13 18.2555408,13 Z M18.2555408,17 C15.6081331,17 14.8019229,17.1556864 13.9790126,17.5957836 C13.3723828,17.9202128 12.9202128,18.3723828 12.5957836,18.9790126 C12.1556864,19.8019229 12,20.6081331 12,23.2555408 L12,32.7444592 C12,35.3918669 12.1556864,36.1980771 12.5957836,37.0209874 C12.9202128,37.6276172 13.3723828,38.0797872 13.9790126,38.4042164 C14.8019229,38.8443136 15.6081331,39 18.2555408,39 L59.7444592,39 C62.3918669,39 63.1980771,38.8443136 64.0209874,38.4042164 C64.6276172,38.0797872 65.0797872,37.6276172 65.4042164,37.0209874 C65.8443136,36.1980771 66,35.3918669 66,32.7444592 L66,23.2555408 C66,20.6081331 65.8443136,19.8019229 65.4042164,18.9790126 C65.0797872,18.3723828 64.6276172,17.9202128 64.0209874,17.5957836 C63.1980771,17.1556864 62.3918669,17 59.7444592,17 L18.2555408,17 Z M74,23 C75.1045695,23 76,23.8954305 76,25 L76,31 C76,32.1045695 75.1045695,33 74,33 C72.8954305,33 72,32.1045695 72,31 L72,25 C72,23.8954305 72.8954305,23 74,23 Z</string>
-    <string name="battery_meter_charging_mask_path">M44.98169 12.995727L27.492101 31.243375c-0.382155 0.398719 -0.368727 1.031741 0.02999 1.413896 0.184016 0.17637 0.428434 0.275817 0.683313 0.278019l8.295572 0.07167 -3.523194 10.060547 7.10315 0 17.347191 -18.375047c0.379131 -0.401595 0.36092 -1.034498 -0.04068 -1.413628 -0.185614 -0.175232 -0.431214 -0.272849 -0.686477 -0.272849l-8.119673 0 3.481811 -10.010254 -7.08142 0z</string>
-    <string name="battery_meter_charging_path">M11.671 26H19L3 43L7.571 30.474L7.329 30H0L16 13L11.428 25.526L11.671 26Z</string>
     <string name="battery_meter_percent_sign">%</string>
-    <string name="battery_meter_progress_mask_path">M0.4361148,0 L3,0 L3,2.5638852 C3,1.67236646 2.90717439,1.34908022 2.7328673,1.0231543 C2.5585602,0.697228371 2.30277163,0.441439796 1.9768457,0.267132704 C1.65091978,0.0928256111 1.32763354,-6.01853049e-17 0.4361148,1.03584031e-16 Z M3,13.4361148 L3,16 L0.4361148,16 C1.32763354,16 1.65091978,15.9071744 1.9768457,15.7328673 C2.30277163,15.5585602 2.5585602,15.3027716 2.7328673,14.9768457 C2.90717439,14.6509198 3,14.3276335 3,13.4361148 Z</string>
-    <string name="battery_meter_progress_path">M3.8458278,-1.55376046e-16 L44.1541722,1.55376046e-16 C45.4914503,-9.02779573e-17 45.9763797,0.139238417 46.4652686,0.400699056 C46.9541574,0.662159695 47.3378403,1.04584256 47.5993009,1.53473144 C47.8607616,2.02362033 48,2.50854969 48,3.8458278 L48,12.1541722 C48,13.4914503 47.8607616,13.9763797 47.5993009,14.4652686 C47.3378403,14.9541574 46.9541574,15.3378403 46.4652686,15.5993009 C45.9763797,15.8607616 45.4914503,16 44.1541722,16 L3.8458278,16 C2.50854969,16 2.02362033,15.8607616 1.53473144,15.5993009 C1.04584256,15.3378403 0.662159695,14.9541574 0.400699056,14.4652686 C0.139238417,13.9763797 6.01853049e-17,13.4914503 -1.03584031e-16,12.1541722 L1.03584031e-16,3.8458278 C-6.01853049e-17,2.50854969 0.139238417,2.02362033 0.400699056,1.53473144 C0.662159695,1.04584256 1.04584256,0.662159695 1.53473144,0.400699056 C2.02362033,0.139238417 2.50854969,9.02779573e-17 3.8458278,-1.55376046e-16 Z</string>
-    <string name="battery_meter_quick_charging_mask_path">M49.4995 13L48 18H54.9024C55.4546 18 55.9024 18.4477 55.9024 19C55.9024 19.2292 55.8236 19.4515 55.6792 19.6296L50.1111 26.5H54.5955C55.1478 26.5 55.5955 26.9477 55.5955 27.5C55.5955 27.7301 55.5162 27.9532 55.3709 28.1316L43.2575 43H33.9995L35.3954 38.1155L28.4446 38.0606C28.3713 38.0806 28.2976 38.0919 28.2247 38.0951C27.7681 38.1153 27.342 37.8184 27.2167 37.3589C27.1248 37.022 27.2154 36.6616 27.4555 36.4081L34 29.5H29.2155C28.6632 29.5 28.2155 29.0523 28.2155 28.5C28.2155 28.2564 28.3044 28.0212 28.4655 27.8385L41.5535 13H49.4995Z</string>
-    <string name="battery_meter_quick_charging_path">M13.368 13L11 20.5H18L11 29.5H17L5.677 43H4.632L7 35.5H0L8 26.5H1L12.323 13H13.368Z</string>
     <string name="battery_meter_very_low_overlay_symbol">!</string>
     <string name="battery_panel_title">مصرف باتری</string>
     <string name="battery_saver_confirmation_ok">روشن کردن</string>
@@ -509,7 +501,6 @@
     <string name="car_lockscreen_disclaimer_title">با احتیاط برانید</string>
     <string name="category_personal">شخصی</string>
     <string name="category_work">کاری</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change_theme_reboot">Changing the theme requires a restart.</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
@@ -544,8 +535,6 @@
     <string name="config_rat_3g">3G</string>
     <string name="config_rat_4g">4G</string>
     <string name="config_rat_unknown"></string>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.StatusBar</string>
-    <string name="config_systemUIFactoryComponent">com.android.systemui.SystemUIFactory</string>
     <string name="confirm">فهمیدم</string>
     <string name="confirm_enable_oem_unlock_text">هشدار:‌ ویژگی‌های حفاظت از دستگاه هنگام روشن بودن این تنظیمات روی این دستگاه کار نخواهد کرد.</string>
     <string name="confirm_enable_oem_unlock_title">اجازه باز کردن قفل OEM داده شود؟</string>
@@ -731,7 +720,6 @@
     <string name="fingerprint_not_recognized">شناسایی نشد</string>
     <string name="fingerprint_try_again_msg">اثر انگشت تأیید نشد. دوباره تلاش کنید.</string>
     <string name="fingerprint_try_again_text">دوباره تلاش کنید</string>
-    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
     <string name="float_incall_ignore">نادیده گرفتن</string>
     <string name="float_incall_message">پیام</string>
     <string name="force_allow_on_external">اجبار اجازه برنامه‌ها برای نوشتن روی حافظه خارجی</string>
@@ -910,10 +898,6 @@
     <string name="keyguard_charging_back_to_lockscreen">بازگشت به صفحه قفل</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">بر روی باتری</string>
-    <string name="keyguard_charging_info_data_c">℃%s</string>
-    <string name="keyguard_charging_info_data_ma">%sمیلی‌آمپر</string>
-    <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_charging_info_data_v">%sولت</string>
     <string name="keyguard_charging_info_drained_power_percent_text">خالی شده</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
     <string name="keyguard_charging_info_last_charge_today_time">امروز %s</string>
@@ -928,7 +912,6 @@
     <string name="keyguard_charging_normal_and_level_tip">در حال شارژ %d%%</string>
     <string name="keyguard_charging_quick_and_level_tip">درحال شارژ سریع %d%%</string>
     <string name="keyguard_charging_super_quick_and_level_tip">در حال شارژ فوق سریع %d%%</string>
-    <string name="keyguard_fancy_colon"></string>
     <string name="keyguard_indication_charging_time">درحال شارژ (%s تا پر شدن مانده)</string>
     <string name="keyguard_indication_charging_time_fast">درحال تند شارژ کردن (%s تا پر شدن مانده)</string>
     <string name="keyguard_indication_charging_time_slowly">درحال آهسته شارژ کردن (%s تا پر شدن مانده)</string>
@@ -944,7 +927,6 @@
     <string name="keyguard_missing_sim_instructions_long">سیمکارت موجود یا قابل خوانده شدن نیست. یک سیم‌کارت وارد کنید.</string>
     <string name="keyguard_missing_sim_message">سیمکارتی در گوشی موجود نیست.</string>
     <string name="keyguard_missing_sim_message_short">بدون سیم‌کارت</string>
-    <string name="keyguard_more_overflow_text">%d+</string>
     <string name="keyguard_network_locked_message">شبکه قفل است</string>
     <string name="keyguard_password_enter_password_code">گذرواژه خود را برای گشودن قفل وارد کنید</string>
     <string name="keyguard_password_enter_pin_code">کد PIN را وارد کنید</string>
@@ -1030,7 +1012,6 @@
     <string name="left_keycode">رمز کلیدی چپ</string>
     <string name="left_nav_bar_button_type">نوع دکمه اضافی چپ</string>
     <string name="legacy_vpn_name">VPN</string>
-    <string name="list_delimeter">", "</string>
     <string name="loading_injected_setting_summary">در حال بارگذاری…</string>
     <string name="local_backup_password_summary_change">ضربه زده تا گذرواژه پشتیبان‌گیری‌های دسکتاپ را تغییر داده یا حذف کنید</string>
     <string name="local_backup_password_summary_none">پشتیبان‌گیری‌های کامل صفحه اصلی درحال حاضر محافظت شده نیستند</string>
@@ -1109,7 +1090,6 @@ d MMMM"</string>
     <string name="miui_guide_dialog_message">صدای رسانه‌ها (موسیقی، ویدئوها و غیره) در حالت بی‌صدا پخش خواهند شد. می‌توانید این را در تنظیمات تغییر دهید.</string>
     <string name="miui_keyguard_ble_unlock_succeed_msg">با استفاده از دستگاه بلوتوث باز شد</string>
     <string name="miui_ringer_count_down">شمارش معکوس</string>
-    <string name="miui_ringer_count_down_time">%s</string>
     <string name="miui_ringer_standard">بی‌صدا</string>
     <string name="miui_ringer_standard_description">بی‌صدا کردن زنگ برای تماس‌های دریافتی و اعلان‌ها</string>
     <string name="miui_ringer_total">مزاحم نشوید</string>
@@ -1146,14 +1126,12 @@ d MMMM"</string>
 
 برای اطلاعات بیشتر با مدیر خود تماس بگیرید."</string>
     <string name="monitoring_description_ca_cert_settings">باز کردن گواهینامه‌های مورد اعتماد</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">یک مجوز گواهی روی این دستگاه نصب شده است. ترافیک شبکه امن شما ممکن است نظارت و یا تغییر داده شود.</string>
     <string name="monitoring_description_do_body">مدیر شما می‌تواند تنظیمات، دسترسی شرکتی، برنامه‌ها، داده‌های مرتبط با دستگاه و اطلاعات موقعیت مکانی دستگاه شما را نظارت و مدیریت کند.</string>
     <string name="monitoring_description_do_body_vpn">شما به %1$s وصل شده‌اید که می‌تواند فعالیت شبکه شما شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
     <string name="monitoring_description_do_header_generic">دستگاه شما توسط %1$s مدیریت می‌شود.</string>
     <string name="monitoring_description_do_header_with_name">%1$s از %2$s برای مدیریت دستگاه شما استفاده می‌کند.</string>
     <string name="monitoring_description_do_learn_more">اطلاعات بیشتر</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">سازمان شما یک مجوز گواهی را در نمایه کاری شما نصب کرده است. ترافیک شبکه امن شما ممکن است نظارت و یا تغییر داده شود.</string>
     <string name="monitoring_description_managed_profile_named_vpn">نمایه کاری شما به %1$s وصل شده است، که می‌تواند فعالیت شبکه شما، شامل ایمیل‌ها، برنامه‌ها و تارنماها را نظارت کند.</string>
     <string name="monitoring_description_management">"دستگاه شما توسط سازمان شما مدیریت شده است.
@@ -1185,7 +1163,6 @@ d MMMM"</string>
 
 همچنین شما به یک VPN که می‌تواند فعالیت شبکه شما را نظارت کند وصل شده‌اید."</string>
     <string name="monitoring_description_vpn_settings">باز کردن تنظیمات VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">گواهی‌های CA</string>
     <string name="monitoring_subtitle_network_logging">ضبط شبکه</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -1233,7 +1210,6 @@ d MMMM"</string>
     <string name="nav_guide_message">استفاده از حرکات اشاره برای پنهان/نمایان کردن دکمه‌های مجازی.</string>
     <string name="nav_guide_ok">راه‌اندازی</string>
     <string name="nav_guide_title">پنهان کردن دکمه‌های مجازی</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">برنامه‌ای نیست</string>
     <string name="no_bubbles">Deny</string>
     <string name="no_multi_window_app">برنامه‌ای برای پشتیبانی از تقسیم نمایشگر وجود ندارد</string>
@@ -1303,7 +1279,6 @@ d MMMM"</string>
     <string name="oem_preferred_feedback_reporter"></string>
     <string name="oem_unlock_enable">باز کردن قفل OEM</string>
     <string name="oem_unlock_enable_summary">اجازه باز شدن قفل به bootloader</string>
-    <string name="ok">@android:string/ok</string>
     <string name="okay">تأیید</string>
     <string name="open_camera_hint_text">آیکون را کشیده تا دوربین باز شود</string>
     <string name="open_lock_screen_magazine_hint_text">برای گزینه‌های بیشتر به سمت راست بکشید</string>
@@ -1343,7 +1318,6 @@ d MMMM"</string>
     <string name="picture_color_mode_desc">استفاده از sRGB</string>
     <string name="pip_close">بستن PiP</string>
     <string name="pip_fullscreen">تمام صفحه</string>
-    <string name="pip_menu_bounds">596 280 1324 690</string>
     <string name="pip_menu_title">منوی عکس در عکس</string>
     <string name="pip_notification_message">در صورتی که نمی‌خواهید %s از این ویژگی استفاده کند، ضربه زده تا تنظیمات باز شده و آن را خاموش کنید.</string>
     <string name="pip_notification_title">%s در عکس در عکس است</string>
@@ -1354,14 +1328,12 @@ d MMMM"</string>
     <string name="pip_phone_expand">باز کردن</string>
     <string name="pip_phone_minimize">کوچک کردن</string>
     <string name="pip_play">پخش</string>
-    <string name="pip_settings_bounds">662 756 1142 1026</string>
     <string name="pip_skip_to_next">رد کردن به بعدی</string>
     <string name="pip_skip_to_prev">رد کردن به قبلی</string>
     <string name="please_slide_agian">دوباره بکشید</string>
     <string name="plugins">Plugins</string>
     <string name="pointer_location">موقعیت عقربه</string>
     <string name="pointer_location_summary">پوشش صفحه داده‌های لمس کنونی را نمایش می‌دهد</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
     <string name="power_discharge_by">باید تا نزدیک %1$s طول بکشد (%2$s)</string>
     <string name="power_discharge_by_enhanced">بر اساس مصرف شما (%2$s) باید تا نزدیک %1$s طول بکشد</string>
@@ -1423,16 +1395,11 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">نام میزبان ارائه دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">نام میزبان ارائه دهنده DNS را وارد کنید</string>
-    <string name="process_kernel_label">سیستم عامل اندروید</string>
     <string name="profile_owned_footer">نمایه ممکن است مورد نظارت باشد</string>
     <string name="prompt_danger">خطرناک</string>
     <string name="prompt_detecting">درحال شناسایی</string>
     <string name="prompt_safe">ایمن</string>
     <string name="prompt_unknown">ناشناخته</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
-    <string name="proxy_port_hint">8080</string>
-    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="qs_control_big_tile_state_closed">خاموش</string>
     <string name="qs_control_big_tile_state_closing">درحال خاموش کردن…</string>
     <string name="qs_control_big_tile_state_connected">متصل</string>
@@ -1557,11 +1524,7 @@ d MMMM"</string>
     <string name="quick_settings_sim_disabled">" (غیر فعال)"</string>
     <string name="quick_settings_sync_label">همگام‌سازی</string>
     <string name="quick_settings_tethering_label">همرسانی شبکه</string>
-    <string name="quick_settings_tiles">default</string>
-    <string name="quick_settings_tiles_default">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),custom(com.miui.mishare.connectivity/.tile.MiShareTileService),powermode,custom(com.miui.screenrecorder/.service.QuickService),vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_retail_mode">cell,batterysaver,powermode,flashlight,rotation,location</string>
-    <string name="quick_settings_tiles_stock">cell,wifi,flashlight,mute,screenshot,bt,autobrightness,airplane,screenlock,gps,rotation,papermode,night,quietmode,batterysaver,extremebatterysaver,powermode,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,edit,drivemode,workmode</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_time_label">زمان</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">برای افزودن یک مورد آن را فشرده و نگه داشته و سپس آن را به بخش بالایی تابلو بکشید.</string>
@@ -1695,7 +1658,6 @@ d MMMM"</string>
     <string name="select_webview_provider_title">پیاده‌سازی WebView</string>
     <string name="select_webview_provider_toast_text">این انتخاب دیگر معتبر نیست. دوباره تلاش کنید.</string>
     <string name="settings_custom_notification">مدیریت اعلان‌ها</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="settings_toggle_position">مدیریت وضعیت‌ها</string>
     <string name="settings_toggle_position_divider_list">وضعیت‌های بالای این نوار فعال هستند</string>
     <string name="settings_toggle_position_reset">بازنشانی وضعیت‌ها</string>
@@ -1765,7 +1727,6 @@ d MMM"</string>
     <string name="status_bar_network_flow_limit">"   حد ماهانه: %1$s   "</string>
     <string name="status_bar_network_flow_purchase">"   خرید &gt;"</string>
     <string name="status_bar_network_flow_today">امروز: %1$s</string>
-    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">بدون اعلان</string>
     <string name="status_bar_no_recent_apps">آخرین صفحات شما در اینجا نشان داده می‌شوند</string>
     <string name="status_bar_notification_app_settings_title">تنظیمات %s</string>
@@ -1789,7 +1750,6 @@ d MMM"</string>
     <string name="status_bar_settings_airplane">حالت هواپیما</string>
     <string name="status_bar_settings_auto_brightness_label">خودکار</string>
     <string name="status_bar_settings_auto_rotation">چرخش خودکار نمایشگر</string>
-    <string name="status_bar_settings_battery_meter_format"></string>
     <string name="status_bar_settings_mute_label">بی‌صدا</string>
     <string name="status_bar_settings_notifications">اعلان‌ها</string>
     <string name="status_bar_settings_settings_button">تنظیمات</string>
@@ -1825,7 +1785,6 @@ d MMM"</string>
     <string name="switch_bar_on">روشن</string>
     <string name="switch_system_user">بازگشت به فضای نخست</string>
     <string name="symbol_colon">:</string>
-    <string name="system_ui_date_pattern">@android:string/system_ui_date_pattern</string>
     <string name="system_ui_tuner">تنظیم‌کننده رابط کاربر سیستم</string>
     <string name="tap_to_sign_up">برای ثبت نام ضربه بزنید</string>
     <string name="task_access_locked_app_msg">قفل برنامه روشن شد</string>
@@ -1972,7 +1931,6 @@ d MMM"</string>
     <string name="user_remove_user_title">کاربر حذف شود؟</string>
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>
-    <string name="velocity_tracker_impl">platform</string>
     <string name="verify_apps_over_usb_summary">بررسی برنامه‌هایی که از طریق ADB/ADT نصب شده‌اند برای رفتارهای مضر.</string>
     <string name="verify_apps_over_usb_title">تأیید برنامه‌ها از طریق USB</string>
     <string name="voice_assist_label">دستیار صوتی باز شود</string>
@@ -2029,7 +1987,6 @@ d MMM"</string>
     <string name="wapi_psk_type_ascii">ASCII</string>
     <string name="wapi_psk_type_hex">۱۶ گانه</string>
     <string name="wapi_yes">بله</string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_publish_time">%1$s به‌روز شد</string>
     <string name="wifi_ap_unable_to_handle_new_sta">نقطه دسترسی به طور موقت پر شده است</string>
     <string name="wifi_auto_sel_wapi_cert">انتخاب به صورت خودکار</string>
@@ -2075,7 +2032,6 @@ d MMM"</string>
     <string name="wifi_security_none_owe">None/Enhanced Open</string>
     <string name="wifi_security_owe">Enhanced Open</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">WPA3-Personal</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -2087,7 +2043,6 @@ d MMM"</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">None/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>

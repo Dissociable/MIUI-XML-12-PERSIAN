@@ -134,7 +134,6 @@
     <string name="dialog_type_image">Images</string>
     <string name="dialog_type_text">Docs</string>
     <string name="dialog_type_video">Videos</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="disk_available">Available: </string>
     <string name="disk_total">Total: </string>
     <string name="doc_all">All</string>
@@ -177,7 +176,6 @@
     <string name="favorite_photo">Photos</string>
     <string name="favorite_ringtone">Ringtones</string>
     <string name="favorite_screen_cap">Screenshots</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">Readable: </string>
     <string name="file_info_canwrite">Writable: </string>
     <string name="file_info_ishidden">Hidden: </string>
@@ -406,8 +404,6 @@
     <string name="search_result_more">More</string>
     <string name="search_statistic_appname">source</string>
     <string name="search_statistic_keyword">keyin</string>
-    <string name="search_statistic_match_invalid">0</string>
-    <string name="search_statistic_match_valid">1</string>
     <string name="search_statistic_tag">tag</string>
     <string name="search_title">Search</string>
     <string name="search_title_hint">Search</string>
@@ -422,7 +418,6 @@
     <string name="set_pattern">Password was upgraded</string>
     <string name="set_pattern_btn">Set</string>
     <string name="set_pattern_msg">Set your password again. Privacy protection password also works for photos and messages.</string>
-    <string name="settings">@string/server_control_settings</string>
     <string name="sign_percent">%</string>
     <string name="sk">3qy6ngTb0P+etx</string>
     <string name="skip_file">Skip</string>

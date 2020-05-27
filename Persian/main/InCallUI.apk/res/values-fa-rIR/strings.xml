@@ -184,7 +184,6 @@
     <string name="pause_prompt_no">خیر</string>
     <string name="pause_prompt_yes">بله</string>
     <string name="payphone">تلفن همگانی</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="picking_participant">در حال دریافت اطلاعات مخاطب…</string>
     <string name="private_num">شماره خصوصی</string>
     <string name="prompt_no_volte_when_failed">نمی‌توان تماسی برقرار کرد. مطمئن شوید که دستگاه شما به یک شبکه 4G پشتیبانی شده توسط VoLTE وصل شده است.</string>

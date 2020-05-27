@@ -59,10 +59,6 @@
 <item>15</item>
 <item>100</item>
 </integer-array>
-<array name="batterymeter_color_values">
-<item>?android:colorError</item>
-<item>@android:color/white</item>
-</array>
 <integer-array name="batterymeter_plus_points">
 <item>3</item>
 <item>0</item>
@@ -224,24 +220,6 @@
 <item>filtered</item>
 <item>full</item>
 </string-array>
-<array name="bt_icon_bg_colors">
-<item>@color/bt_color_bg_1</item>
-<item>@color/bt_color_bg_2</item>
-<item>@color/bt_color_bg_3</item>
-<item>@color/bt_color_bg_4</item>
-<item>@color/bt_color_bg_5</item>
-<item>@color/bt_color_bg_6</item>
-<item>@color/bt_color_bg_7</item>
-</array>
-<array name="bt_icon_fg_colors">
-<item>@color/bt_color_icon_1</item>
-<item>@color/bt_color_icon_2</item>
-<item>@color/bt_color_icon_3</item>
-<item>@color/bt_color_icon_4</item>
-<item>@color/bt_color_icon_5</item>
-<item>@color/bt_color_icon_6</item>
-<item>@color/bt_color_icon_7</item>
-</array>
 <string-array name="color_mode_descriptions">
 <item>رنگ‌های پیشرفته</item>
 <item>رنگ‌های طبیعی به‌همان صورتی که با چشم دیده می‌شوند</item>
@@ -379,13 +357,6 @@
 <item>hide</item>
 <item>region</item>
 <item>highlight</item>
-</string-array>
-<string-array name="simulate_color_space_entries">
-<item>@string/daltonizer_mode_disabled</item>
-<item>@string/daltonizer_mode_monochromacy</item>
-<item>@string/daltonizer_mode_deuteranomaly</item>
-<item>@string/daltonizer_mode_protanomaly</item>
-<item>@string/daltonizer_mode_tritanomaly</item>
 </string-array>
 <string-array name="simulate_color_space_values">
 <item>-1</item>

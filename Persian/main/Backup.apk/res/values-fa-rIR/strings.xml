@@ -160,7 +160,6 @@
     <string name="dialog_backup_password_change_machine_tips">شما نمی‌توانید نسخه‌های پشتیبان محافظت شده با رمز را انتقال دهید. پیش از استفاده از جابجاگر Mi گذرواژه پشتیبان‌گیری را خاموش کنید.</string>
     <string name="dialog_backup_password_restore_tips">هنگام روشن بودن گذرواژه پشتیبان‌گیری، موارد را نمی‌توان بازیابی کرد. ابتدا گذرواژه پشتیبان‌گیری را خاموش کنید.</string>
     <string name="dialog_backup_password_to_settings">تنظیمات</string>
-    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">رمزگذاری نشده</string>
     <string name="disable_encrypt_title">خاموش کردن رمزگذاری</string>
@@ -255,7 +254,6 @@
 2.\u0009به تنظیمات Mi Talk رفته «پشتیبان‌گیری از مخاطبین به حساب Mi» را بزنید"</string>
     <string name="import_from_xiaomi_account_hint2">اگر قبلاً نسخه پشتیبان تهیه کرده‌اید، بعدی را بزنید.</string>
     <string name="import_from_xiaomi_account_hint_title">از Mi Talk برای پشتیبان‌گیری از مخاطبین بین دستگاه‌هایتان استفاده کنید.</string>
-    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">به دلیل مسائل سازگاری، شما فقط می‌توانید بخشی از داده‌ها را از دستگاه‌های iOS منتقل کنید. مطمئن شوید که پیش از آغاز انتقال یک نسخه پشتیبان از iCloud ایجاد کرده‌اید.</string>
     <string name="lack_perm_msg">جابجاگر Mi نیاز به مجوزهای زیر دارد: &lt;b&gt;%s&lt;/b&gt;.</string>
     <string name="lack_perm_title">نیازمند مجوز است</string>
@@ -767,12 +765,8 @@ Wi-Fi را خاموش نکنید.
 صفحه را پیش از برقراری اتصال نبندید."</string>
     <string name="waiting">چند لحظه صبر کنید…</string>
     <string name="wifi_title">تنظیمات Wi-Fi</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
-    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">دانلود آعاز نشد. مطمئن شوید مدیریت دانلود به صورت عادی کار می‌کند.</string>
     <string name="xiaomi_external_storage_unavailable">حافظه در دسترس نیست. کارت SD خود را بررسی کنید.</string>
-    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_megabytes_unit">%1$sمگابایت</string>
     <string name="xiaomi_router">روتر Mi</string>
     <string name="xiaomi_router_location">روترMi %s</string>
     <string name="xiaomi_update_dialog_message">"معرفی نسخه %1$s

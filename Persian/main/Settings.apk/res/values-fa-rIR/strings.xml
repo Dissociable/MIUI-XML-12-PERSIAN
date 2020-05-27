@@ -865,7 +865,6 @@
     <string name="battery_stats_duration">%1$s از زمان جدا کردن</string>
     <string name="battery_stats_flashlight_on_label">چراغ قوه روشن</string>
     <string name="battery_stats_gps_on_label">‏GPS در</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="battery_stats_on_battery">%1$s در باتری</string>
     <string name="battery_stats_phone_signal_label">سیگنال شبکهٔ تلفن همراه</string>
     <string name="battery_stats_screen_on_label">صفحه روشن</string>
@@ -1291,7 +1290,6 @@
 در صورتی که هر کدام از موارد بالا را انجام داده‌اید، حساب Mi خود را دوباره بیافزایید؛ در غیر این صورت دیگر نمی‌توانید قفل دستگاه خود را باز کنید."</string>
     <string name="bootloader_tips_ok">فهمیدم</string>
     <string name="bootloader_tips_warning">اتصال شبکه را قطع نکرده، از حساب Mi خود خارج نشده، به تنظیمات کارخانه بازنشانی نکرده و داده‌های سیستمی را پاک نکنید.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">کارایی‌های دکمه‌های افزوده</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="breathing_light_color_menu_title">رنگ نور</string>
@@ -1372,7 +1370,6 @@
     <string name="call_example_name">نام</string>
     <string name="call_manager_enable_summary">به این سرویس اجازه دهید تا چگونگی برقراری تماس‌هایتان را مدیریت کند.</string>
     <string name="call_manager_enable_title">فعال‌سازی مدیریت تماس</string>
-    <string name="call_manager_summary">%1$s</string>
     <string name="call_manager_title">مدیریت تماس</string>
     <string name="call_records_name_1">مصطفی روحانی‌نژاد</string>
     <string name="call_records_name_2">زینب موالی‌زاده</string>
@@ -1465,7 +1462,6 @@
     <string name="cellular_data_summary">مجاز بودن مصرف داده‌ ازطریق شبکه همراه</string>
     <string name="cellular_data_title">داده شبکه تلفن همراه</string>
     <string name="cellular_data_usage">مصرف داده شبکه تلفن همراه</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change">تغییر</string>
     <string name="change_lock_screen_password_title">تغییر قفل صفحه</string>
     <string name="change_password">تغییر قفل صفحه</string>
@@ -1620,7 +1616,6 @@
     <string name="condition_hotspot_title">نقطه اتصال فعال است</string>
     <string name="condition_night_display_summary">صفحه‌نمایش کهربایی شد</string>
     <string name="condition_night_display_title">«نور شب» روشن است</string>
-    <string name="condition_summary">%1$d</string>
     <string name="condition_turn_off">خاموش کردن</string>
     <string name="condition_turn_on">روشن کردن</string>
     <string name="condition_work_summary">برای برنامه‌ها و اعلان‌ها</string>
@@ -2167,7 +2162,6 @@
     <string name="dialog_title_hdmi_color_calibration">اصلاح رنگ از پیش تعیین شده</string>
     <string name="dialog_title_login">وارد حساب Mi خود شوید</string>
     <string name="dialog_yes">بله</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">توجه: استفاده از این صفحه کلید پس از راه‌اندازی دوباره فقط زمانی ممکن است که قفل دستگاه خود را باز کرده باشید</string>
     <string name="disableNetwork">disableNetwork</string>
     <string name="disable_overlays">غیرفعال کردن پوشش سخت‌افزاری</string>
@@ -2243,7 +2237,6 @@
     <string name="dndm_auto_button_title">تکرار زمان مزاحم نشوید</string>
     <string name="dndm_auto_setting_group">برنامه‌ریزی شده</string>
     <string name="dndm_auto_time_setting">تنظیم زمان</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">تا</string>
     <string name="dndm_auto_time_turn_off_title">حالت مزاحم نشوید به‌طور خودکار خاموش شود</string>
     <string name="dndm_auto_time_turn_on">از</string>
@@ -3276,7 +3269,6 @@
     <string name="keyguard_notification_status_title">هنگام رسیدن اعلان و خاموش بودن صفحه</string>
     <string name="keyguard_security_setting_others">سایر</string>
     <string name="keyguard_security_setting_privacy_policy">سیاست حفظ حریم خصوصی</string>
-    <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="keywords_accounts">حساب</string>
     <string name="keywords_add_an_account">نمایه کاری</string>
     <string name="keywords_airplane">هواپیما;حالت هواپیما;هوا پیما;حالت هوا پیما;پرواز;حالت پرواز</string>
@@ -3906,7 +3898,6 @@
     <string name="memory_title">در دسترس: %1$s\u0009\u0009کل: %2$s</string>
     <string name="memory_usage">استفاده از حافظه</string>
     <string name="memory_usage_apps">حافظه مصرف شده توسط برنامه‌ها</string>
-    <string name="memory_use_running_format">%1$s /‏ %2$s</string>
     <string name="memory_use_summary">%1$s متوسط حافظه استفاده شده در ۳ ساعت گذشته</string>
     <string name="menu_cancel">صرف‌نظر</string>
     <string name="menu_check">تجربه</string>
@@ -4312,7 +4303,6 @@
     <string name="nfc_how_it_works_got_it">متوجه شدم</string>
     <string name="nfc_how_it_works_title">پرداخت در پایانه</string>
     <string name="nfc_more_title">بیشتر...</string>
-    <string name="nfc_payment_app_and_desc">%1$s -‏ %2$s</string>
     <string name="nfc_payment_default">پیش‌فرض پرداخت</string>
     <string name="nfc_payment_default_not_set">تنظیم نشده</string>
     <string name="nfc_payment_favor_default">همیشه از برنامه پیش‌فرض استفاده شود</string>
@@ -4476,7 +4466,6 @@
     <string name="notification_fold_summary">همه اعلان‌های غیر مهم در یک پوشه جدا نمایش داده خواهند شد</string>
     <string name="notification_fold_title">پوشه اعلان‌ها</string>
     <string name="notification_group_title">گروه دسته اعلان</string>
-    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
     <string name="notification_importance_blocked">هرگز اعلان‌ها نمایش داده نشوند</string>
     <string name="notification_importance_default">پخش صدا</string>
     <string name="notification_importance_default_title">زیاد</string>
@@ -4648,7 +4637,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="overlay_settings">نمایش روی سایر برنامه‌ها</string>
     <string name="overlay_toast_failed_to_apply">همپوشانی اعمال نشد</string>
     <string name="owner_info_settings_edit_text_hint">‏مثلاً Android امیر.</string>
-    <string name="owner_info_settings_status">%1$d / ‏%2$d</string>
     <string name="owner_info_settings_summary">هیچ‌کدام</string>
     <string name="owner_info_settings_title">امضای صفحه قفل</string>
     <string name="owner_space">فضای نخست</string>
@@ -4813,7 +4801,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="power_cell">شبکه تلفن همراه درحالت آماده‌به‌کار</string>
     <string name="power_center">بهینه‌سازی باتری</string>
     <string name="power_charge_remaining">%1$s مانده تا شارژ کامل</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
     <string name="power_checker">بررسی کننده برق</string>
     <string name="power_discharge_by">باید تا نزدیک %1$s طول بکشد (%2$s)</string>
@@ -4857,7 +4844,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s مانده</string>
     <string name="power_remaining_more_than_subtext">بیشتر از %1$s مانده (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیشتر از %1$s مانده</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">صفحه‌نمایش</string>
     <string name="power_settings_title">عملکرد سیستم</string>
     <string name="power_suggestion_extend_battery">افزایش عمر باتری در %1$s گذشته</string>
@@ -5083,8 +5069,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="private_sms_recording_intro_header">یک الگوی باز کردن قفل بکشید:</string>
     <string name="private_sms_reset_by_account">برای بازنشانی گذرواژه، وارد حساب Mi خود شوید</string>
     <string name="process_dex2oat_label">بهینه‌سازی برنامه</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">سیستم عامل اندروید</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_provider_in_use_description">ارائه دهنده %1$s در حال استفاده است.</string>
     <string name="process_service_in_use_description">سرویس %1$s در حال استفاده است.</string>
@@ -5124,15 +5108,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="proxy_error_invalid_exclusion_list">فهرست موارد استثنایی که تایپ کردید به نحو صحیح قالب‌بندی نشده است. لطفاً فهرستی از دامنه‌های استثنای جدا شده با کاما را تایپ کنید.</string>
     <string name="proxy_error_invalid_host">نام میزبانی که وارد کرده‌اید معتبر نیست.</string>
     <string name="proxy_error_invalid_port">درگاهی که وارد کردید معتبر نیست.</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
     <string name="proxy_exclusionlist_label">کنارگذر برای</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
     <string name="proxy_hostname_label">نام میزبان</string>
-    <string name="proxy_port_hint">8080</string>
     <string name="proxy_port_label">درگاه</string>
     <string name="proxy_settings_label">تنظیمات پروکسی</string>
     <string name="proxy_settings_title">پروکسی</string>
-    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="proxy_url_title">"‏نشانی وب PAC: "</string>
     <string name="proxy_warning_limited_support">‏این مرورگر از پروکسی HTTP استفاده می‌کند اما ممکن است برنامه‌های دیگر از آن استفاده نکنند.</string>
     <string name="qtifeedback_activity">com.qti.smq.ui.QtiFeedbackActivity</string>
@@ -5827,7 +5807,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_encryption_attention_3">شما مجبور خواهید شد گذرواژه جدید برای صفحه قفل تنظیم کنید.</string>
     <string name="security_encryption_attention_4">مطمئن شوید گذرواژه صفحه قفل را به خاطر سپرده‌اید، در غیر این صورت مجبور می‌شوید یک بازنشانی کامل انجام داده و همه اطلاعات دستگاه را پاک کنید.</string>
     <string name="security_encryption_attention_info">شما می‌توانید همه حساب‌ها، تنظیمات، برنامه‌های دانلود شده و اطلاعات، رسانه‌ها و سایر فایل‌های آن‌ها را رمزگذاری کنید.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">انتخاب رمزگذاری دستگاه بدون استفاده از گذرواژه صفحه قفل ممکن است برخی خدمات Google را از دسترس خارج کند.</string>
     <string name="security_encryption_close_dialog_title">بازگشت به حفاظت از گذرواژه پیش‌فرض</string>
@@ -5973,11 +5952,9 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="select_webview_provider_toast_text">این انتخاب دیگر معتبر نیست. دوباره تلاش کنید.</string>
     <string name="sensors_off_quick_settings_title">حسگرها خاموش است</string>
     <string name="service_background_processes">%1$s رایگان</string>
-    <string name="service_client_name">%1$s</string>
     <string name="service_foreground_processes">%1$s استفاده شده</string>
     <string name="service_manage">راه‌اندازی</string>
     <string name="service_manage_description">%1$s: هم‌اکنون درحال استفاده است. برای کنترل آن روی تنظیمات ضربه بزنید.</string>
-    <string name="service_process_name">%1$s</string>
     <string name="service_restarting">در حال راه‌اندازی مجدد</string>
     <string name="service_started_by_app">توسط برنامه شروع شد.</string>
     <string name="service_stop">توقف</string>
@@ -6005,7 +5982,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="settings_notify_need_backup">از تنظیمات خود در فضای ابری Xiaomi پشتیبان‌گیری کرده تا پس از تعویض گوشی‌ها بتوان به آن‌ها دسترسی داشت.</string>
     <string name="settings_notify_new_version">یک به‌روزرسانی موجود است. برای نمایش جزئیات ضربه بزنید.</string>
     <string name="settings_notify_phone_recycled">شماره تلفن شما بازیافت شده است. برای افزودن شماره تلفن دیگر ضربه بزنید.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="settings_panel_title">پانل تنظیمات</string>
     <string name="settings_safetylegal_activity_loading">در حال بارگیری…</string>
     <string name="settings_safetylegal_activity_title">اطلاعات ایمنی</string>
@@ -6156,7 +6132,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="sim_select_card">انتخاب سیم‌کارت</string>
     <string name="sim_selection_channel_title">انتخاب سیم‌کارت</string>
     <string name="sim_selection_required_pref">انتخاب مورد نیاز است</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">سیم‌کارت‌ها</string>
     <string name="sim_setup_wizard_title">سیم‌کارت‌ها</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -6172,7 +6147,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="size_kilo_byte">کیلوبایت</string>
     <string name="size_mega_byte">مگابایت</string>
     <string name="size_peta_byte">پتابایت</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ترابایت</string>
     <string name="skip_anyway_button_label">در هر حال رد شود</string>
     <string name="skip_label">رد شدن</string>
@@ -6327,10 +6301,8 @@ Before using our services, read and agree to our %s."</string>
     <string name="status_bar_app_enable_keyguard">صفحه قفل</string>
     <string name="status_bar_app_enable_message">نشان‌ها</string>
     <string name="status_bar_carrier_settings_no_sim_card">بدون سیم‌کارت</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bar_settings">اعلان‌ها و نوار وضعیت</string>
     <string name="status_bar_settings_all_app_display_loading">چند لحظه صبر کنید…</string>
-    <string name="status_bar_settings_carrier_sim">"سیم‌کارت %1$s: "</string>
     <string name="status_bar_settings_manage_notification">اعلان‌های برنامه</string>
     <string name="status_bar_settings_notification_bar">کرکره اعلان</string>
     <string name="status_bar_settings_notification_use_app_icon">Use app icons for notifications</string>
@@ -6637,9 +6609,7 @@ Before using our services, read and agree to our %s."</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_divider_text">"، "</string>
     <string name="summary_empty"></string>
-    <string name="summary_font_size">%1$s</string>
     <string name="summary_placeholder"> </string>
-    <string name="summary_range_symbol_combination">%1$s ‏- %2$s</string>
     <string name="summary_range_verbal_combination">%1$s تا %2$s</string>
     <string name="summary_two_lines_placeholder">" 
  "</string>
@@ -7627,7 +7597,6 @@ Before using our services, read and agree to our %s."</string>
     <string name="wifi_calling_off_explanation_2"></string>
     <string name="wifi_calling_pref_managed_by_carrier">تنظیم تحت مدیریت شرکت مخابراتی</string>
     <string name="wifi_calling_roaming_mode_dialog_title">تنظیم برگزیده فراگردی</string>
-    <string name="wifi_calling_roaming_mode_summary">%1$s</string>
     <string name="wifi_calling_roaming_mode_title">تنظیم برگزیده فراگردی</string>
     <string name="wifi_calling_settings_activation_instructions">‏فعال کردن تماس ازطریق Wi-Fi</string>
     <string name="wifi_calling_settings_title">‏تماس از طریق Wi-Fi</string>
@@ -7660,7 +7629,6 @@ Before using our services, read and agree to our %s."</string>
     <string name="wifi_connect_failed_message">به شبکه Wi-Fi وصل نشد</string>
     <string name="wifi_connected_mac_randomization">به MAC تصادفی وصل شد</string>
     <string name="wifi_connected_no_internet">متصل شد. بدون اینترنت</string>
-    <string name="wifi_connected_to_message">@string/bluetooth_connected_summary</string>
     <string name="wifi_connecting">درحال اتصال…</string>
     <string name="wifi_connection_management">مدیریت اتصال Wi-Fi</string>
     <string name="wifi_context_menu_change_password">تغییر گذرواژه</string>
@@ -7685,7 +7653,6 @@ Before using our services, read and agree to our %s."</string>
     <string name="wifi_disabled_network_failure">IP پیکربندی نشد</string>
     <string name="wifi_disabled_password_failure">مشکل تأیید اعتبار</string>
     <string name="wifi_disabled_wifi_failure">خطای اتصال به WiFi</string>
-    <string name="wifi_disconnect">@string/bluetooth_device_context_disconnect</string>
     <string name="wifi_disconnect_button_text">قطع اتصال</string>
     <string name="wifi_disconnected">ارتباط قطع شد</string>
     <string name="wifi_disconnected_notification_summary">شما به Wi-Fi متصل نیستید.</string>
@@ -7912,7 +7879,6 @@ Before using our services, read and agree to our %s."</string>
     <string name="wifi_sap_no_channel_error">باند ۵ گیگاهرتزی در این کشور در دسترس نیست</string>
     <string name="wifi_save">ذخیره</string>
     <string name="wifi_saved_access_points_label">شبکه‌های ذخیره شده</string>
-    <string name="wifi_saved_access_points_tab">@string/wifi_access_points</string>
     <string name="wifi_scan_always_available">اسکن کردن همیشه امکان‌پذیر باشد</string>
     <string name="wifi_scan_always_available_summary">به خدمات موقعیت مکانی و برنامه‌های دیگر Google اجازه جستجو برای شبکه داده شود، حتی هنگامی که Wi-Fi خاموش باشد</string>
     <string name="wifi_scan_always_confirm_allow">مجاز است</string>
@@ -7941,7 +7907,6 @@ Before using our services, read and agree to our %s."</string>
     <string name="wifi_security_none_owe">None/Enhanced Open</string>
     <string name="wifi_security_owe">Enhanced Open</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">WPA3-Personal</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -7953,7 +7918,6 @@ Before using our services, read and agree to our %s."</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_none_owe">None/OWE</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>
@@ -8434,10 +8398,8 @@ Update settings to:
     <string name="zone_auto_summaryOn">استفاده از زمان ارائه شده توسط شبکه شرکت مخابراتی</string>
     <string name="zone_auto_title">استفاده از منطقه زمانی ارائه‌شده از شبکه</string>
     <string name="zone_change_to_from_dst">%1$s در %2$s شروع می‌شود.</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">از %1$s استفاده می‌کند. %2$s در %3$s شروع می‌شود.</string>
     <string name="zone_info_footer_no_dst">از %1$s استفاده می‌کند. بدون ساعت تابستانی.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_list_menu_sort_alphabetically">مرتب‌سازی الفبایی</string>
     <string name="zone_list_menu_sort_by_timezone">مرتب‌سازی بر اساس منطقه زمانی</string>
     <string name="zone_menu_by_offset">‏انتخاب براساس اختلاف با UTC</string>

@@ -138,7 +138,6 @@
     <string name="call_sim_menu_title_suffix">(اصلی)</string>
     <string name="call_telex">تماس با تلکس</string>
     <string name="call_tty_tdd">تماس با TTY/TDD</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">تماس با محل کار</string>
     <string name="call_work_mobile">تماس با تلفن همراه کاری</string>
@@ -312,8 +311,6 @@
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_file_prefix"></string>
     <string name="config_export_file_suffix"></string>
-    <string name="config_export_vcard_type">v30_generic</string>
-    <string name="config_import_vcard_type">default</string>
     <string name="config_prohibited_phone_number_regexp"></string>
     <string name="confirm_call_log_dial_summary">Ask for confirmation before dialing from call logs to prevent accidental calls.</string>
     <string name="confirm_call_log_dial_title">Confirm dials from call logs</string>
@@ -703,7 +700,6 @@
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">Fri</string>
-    <string name="from_account_format">%1$s</string>
     <string name="full_name">نام</string>
     <string name="gallery">گالری</string>
     <string name="generic_no_account_prompt">امنیت مخاطبین خود را حفظ کنید، حتی اگر گوشی گم شود: با یک خدمات آنلاین همگام‌سازی کنید.</string>
@@ -908,7 +904,6 @@
     <string name="miprofile_contact_header">مخاطبین دارای کارت تماس</string>
     <string name="miprofile_contact_meaasge">مخاطبین محلی</string>
     <string name="miprofile_contact_verifying">درحال بررسی</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ویرایش نمایه</string>
     <string name="miprofile_error_accept_self">نمی‌توانید کارت تماس خودتان را مبادله کنید</string>
     <string name="miprofile_error_no_miaccount">به حساب Mi خود وارد شوید</string>
@@ -1122,10 +1117,7 @@ To add a contact to your list of favorites:
     <string name="path_wipe_data">برنامه‌های سیستمی/مخاطبین/سازمان‌دهی مخاطبین/حذف داده‌ها</string>
     <string name="payphone">تلفن همگانی</string>
     <string name="people">مخاطبین</string>
-    <string name="percent_sign">%1$s</string>
-    <string name="percentage">%2$s%1$s</string>
     <string name="phoneLabelsGroup">تلفن</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">شماره طولانی است</string>
     <string name="phone_primary">اصلی</string>
     <string name="photoPickerNotFoundText">هیچ تصویری بر روی دستگاه وجود ندارد.</string>
@@ -1394,7 +1386,6 @@ To add a contact to your list of favorites:
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">گروه بدون عضو</string>
     <string name="six_letter">ج چ ح خ</string>
-    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">شرکت‌ها</string>
     <string name="smart_group_company_unavailable">بدون اطلاعات شرکت</string>
     <string name="smart_group_frequency_1">در طول ماه گذشته</string>
@@ -1465,7 +1456,6 @@ To add a contact to your list of favorites:
     <string name="starred_contacts">مخاطبین دلخواه</string>
     <string name="status_available">در دسترس</string>
     <string name="status_away">بیرون</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_busy">مشغول</string>
     <string name="strequentList">موارد دلخواه</string>
     <string name="success_message_import_from_account">مخاطب وارد شد</string>
@@ -1618,7 +1608,6 @@ To add a contact to your list of favorites:
     <string name="wednesday">Wednesday</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">Wed</string>
-    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">پاک کردن داده‌ها</string>
     <string name="yellowPageNavigationIconLabel">صفحات زرد</string>
     <string name="yellowPageNavigationLabel">صفحات زرد</string>

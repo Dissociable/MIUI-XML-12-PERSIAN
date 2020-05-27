@@ -195,7 +195,6 @@
     <string name="cant_call_due_to_ongoing_unknown_call">به دلیل انجام تماس در برنامه‌ای دیگر، نمی‌توان تماسی برقرار کرد.</string>
     <string name="category_personal">شخصی</string>
     <string name="category_work">محل کار</string>
-    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change_default_call_screening_dialog_affirmative">تنظیم پیش‌فرض</string>
     <string name="change_default_call_screening_dialog_negative">لغو</string>
     <string name="change_default_call_screening_dialog_title">%s برنامه پیش‌فرض غربال‌گری تماستان شود؟</string>
@@ -262,7 +261,6 @@
     <string name="development_settings_title">گزینه‌های برنامه‌نویسان</string>
     <string name="dial_conference_fail_prompt">"Can't dial conference directly because current network doesn't support VoLTE."</string>
     <string name="dial_vt_fail_prompt">"Current network doesn't support VoLTE. Switch to regular voice call?"</string>
-    <string name="dialer_default_class">com.android.contacts.activities.TwelveKeyDialer</string>
     <string name="direct_boot_unaware_dialog_message">توجه: بعد از راه‌اندازی تا زمانی‌که قفل تلفنتان را باز نکنید، این برنامه نمی‌تواند شروع شود</string>
     <string name="disable_overlays">‏غیر فعال کردن پوشش HW</string>
     <string name="disable_overlays_summary">‏همیشه از GPU در ترکیب صفحه استفاده شود</string>
@@ -307,7 +305,6 @@
     <string name="inactive_app_active_summary">فعال. برای تغییر حالت ضربه بزنید.</string>
     <string name="inactive_app_inactive_summary">غیرفعال. برای تغییر حالت ضربه بزنید.</string>
     <string name="inactive_apps_title">برنامه‌های آماده به‌کار</string>
-    <string name="incall_default_class">com.android.incallui.InCallServiceImpl</string>
     <string name="incall_error_call_failed">"Couldn't make call."</string>
     <string name="incall_error_power_off">Turn off Airplane mode to make a call.</string>
     <string name="incall_error_supp_service_unknown">"This service isn't supported."</string>
@@ -376,7 +373,6 @@
     <string name="notification_missedCallsMsg">%s تماس از دست رفته</string>
     <string name="notification_missedCallsTitle">تماسهای از دست رفته</string>
     <string name="notification_missedWorkCallTitle">تماس کاری از دست رفته</string>
-    <string name="number_tag_divider">" ｜ "</string>
     <string name="oem_preferred_feedback_reporter"></string>
     <string name="oem_unlock_enable">بازکردن سازنده تجهیزات اصلی</string>
     <string name="oem_unlock_enable_summary">اجازه دهید قفل بوت‌لودر باز شود</string>
@@ -407,7 +403,6 @@
     <string name="picture_color_mode_desc">‏استفاده از sRGB</string>
     <string name="pointer_location">محل اشاره‌گر</string>
     <string name="pointer_location_summary">هم‌پوشانی صفحه‌نمایش با نمایش داده لمسی فعلی</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - %2$s until fully charged</string>
     <string name="power_discharge_by">باید حدوداً تا %1$s (%2$s) شارژ داشته باشید</string>
     <string name="power_discharge_by_enhanced">با توجه به میزان مصرفتان (%2$s)، باید حدوداً تا %1$s شارژ داشته باشید</string>
@@ -435,11 +430,6 @@
     <string name="private_dns_mode_provider">‏نام میزبان ارائه‌دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
-    <string name="process_kernel_label">‏سیستم عامل Android</string>
-    <string name="proxy_exclusionlist_hint">example.com,mycomp.test.com,localhost</string>
-    <string name="proxy_hostname_hint">proxy.example.com</string>
-    <string name="proxy_port_hint">8080</string>
-    <string name="proxy_url_hint">https://www.example.com/proxy.pac</string>
     <string name="remaining_length_format">%1$s باقی مانده است</string>
     <string name="respond_via_sms_canned_response_1">الان نمی‌توانم صحبت کنم. چه شده است؟</string>
     <string name="respond_via_sms_canned_response_2">بلافاصله با شما تماس خواهم گرفت.</string>
@@ -478,7 +468,6 @@
     <string name="select_webview_provider_dialog_title">تنظیم اجرای وب‌نما</string>
     <string name="select_webview_provider_title">اجرای وب‌نما</string>
     <string name="select_webview_provider_toast_text">این انتخاب دیگر معتبر نیست. دوباره امتحان کنید.</string>
-    <string name="settings_package">com.android.settings</string>
     <string name="show_all_anrs">نمایش موارد «برنامه پاسخ نمی‌دهد» پس‌زمینه</string>
     <string name="show_all_anrs_summary">نمایش گفتگوی \"برنامه پاسخ نمی‌دهد\" برای برنامه‌های پس‌زمینه</string>
     <string name="show_hw_layers_updates">نمایش به‌روزرسانی‌های لایه‌های سخت‌افزار</string>
@@ -557,8 +546,6 @@
     <string name="tts_status_ok">%1$s کاملاً پشتیبانی می‌شود</string>
     <string name="tts_status_requires_network">%1$s باید اتصال شبکه داشته باشد</string>
     <string name="tts_status_title">وضعیت زبان پیش‌فرض</string>
-    <string name="ui_default_package">com.android.incallui</string>
-    <string name="ui_default_package_dialer">com.android.contacts</string>
     <string name="unblock_button">لغو انسداد</string>
     <string name="unblock_dialog_body">انسداد %1$s لغو شود؟</string>
     <string name="unknown">ناشناس</string>
@@ -634,7 +621,6 @@
     <string name="wifi_security_none">هیچ‌کدام</string>
     <string name="wifi_security_owe">Enhanced Open</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
     <string name="wifi_security_sae">WPA3-Personal</string>
     <string name="wifi_security_short_dpp">DPP</string>
@@ -643,7 +629,6 @@
     <string name="wifi_security_short_eap_wpa">WPA-EAP</string>
     <string name="wifi_security_short_eap_wpa2_wpa3">RSN-EAP</string>
     <string name="wifi_security_short_owe">OWE</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_psk_sae">WPA2/WPA3</string>
     <string name="wifi_security_short_sae">WPA3</string>
     <string name="wifi_security_short_wep">WEP</string>

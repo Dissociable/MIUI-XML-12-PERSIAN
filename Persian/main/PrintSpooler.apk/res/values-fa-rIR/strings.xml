@@ -26,7 +26,6 @@
     <string name="copies_decrease">Minus one copy</string>
     <string name="copies_increase">Plus one copy</string>
     <string name="could_not_create_file">فایل ایجاد نشد</string>
-    <string name="current_page_template">%1$d/%2$d</string>
     <string name="delete_saved_printer_content">چاپگرهای انتخاب شده حذف شوند؟</string>
     <string name="destination_default_text">چاپگری انتخاب کنید</string>
     <string name="disabled_services_title">خدمات غیرفعال</string>
@@ -48,7 +47,6 @@
     <string name="label_paper_size">کاغذ</string>
     <string name="label_paper_size_summary">اندازه کاغذ:</string>
     <string name="mediasize_default">ISO_A4</string>
-    <string name="mediasize_standard">@string/mediasize_standard_iso</string>
     <string name="mediasize_standard_china">3</string>
     <string name="mediasize_standard_iso">0</string>
     <string name="mediasize_standard_japan">2</string>
@@ -101,7 +99,6 @@
     <string name="printer_busy">چاپگر مشغول است</string>
     <string name="printer_error">خطای چاپگر</string>
     <string name="printer_error_msg">خطای چاپگر: %1$s</string>
-    <string name="printer_extended_description_template">%1$s - %2$s</string>
     <string name="printer_info_desc">اطلاعات بیشتر درباره چاپگر</string>
     <string name="printer_notification_error_title">چاپ نشد %1$s</string>
     <string name="printer_unavailable">چاپگر در دسترس نیست</string>

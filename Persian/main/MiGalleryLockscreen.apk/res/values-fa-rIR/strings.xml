@@ -99,7 +99,6 @@
     <string name="app_self_upgrade_dlg_postive_btn">Update now</string>
     <string name="app_self_upgrade_dlg_title">Update available</string>
     <string name="app_self_upgrade_toast_downloading_install">Starting the update…</string>
-    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply">Apply</string>
     <string name="apply_to_above_all">Set both</string>
     <string name="apply_to_screenlock">Set as Lock screen</string>
@@ -110,7 +109,6 @@
     <string name="auto_interval">Every time device unlocks</string>
     <string name="back_icon_content_description">Back</string>
     <string name="bind_sign_in_title">افزودن حساب Mi</string>
-    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="cancel">Cancel</string>
     <string name="cancel_international">Cancel</string>
     <string name="cancel_lockscreen">Cancel</string>
@@ -132,7 +130,6 @@
     <string name="change_time">Switch wallpapers</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="choose_to_signin">بله</string>
     <string name="choose_to_signup">خیر. یکی خواهم ساخت</string>
@@ -273,7 +270,6 @@
     <string name="goto_sign_up">ایجاد حساب</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="history_list_no_data">No items here</string>
-    <string name="homepaperchanged">@string/theme_apply_success</string>
     <string name="hour_1">Every hour</string>
     <string name="hour_3">Every 3 hours</string>
     <string name="icon_content_description">Dialog Icon</string>
@@ -341,7 +337,6 @@
     <string name="lockscreen_magazine_summary">Select categories</string>
     <string name="lockscreen_magazine_system_title">Default</string>
     <string name="lockscreen_magazine_title">Wallpaper Carousel</string>
-    <string name="lockscreen_wallpaper_changed">@string/theme_apply_success</string>
     <string name="logout_account">خروج از حساب</string>
     <string name="look_str">Popular</string>
     <string name="main_fragment_title_discover">Discover</string>
@@ -400,8 +395,6 @@ mm"</string>
     <string name="mtrl_picker_a11y_next_month">Change to next month</string>
     <string name="mtrl_picker_a11y_prev_month">Change to previous month</string>
     <string name="mtrl_picker_announce_current_selection">Current selection: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Select a Date</string>
     <string name="mtrl_picker_date_header_unselected">Selected date</string>
@@ -716,7 +709,6 @@ mm"</string>
     <string name="sst_wallpaper_history_title">History</string>
     <string name="sst_wifi_only_desc">Turn off to update wallpapers over WLAN only</string>
     <string name="sst_wifi_only_title">Update wallpapers using mobile data</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_wallpaper_loop_not_start">Off</string>
     <string name="status_wallpaper_loop_start">On</string>
     <string name="subscribe_apply_wp">Applied Lock screen wallpaper successfully</string>

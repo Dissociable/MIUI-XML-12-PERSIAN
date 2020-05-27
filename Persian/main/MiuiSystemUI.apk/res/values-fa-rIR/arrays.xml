@@ -43,41 +43,6 @@
 <item>%1$s</item>
 <item>%1$s</item>
 </string-array>
-<string-array name="aqi_title_append">
-<item>%1$s</item>
-<item>%1$s</item>
-<item>%1$s</item>
-<item>%1$s</item>
-<item>%1$s</item>
-<item>%1$s</item>
-<item>%1$s</item>
-</string-array>
-<string-array name="aqi_title_prefix">
-<item>کیفیت هوا %1$s</item>
-<item>کیفیت هوا %1$s</item>
-<item>کیفیت هوا %1$s</item>
-<item>کیفیت هوا %1$s</item>
-<item>کیفیت هوا %1$s</item>
-<item>کیفیت هوا %1$s</item>
-<item>کیفیت هوا %1$s</item>
-</string-array>
-<string-array name="avoid_disturb_app_whitelist">
-<item>com.baidu.BaiduMap</item>
-<item>com.autonavi.xmgd.navigator</item>
-<item>com.autonavi.minimap</item>
-<item>com.baidu.navi</item>
-<item>com.baidu.bus</item>
-<item>com.mapbar.android.mapbarmap1</item>
-<item>com.mapbar.android.trybuynavi</item>
-<item>com.mapbar.android.gpsnavi</item>
-<item>com.tencent.map</item>
-<item>com.tencent.navsns</item>
-<item>com.uu.uunavi</item>
-<item>com.sogou.map.android.maps</item>
-<item>com.tigerknows</item>
-<item>com.autonavi.cmccmap</item>
-<item>brut.googlemaps</item>
-</string-array>
 <string-array name="battery_labels">
 <item>%۰</item>
 <item>%۵۰</item>
@@ -88,55 +53,9 @@
 <item>نمایش درصد هنگام شارژ کردن (پیش‌فرض)</item>
 <item>این آیکون نمایش داده نشود</item>
 </string-array>
-<integer-array name="batterymeter_bolt_points">
-<item>73</item>
-<item>0</item>
-<item>392</item>
-<item>0</item>
-<item>201</item>
-<item>259</item>
-<item>442</item>
-<item>259</item>
-<item>4</item>
-<item>703</item>
-<item>157</item>
-<item>334</item>
-<item>0</item>
-<item>334</item>
-</integer-array>
 <integer-array name="batterymeter_color_levels">
 <item>15</item>
 <item>100</item>
-</integer-array>
-<array name="batterymeter_color_values">
-<item>?android:colorError</item>
-<item>@android:color/white</item>
-</array>
-<integer-array name="batterymeter_plus_points">
-<item>3</item>
-<item>0</item>
-<item>5</item>
-<item>0</item>
-<item>5</item>
-<item>3</item>
-<item>8</item>
-<item>3</item>
-<item>8</item>
-<item>5</item>
-<item>5</item>
-<item>5</item>
-<item>5</item>
-<item>8</item>
-<item>3</item>
-<item>8</item>
-<item>3</item>
-<item>5</item>
-<item>0</item>
-<item>5</item>
-<item>0</item>
-<item>3</item>
-<item>3</item>
-<item>3</item>
 </integer-array>
 <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
 <item>استفاده از منتخب سیستم (پیش‌فرض)</item>
@@ -287,24 +206,6 @@
 <item>snoopheadersfiltered</item>
 <item>mediapktsfiltered</item>
 </string-array>
-<array name="bt_icon_bg_colors">
-<item>@color/bt_color_bg_1</item>
-<item>@color/bt_color_bg_2</item>
-<item>@color/bt_color_bg_3</item>
-<item>@color/bt_color_bg_4</item>
-<item>@color/bt_color_bg_5</item>
-<item>@color/bt_color_bg_6</item>
-<item>@color/bt_color_bg_7</item>
-</array>
-<array name="bt_icon_fg_colors">
-<item>@color/bt_color_icon_1</item>
-<item>@color/bt_color_icon_2</item>
-<item>@color/bt_color_icon_3</item>
-<item>@color/bt_color_icon_4</item>
-<item>@color/bt_color_icon_5</item>
-<item>@color/bt_color_icon_6</item>
-<item>@color/bt_color_icon_7</item>
-</array>
 <array name="car_facet_category_filters"/>
 <array name="car_facet_icons"/>
 <array name="car_facet_intent_uris"/>
@@ -706,15 +607,7 @@
 <item>LTE</item>
 <item>5G</item>
 </string-array>
-<array name="data_type_name_cus_reg_key"/>
-<array name="data_type_name_cus_reg_value"/>
-<array name="data_type_name_mcc_key"/>
-<array name="data_type_name_mcc_mnc_key"/>
 <array name="data_type_name_mcc_mnc_value"/>
-<array name="data_type_name_mcc_value"/>
-<array name="data_type_name_miui_mcc_key"/>
-<array name="data_type_name_miui_mcc_value"/>
-<string-array name="debug_hw_overdraw_entries">
 <item>خاموش</item>
 <item>نمایش مناطق رنگ‌آمیزی شده بیرونی</item>
 <item>نمایش مناطق برای کوررنگی قرمز و سبز</item>
@@ -908,43 +801,6 @@
 <item>array/telephony_siganl_strength_roaming_sim1</item>
 <item>array/telephony_siganl_strength_roaming_sim1</item>
 <item>array/telephony_siganl_strength_roaming_sim1</item>
-</string-array>
-<string-array name="multi_window_force_not_resize_pkgs">
-<item>com.miui.home</item>
-<item>com.mi.android.globallauncher</item>
-<item>com.android.contacts</item>
-<item>com.android.incallui</item>
-<item>com.android.phone</item>
-<item>com.android.camera</item>
-<item>com.miui.securitycenter</item>
-<item>com.miui.cleanmaster</item>
-<item>com.miui.antispam</item>
-<item>com.miui.player</item>
-<item>com.miui.yellowpage</item>
-<item>com.xiaomi.smarthome</item>
-<item>com.android.updater</item>
-<item>com.miui.voiceassist</item>
-<item>com.miui.securitycore</item>
-<item>com.wali.live</item>
-<item>com.xiaomi.scanner</item>
-</string-array>
-<string-array name="multi_window_force_resize_pkgs">
-<item>com.tencent.mobileqq</item>
-<item>com.taobao.taobao</item>
-<item>com.ss.android.article.news</item>
-<item>com.yidian.xiaomi</item>
-<item>com.UCMobile</item>
-<item>com.tencent.reading</item>
-<item>com.smile.gifmaker</item>
-<item>com.qzone</item>
-<item>com.jingdong.app.mall</item>
-<item>com.immomo.momo</item>
-<item>com.netease.newsreader.activity</item>
-<item>com.tmall.wireless</item>
-<item>com.kuaikan.comic</item>
-<item>com.hunantv.imgo.activity</item>
-<item>com.douban.frodo</item>
-<item>com.tencent.mm</item>
 </string-array>
 <string-array name="nav_bar_button_values">
 <item>clipboard</item>
@@ -1453,13 +1309,6 @@
 </string-array>
 <array name="signal_strength_umts_normal_sim2"/>
 <array name="signal_strength_umts_normal_sim3"/>
-<string-array name="simulate_color_space_entries">
-<item>@string/daltonizer_mode_disabled</item>
-<item>@string/daltonizer_mode_monochromacy</item>
-<item>@string/daltonizer_mode_deuteranomaly</item>
-<item>@string/daltonizer_mode_protanomaly</item>
-<item>@string/daltonizer_mode_tritanomaly</item>
-</string-array>
 <string-array name="simulate_color_space_values">
 <item>-1</item>
 <item>0</item>
@@ -1467,83 +1316,9 @@
 <item>1</item>
 <item>3</item>
 </string-array>
-<array name="single_signal_icons">
-<item>@drawable/stat_sys_signal_0_3g_default</item>
-<item>@drawable/stat_sys_signal_0_4g_default</item>
-<item>@drawable/stat_sys_signal_1_3g_default</item>
-<item>@drawable/stat_sys_signal_1_4g_default</item>
-<item>@drawable/stat_sys_signal_2_3g_default</item>
-<item>@drawable/stat_sys_signal_2_4g_default</item>
-<item>@drawable/stat_sys_signal_3_3g_default</item>
-<item>@drawable/stat_sys_signal_3_4g_default</item>
-<item>@drawable/stat_sys_signal_4_3g_default</item>
-<item>@drawable/stat_sys_signal_4_4g_default</item>
-<item>@drawable/stat_sys_signal_0_3g_default_fully</item>
-<item>@drawable/stat_sys_signal_0_4g_default_fully</item>
-<item>@drawable/stat_sys_signal_1_3g_default_fully</item>
-<item>@drawable/stat_sys_signal_1_4g_default_fully</item>
-<item>@drawable/stat_sys_signal_2_3g_default_fully</item>
-<item>@drawable/stat_sys_signal_2_4g_default_fully</item>
-<item>@drawable/stat_sys_signal_3_3g_default_fully</item>
-<item>@drawable/stat_sys_signal_3_4g_default_fully</item>
-<item>@drawable/stat_sys_signal_4_3g_default_fully</item>
-<item>@drawable/stat_sys_signal_4_4g_default_fully</item>
-</array>
-<array name="stacked_signal_icons">
-<item>@drawable/stat_sys_signal_0_3g</item>
-<item>@drawable/stat_sys_signal_0_4g</item>
-<item>@drawable/stat_sys_signal_1_3g</item>
-<item>@drawable/stat_sys_signal_1_4g</item>
-<item>@drawable/stat_sys_signal_2_3g</item>
-<item>@drawable/stat_sys_signal_2_4g</item>
-<item>@drawable/stat_sys_signal_3_3g</item>
-<item>@drawable/stat_sys_signal_3_4g</item>
-<item>@drawable/stat_sys_signal_4_3g</item>
-<item>@drawable/stat_sys_signal_4_4g</item>
-<item>@drawable/stat_sys_signal_0_3g_fully</item>
-<item>@drawable/stat_sys_signal_0_4g_fully</item>
-<item>@drawable/stat_sys_signal_1_3g_fully</item>
-<item>@drawable/stat_sys_signal_1_4g_fully</item>
-<item>@drawable/stat_sys_signal_2_3g_fully</item>
-<item>@drawable/stat_sys_signal_2_4g_fully</item>
-<item>@drawable/stat_sys_signal_3_3g_fully</item>
-<item>@drawable/stat_sys_signal_3_4g_fully</item>
-<item>@drawable/stat_sys_signal_4_3g_fully</item>
-<item>@drawable/stat_sys_signal_4_4g_fully</item>
-</array>
 <string-array name="system_alert_window_notification_whitelist">
 <item>com.miui.notes</item>
 <item>com.android.thememanager</item>
-</string-array>
-<string-array name="system_foreground_notification_whitelist">
-<item>com.xiaomi.joyose</item>
-<item>com.miui.home</item>
-<item>com.mi.android.globallauncher</item>
-<item>com.android.providers.contacts</item>
-<item>com.android.updater</item>
-<item>com.miui.gallery</item>
-<item>com.android.fileexplorer</item>
-<item>com.mi.android.globalFileexplorer</item>
-<item>com.miui.securitycenter</item>
-<item>com.miui.cloudappbackup</item>
-<item>com.miui.fmradio</item>
-<item>com.android.systemui</item>
-<item>com.miui.contentextension</item>
-<item>com.android.mms</item>
-<item>com.miui.securitycore</item>
-<item>com.miui.notification</item>
-<item>com.mi.health</item>
-<item>com.xiaomi.mipicks</item>
-<item>com.xiaomi.discover</item>
-<item>com.miui.mishare.connectivity</item>
-<item>com.qualcomm.wfd.service</item>
-<item>com.miui.notes</item>
-<item>com.miui.tsmclient</item>
-<item>com.mi.android.globalminusscreen</item>
-<item>com.mfashiongallery.emag</item>
-<item>com.android.thememanager</item>
-<item>com.miui.voiceassist:com.miui.voiceassistforeground</item>
-<item>com.miui.misound</item>
 </string-array>
 <string-array name="telephony_data_activity_1x_sim1">
 <item>0</item>
@@ -1966,14 +1741,6 @@
 <item>5</item>
 <item>10</item>
 </string-array>
-<string-array name="tts_demo_string_langs">
-<item>eng</item>
-<item>fra</item>
-<item>deu</item>
-<item>ita</item>
-<item>spa</item>
-<item>kor</item>
-</string-array>
 <string-array name="tts_demo_strings">
 <item>This is an example of speech synthesis in English.</item>
 <item>Voici un échantillon de synthèse vocale en français.</item>
@@ -2012,13 +1779,6 @@
 <item>com.google.android.katniss.setting/.SearchSettingsActivity</item>
 <item>com.google.android.gsf.notouch/.UsageDiagnosticsSettingActivity</item>
 <item>com.google.android.tvlauncher/.notifications.NotificationsSidePanelActivity</item>
-</string-array>
-<string-array name="usa_mcc">
-<item>310</item>
-<item>311</item>
-<item>312</item>
-<item>313</item>
-<item>316</item>
 </string-array>
 <string-array name="usb_configuration_titles">
 <item>درحال شارژ</item>

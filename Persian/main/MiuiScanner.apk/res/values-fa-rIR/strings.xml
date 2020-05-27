@@ -112,7 +112,6 @@
     <string name="crop_done_description">Done</string>
     <string name="crop_title_study">Crop the photo</string>
     <string name="crop_title_translation">Select text to translate</string>
-    <string name="default_language">@string/language_value_chinese_cn</string>
     <string name="delete">Delete</string>
     <string name="document_color_picture">Color</string>
     <string name="document_color_picture_tip">Converting to color…</string>
@@ -173,7 +172,6 @@
     <string name="food_module_thumbs_up">Like</string>
     <string name="food_module_tip">Place the food inside the frame</string>
     <string name="food_module_title_food">Calories</string>
-    <string name="global_default_language">@string/language_value_english</string>
     <string name="got_it">Got it</string>
     <string name="gps">Navigate</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>

@@ -93,8 +93,6 @@
     <string name="feedback_custom_hint">مشکلی که با آن روبرو شده‌اید را توضیح دهید. اگر پیشنهادی دارید ممنون می‌شویم جزئیات بیشتری ارائه دهید!</string>
     <string name="find_device">یافتن دستگاه</string>
     <string name="find_device_dspt_provision">در صورت گم کردن دستگاه می‌توانید به &lt;font color=#0097FF&gt;%s&lt;/font&gt; رفته تا آن را یافته، قفل نموده و یا بازنشانی کنید. این ویژگی را هر زمانی می‌توانید در تنظیمات روشن یا خاموش کنید.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">اتصال اینترنت خود را بررسی و دوباره تلاش کنید.</string>
     <string name="find_device_error_server">خطای سرور</string>
     <string name="find_device_gdpr_prompt">با روشن کردن یافتن دستگاه، شما &lt;a href=«app://com.miui.cloudservice.gdpr.license»&gt;&lt;u&gt;سیاست حفظ حریم خصوصی&lt;/u&gt;&lt;/a&gt; ما را می‌پذیرید. در صورتی که نیاز به لغو این مجوز دارید، این ویژگی را خاموش کنید.</string>
@@ -114,10 +112,6 @@
     <string name="ks_download_success">با موفقیت دانلود شد</string>
     <string name="ks_fingerprint_payment">پرداخت با اثر انگشت</string>
     <string name="ks_fingerprint_status">وضعیت پرداخت</string>
-    <string name="ks_key_download_button">ks_key_download_button</string>
-    <string name="ks_key_status">ks_key_status</string>
-    <string name="ks_key_udpate_time">ks_key_udpate_time</string>
-    <string name="ks_key_version">ks_key_version</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_soter">Soter</string>
@@ -242,14 +236,11 @@
     <string name="micloud_find_device_open_fail">یافتن دستگاه روشن نشد</string>
     <string name="micloud_find_device_opened">یافتن دستگاه روشن شد</string>
     <string name="micloud_find_device_opened_content">یافتن دستگاه شما در %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">ممکن است یک پیامک ارسالی برای فعال‌سازی این خدمات لازم باشد. شرکت مخابراتی شما بابت این پیام از شما هزینه دریافت خواهد کرد. هنگامی که سیم‌کارت را تعویض می‌کنید، ممکن است یک پیام به صورت خودکار برای فعال‌سازی این ویژگی ارسال شود.</string>
     <string name="micloud_find_device_verify_button">فعال‌سازی دوباره یافتن دستگاه</string>
     <string name="micloud_find_device_verify_close">خاموش کردن یافتن دستگاه</string>
     <string name="micloud_find_device_verify_fail">یافتن دستگاه دوباره فعال نشد</string>
     <string name="micloud_find_device_verify_progress">درحال فعال‌سازی دوباره یافتن دستگاه…</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">همگام‌سازی لغو شده بود. دوباره تلاش کنید.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخه پشتیبان صفحه اصلی</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">تنظیمات سیستم و چیدمان صفحه اصلی</string>
@@ -508,8 +499,6 @@
     <string name="sync_dspt_entrance_provision_network_china">This app needs to connect to the internet to work normally. Syncing data may require mobile data connection and turning on WLAN.</string>
     <string name="sync_dspt_entrance_provision_skip">رد شدن از این مرحله</string>
     <string name="sync_dspt_provision">"عکس‌ها، مخاطبین، یادداشت‌ها و موارد بیشتر را در تمام دستگاه‌های خود همگام‌سازی کنید یا به آنها دسترسی داشته باشید در "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". شما می‌توانید این قابلیت را در هر زمان در تنظیمات روشن یا خاموش کنید.
 "</string>
     <string name="sync_item_calllog_summary">همگام‌سازی تاریخچه تماس‌های گرفته شده و دریافت شده در این تلفن</string>

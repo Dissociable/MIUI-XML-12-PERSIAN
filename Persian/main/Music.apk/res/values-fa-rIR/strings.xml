@@ -89,9 +89,7 @@
     <string name="already_favorited">از قبل پسندیده شده است</string>
     <string name="always_use_metered">همیشه از اینترنت همراه استفاده شود</string>
     <string name="am">AM</string>
-    <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_label">دانلودها</string>
-    <string name="app_name">Preference</string>
     <string name="app_permission_confirm">فهمیدم</string>
     <string name="app_permission_optional">مجوزهای اختیاری</string>
     <string name="app_permission_require">مجوزهای اجباری</string>
@@ -224,7 +222,6 @@
     <string name="click_to_add_album_cover_and_lyric">برای افزودن جلد آلبوم و متن ترانه ضربه بزنید</string>
     <string name="click_to_shuffle">پخش تصادفی‌</string>
     <string name="close_music_time">"زمان باقی‌مانده: "</string>
-    <string name="com.crashlytics.android.build_id">97d9263e-9420-490d-bd7e-0612b258574e</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">فعال کردن</string>
     <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
@@ -267,7 +264,6 @@
     <string name="date_picker_label_month"></string>
     <string name="date_picker_label_year"></string>
     <string name="date_picker_lunar">Lunar Calendar</string>
-    <string name="default_web_client_id">948829309969-vb4502m250c1iu8aqblkhmhrei9o83ib.apps.googleusercontent.com</string>
     <string name="delete">حذف</string>
     <string name="delete_download">حذف</string>
     <string name="delete_file_as_well">این آهنگ برای همیشه حذف شود</string>
@@ -363,10 +359,7 @@
     <string name="download_method">دانلود</string>
     <string name="download_no_application_title">فایل را نمی توان باز کرد</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">در حال دانلود…</string>
-    <string name="download_progress">%d%%</string>
-    <string name="download_progress_detail">%.1fM/%.1fM</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
     <string name="download_queued">در نوبت قرار گرفت</string>
@@ -403,10 +396,7 @@
     <string name="downloading_empty">خالی</string>
     <string name="downloading_pause_apk">مکث شد. دانلود را در کرکره اعلان ادامه دهید.</string>
     <string name="due_date">تاریخ پایان: %s</string>
-    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatlong_with">%2$02d:%5$02d.%6$02d</string>
-    <string name="durationformatshort">%2$d:%5$02d</string>
-    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
     <string name="early_morning">AM</string>
     <string name="earthly_branches_chen">辰</string>
     <string name="earthly_branches_chou">丑</string>
@@ -468,9 +458,7 @@
     <string name="exo_download_notification_channel_name">بارگیری‌ها</string>
     <string name="exo_download_removing">حذف بارگیری‌ها</string>
     <string name="exo_item_list">%1$s،‏ %2$s</string>
-    <string name="exo_track_bitrate">%1$.2f مگابیت در ثانیه</string>
     <string name="exo_track_mono">مونو</string>
-    <string name="exo_track_resolution">%1$d × %2$d</string>
     <string name="exo_track_selection_auto">خودکار</string>
     <string name="exo_track_selection_none">هیچ‌کدام</string>
     <string name="exo_track_selection_title_audio">صوتی</string>
@@ -485,7 +473,6 @@
     <string name="expired">به پایان رسیده است</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="facebook_app_id">1310336955745219</string>
     <string name="facebook_not_installed">ابتدا فیس‌بوک را نصب کنید.</string>
     <string name="fail_to_fetch_payment_page_url">اطلاعات پرداخت دریافت نشد</string>
     <string name="fail_to_play">آهنگ پخش نمی‌شود</string>
@@ -515,7 +502,6 @@
     <string name="filter_by_size_prefix">"پنهان کردن فایل‌های کوچکتر از "</string>
     <string name="filter_by_size_summary">پنهان کردن فایل‌های صوتی کوچک</string>
     <string name="filter_size_unit">%d کیلوبایت</string>
-    <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
     <string name="floating_view_dialog_desc">در صورت ترک این صفحه موسیقی متوقف خواهد شد. در هر صورت ترک شود؟</string>
     <string name="floating_view_dialog_leave">ترک کردن</string>
     <string name="floating_view_dialog_stay">ماندن</string>
@@ -581,14 +567,9 @@
     <string name="friday">Friday</string>
     <string name="friday_short">Fri</string>
     <string name="friday_shortest">F</string>
-    <string name="gcm_defaultSenderId">948829309969</string>
     <string name="gcm_fallback_notification_channel_label">موارد دیگر</string>
     <string name="get_more_favorite_content_after_login">برای کشف آهنگ‌ها و ویدئوهای بیشتر وارد حساب شوید.</string>
     <string name="google_account_login">ورود با Google</string>
-    <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-    <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
-    <string name="google_crash_reporting_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
-    <string name="google_storage_bucket">mi-music-global.appspot.com</string>
     <string name="goto_local_search">جستجو در دستگاه</string>
     <string name="goto_online_search">جستجوی آنلاین</string>
     <string name="handle_later">اکنون نه</string>
@@ -650,7 +631,6 @@
     <string name="impunity_declaration_summary">هر بار که برنامه موسیقی اجرا می‌شود، شرایط استفاده از خدمات نمایش داده شود</string>
     <string name="impunity_declaration_title">شرایط استفاده از خدمات</string>
     <string name="in_searching_please_wait">درحال جستجو…</string>
-    <string name="include_sensitive_extra">false</string>
     <string name="individuation_card_login_button">ورود</string>
     <string name="individuation_card_login_message">وارد شده تا آهنگ‌های بیشتری که شیفته‌ی آن‌ها خواهید شد را بیابید</string>
     <string name="individuation_card_title">برای شما</string>
@@ -878,7 +858,6 @@
     <string name="open_service">روشن کردن</string>
     <string name="operation_done_close">بستن</string>
     <string name="other_song_in_album">سایر آهنگ‌ها از این آلبوم</string>
-    <string name="partner_id">3041</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -937,10 +916,8 @@
     <string name="priority_storage_summary">دانلود خودکار به کارت SD خارجی در صورتی که در دسترس باشد</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
     <string name="pro_member">عضو PRO</string>
     <string name="project_device">تلفن Mi</string>
-    <string name="project_id">mi-music-global</string>
     <string name="prompt_grant_write_settings_permission">اجازه تغییر تنظیمات سیستم</string>
     <string name="pulluprefreshrecyclerview_loading_error">بارگذاری نشد</string>
     <string name="pulluprefreshrecyclerview_loading_finished">با موفقیت بارگذاری شد</string>
@@ -1096,7 +1073,6 @@ Be Happy"</string>
     <string name="start_to_check_new_version">درحال بررسی به‌روزرسانی‌ها…</string>
     <string name="start_to_download">در حال دانلود…</string>
     <string name="start_to_play">پخش</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_cloned_app">حافظه برای برنامه‌های دوگانه</string>
     <string name="storage_internal">حافظه داخلی</string>
     <string name="storage_sd_card">کارت SD</string>
@@ -1228,7 +1204,6 @@ Be Happy"</string>
     <string name="upgrade_music_message">به‌روزرسانی‌ها آماده‌اند. راه‌اندازی دوباره کنید تا به‌روز شود.</string>
     <string name="upgrading_in_backstage">درحال به‌روزرسانی در پس‌زمینه…</string>
     <string name="user_agreement">توافقنامه کاربر</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>
     <string name="version_info">نسخه</string>
@@ -1249,7 +1224,6 @@ Be Happy"</string>
 روی %s زده تا در اتصال بعدی شما به شبکه Wi-Fi دانلود آن آغاز شود."</string>
     <string name="wifi_required_title">برای دانلود این فایل باید به Wi-Fi متصل شوید</string>
     <string name="xiaomi_privacy_policy_url">https://privacy.mi.com/all/</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
     <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
     <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
 Size: %2$s"</string>
@@ -1257,8 +1231,6 @@ Size: %2$s"</string>
 Delta update size: %2$s"</string>
     <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yesterday">Yesterday</string>
     <string name="you_can_switch_mode_in_settings">می‌توانید بین حالت‌ها در تنظیمات تعویض کنید</string>
     <string name="you_may_like">مواردی که ممکن است بپسندید</string>

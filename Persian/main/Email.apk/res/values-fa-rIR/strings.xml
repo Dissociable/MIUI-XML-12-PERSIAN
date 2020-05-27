@@ -4,14 +4,9 @@
     <string name="SMTP_password_text">گذرواژه</string>
     <string name="SMTP_username_text">نام کاربری</string>
     <string name="account_add_title">Select email service</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="account_duplicate_dlg_message_fmt">شما در حال حاضر از این نام کاربری برای حساب \"%s \" استفاده می‌کنید.</string>
     <string name="account_duplicate_dlg_title">حساب تکراری</string>
     <string name="account_failure">مهلت جلسه پایان یافت</string>
-    <string name="account_manager_type_exchange">com.android.exchange</string>
-    <string name="account_manager_type_imap">com.android.email</string>
-    <string name="account_manager_type_legacy_imap">com.android.email</string>
-    <string name="account_manager_type_pop3">com.android.email</string>
     <string name="account_name_toast">حسابی با همین نام از قبل وجود دارد</string>
     <string name="account_options_actionbar_title">Account settings</string>
     <string name="account_options_sync_title">همگام‌سازی</string>
@@ -193,7 +188,6 @@
     <string name="always_bcc_myself">همیشه به خودم رونوشت پنهان بشود</string>
     <string name="always_show_images">همیشه تصاویر از این فرستنده نمایش داده شود</string>
     <string name="app_name">ایمیل</string>
-    <string name="application_mime_type">application/email-ls</string>
     <string name="appraise_des">آیا برنامه ما را دوست دارید?</string>
     <string name="appraise_good">بله</string>
     <string name="appraise_ignore">الان نمی‌توانم بگویم</string>
@@ -234,7 +228,6 @@
     <string name="attachment_unknown">"فایل %s "</string>
     <string name="attachment_video">ویدئو</string>
     <string name="attachments_header">پیوست‌ها</string>
-    <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_advance_help_title">پس از حذف یک پیام، … مشاهده شود</string>
     <string name="auto_advance_label">حذف جریان پیام</string>
     <string name="auto_advance_summary">انتخاب کنید که بعد از حذف یک پیام به کدام پیام حرکت کند</string>
@@ -253,11 +246,9 @@
     <string name="automatic_remind_text">یادآوری به صورت خودکار</string>
     <string name="back">بازگشت</string>
     <string name="bank_card_detail">جزئیات کارت اعتباری</string>
-    <string name="bank_card_list_card_num_fmt">****%s</string>
     <string name="battery_saver">بهینه‌ساز باتری</string>
     <string name="battery_saver_keywords">بهینه‌ساز باتری;باتری ایمیل</string>
     <string name="bcc">رونوشت پنهان</string>
-    <string name="bcc_heading">"رونوشت پنهان: "</string>
     <string name="bill_center_setting">تنظیمات صورت‌حساب</string>
     <string name="bill_center_setting_head">وارد کردن اطلاعات از این حساب‌ها</string>
     <string name="bill_cycle_text">چرخه حساب‌داری</string>
@@ -280,7 +271,6 @@
     <string name="cancel_pop3_attchemt_downloading">در حساب‌های POP3 نمی‌توان دانلودهای درحال انجام برای پیوستها را لغو کرد</string>
     <string name="cant_move_or_change_labels">موارد را از حساب‌های چندگانه نمی‌توان انتقال داد.</string>
     <string name="cc">رونوشت</string>
-    <string name="cc_attribution">"رونوشت: %1$s  &lt; br &gt;"</string>
     <string name="cc_bcc">رونوشت/رونوشت پنهان</string>
     <string name="cc_heading">"رونوشت: "</string>
     <string name="certificate_add_failed">"Couldn't add \"%s\" certificate"</string>
@@ -308,7 +298,6 @@
     <string name="click_download_all_content">[ برای دانلود محتوا ضربه بزنید ]</string>
     <string name="click_to_reload">برای تازه‌سازی روی صفحه ضربه بزنید</string>
     <string name="collapse_recipient_details">بستن جزئیات گیرنده</string>
-    <string name="colon">:</string>
     <string name="compose">ایجاد پیام</string>
     <string name="compose_attachment_number_limit">نمی‌توان بیش از ۱۰ پیوست افزود</string>
     <string name="compose_paste_address_oob">تعداد کاراکترها زیاد است</string>
@@ -373,7 +362,6 @@
     <string name="conversation_cert_info_tips">This email was signed with a trusted certificate</string>
     <string name="conversation_cert_info_title">Signed</string>
     <string name="conversation_cert_trust">Trust</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="conversation_detail_hide">پنهان کردن</string>
     <string name="conversation_detail_show">جزئیات</string>
     <string name="conversation_folder_moved">به %1$s منتقل شد</string>
@@ -462,21 +450,16 @@
     <string name="drawer_open">بازکردن کشوی جهت‌یابی</string>
     <string name="due">تا</string>
     <string name="due_date_text">بازپرداخت نهایی</string>
-    <string name="eas_hotmail_email">hotmail.com</string>
-    <string name="eas_outlook_email">outlook.com</string>
     <string name="edit_quick_response_dialog">پاسخ فوری</string>
     <string name="edit_signature">ویرایش امضا</string>
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri"></string>
     <string name="email_netease">ایمیل NetEase</string>
-    <string name="email_package_name">com.android.email</string>
     <string name="email_qq">ایمیل QQ</string>
     <string name="email_setting">ایمیل</string>
     <string name="email_setting_keywords">حساب‌ها;افزودن حساب;حساب‌های ایمیل;افزودن حساب ایمیل;تأیید پیش از حذف;تأیید حذف;تأیید پیش از ارسال;تأیید ارسال;حذف جریان پیام;حذف تغییر مسیر;نمای گفتگو;گفتگوی ایمیل;بهینه‌ساز باتری;باتری ایمیل;ارسال بازخورد;بارگذاری گزارشات</string>
     <string name="email_sina">ایمیل Sina</string>
-    <string name="email_suggestions_authority">com.android.email.provider</string>
     <string name="email_sync_failed">"Couldn't sync mail"</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="eml_parse_message">درحال باز کردن فایل EML…</string>
     <string name="empty_account_tip">حساب یافت نشد</string>
     <string name="empty_email_tip">نمی‌توان پیام خالی ارسال کرد</string>
@@ -564,14 +547,12 @@
     <string name="folder_trash_name_en3">[Gmail]/Bin</string>
     <string name="forever">همیشه</string>
     <string name="formatted_email_address">&lt;%1$s&gt;</string>
-    <string name="formatted_subject">%1$s %2$s</string>
     <string name="forward">بازارسال</string>
     <string name="forward_attachment">باز ارسال</string>
     <string name="forward_attribution">"---پیام بازارسالی---&lt; br &gt; از: %1$s  &lt; br &gt; تاریخ: %2$s  &lt; br &gt; موضوع: %3$s  &lt; br &gt; به: %4$s  &lt; br &gt;"</string>
     <string name="forward_attribution_no_headers">---پیام بازارسالی---</string>
     <string name="forward_download_failed_ticker">یک یا چند پیوست بازارسال نشد.</string>
     <string name="forward_download_failed_title">پیوست بازارسال نشد</string>
-    <string name="forward_subject_label">Fwd:</string>
     <string name="free_period_text">دوره بدون بهره</string>
     <string name="from_heading">"از: "</string>
     <string name="general_preference_confirm_delete_label">تأیید پیش از حذف</string>
@@ -597,7 +578,6 @@
     <string name="go_to_mail_content">View mail</string>
     <string name="have_auth_code">من یک کد دارم</string>
     <string name="header_category_account">حساب‌ها</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">بازخورد</string>
     <string name="header_label_general_preferences">عمومی</string>
     <string name="help_and_info">راهنما</string>
@@ -621,15 +601,11 @@
     <string name="info_switch_title">تبلیغات</string>
     <string name="inline_picture_deleted">درحال دانلود عکس‌های از دست رفته…</string>
     <string name="input_password_prompt">گذرواژه خود را وارد کنید</string>
-    <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-    <string name="intent_exchange_package">com.android.exchange</string>
     <string name="interact_with_server_error">به سرور متصل نشد</string>
     <string name="invalid_recipient">نشانی %s معتبر نیست.</string>
     <string name="invalid_recipient_title">خطای گیرنده</string>
     <string name="kilobytes">%s کیلوبایت</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="list_empty_to_fresh">هنوز ایمیلی موجود نیست.</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">جستجوی صندوق پستی در سرور</string>
     <string name="load_more">بارگذاری بیشتر</string>
     <string name="loading_conversation">در حال بارگذاری…</string>
@@ -673,14 +649,6 @@
     <string name="mailbox_name_display_starred">ستاره دار</string>
     <string name="mailbox_name_display_trash">سطل زباله</string>
     <string name="mailbox_name_display_unread">خوانده نشده</string>
-    <string name="mailbox_name_server_all_unread">Unread</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_junk">Junk</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_starred">Starred</string>
-    <string name="mailbox_name_server_trash">Trash</string>
     <string name="mailbox_settings_activity_title">تنظیمات همگام‌سازی</string>
     <string name="mailbox_settings_activity_title_with_mailbox">تنظیمات همگام‌سازی (%s )</string>
     <string name="mailbox_settings_mailbox_sync_window_label">همگام‌سازی ایمیل از</string>
@@ -967,7 +935,6 @@
     <string name="policy_screen_timeout">نیاز به بیکار بودن دستگاه برای قفل کردن صفحه نمایش</string>
     <string name="policy_text_truncation">محدود کردن اندازه متن ایمیل</string>
     <string name="pop3_name">POP3</string>
-    <string name="prefDefault_autoAdvance">list</string>
     <string name="preference_eas_tips">برای ایجاد سرور ایمیل، روی \"فعال‌سازی\" ضربه بزنید.</string>
     <string name="preference_imap_tips"></string>
     <string name="preference_pop_tips">در POP3، پیوست‌ها به صورت خودکار با ایمیل دانلود می‌شوند. این ممکن است باعث افزایش مصرف اینترنت همراه شما شود.</string>
@@ -1069,8 +1036,6 @@
     <string name="quote_divider_qq_en">------------------ Original ------------------</string>
     <string name="quote_divider_qq_zh">------------------ 原始邮件 ------------------</string>
     <string name="quoted_text">شامل متن نقل قول</string>
-    <string name="quoted_text_background_color_string">@android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="quoted_text_label">متن نقل قول</string>
     <string name="re_download_message_button">برای دانلود دوباره ضربه بزنید</string>
     <string name="re_download_message_info">ایمیل دانلود نشد</string>
@@ -1120,7 +1085,6 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="reply_add_bodycontent">پاسخ به بدنه پیام افزوده شود؟</string>
     <string name="reply_all">پاسخ به همه</string>
     <string name="reply_attribution">"در %1$s ،  %2$s  نوشت:"</string>
-    <string name="reply_subject_label">Re:</string>
     <string name="report_phishing">گزارش فیشینگ</string>
     <string name="report_rendering_improvement">Looks good</string>
     <string name="report_rendering_improvement_desc">This message looks good.</string>
@@ -1172,7 +1136,6 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="send_feed_back_keywords">ارسال بازخورد</string>
     <string name="send_mail">ارسال</string>
     <string name="sender_whitelist_cleared">عکس‌ها به طور خودکار نشان داده نخواهند شد.</string>
-    <string name="senders_elided">..</string>
     <string name="senders_split_token">, </string>
     <string name="sending">درحال ارسال…</string>
     <string name="sending_message">درحال ارسال پیام…</string>
@@ -1213,22 +1176,16 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="silent_ringtone">بی صدا</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="sms_tip">Authentication fails, check whether the antivirus software to intercept SMS</string>
     <string name="smtp_password_error">گذرواژه برای سرور ایمیل ارسالی اشتباه است</string>
-    <string name="snip_pic">%1$s</string>
     <string name="sort_attachment">مرتب سازی بر اساس</string>
     <string name="special_text_1">写道:</string>
     <string name="special_text_2">写道：</string>
     <string name="special_text_3">寫道:</string>
     <string name="special_text_4">寫道：</string>
     <string name="special_text_5">wrote:</string>
-    <string name="special_text_colon_en">:</string>
-    <string name="special_text_colon_zh">：</string>
-    <string name="special_text_qq_subscribe">loadScript(_aoFiles){</string>
     <string name="special_text_sender_en">sender</string>
     <string name="special_text_sender_zh">发件人</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage">حافظه</string>
     <string name="str_select_all">انتخاب همه</string>
     <string name="str_select_none">لغو انتخاب همه</string>
@@ -1236,7 +1193,6 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="subject_hint">موضوع</string>
     <string name="suffix_sancharnet">sancharnet.in</string>
     <string name="suffix_vsnl">vsnl.com</string>
-    <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
     <string name="sync_calendra_fail_per_content">Tap to allow</string>
     <string name="sync_calendra_fail_per_title">"Couldn't sync calendar events"</string>
     <string name="sync_calendra_fail_permission">"Couldn't sync calendar events. Allow WPS Mail to access Calendar first."</string>
@@ -1296,9 +1252,6 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="translation_query_failure">نتایج یافت نشد</string>
     <string name="translation_technology_support">پشتیبانی فنی توسط iciba.com</string>
     <string name="trash_folder_selection_title">"پوشه زباله سرور را برای %s  انتخاب کنید"</string>
-    <string name="trigger_compose_char">c</string>
-    <string name="trigger_refresh_char">u</string>
-    <string name="trigger_y_char">y</string>
     <string name="try_exchange_login">ورود با EXCHANGE</string>
     <string name="turn_auto_sync_on_dialog_body">"تغییراتی که شما در
      تمام برنامه‌ها و حساب‌ها، نه فقط Gmail ایجاد 
@@ -1356,7 +1309,6 @@ Wait until it's fully synced or view the message on your computer."</string>
     <string name="widget_all_mail">همه ایمیل‌ها</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">سایر</string>
-    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
     <string name="wipe_account_fail_description">اجازه دادن</string>
     <string name="wipe_account_fail_description_remind">به دلیل محدودیت‌های مصرف داده‌ها،پس از حذف حساب ممکن است داده‌های باقیمانده در سالنامه مخاطبین باشد. این موارد را به‌ صورت دستی پاک کنید.</string>
     <string name="wipe_account_fail_title">اطلاعات شخصی حذف نشد</string>

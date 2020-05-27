@@ -45,7 +45,6 @@
     <string name="am">AM</string>
     <string name="angle">deg</string>
     <string name="app_name">ماشین حساب</string>
-    <string name="app_name_danfa">@string/app_name</string>
     <string name="app_notification_info">ماشین حساب در پس‌زمینه درحال کار کردن است</string>
     <string name="arccos">arccos</string>
     <string name="arcsin">arcsin</string>
@@ -437,7 +436,6 @@
     <string name="loan_pay_years">دوره وام</string>
     <string name="loan_payback_way">بازپرداخت</string>
     <string name="loan_repayment_detail_loading">درحال بارگذاری بازپرداخت‌های دقیق…</string>
-    <string name="loan_type_summary_base">@string/base_rate</string>
     <string name="loan_type_summary_lpr">LPR</string>
     <string name="loan_type_title">استاندارد نرخ بهره</string>
     <string name="loan_unit">(× ۱۰ هزار)</string>
@@ -516,7 +514,6 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="mortgage_input_error">مقدار را وارد کنید</string>
     <string name="mortgage_interest_amount">مقدار بهره</string>
     <string name="mortgage_interest_rate">سود تجاری</string>
-    <string name="mortgage_item_loan_ruler">@string/loan_type_title</string>
     <string name="mortgage_item_repayment">شیوه بازپرداخت</string>
     <string name="mortgage_item_start_time">تاریخ آغاز</string>
     <string name="mortgage_item_years">مدت بازپرداخت وام</string>
@@ -831,7 +828,6 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="unit_data_display_currency_bnd">دلار برونئی</string>
     <string name="unit_data_display_currency_brl">رئال برزیل</string>
     <string name="unit_data_display_currency_byn">روبل بلاروس</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دلار کانادا</string>
     <string name="unit_data_display_currency_chf">فرانک سوئیس</string>
     <string name="unit_data_display_currency_clp">پزو شیلی</string>
@@ -1136,11 +1132,8 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$s بایت</string>
     <string name="xiaomi_connect_download_manager_fail">به دانلودها وصل نشد. بررسی کرده تا این برنامه همه مجوزهای لازم را در تنظیمات &gt; برنامه‌های نصب شده داشته باشد.</string>
     <string name="xiaomi_external_storage_unavailable">حافظه موجود نیست. کارت SD خود را بررسی کنید.</string>
-    <string name="xiaomi_kilobytes_unit">%1$s کیلوبایت</string>
-    <string name="xiaomi_megabytes_unit">%1$s مگابایت</string>
     <string name="xiaomi_update_dialog_message">"معرفی نسخه %1$s
 اندازه: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"معرفی نسخه %1$s

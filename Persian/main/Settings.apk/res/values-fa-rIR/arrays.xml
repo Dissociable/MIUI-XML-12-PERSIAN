@@ -14,26 +14,6 @@
 <item>60000</item>
 <item>120000</item>
 </integer-array>
-<string-array name="accessibility_timeout_summaries">
-<item>@string/accessibility_timeout_default</item>
-<item>@string/accessibility_timeout_10secs</item>
-<item>@string/accessibility_timeout_30secs</item>
-<item>@string/accessibility_timeout_1min</item>
-<item>@string/accessibility_timeout_2mins</item>
-</string-array>
-<string-array name="add_wifi_security">
-<item>@string/wifi_security_none</item>
-<item>@string/wifi_security_wep</item>
-<item>@string/wifi_security_psk_generic</item>
-<item>@string/wifi_security_eap</item>
-</string-array>
-<string-array name="add_wifi_security_with_sae">
-<item>@string/wifi_security_none</item>
-<item>@string/wifi_security_wep</item>
-<item>@string/wifi_security_psk_generic</item>
-<item>@string/wifi_security_eap</item>
-<item>@string/wifi_security_sae</item>
-</string-array>
 <string-array name="aggregate_entries">
 <item>گروه‌بندی</item>
 <item>گروه‌بندی و کاهش اولویت</item>
@@ -121,23 +101,6 @@
 <item>3</item>
 <item>4</item>
 </integer-array>
-<string-array name="always_enabled_app_list">
-<item>com.android.providers.applications</item>
-<item>com.android.providers.calendar</item>
-<item>com.android.providers.contacts</item>
-<item>com.android.providers.downloads</item>
-<item>com.android.providers.drm</item>
-<item>com.android.providers.media</item>
-<item>com.android.providers.telephony</item>
-<item>com.android.providers.userdictionary</item>
-<item>com.miui.providers.userbook</item>
-<item>com.miui.providers.weather</item>
-<item>com.miui.yellowpage</item>
-<item>com.miui</item>
-<item>com.android.htmlviewer</item>
-<item>com.google.android.packageinstaller</item>
-<item>com.miui.core</item>
-</string-array>
 <string-array name="animator_duration_scale_entries">
 <item>پویانمایی خاموش</item>
 <item>مقیاس پویانمایی ۰.۵x</item>
@@ -155,16 +118,6 @@
 <item>2</item>
 <item>5</item>
 <item>10</item>
-</string-array>
-<string-array name="aod_notification_status_entries">
-<item>@string/aod_notification_style_none</item>
-<item>@string/aod_notification_style_screen_on</item>
-<item>@string/aod_notification_style_animation</item>
-</string-array>
-<string-array name="aod_show_style_entries">
-<item>@string/temporary_style</item>
-<item>@string/scheduled_style</item>
-<item>@string/always_style</item>
 </string-array>
 <string-array name="aod_show_style_values">
 <item>0</item>
@@ -390,12 +343,6 @@
 <item>درصد (کنار آیکون)</item>
 <item>نوار بالا</item>
 </string-array>
-<array name="battery_indicator_style_icons">
-<item>@drawable/battery_indicator_graphic</item>
-<item>@drawable/battery_indicator_percent_in</item>
-<item>@drawable/battery_indicator_percent_out</item>
-<item>@drawable/battery_indicator_top</item>
-</array>
 <string-array name="battery_indicator_style_values">
 <item>0</item>
 <item>1</item>
@@ -434,10 +381,6 @@
 <item>15</item>
 <item>100</item>
 </integer-array>
-<array name="batterymeter_color_values">
-<item>?android:colorError</item>
-<item>@android:color/white</item>
-</array>
 <integer-array name="batterymeter_plus_points">
 <item>3</item>
 <item>0</item>
@@ -782,24 +725,6 @@
 <item>snoopheadersfiltered</item>
 <item>mediapktsfiltered</item>
 </string-array>
-<array name="bt_icon_bg_colors">
-<item>@color/bt_color_bg_1</item>
-<item>@color/bt_color_bg_2</item>
-<item>@color/bt_color_bg_3</item>
-<item>@color/bt_color_bg_4</item>
-<item>@color/bt_color_bg_5</item>
-<item>@color/bt_color_bg_6</item>
-<item>@color/bt_color_bg_7</item>
-</array>
-<array name="bt_icon_fg_colors">
-<item>@color/bt_color_icon_1</item>
-<item>@color/bt_color_icon_2</item>
-<item>@color/bt_color_icon_3</item>
-<item>@color/bt_color_icon_4</item>
-<item>@color/bt_color_icon_5</item>
-<item>@color/bt_color_icon_6</item>
-<item>@color/bt_color_icon_7</item>
-</array>
 <string-array name="button_light_timeout_entries">
 <item>۱ ثانیه</item>
 <item>۲ ثانیه</item>
@@ -815,21 +740,6 @@
 <item>10000</item>
 <item>20000</item>
 <item>-1</item>
-</string-array>
-<array name="bytes_picker_sizes">
-<item>@android:string/megabyteShort</item>
-<item>@android:string/gigabyteShort</item>
-</array>
-<string-array name="captioning_color_selector_titles">
-<item>@string/color_unspecified</item>
-<item>@string/color_white</item>
-<item>@string/color_black</item>
-<item>@string/color_red</item>
-<item>@string/color_yellow</item>
-<item>@string/color_green</item>
-<item>@string/color_cyan</item>
-<item>@string/color_blue</item>
-<item>@string/color_magenta</item>
 </string-array>
 <integer-array name="captioning_color_selector_values">
 <item>0x00FFFFFF</item>
@@ -999,17 +909,6 @@
 <item>الگو</item>
 <item>PIN</item>
 <item>گذرواژه</item>
-</string-array>
-<string-array name="change_security_lock_picker_key">
-<item>facial</item>
-<item>pattern</item>
-<item>numerical</item>
-<item>mixed</item>
-</string-array>
-<string-array name="choose_dns_mode">
-<item>@string/private_dns_mode_off</item>
-<item>@string/private_dns_mode_opportunistic</item>
-<item>@string/private_dns_mode_provider</item>
 </string-array>
 <string-array name="city_name">
 <item>آبیجان</item>
@@ -1593,31 +1492,6 @@
 <item>America/Paramaribo</item>
 <item>America/Panama</item>
 </string-array>
-<array name="click_bottom">
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom02</item>
-<item>@drawable/clickbottom03</item>
-<item>@drawable/clickbottom04</item>
-<item>@drawable/clickbottom05</item>
-<item>@drawable/clickbottom06</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom08</item>
-<item>@drawable/clickbottom03</item>
-<item>@drawable/clickbottom02</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-</array>
 <string-array name="color_mode_descriptions">
 <item>رنگ‌های بهبود یافته</item>
 <item>رنگ‌های طبیعی همانگونه که با چشم دیده می‌شوند</item>
@@ -1690,15 +1564,6 @@
 <string-array name="connect_mode_values">
 <item>0</item>
 <item>1</item>
-</string-array>
-<string-array name="cutout_mode_entries">
-<item>@string/cutout_mode_default</item>
-<item>@string/cutout_mode_always</item>
-</string-array>
-<string-array name="daltonizer_type_entries">
-<item>@string/daltonizer_mode_deuteranomaly</item>
-<item>@string/daltonizer_mode_protanomaly</item>
-<item>@string/daltonizer_mode_tritanomaly</item>
 </string-array>
 <string-array name="daltonizer_type_values">
 <item>12</item>
@@ -1806,16 +1671,6 @@
 <item>prada</item>
 <item>dandelion</item>
 </string-array>
-<string-array name="dndm_auto_time_trun_on_off">
-<item>@string/dndm_auto_time_turn_on</item>
-<item>@string/dndm_auto_time_turn_off</item>
-</string-array>
-<string-array name="dndm_vip_list_group_array">
-<item>@string/dndm_vip_list_all</item>
-<item>@string/dndm_vip_list_contact</item>
-<item>@string/dndm_vip_list_starred_contact</item>
-<item>@string/dndm_vip_list_custom</item>
-</string-array>
 <string-array name="dream_timeout_entries">
 <item>هیچ‌وقت</item>
 <item>۱۵ ثانیه</item>
@@ -1854,28 +1709,9 @@
 <item>systrace</item>
 <item>error</item>
 </string-array>
-<string-array name="enabled_networks_4g_choices">
-<item>@string/network_4G</item>
-<item>@string/network_3G</item>
-<item>@string/network_2G</item>
-</string-array>
-<string-array name="enabled_networks_cdma_choices">
-<item>@string/network_lte</item>
-<item>@string/network_3G</item>
-<item>@string/network_1x</item>
-<item>@string/network_global</item>
-</string-array>
-<string-array name="enabled_networks_cdma_no_lte_choices">
-<item>@string/network_3G</item>
-<item>@string/network_1x</item>
-</string-array>
 <string-array name="enabled_networks_cdma_no_lte_values">
 <item>4</item>
 <item>5</item>
-</string-array>
-<string-array name="enabled_networks_cdma_only_lte_choices">
-<item>@string/network_lte</item>
-<item>@string/network_global</item>
 </string-array>
 <string-array name="enabled_networks_cdma_only_lte_values">
 <item>8</item>
@@ -1887,22 +1723,6 @@
 <item>5</item>
 <item>10</item>
 </string-array>
-<string-array name="enabled_networks_choices">
-<item>@string/network_lte</item>
-<item>@string/network_3G</item>
-<item>@string/network_2G</item>
-</string-array>
-<string-array name="enabled_networks_except_gsm_4g_choices">
-<item>@string/network_4G</item>
-<item>@string/network_3G</item>
-</string-array>
-<string-array name="enabled_networks_except_gsm_choices">
-<item>@string/network_lte</item>
-<item>@string/network_3G</item>
-</string-array>
-<string-array name="enabled_networks_except_gsm_lte_choices">
-<item>@string/network_3G</item>
-</string-array>
 <string-array name="enabled_networks_except_gsm_lte_values">
 <item>0</item>
 </string-array>
@@ -1910,18 +1730,9 @@
 <item>9</item>
 <item>0</item>
 </string-array>
-<string-array name="enabled_networks_except_lte_choices">
-<item>@string/network_3G</item>
-<item>@string/network_2G</item>
-</string-array>
 <string-array name="enabled_networks_except_lte_values">
 <item>0</item>
 <item>1</item>
-</string-array>
-<string-array name="enabled_networks_tdscdma_choices">
-<item>@string/network_lte</item>
-<item>@string/network_3G</item>
-<item>@string/network_2G</item>
 </string-array>
 <string-array name="enabled_networks_tdscdma_values">
 <item>22</item>
@@ -1932,16 +1743,6 @@
 <item>9</item>
 <item>0</item>
 <item>1</item>
-</string-array>
-<string-array name="enhanced_4g_lte_mode_sumary_variant">
-<item>@string/enhanced_4g_lte_mode_summary</item>
-<item>@string/enhanced_4g_lte_mode_summary</item>
-<item>@string/enhanced_4g_lte_mode_summary_4g_calling</item>
-</string-array>
-<string-array name="enhanced_4g_lte_mode_title_variant">
-<item>@string/enhanced_4g_lte_mode_title</item>
-<item>@string/enhanced_4g_lte_mode_title_advanced_calling</item>
-<item>@string/enhanced_4g_lte_mode_title_4g_calling</item>
 </string-array>
 <string-array name="entries_color_calibration">
 <item>sRGB</item>
@@ -1958,10 +1759,6 @@
 <item>1.0</item>
 <item>1.15</item>
 <item>1.30</item>
-</string-array>
-<string-array name="fingerprint_unlock_type_entries">
-<item>@string/fingerprint_unlock_touch_type</item>
-<item>@string/fingerprint_unlock_press_type</item>
 </string-array>
 <string-array name="fingerprint_unlock_type_values">
 <item>0</item>
@@ -2000,14 +1797,6 @@
 <item>22</item>
 <item>27</item>
 </integer-array>
-<string-array name="font_size_title">
-<item>@string/layout_size_extral_small</item>
-<item>@string/layout_size_small</item>
-<item>@string/layout_size_normal</item>
-<item>@string/layout_size_large</item>
-<item>@string/layout_size_huge</item>
-<item>@string/layout_size_exhuge</item>
-</string-array>
 <string-array name="fps_list_entries">
 <item>120Hz</item>
 <item>60Hz</item>
@@ -2015,22 +1804,6 @@
 <string-array name="fps_list_values">
 <item>120</item>
 <item>60</item>
-</string-array>
-<string-array name="game_driver_all_apps_preference_values">
-<item>@string/game_driver_app_preference_default</item>
-<item>@string/game_driver_app_preference_game_driver</item>
-<item>@string/game_driver_app_preference_prerelease_driver</item>
-</string-array>
-<string-array name="game_driver_app_preference_values">
-<item>@string/game_driver_app_preference_default</item>
-<item>@string/game_driver_app_preference_game_driver</item>
-<item>@string/game_driver_app_preference_prerelease_driver</item>
-<item>@string/game_driver_app_preference_system</item>
-</string-array>
-<string-array name="gesture_prevent_ringing_entries">
-<item>@string/prevent_ringing_option_vibrate</item>
-<item>@string/prevent_ringing_option_mute</item>
-<item>@string/prevent_ringing_option_none</item>
 </string-array>
 <string-array name="gesture_prevent_ringing_values">
 <item>1</item>
@@ -2077,46 +1850,6 @@
 <string-array name="hide_account_list">
 <item>com.android.localphone</item>
 <item>com.android.sim</item>
-</string-array>
-<string-array name="input_method_function_des">
-<item>@string/input_method_function_voice_des</item>
-<item>@string/input_method_function_xiaoai_des</item>
-<item>@string/input_method_function_switch_des</item>
-<item>@string/input_method_function_clipboard_des</item>
-<item>@string/input_method_function_no_function_des</item>
-</string-array>
-<array name="input_method_function_icons">
-<item>@drawable/input_method_voice_function_selector</item>
-<item>@drawable/input_method_xiaoai_function_selector</item>
-<item>@drawable/input_method_switch_function_selector</item>
-<item>@drawable/input_method_clipboard_function_selector</item>
-<item>@drawable/input_method_no_function_selector</item>
-</array>
-<string-array name="input_method_function_title">
-<item>@string/input_method_function_voice</item>
-<item>@string/input_method_function_xiaoai</item>
-<item>@string/input_method_function_switch</item>
-<item>@string/input_method_function_clipboard</item>
-<item>@string/input_method_function_no_function</item>
-</string-array>
-<string-array name="input_method_selector_titles">
-<item>@string/input_method_selector_show_automatically_title</item>
-<item>@string/input_method_selector_always_show_title</item>
-<item>@string/input_method_selector_always_hide_title</item>
-</string-array>
-<string-array name="input_method_selector_values">
-<item>@string/input_method_selector_show_automatically_value</item>
-<item>@string/input_method_selector_always_show_value</item>
-<item>@string/input_method_selector_always_hide_value</item>
-</string-array>
-<string-array name="key_and_gesture_shortcut_action">
-<item>long_press_home_key</item>
-<item>long_press_menu_key</item>
-<item>long_press_back_key</item>
-<item>key_combination_power_home</item>
-<item>key_combination_power_menu</item>
-<item>key_combination_power_back</item>
-<item>key_none</item>
 </string-array>
 <string-array name="key_popup_voice_choice">
 <item>popup_muqin_up.ogg</item>
@@ -2230,43 +1963,6 @@
 <item>300000</item>
 <item>2147483647</item>
 </string-array>
-<array name="long_press">
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom02</item>
-<item>@drawable/clickbottom03</item>
-<item>@drawable/clickbottom04</item>
-<item>@drawable/clickbottom05</item>
-<item>@drawable/clickbottom06</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom07</item>
-<item>@drawable/clickbottom03</item>
-<item>@drawable/clickbottom02</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-<item>@drawable/clickbottom01</item>
-</array>
 <string-array name="long_press_timeout_selector_titles">
 <item>کوتاه</item>
 <item>متوسط</item>
@@ -2333,14 +2029,6 @@
 <item>\#FF5500FF</item>
 <item>magenta</item>
 </string-array>
-<string-array name="mi2_wifi_security">
-<item>@string/wifi_security_none</item>
-<item>@string/wifi_security_wep</item>
-<item>@string/wifi_security_psk_generic</item>
-<item>@string/wifi_security_eap</item>
-<item>WAPI PSK</item>
-<item>WAPI CERT</item>
-</string-array>
 <string-array name="miui_entries_font_size">
 <item>کوچک</item>
 <item>متوسط</item>
@@ -2363,12 +2051,6 @@
 <item>OSX</item>
 <item>لینوکس</item>
 </string-array>
-<string-array name="msd_pc_system_download_summary">
-<item>@string/msd_driver_download_xp</item>
-<item/>
-<item>@string/msd_driver_download_mac</item>
-<item/>
-</string-array>
 <string-array name="msd_pc_system_install_finish_summary">
 <item>@string/msd_pc_system_install_finish_summary_xp</item>
 <item>@string/msd_pc_system_install_finish_summary_vista</item>
@@ -2389,14 +2071,6 @@
 <item>دسترسی به دستگاه نصب شده: mtpfs /media/mtp از طریق مدیریت فایل؛ همانند پوشه محلی.</item>
 <item>"حذف دستگاه: usermount -u /media/mtp
 توجه: فقط برای Ubuntu 8.04!"</item>
-</string-array>
-<string-array name="msd_pc_system_retry_mac">
-<item>@string/msd_install_retry_reinstall_mac</item>
-<item>@string/msd_install_retry_connect</item>
-<item>@string/msd_install_retry_reinstall</item>
-</string-array>
-<string-array name="msd_pc_system_retry_vista">
-<item>@string/msd_install_retry_connect</item>
 </string-array>
 <string-array name="msd_pc_system_retry_xp">
 <item>@string/msd_install_retry_connect</item>
@@ -2424,10 +2098,6 @@
 <item>سرعت شبکه به علت سیگنال ضعیف، کند است</item>
 <item>در حال انتقال…</item>
 </string-array>
-<string-array name="new_dndm_vip_list_group_array">
-<item>@string/dndm_vip_list_contact</item>
-<item>@string/dndm_vip_list_starred_contact</item>
-</string-array>
 <string-array name="nfc_se_route_values">
 <item>1</item>
 <item>2</item>
@@ -2439,27 +2109,10 @@
 <item>درصد (در آیکون)</item>
 <item>درصد (کنار آیکون)</item>
 </string-array>
-<array name="notch_battery_indicator_style_icons">
-<item>@drawable/battery_indicator_graphic</item>
-<item>@drawable/battery_indicator_percent_in</item>
-<item>@drawable/battery_indicator_percent_out</item>
-</array>
 <string-array name="notch_battery_indicator_style_values">
 <item>0</item>
 <item>1</item>
 <item>3</item>
-</string-array>
-<string-array name="notifi_importance_entries">
-<item>@string/importance_high</item>
-<item>@string/importance_default</item>
-<item>@string/importance_low</item>
-<item>@string/importance_min</item>
-</string-array>
-<string-array name="notifi_importance_summaries">
-<item>@string/notifi_importance_high</item>
-<item>@string/notifi_importance_default</item>
-<item>@string/notifi_importance_low</item>
-<item>@string/notifi_importance_min</item>
 </string-array>
 <string-array name="notifi_importance_values">
 <item>4</item>
@@ -2801,97 +2454,6 @@
 <string-array name="poco_device_list">
 <item>beryllium</item>
 </string-array>
-<array name="power_click">
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick02</item>
-<item>@drawable/powerclick03</item>
-<item>@drawable/powerclick04</item>
-<item>@drawable/powerclick05</item>
-<item>@drawable/powerclick06</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-</array>
-<array name="power_double_click">
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick02</item>
-<item>@drawable/powerclick03</item>
-<item>@drawable/powerclick04</item>
-<item>@drawable/powerclick05</item>
-<item>@drawable/powerclick06</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick02</item>
-<item>@drawable/powerclick03</item>
-<item>@drawable/powerclick04</item>
-<item>@drawable/powerclick05</item>
-<item>@drawable/powerclick06</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-</array>
-<array name="power_long_press">
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick02</item>
-<item>@drawable/powerclick03</item>
-<item>@drawable/powerclick04</item>
-<item>@drawable/powerclick05</item>
-<item>@drawable/powerclick06</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick07</item>
-<item>@drawable/powerclick03</item>
-<item>@drawable/powerclick02</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-<item>@drawable/powerclick01</item>
-</array>
 <string-array name="power_mode_entries">
 <item>عملکرد</item>
 <item>متعادل</item>
@@ -3081,11 +2643,6 @@
 <item>1080</item>
 <item>720</item>
 </integer-array>
-<string-array name="screen_resolution_format">
-<item>@string/screen_resolution_ultrahigh_format</item>
-<item>@string/screen_resolution_high_format</item>
-<item>@string/screen_resolution_normal_format</item>
-</string-array>
 <string-array name="screen_resolution_text">
 <item>2K</item>
 <item>1080p</item>
@@ -3238,10 +2795,6 @@
 <item>tulip</item>
 <item>equuleus</item>
 </string-array>
-<string-array name="silent_entries">
-<item>@string/standard</item>
-<item>@string/total</item>
-</string-array>
 <string-array name="silent_mode_duration_text">
 <item>همیشه</item>
 <item>۳۰ دقیقه</item>
@@ -3259,13 +2812,6 @@
 <string-array name="silent_values">
 <item>4</item>
 <item>1</item>
-</string-array>
-<string-array name="simulate_color_space_entries">
-<item>@string/daltonizer_mode_disabled</item>
-<item>@string/daltonizer_mode_monochromacy</item>
-<item>@string/daltonizer_mode_deuteranomaly</item>
-<item>@string/daltonizer_mode_protanomaly</item>
-<item>@string/daltonizer_mode_tritanomaly</item>
 </string-array>
 <string-array name="simulate_color_space_values">
 <item>-1</item>
@@ -3311,65 +2857,10 @@
 <item>joyeuse</item>
 <item>lancelot</item>
 </string-array>
-<string-array name="swipe_direction_titles">
-<item>@string/swipe_direction_rtl</item>
-<item>@string/swipe_direction_ltr</item>
-</string-array>
 <string-array name="swipe_direction_values">
 <item>۱</item>
 <item>۰</item>
 </string-array>
-<array name="three_drop">
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop01</item>
-<item>@drawable/threedrop02</item>
-<item>@drawable/threedrop03</item>
-<item>@drawable/threedrop04</item>
-<item>@drawable/threedrop05</item>
-<item>@drawable/threedrop06</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-</array>
-<array name="three_long_press">
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/three_fingers_long_press</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-<item>@drawable/threedrop07</item>
-</array>
 <string-array name="time_format_entries">
 <item>۱۲ ساعته ۱:۰۰ ب.ظ</item>
 <item>۲۴ ساعته ۱۳:۰۰</item>
@@ -3582,10 +3073,6 @@
 <item>‏IPSec VPN با گواهی و احراز هویت Xauth</item>
 <item>‏IPSec VPN دارای گواهی و احراز هویت دوگانه</item>
 </string-array>
-<string-array name="wapi_psk_type">
-<item>@string/wapi_psk_type_ascii</item>
-<item>@string/wapi_psk_type_hex</item>
-</string-array>
 <string-array name="wfd_status">
 <item>درحال آغاز نشست…</item>
 <item>نشست آغاز شد</item>
@@ -3593,12 +3080,6 @@
 <item>نمی‌توان نشست را آغاز کرد</item>
 <item>ملهت تمام شد. درحال تلاش دوباره…</item>
 <item>دستگاه متصل شد</item>
-</string-array>
-<string-array name="when_to_start_screensaver_entries">
-<item>@string/screensaver_settings_summary_sleep</item>
-<item>@string/screensaver_settings_summary_dock</item>
-<item>@string/screensaver_settings_summary_either_long</item>
-<item>@string/screensaver_settings_summary_never</item>
 </string-array>
 <string-array name="when_to_start_screensaver_values">
 <item>while_charging_only</item>
@@ -3623,53 +3104,19 @@
 <item>درصد (در آیکون)</item>
 <item>درصد (کنار آیکون در کرکره اعلان)</item>
 </string-array>
-<string-array name="wifi_ap_band_config_2G_5G">
-<item>@string/wifi_ap_choose_2G</item>
-<item>@string/wifi_ap_choose_5G</item>
-</string-array>
-<string-array name="wifi_ap_band_config_2G_only">
-<item>@string/wifi_ap_choose_2G</item>
-</string-array>
-<string-array name="wifi_ap_band_config_full">
-<item>@string/wifi_ap_choose_2G</item>
-<item>@string/wifi_ap_choose_5G</item>
-</string-array>
 <string-array name="wifi_ap_band_dual_mode">
 <item>0</item>
 <item>-1</item>
-</string-array>
-<string-array name="wifi_ap_band_dual_mode_summary">
-<item>@string/wifi_ap_choose_2G</item>
-<item>@string/wifi_ap_prefer_5G</item>
-</string-array>
-<string-array name="wifi_ap_band_summary_full">
-<item>@string/wifi_ap_choose_2G</item>
-<item>@string/wifi_ap_choose_5G</item>
 </string-array>
 <string-array name="wifi_ap_band_vendor_config_full">
 <item>0</item>
 <item>1</item>
 <item>2</item>
 </string-array>
-<string-array name="wifi_ap_band_vendor_summary_full">
-<item>@string/wifi_ap_choose_2G</item>
-<item>@string/wifi_ap_choose_5G</item>
-<item>@string/wifi_ap_choose_vendor_both</item>
-</string-array>
 <string-array name="wifi_ap_security">
 <item>@string/wifi_security_none</item>
 <item>@string/wifi_security_wpa2</item>
 </string-array>
-<string-array name="wifi_ap_security_with_sae">
-<item>@string/wifi_security_none</item>
-<item>@string/wifi_security_wpa2</item>
-<item>@string/wifi_security_sae</item>
-</string-array>
-<array name="wifi_calling_mode_choices">
-<item>@android:string/wfc_mode_wifi_preferred_summary</item>
-<item>@android:string/wfc_mode_cellular_preferred_summary</item>
-<item>@android:string/wfc_mode_wifi_only_summary</item>
-</array>
 <string-array name="wifi_calling_mode_choices_v2">
 <item>Wi-Fi</item>
 <item>داده شبکه تلفن همراه</item>
@@ -3678,19 +3125,6 @@
 <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
 <item>Wi-Fi</item>
 <item>داده شبکه تلفن همراه</item>
-</string-array>
-<array name="wifi_calling_mode_choices_without_wifi_only">
-<item>@android:string/wfc_mode_wifi_preferred_summary</item>
-<item>@android:string/wfc_mode_cellular_preferred_summary</item>
-</array>
-<string-array name="wifi_calling_mode_summaries">
-<item>@string/wifi_calling_mode_wifi_preferred_summary</item>
-<item>@string/wifi_calling_mode_cellular_preferred_summary</item>
-<item>@string/wifi_calling_mode_wifi_only_summary</item>
-</string-array>
-<string-array name="wifi_calling_mode_summaries_without_wifi_only">
-<item>@string/wifi_calling_mode_wifi_preferred_summary</item>
-<item>@string/wifi_calling_mode_cellular_preferred_summary</item>
 </string-array>
 <string-array name="wifi_calling_mode_values">
 <item>2</item>
@@ -3811,21 +3245,6 @@
 <item>دستی</item>
 <item>پیکربندی خودکار پروکسی</item>
 </string-array>
-<string-array name="wifi_security">
-<item>@string/wifi_security_none</item>
-<item>@string/wifi_security_wep</item>
-<item>@string/wifi_security_psk_generic</item>
-<item>@string/wifi_security_eap</item>
-<item>@string/wifi_security_wapi_psk</item>
-<item>@string/wifi_security_wapi_cert</item>
-</string-array>
-<string-array name="wifi_security_no_eap">
-<item>@string/wifi_security_none</item>
-<item>@string/wifi_security_wep</item>
-<item>@string/wifi_security_psk_generic</item>
-<item>WAPI PSK</item>
-<item>WAPI CERT</item>
-</string-array>
 <string-array name="wifi_security_only_wapi_cert_entries">
 <item>WAPI CERT</item>
 </string-array>
@@ -3872,10 +3291,6 @@
 <item>مسدود</item>
 <item>به طور موقت از اتصال ضعیف پرهیز می‌شود</item>
 </string-array>
-<string-array name="wifi_tether_security">
-<item>@string/wifi_security_wpa2</item>
-<item>@string/wifi_security_none</item>
-</string-array>
 <string-array name="wifi_tether_security_values">
 <item>4</item>
 <item>0</item>
@@ -3901,18 +3316,6 @@
 <item>2</item>
 <item>5</item>
 <item>10</item>
-</string-array>
-<string-array name="zen_mode_contacts_calls_entries">
-<item>@string/zen_mode_from_anyone</item>
-<item>@string/zen_mode_from_contacts</item>
-<item>@string/zen_mode_from_starred</item>
-<item>@string/zen_mode_from_none_calls</item>
-</string-array>
-<string-array name="zen_mode_contacts_messages_entries">
-<item>@string/zen_mode_from_anyone</item>
-<item>@string/zen_mode_from_contacts</item>
-<item>@string/zen_mode_from_starred</item>
-<item>@string/zen_mode_from_none_messages</item>
 </string-array>
 <string-array name="zen_mode_contacts_values">
 <item>zen_mode_from_anyone</item>

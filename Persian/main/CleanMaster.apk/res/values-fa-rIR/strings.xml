@@ -110,10 +110,6 @@
   <string name="appcleaner_wechat_notification_garbage_cleanup_summary">Clear %s of WeChat cache to free up storage space</string>
   <string name="appcleaner_wechat_notification_garbage_cleanup_title">"Don't forget to clear cache"</string>
   <string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Remind to clear WeChat cache</string>
-  <string name="appcleaner_wechat_pref_size_100_MB">100MB</string>
-  <string name="appcleaner_wechat_pref_size_1_GB">1GB</string>
-  <string name="appcleaner_wechat_pref_size_300_MB">300MB</string>
-  <string name="appcleaner_wechat_pref_size_500_MB">500MB</string>
   <string name="appcleaner_wechat_pref_time_every_day">Every day</string>
   <string name="appcleaner_wechat_pref_time_fifteen_day">Every 15 days</string>
   <string name="appcleaner_wechat_pref_time_seven_day">Every 7 days</string>
@@ -287,7 +283,6 @@
   <string name="dialog_title_uninstall_apps">Uninstall</string>
   <string name="download">Download</string>
   <string name="downloading">Downloading</string>
-  <string name="empty">" "</string>
   <string name="empty_content_no_ignore_image">Empty</string>
   <string name="empty_content_no_privacy">Empty</string>
   <string name="empty_content_no_similar_image">No photos</string>
@@ -415,7 +410,6 @@
   <string name="hints_garbage_cleanup_result_safe">Everything looks good</string>
   <string name="hints_garbage_handle_item_content">%1$d items, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Empty</string>
-  <string name="hints_header_left">%d</string>
   <string name="hints_installed_app_fewer">Rarely used</string>
   <string name="hints_installed_app_near">Used recently</string>
   <string name="hints_installed_app_never">Never used</string>
@@ -639,8 +633,6 @@
   <string name="pref_title_manual_check_cleanup_db_update">Check for updates</string>
   <string name="pref_title_open_optimizer_cloud_scan">Upload file names</string>
   <string name="pref_title_open_optimizer_memory_scan">Scan app memory</string>
-  <string name="preference_category_information_setting">category_information_setting</string>
-  <string name="preference_category_key_auto_update_cleanup_db">key_category_auto_update_cleanup_db</string>
   <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
   <string name="preference_key_about_privacy">key_about_privacy</string>
   <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
@@ -650,17 +642,12 @@
   <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
   <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
   <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
-  <string name="preference_key_information_setting_close">key_information_setting_close</string>
-  <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
   <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
   <string name="preference_key_open_optimizer_cloud_scan">key_open_optimizer_cloud_scan</string>
   <string name="preference_key_open_optimizer_memory_scan">key_open_memory_scan</string>
   <string name="preference_key_scan_engine">key_scan_engine</string>
-  <string name="preference_key_wechat_garbage_clean_alert">key_wechat_clean_switch_state</string>
   <string name="preference_key_wechat_garbage_clean_alert12">key_wechat_clean_switch_state_drop</string>
-  <string name="preference_key_wechat_garbage_cleanup_auto_check_size">key_wechat_timed_auto_scan_notify_size</string>
   <string name="preference_key_wechat_garbage_cleanup_auto_check_size12">key_wechat_timed_auto_scan_notify_size_drop</string>
-  <string name="preference_key_wechat_garbage_cleanup_auto_check_time">key_wechat_timed_auto_scan_interval</string>
   <string name="preference_key_wechat_garbage_cleanup_auto_check_time12">key_wechat_timed_auto_scan_interval_drop</string>
   <string name="preference_key_whatsapp_setting_alert_size">key_whatsapp_setting_alert_size</string>
   <string name="preference_key_whatsapp_setting_alert_size12">key_whatsapp_setting_alert_size_drop</string>

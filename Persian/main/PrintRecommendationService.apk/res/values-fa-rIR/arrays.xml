@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <array name="known_print_plugin_vendors">
-        <item>@array/known_print_vendor_info_for_mopria</item>
         <item>@array/known_print_vendor_info_for_hp</item>
     </array>
     <string-array name="known_print_vendor_info_for_hp">

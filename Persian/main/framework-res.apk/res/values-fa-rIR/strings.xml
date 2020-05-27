@@ -285,14 +285,11 @@
     <string name="common_name_suffixes"></string>
     <string name="condition_provider_service_binding_label">ارائه‌دهنده وضعیت</string>
     <string name="conference_call">تماس کنفرانسی</string>
-    <string name="config_UsbDeviceConnectionHandling_component">@null</string>
-    <string name="config_activityRecognitionHardwarePackageName">@null</string>
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
     <string name="config_appsNotReportingCrashes"></string>
     <string name="config_batterySaverDeviceSpecificConfig"></string>
     <string name="config_batterySaverScheduleProvider"></string>
     <string name="config_batterymeterBoltPath">M5,17.5 V12 H3 L7,4.5 V10 h2 L5,17.5 z</string>
-    <string name="config_batterymeterErrorPerimeterPath">@string/config_batterymeterPerimeterPath</string>
     <string name="config_batterymeterFillMask">M2,18 v-14 h8 v14 z</string>
     <string name="config_batterymeterPerimeterPath">M3.5,2 v0 H1.33 C0.6,2 0,2.6 0,3.33 V13v5.67 C0,19.4 0.6,20 1.33,20 h9.33 C11.4,20 12,19.4 12,18.67 V13V3.33 C12,2.6 11.4,2 10.67,2 H8.5 V0 H3.5 z M2,18v-7V4h8v9v5H2L2,18z</string>
     <string name="config_batterymeterPowersavePath">M9,10l-2,0l0,-2l-2,0l0,2l-2,0l0,2l2,0l0,2l2,0l0,-2l2,0z</string>
@@ -319,7 +316,6 @@
     <string name="config_defaultAttentionService"></string>
     <string name="config_defaultAugmentedAutofillService"></string>
     <string name="config_defaultAutofillService">com.miui.contentcatcher/.autofill.services.MiuiAutofillService</string>
-    <string name="config_defaultBrowser">@string/default_browser</string>
     <string name="config_defaultContentCaptureService"></string>
     <string name="config_defaultContentSuggestionsService"></string>
     <string name="config_defaultDialer">com.android.contacts</string>
@@ -329,7 +325,6 @@
     <string name="config_defaultNetworkRecommendationProviderPackage"></string>
     <string name="config_defaultNetworkScorerPackageName"></string>
     <string name="config_defaultPictureInPictureScreenEdgeInsets">16x16</string>
-    <string name="config_defaultSms">@string/default_sms_application</string>
     <string name="config_defaultSupervisionProfileOwnerComponent">com.google.android.gms/.kids.account.receiver.ProfileOwnerReceiver</string>
     <string name="config_defaultSystemCaptionsManagerService"></string>
     <string name="config_defaultSystemCaptionsService"></string>
@@ -357,17 +352,13 @@
     <string name="config_foldedArea"></string>
     <string name="config_forceVoiceInteractionServicePackage"></string>
     <string name="config_fusedLocationProviderPackageName">com.xiaomi.location.fused</string>
-    <string name="config_geocoderProviderPackageName">com.xiaomi.metoknlp</string>
-    <string name="config_geofenceProviderPackageName">@null</string>
     <string name="config_hardwareFlpPackageName">com.android.location.fused</string>
     <string name="config_headlineFontFamily"></string>
-    <string name="config_headlineFontFamilyMedium">@string/font_family_button_material</string>
     <string name="config_headlineFontFeatureSettings"></string>
     <string name="config_helpIntentExtraKey"></string>
     <string name="config_helpIntentNameKey"></string>
     <string name="config_helpPackageNameKey"></string>
     <string name="config_helpPackageNameValue"></string>
-    <string name="config_iccHotswapPromptForRestartDialogComponent">@null</string>
     <string name="config_icon_mask">M96.4286 62.2772C96.4286 72.1118 96.4286 77.029 94.7547 82.3225C92.6512 88.1016 88.0988 92.654 82.3196 94.7576C77.6553 96.2326 73.278 96.4076 65.575 96.4284H50H34.425C26.722 96.4076 22.3446 96.2326 17.6803 94.7576C11.9012 92.654 7.34879 88.1016 5.24522 82.3225C3.57141 77.029 3.57141 72.1118 3.57141 62.2772V49.9999V37.7225C3.57141 27.888 3.57141 22.9707 5.24522 17.6772C7.34879 11.8981 11.9012 7.34569 17.6803 5.24212C22.3446 3.76712 26.722 3.59212 34.425 3.57129H50H65.575C73.278 3.59212 77.6553 3.76712 82.3196 5.24212C88.0988 7.34569 92.6512 11.8981 94.7547 17.6772C96.4286 22.9707 96.4286 27.888 96.4286 37.7225V49.9999V62.2772Z</string>
     <string name="config_ims_package">org.codeaurora.ims</string>
     <string name="config_inCallNotificationSound">/product/media/audio/ui/InCallNotification.ogg</string>
@@ -376,7 +367,6 @@
     <string name="config_isoImagePath"></string>
     <string name="config_keyguardComponent">com.android.systemui/com.android.systemui.keyguard.KeyguardService</string>
     <string name="config_mainBuiltInDisplayCutout"></string>
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation">@string/config_mainBuiltInDisplayCutout</string>
     <string name="config_managed_provisioning_package">com.android.managedprovisioning</string>
     <string name="config_mediaProjectionPermissionDialogComponent">com.android.systemui/com.android.systemui.media.MediaProjectionPermissionActivity</string>
     <string name="config_misprovisionedBrandValue"></string>
@@ -386,7 +376,6 @@
     <string name="config_mobile_hotspot_provision_app_no_ui"></string>
     <string name="config_mobile_hotspot_provision_response"></string>
     <string name="config_networkCaptivePortalServerUrl"></string>
-    <string name="config_networkLocationProviderPackageName">com.xiaomi.metoknlp</string>
     <string name="config_networkLocationProviderPackageNameGms">com.google.android.gms</string>
     <string name="config_networkOverLimitComponent">com.android.systemui/com.android.systemui.net.NetworkOverLimitActivity</string>
     <string name="config_networkPolicyNotificationComponent"></string>
@@ -468,9 +457,6 @@
     <string name="date_time_set">تنظیم</string>
     <string name="day">روز</string>
     <string name="days">روز</string>
-    <string name="db_default_journal_mode">TRUNCATE</string>
-    <string name="db_default_sync_mode">FULL</string>
-    <string name="db_wal_sync_mode">NORMAL</string>
     <string name="decline">نپذیرفتن</string>
     <string name="decline_remote_bugreport_action">نپذیرفتن</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -484,7 +470,6 @@
     <string name="default_browser"></string>
     <string name="default_notification_channel_label">دسته‌بندی‌نشده</string>
     <string name="default_sms_application">com.android.mms</string>
-    <string name="default_wallpaper_component">@null</string>
     <string name="define">تعریف کردن</string>
     <string name="define_desc">تعریف نوشتار انتخابی</string>
     <string name="delete">حذف</string>
@@ -645,7 +630,6 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">کد ویژگی کامل شد.</string>
     <string name="fcError">مشکل در اتصال یا کد ویژگی نامعتبر.</string>
-    <string name="fileSizeSuffix">%1$s ‏%2$s</string>
     <string name="find">یافتن</string>
     <string name="find_next">یافتن بعدی</string>
     <string name="find_on_page">یافتن در صفحه</string>
@@ -699,7 +683,6 @@
     <string name="global_action_lockdown">قفل همه</string>
     <string name="global_action_logout">پایان جلسه</string>
     <string name="global_action_power_off">خاموش کردن</string>
-    <string name="global_action_restart">@string/sim_restart_button</string>
     <string name="global_action_screenshot">عکس صفحه‌نمایش</string>
     <string name="global_action_settings">تنظیمات</string>
     <string name="global_action_silent_mode_off_status">صدا روشن است</string>
@@ -866,7 +849,6 @@
     <string name="kg_reordering_delete_drop_target_text">حذف</string>
     <string name="kg_sim_pin_instructions">پین سیم کارت را وارد کنید</string>
     <string name="kg_sim_unlock_progress_dialog_message">بازگشایی قفل سیم کارت...</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"گذرواژه خود را %1$d بار اشتباه تایپ کردید. 
 
 پس از %2$d ثانیه دوباره امتحان کنید."</string>
@@ -1132,7 +1114,6 @@
     <string name="needPuk2">‏PUK2 را برای بازگشایی قفل سیم کارت بنویسید.</string>
     <string name="negative_duration">−%1$s</string>
     <string name="network_available_sign_in">ورود به سیستم شبکه</string>
-    <string name="network_available_sign_in_detailed">%1$s</string>
     <string name="network_logging_notification_text">سازمانتان این دستگاه را مدیریت می‌کند و ممکن است ترافیک شبکه را پایش کند. برای اطلاع از جزئیات، ضربه بزنید.</string>
     <string name="network_logging_notification_title">دستگاه مدیریت می‌شود</string>
     <string name="network_partial_connectivity">%1$s اتصال محدودی دارد</string>
@@ -1192,7 +1173,6 @@
     <string name="notification_hidden_text">اعلان جدید</string>
     <string name="notification_inbox_ellipsis">…</string>
     <string name="notification_listener_binding_label">شنونده اعلان</string>
-    <string name="notification_messaging_title_template">%1$s:‏ %2$s</string>
     <string name="notification_ranker_binding_label">سرویس رتبه‌بندی اعلان</string>
     <string name="notification_reply_button_accessibility">پاسخ</string>
     <string name="notification_title">خطای ورود به سیستم برای %1$s</string>
@@ -1753,39 +1733,12 @@
     <string name="ssl_certificate">گواهی امنیتی</string>
     <string name="ssl_certificate_is_valid">این گواهی معتبر است.</string>
     <string name="status_bar_airplane">airplane</string>
-    <string name="status_bar_alarm_clock">alarm_clock</string>
-    <string name="status_bar_battery">battery</string>
-    <string name="status_bar_bluetooth">bluetooth</string>
     <string name="status_bar_camera">camera</string>
-    <string name="status_bar_cast">cast</string>
-    <string name="status_bar_cdma_eri">cdma_eri</string>
-    <string name="status_bar_clock">clock</string>
-    <string name="status_bar_data_connection">data_connection</string>
-    <string name="status_bar_data_saver">data_saver</string>
     <string name="status_bar_ethernet">ethernet</string>
-    <string name="status_bar_headset">headset</string>
-    <string name="status_bar_hotspot">hotspot</string>
-    <string name="status_bar_ime">ime</string>
-    <string name="status_bar_location">location</string>
-    <string name="status_bar_managed_profile">managed_profile</string>
     <string name="status_bar_microphone">microphone</string>
     <string name="status_bar_mobile">mobile</string>
-    <string name="status_bar_mute">mute</string>
-    <string name="status_bar_nfc">nfc</string>
-    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
-    <string name="status_bar_phone_evdo_signal">phone_evdo_signal</string>
-    <string name="status_bar_phone_signal">phone_signal</string>
-    <string name="status_bar_rotate">rotate</string>
-    <string name="status_bar_secure">secure</string>
     <string name="status_bar_sensors_off">sensors_off</string>
-    <string name="status_bar_speakerphone">speakerphone</string>
-    <string name="status_bar_sync_active">sync_active</string>
-    <string name="status_bar_sync_failing">sync_failing</string>
-    <string name="status_bar_tty">tty</string>
-    <string name="status_bar_volume">volume</string>
     <string name="status_bar_vpn">vpn</string>
-    <string name="status_bar_wifi">wifi</string>
-    <string name="status_bar_zen">zen</string>
     <string name="status_communication_speaker_summary">A hands-free call is in progress. Audio will still be played through the speaker when headphones are connected.</string>
     <string name="status_communication_summary">A call is in progress. You can only adjust call volume now.</string>
     <string name="stk_cc_ss_to_dial">‏درخواست SS به تماس معمولی تغییر کرد</string>
@@ -1812,7 +1765,6 @@
     <string name="sync_undo_deletes">واگرد موارد حذف شده</string>
     <string name="system_error_manufacturer">دستگاهتان یک مشکل داخلی دارد. برای جزئیات آن با سازنده‌تان تماس بگیرید.</string>
     <string name="system_error_wipe_data">دستگاهتان یک مشکل داخلی دارد، و ممکن است تا زمانی که بازنشانی داده‌های کارخانه انجام نگیرد، بی‌ثبات بماند.</string>
-    <string name="system_ui_date_pattern">@string/icu_abbrev_wday_month_day_no_year</string>
     <string name="taking_remote_bugreport_notification_title">درحال گرفتن گزارش اشکال…</string>
     <string name="terabyteShort">ترابایت</string>
     <string name="test_harness_mode_notification_message">برای غیرفعال کردن «حالت مجموعه داده‌های تست»، بازنشانی کارخانه‌ای کنید.</string>
@@ -2047,7 +1999,6 @@
     <string name="zen_mode_feature_name">مزاحم نشوید</string>
     <string name="zen_mode_forever">تا زمانی‌که آن را خاموش کنید</string>
     <string name="zen_mode_forever_dnd">تا زمانی که «مزاحم نشوید» را خاموش کنید</string>
-    <string name="zen_mode_rule_name_combination">%1$s /‏ %2$s</string>
     <string name="zen_mode_until">تا %1$s</string>
     <string name="zen_upgrade_notification_content">برای بررسی موارد مسدودشده ضربه بزنید.</string>
     <string name="zen_upgrade_notification_title">«مزاحم نشوید» تغییر کرده است</string>

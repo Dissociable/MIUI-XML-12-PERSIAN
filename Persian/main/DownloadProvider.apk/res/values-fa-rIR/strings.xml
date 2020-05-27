@@ -18,9 +18,7 @@
     <string name="dialog_data_limit_button1">Wait for WLAN</string>
     <string name="dialog_data_limit_button2">Download</string>
     <string name="dialog_data_limit_msg1">%s of mobile data will be used to download this file. Download now?</string>
-    <string name="dialog_data_limit_msg2">@string/dialog_tip_limit</string>
     <string name="dialog_data_limit_msg3">Change limit</string>
-    <string name="dialog_data_limit_sel_title">@string/dialog_tip_limit</string>
     <string name="dialog_data_limit_title">Data usage warning</string>
     <string name="dialog_insufficient_space_on_cache">Not enough space on internal download storage</string>
     <string name="dialog_insufficient_space_on_external">Not enough space on external storage</string>
@@ -38,7 +36,6 @@
     <string name="download_queued">به صف افزوده شد</string>
     <string name="download_remaining">%s مورد مانده</string>
     <string name="download_running">در حال دانلود</string>
-    <string name="download_running_percent">درحال دانلود %s</string>
     <string name="download_unknown_title">&lt;بدون نام&gt;</string>
     <string name="enter_garbage_clean">Clean up internal storage.</string>
     <string name="insufficient_space">"Not enough space on your device's internal storage"</string>

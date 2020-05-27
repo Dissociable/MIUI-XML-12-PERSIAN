@@ -199,8 +199,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">کلید وضیعت پشتیبان‌گیری را تغییر دهید</string>
     <string name="other_device_main_space">فضای نخست</string>
     <string name="other_device_second_space">فضای دوم</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="preference_copied">«%1$s» در بریده‌دان کپی شد.</string>
     <string name="process_whole_recovery">در حال بازیابی «%s»</string>
     <string name="provision_background_restore_more_data">بازیابی موارد بیشتر در پس‌زمینه</string>
@@ -280,5 +278,4 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>
     <string name="wait_icon_download">درحال دانلود آیکون‌های برنامه‌ها</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

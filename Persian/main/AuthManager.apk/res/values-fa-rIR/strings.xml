@@ -155,7 +155,6 @@
     <string name="screen_overlay_button">باز کردن تنظیمات</string>
     <string name="screen_overlay_message">برای تغییر این مجوز، شما باید همپوشانی نمایشگر را در تنظیمات > برنامه‌ها خاموش کنید.</string>
     <string name="screen_overlay_title">همپوشانی صفحه شناسایی شد</string>
-    <string name="static_cache_db_md5">ca8b2bf664b02208f1bbe2344e93a705</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="virtual_reject_notice_content">یک پاسخ خالی به برنامه ارسال شد تا از اطلاعات شخصی شما محافظت شود</string>
     <string name="virtual_reject_notice_title_calendar">دسترسی به سالنامه توسط %1$s</string>

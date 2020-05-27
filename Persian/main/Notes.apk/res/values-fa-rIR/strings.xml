@@ -335,7 +335,6 @@
     <string name="menu_unhide">آشکار کردن</string>
     <string name="menu_unstick">کندن</string>
     <string name="merge_to_folder">ایجاد پوشه</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="midnight">شب</string>
     <string name="miuix_appcompat_cloud_state_disabled">همگام‌سازی با فضای ابری خاموش است</string>
     <string name="miuix_appcompat_cloud_state_finished">با موفقیت با فضای ابری همگام‌سازی شد</string>
@@ -410,7 +409,6 @@
     <string name="note_sort_way">انتخاب کنید چگونه می‌خواهید یادداشت‌های خود را مرتب کنید</string>
     <string name="notealert_enter">بازکردن یادداشت</string>
     <string name="notealert_ok">نادیده گرفتن</string>
-    <string name="notelist_string_info">…</string>
     <string name="notification_content_add_todo_from_other_app">یک کار جدید افزودید. برای نمایش ضربه بزنید.</string>
     <string name="notify_alarm_title">یادآوری یادداشت</string>
     <string name="permdesc_accessNote">برنامه‌های مخرب ممکن است با استفاده از این به اطلاعات شخصی شما دسترسی پیدا کنند.</string>
@@ -492,7 +490,6 @@
     <string name="search_menu_title">جستجو</string>
     <string name="search_path_notes">برنامه‌های سیستمی/یادداشت‌ها</string>
     <string name="search_setting_description">در یادداشت خود، متن را جستجو کنید</string>
-    <string name="search_title_notes">@string/app_name</string>
     <string name="select_account_prompt">همگام‌سازی یادداشت‌ها</string>
     <string name="set_alarm_description">تنظیم هشدار</string>
     <string name="setting_other">سایر</string>
@@ -715,6 +712,5 @@
     <string name="wednesday_shortest">چهارشنبه</string>
     <string name="widget_content_loading">چند لحظه صبر کنید…</string>
     <string name="widget_havenot_content">برای ایجاد یک یادداشت ضربه بزنید. ابزارک را نگهداشته تا اندازه را تغییر دهید.</string>
-    <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">دیروز</string>
 </resources>

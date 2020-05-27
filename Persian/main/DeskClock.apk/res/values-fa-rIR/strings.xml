@@ -321,14 +321,10 @@
     <string name="ringtone_other">صداهای بیشتر</string>
     <string name="ringtone_weather">هشدار آب و هوا</string>
     <string name="ringtone_week">هشدار طبیعت</string>
-    <string name="search_alarm_clock">@string/alarm_list_title</string>
     <string name="search_alarm_clock_keywords">هشدار;ساعت هشدار;</string>
     <string name="search_menu_title">جستجو</string>
-    <string name="search_stopwatch">@string/stopwatch_title</string>
     <string name="search_stopwatch_keywords">کرونومتر</string>
-    <string name="search_timer">@string/timer_title</string>
     <string name="search_timer_keywords">زمان‌بندی</string>
-    <string name="search_worldclock">@string/worldclock_title</string>
     <string name="search_worldclock_keywords">زمان;ساعت جهانی;ساعت</string>
     <string name="set_alarm">انتخاب زمان</string>
     <string name="set_alarm_choose_ringtone">انتخاب صدای زنگ</string>
@@ -350,7 +346,6 @@
     <string name="shutdown_alarm_enable_summary">در صورتی که تا رسیدن زمان هشدار بیش از ۱۰ دقیقه باشد پس از خاموش کردن دستگاه هشدار به صدا در خواهد آمد</string>
     <string name="shutdown_alarm_title">خاموش کردن هشدار</string>
     <string name="silent_alarm_summary">بی‌صدا</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">خاموش کردن تنها در %s</string>
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -400,13 +395,11 @@
     <string name="status_bar_clock_date_time_format">H:mm:ss</string>
     <string name="status_bar_clock_date_time_format_12">h:mm:ss aa</string>
     <string name="status_bar_clock_date_time_format_seconds_12">h:mm:ss</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stopwatch_lap_empty_text">بدون دوره</string>
     <string name="stopwatch_reset_notification">کرونومتر بازنشانی شده بود</string>
     <string name="stopwatch_running_notification">کرونومتر</string>
     <string name="stopwatch_title">کرونومتر</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">برای دسترسی به همه ویژگی‌های این برنامه به آن اجازه اتصال به اینترنت را بدهید.</string>
     <string name="system_permission_main_purpose">نمایش زمان، تنظیم هشدارها و زمان‌سنج‌ها، استفاده از کرنومتر</string>
     <string name="system_permission_purpose">ایجاد هشدارهای هفتگی و تنظیم صداهای زنگ سفارشی</string>

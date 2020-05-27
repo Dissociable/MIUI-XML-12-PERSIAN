@@ -282,7 +282,6 @@
   <string name="by_sms">SMS</string>
   <string name="byteShort">B</string>
   <string name="camera_needs_auto_backup_tip">Camera album must be synced</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="can_authorize_owner_albums_share_to_tv">Authorize viewing albums on your TV</string>
   <string name="can_not_transfer_when_screening">"Can't cast during transfers"</string>
   <string name="cancel">Cancel</string>
@@ -304,7 +303,6 @@
   <string name="card_description_annual_peoples">Faces, stories, places</string>
   <string name="card_description_annual_pets">Tails, paws, and whiskers</string>
   <string name="card_description_annual_travel">Things you saw while on the road</string>
-  <string name="card_description_from_to">%1$s - %2$s</string>
   <string name="card_title_activities">Events</string>
   <string name="card_title_annual_babys">The cutie in %1$s</string>
   <string name="card_title_annual_events">My parties in %1$s</string>
@@ -319,7 +317,6 @@
   <string name="card_title_pastyear_party">Last-year parties</string>
   <string name="card_title_pastyear_sports">Last-year workouts</string>
   <string name="card_title_recent_memory">Recent memories</string>
-  <string name="card_title_somewhere">%1$s</string>
   <string name="card_title_sports">Workouts</string>
   <string name="card_title_three_month_baby">Time flies</string>
   <string name="cast_devices_unavailable_desc">Make sure both this device and the projector are connected to the same Wi-Fi network</string>
@@ -1152,7 +1149,6 @@ Take more photos of your friends!"</string>
   <string name="face_name_edit">Edit</string>
   <string name="face_name_input">Enter name</string>
   <string name="face_recommend">Recommendations</string>
-  <string name="face_recommend_group_number">%1$d/%2$d</string>
   <string name="fail_hint">"Couldn't complete operation"</string>
   <string name="fail_to_pick_email">Invalid email address</string>
   <string name="fail_to_sync_album">"Couldn't sync album. Check your data connection and try again."</string>
@@ -1163,11 +1159,9 @@ Take more photos of your friends!"</string>
   <string name="feature_guidance_photo_effects">"New photo effects
 are available"</string>
   <string name="feature_guidance_video_editor_smart_effects">New effects are available</string>
-  <string name="fileSizeSuffix">%1$s%2$s</string>
   <string name="file_cannot_print">"Can't print this item."</string>
   <string name="file_cannot_screen_throw">"Can't cast this item."</string>
   <string name="file_sending">Transferring files…</string>
-  <string name="filter_bg_color_component">0.968</string>
   <string name="filter_category_general">General</string>
   <string name="filter_category_master">Master</string>
   <string name="filter_category_movie">Movie</string>
@@ -1317,7 +1311,6 @@ are available"</string>
   <string name="gif_tip">GIF</string>
   <string name="gigabyteShort">GB</string>
   <string name="grant_permission_go_and_set">Set</string>
-  <string name="grant_permission_item">\"%s\"</string>
   <string name="grant_permission_text">"Gallery needs access to 
 %s
  to work normally, tap \"Set\" to go to Permissions."</string>
@@ -1702,7 +1695,6 @@ to personalize Gallery"</string>
   <string name="people_mark_mode_title_no_mark_name">Select a person</string>
   <string name="people_page_label">People</string>
   <string name="people_page_unname">Unnamed</string>
-  <string name="percent_sign">%</string>
   <string name="permission_contacts_desc">For assigning contacts to people on photos</string>
   <string name="permission_contacts_name">Contacts</string>
   <string name="permission_optional_category">Optional permissions</string>
@@ -1790,14 +1782,11 @@ to personalize Gallery"</string>
   <string name="photo_editor_talkback_redo">Redo</string>
   <string name="photo_editor_talkback_undo">Undo</string>
   <string name="photo_editor_text">Text</string>
-  <string name="photo_editor_transition_image_view">photo_view</string>
   <string name="photo_font_cancel_download">Cancel</string>
   <string name="photo_font_download">Download</string>
   <string name="photo_font_download_failed_for_notwork">"Couldn't download. Connect to the network and try again."</string>
   <string name="photo_font_download_without_wifi_msg">"Using mobile data connection to download files will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="photo_font_download_without_wifi_title">Data usage warning</string>
-  <string name="photo_movie_menu_loading">@string/photo_print_menu_loading</string>
-  <string name="photo_movie_module_failed">@string/error_install_connect_fail</string>
   <string name="photo_movie_module_finish">Loaded Clips successfully</string>
   <string name="photo_movie_module_loading">Loading Clips…</string>
   <string name="photo_movie_select_image_range">Clips can contain 3-20 photos</string>
@@ -1814,8 +1803,6 @@ to personalize Gallery"</string>
   <string name="photo_purge_dialog_message_image">"You won't be able to restore items if you delete them. Delete anyway?"</string>
   <string name="photo_purge_dialog_message_video">"You won't be able to restore items if you delete them. Delete anyway?"</string>
   <string name="photo_save_to_msg">Saved to %s</string>
-  <string name="photo_vlog_menu_loading">@string/photo_print_menu_loading</string>
-  <string name="photo_vlog_module_failed">@string/error_install_connect_fail</string>
   <string name="photo_vlog_module_finish">Downloaded video editor successfully</string>
   <string name="photo_vlog_module_loading">Downloading video editor…</string>
   <string name="pick_from_contact">Choose from contacts</string>
@@ -1872,7 +1859,6 @@ to personalize Gallery"</string>
   <string name="projection_switch_title">Switch to</string>
   <string name="projection_video_quit">Tap to exit</string>
   <string name="prompt_not_support_format">"Can't use this image to create a magic vignette"</string>
-  <string name="provider_authority">com.xiaomi.camera.parallelservice.provider.SpecialTypesProvider</string>
   <string name="public_url_descript">Anyone can view your album using this URL</string>
   <string name="publish_failed">"Couldn't publish"</string>
   <string name="publish_succeeded">Album published</string>
@@ -1973,13 +1959,8 @@ to personalize Gallery"</string>
   <string name="screen_doodle_talkback_size">Doodle line width</string>
   <string name="screen_editor_btn_delete">Delete</string>
   <string name="screen_editor_btn_save">Save</string>
-  <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
   <string name="screen_editor_delete_dialog_msg">Delete this screenshot?</string>
-  <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
   <string name="screen_editor_finish">Done</string>
-  <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-  <string name="screen_editor_send">@string/operation_send</string>
-  <string name="screen_editor_text">@string/photo_editor_text</string>
   <string name="screen_save_dialog_btn_cancel">Cancel</string>
   <string name="screen_save_dialog_btn_delete">Delete screenshot</string>
   <string name="screen_save_dialog_btn_save">Save to Gallery</string>
@@ -2039,9 +2020,6 @@ to personalize Gallery"</string>
   <string name="search_title_recommend">Recommended</string>
   <string name="search_title_suggestion">Suggestions</string>
   <string name="search_title_tag">Objects</string>
-  <string name="search_transition_element_icon">search_icon</string>
-  <string name="search_transition_element_input">search_input</string>
-  <string name="search_transition_element_voice">search_voice</string>
   <string name="searching_cast_devices">Looking for projector…</string>
   <string name="secret_album_card_description">The best place for all your little secrets</string>
   <string name="secret_album_card_title">Try private album</string>
@@ -2104,7 +2082,6 @@ to personalize Gallery"</string>
   <string name="share_with_family">Share with family</string>
   <string name="sharer_quota_fulfiled">"You've already shared this album with the maximum number of people."</string>
   <string name="show_cloud_albumlist_summary">Manage the albums you sync with the cloud</string>
-  <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
   <string name="show_hidden_album_summary">View and manage hidden albums</string>
   <string name="show_hidden_album_title">View hidden albums</string>
   <string name="show_in_other_albums_disable_toast_long_press_menu">Moved successfully, go to Other albums to view</string>
@@ -2648,7 +2625,6 @@ to personalize Gallery"</string>
   <string name="wednesday">Wednesday</string>
   <string name="wednesday_short">Wed</string>
   <string name="wednesday_shortest">Wed</string>
-  <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
   <string name="welcome_to_micloud">Welcome to Xiaomi Cloud</string>
   <string name="where_is_barcode">"Where's the QR code?"</string>
   <string name="who_is_this">Who is it?</string>

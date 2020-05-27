@@ -243,7 +243,7 @@
     <string name="app_behavior_notification_audio_now_one">%1s درحال ضبط صداست</string>
     <string name="app_behavior_notification_audio_now_two" formatted="false">%1s و %2s درحال ضبط صدا هستند</string>
     <string name="app_behavior_notification_camera_one">%1s درحال عکس برداری است</string>
-    <string name="app_behavior_notification_camera_two">%1s و %2s درحال عکس برداری هستند</string>
+    <string name="app_behavior_notification_camera_two" formatted="false">%1s و %2s درحال عکس برداری هستند</string>
     <string name="app_behavior_notification_location_one">%1s درحال دسترسی به موقعیت مکانی شماست</string>
     <string name="app_behavior_notification_location_two" formatted="false">%1s و %2s درحال دسترسی به موقعیت مکانی شما هستند</string>
     <string name="app_behavior_notification_title_calllog_read">%1s در پس‌زمینه به تاریخچه تماس دسترسی یافت</string>
@@ -285,7 +285,7 @@
     <string name="app_behavior_sms_read_single">این برنامه پیامک شما را خواند</string>
     <string name="app_behavior_sms_send">%1s پیامک ارسال کرد</string>
     <string name="app_behavior_sms_send_single">این برنامه پیامک ارسال کرد</string>
-    <string name="app_behavior_start_from_app">%1s توسط %2s راه‌اندازی شده بود</string>
+    <string name="app_behavior_start_from_app" formatted="false">%1s توسط %2s راه‌اندازی شده بود</string>
     <string name="app_behavior_start_from_app_single">این برنامه توسط %1s اجرا شده بوده است</string>
     <string name="app_behavior_start_from_launcher">%1s از صفحه اصلی اجرا شده بوده است</string>
     <string name="app_behavior_start_from_launcher_single">این برنامه از صفحه اصلی اجرا شده بوده است</string>
@@ -302,7 +302,7 @@
     <string name="app_behavior_this_run">یک‌بار</string>
     <string name="app_behavior_time_today">امروز</string>
     <string name="app_behavior_time_yesterday">دیروز</string>
-    <string name="app_behavior_wakepath">%1s %2s را راه‌اندازی کرد</string>
+    <string name="app_behavior_wakepath" formatted="false">%1s %2s را راه‌اندازی کرد</string>
     <string name="app_behavior_wakepath_single">این برنامه %2s را راه‌اندازی کرد</string>
     <string name="app_behavior_warning_audio_title">%1s درحال ضبط صدا در پس‌زمینه است</string>
     <string name="app_behavior_warning_content">این فرایند در صورت اجازه ندادن شما به پایان برسد</string>
@@ -3182,7 +3182,7 @@ medical card"</string>
     <string name="system_permission_declare_analytics_declare">ما شما را به ثبت‌نام در برنامه تجربه کاربرمان دعوت می‌کنیم. این برنامه برای گردآوری آمار به منظور بهبود خدماتی که به شما ارائه می‌کنیم نیاز به اتصال به اینترنت و استفاده از مجوزها یا ویژگی‌های زیر دارد. ما در اینجا داده‌ها را فقط برای اهداف آماری گردآوری کرده و طبق داده‌هایی که گردآوری می‌کنیم نمی‌توانیم شخص شما را شناسایی کنیم.</string>
     <string name="system_permission_declare_disagree">مخالف</string>
     <string name="system_permission_declare_double_link">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_main_purpose">به %1s خوش آمدید! این برنامه به شما اجازه استفاده از ویژگی‌های زیر را می‌دهد: %2s.</string>
+    <string name="system_permission_declare_main_purpose" formatted="false">به %1s خوش آمدید! این برنامه به شما اجازه استفاده از ویژگی‌های زیر را می‌دهد: %2s.</string>
     <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
     <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
     <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>

@@ -374,7 +374,7 @@
   <string name="feature_mx">Mi Message</string>
   <string name="feature_mx_summary">&lt;b&gt;Mi Message allows you to send messages to other Mi Message users over the internet without incurring charges&lt;/b&gt;. An outgoing SMS message is required to activate this service. Your carrier will charge you for this message. Read and agree to our &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;User Agreement&lt;/a&gt;&lt;/font&gt; and &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; before using this feature.</string>
   <string name="feature_smart_sms">Smart Messaging</string>
-  <string name="feature_smart_sms_summary">&lt;b&gt;Smart Messaging provides Sender ID recognition and smart menus&lt;/b&gt;". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Privacy Policy&lt;/a&gt;&lt;/font&gt; before using this feature.</string>
+  <string name="feature_smart_sms_summary"><b>Smart Messaging provides Sender ID recognition and smart menus</b>". Smart Messaging is provided in part by Yulore. Read and agree to Yulore's "<font color="#B3000000"><a href="http://url3">Privacy Policy</a></font> before using this feature.</string>
   <string name="festival_sms_loading">Loading…</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Created:</string>
@@ -1097,8 +1097,7 @@ Take a look at the recommended ones!"</string>
   <string name="second_mms_introduction">Go to Second space</string>
   <string name="second_mms_switch">Switch</string>
   <string name="secs">secs</string>
-  <string name="security_alert_desc">&lt;font color="#7f000000"&gt;"The sender isn't in your contacts.
- "&lt;/font&gt;</string>
+  <string name="security_alert_desc">&lt;font color=\"#7f000000\">"The sender isn't in your contacts.."&lt;/font></string>
   <string name="security_alert_desc_highlight">Report this number</string>
   <string name="security_alert_dialog_desc">Send this number (%s) and message to Xiaomi for review.</string>
   <string name="security_alert_dialog_title">Report</string>

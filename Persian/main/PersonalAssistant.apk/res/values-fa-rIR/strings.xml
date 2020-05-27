@@ -663,7 +663,7 @@ Check your tracking number."</string>
     <string name="express_install_open_locker">Open</string>
     <string name="express_install_order_detail">View order details</string>
     <string name="express_install_provider_app_description">%1$s requires installing the %2$s app. Install now?</string>
-    <string name="express_install_provider_app_hidden">&lt;u&gt;"Don't show again"&lt;/u&gt;</string>
+    <string name="express_install_provider_app_hidden"><u>"Don't show again"</u></string>
     <string name="express_install_provider_app_ok">Install</string>
     <string name="express_install_provider_app_title">Install %s</string>
     <string name="express_install_schedule_delivery">Order delivery service</string>

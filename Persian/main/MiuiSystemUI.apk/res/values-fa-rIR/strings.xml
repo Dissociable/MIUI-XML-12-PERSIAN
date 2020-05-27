@@ -1044,8 +1044,8 @@ d MMMM"</string>
     <string name="lockscreen_access_pattern_start">الگو آغاز شد</string>
     <string name="lockscreen_carrier_default">بدون خدمات</string>
     <string name="lockscreen_charging_msg">درحال شارژ</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe">شما %d تلاش ناموفق برای باز کردن قفل گوشی داشتید. پس از %d تلاش ناموفق دیگر، گوشی به تنظیمات پیش‌فرض کارخانه برمی‌گردد و تمام داده‌های کاربر از دست خواهد رفت.</string>
-    <string name="lockscreen_failed_attempts_almost_glogin">"گذرواژه خود را %d بار نادرست وارد کرده‌اید. پس از %d تلاش ناموفق دیگر، از شما خواسته می‌شود به وسیله ورود به حساب Mi خود، قفل گوشی را باز نمایید.
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">شما %d تلاش ناموفق برای باز کردن قفل گوشی داشتید. پس از %d تلاش ناموفق دیگر، گوشی به تنظیمات پیش‌فرض کارخانه برمی‌گردد و تمام داده‌های کاربر از دست خواهد رفت.</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"گذرواژه خود را %d بار نادرست وارد کرده‌اید. پس از %d تلاش ناموفق دیگر، از شما خواسته می‌شود به وسیله ورود به حساب Mi خود، قفل گوشی را باز نمایید.
 
  بعد از %d ثانیه دوباره تلاش کنید."</string>
     <string name="lockscreen_failed_attempts_now_wiping">شما %d تلاش ناموفق برای باز کردن قفل گوشی داشتید. اکنون تلفن به تنظیمات پیش‌فرض کارخانه برمی‌گردد.</string>

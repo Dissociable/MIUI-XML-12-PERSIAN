@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="access_change_text">当前选中的是第%d项, 与第%d项交换位置.</string>
+    <string name="access_change_text" formatted="false">当前选中的是第%d项, 与第%d项交换位置.</string>
     <string name="access_deselect">Deselected %s</string>
     <string name="access_deselected">Deselected %s</string>
     <string name="access_select">Selected %s</string>

@@ -98,7 +98,7 @@
     <string name="create_work_space">ایجاد فضای کار</string>
     <string name="creating_app_icon">درحال ایجاد آیکون…</string>
     <string name="cta_declaration_agree_and_continue">پذیرفتن</string>
-    <string name="cta_declaration_message_format">پیش از استفاده از حالت شرکتی شما باید &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; ما را خوانده و بپذیرید. برای فعال‌سازی حالت شرکتی دستگاه شما نیاز به اتصال به اینترنت دارد. آیا می‌پذیرید؟</string>
+    <string name="cta_declaration_message_format" formatted="false">پیش از استفاده از حالت شرکتی شما باید &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; ما را خوانده و بپذیرید. برای فعال‌سازی حالت شرکتی دستگاه شما نیاز به اتصال به اینترنت دارد. آیا می‌پذیرید؟</string>
     <string name="cta_declaration_title">شرایط و ضوابط</string>
     <string name="current_space">فضای کنونی</string>
     <string name="dataSafe">استفاده از فضای دوم مانند داشتن دو دستگاه است.</string>

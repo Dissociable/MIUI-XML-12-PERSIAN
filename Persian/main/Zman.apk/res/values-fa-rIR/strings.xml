@@ -37,7 +37,7 @@
     <string name="first_settings_share_enable_subtitle">مواردی که در WeChat همرسانی می‌کنید با یک نشان MIUI نمایان خواهند شد</string>
     <string name="first_settings_subtitle">در اینجا گزینه‌های همرسانی امن برای شما فراهم است:</string>
     <string name="first_settings_title">حافظت از حریم خصوصی شما</string>
-    <string name="loading_text_format">Removing private info from photos (%d/%d)…</string>
+    <string name="loading_text_format" formatted="false">Removing private info from photos (%d/%d)…</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">pull to refresh</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">refresh completed</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">refreshing</string>

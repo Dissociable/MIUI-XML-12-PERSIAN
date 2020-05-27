@@ -88,11 +88,11 @@
     <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
     <string name="warning_tip_ok">Pause</string>
     <string name="warning_tip_title">Data usage warning</string>
-    <string name="wifi_recommended_body">"آغاز کردن این %s دانلود ممکن است عمر باتری شما را کاهش داده و/یا باعث استفاده بیش از حد اینترنت همراه شما شود که می‌تواند موجب افزایش هزینه توسط شرکت مخابراتی بر اساس طرح اینترنت همراه شما گردد.
+    <string name="wifi_recommended_body" formatted="false">"آغاز کردن این %s دانلود ممکن است عمر باتری شما را کاهش داده و/یا باعث استفاده بیش از حد اینترنت همراه شما شود که می‌تواند موجب افزایش هزینه توسط شرکت مخابراتی بر اساس طرح اینترنت همراه شما گردد.
 
  %s را زده تا این دانلود در زمان بعدی که شما به یک شبکه Wi-Fi وصل شدید آغاز شود."</string>
     <string name="wifi_recommended_title">بعداً برای دانلود به نوبت افزوده شود؟</string>
-    <string name="wifi_required_body">"به Wi-Fi وصل شده تا این %s دانلود کامل شود. 
+    <string name="wifi_required_body" formatted="false">"به Wi-Fi وصل شده تا این %s دانلود کامل شود. 
 
 روی %s زده تا این دانلود پس از اتصال بعدی شما به یک شبکه Wi-Fi آغاز شود."</string>
     <string name="wifi_required_title">برنامه برای دانلود با اینترنت همراه بسیار بزرگ است</string>

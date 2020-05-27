@@ -73,9 +73,9 @@
     <string name="change_to_voice_tips_when_background">طرف مقابل به تماس صوتی تعویض کرده است</string>
     <string name="close_camera_failed">دوربین خاموش نشد…</string>
     <string name="close_camera_requesting">درحال خاموش کردن دوربین…</string>
-    <string name="conference_call_description">%s،%s غیره. کل %s</string>
+    <string name="conference_call_description" formatted="false">%s،%s غیره. کل %s</string>
     <string name="conference_call_recorder_title">کنفرانس تلفنی</string>
-    <string name="conference_call_single_description">%s سایر. کل %s</string>
+    <string name="conference_call_single_description" formatted="false">%s سایر. کل %s</string>
     <string name="conference_caller_info_name">کنفرانس تلفنی %1$s</string>
     <string name="conference_callers_exceeded">نمی‌توان افراد جدید افزود</string>
     <string name="contacts_icon_label">مخاطبین</string>

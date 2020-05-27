@@ -3643,7 +3643,7 @@
     <string name="lockpassword_choose_your_pin_header_second_space">"تنظیم PIN 
  برای فضای دوم"</string>
     <string name="lockpassword_choose_your_pin_message">برای امنیت، پین تنظیم کنید</string>
-    <string name="lockpassword_choose_your_pin_title">بین %d تا %d رقم وارد کنید</string>
+    <string name="lockpassword_choose_your_pin_title" formatted="false">بین %d تا %d رقم وارد کنید</string>
     <string name="lockpassword_choose_your_screen_lock_header">تنظیم قفل صفحه</string>
     <string name="lockpassword_clear_label">پاک کردن</string>
     <string name="lockpassword_confirm_for_second_user">گذرواژه فضای دوم خود را تأیید کنید</string>
@@ -6989,7 +6989,7 @@ Before using our services, read and agree to our %s."</string>
     <string name="unlock_set_unlock_password_title">گذرواژه</string>
     <string name="unlock_set_unlock_pattern_summary">باز کردن قفل دستگاه با کشیدن یک الگوی ساده با انگشت</string>
     <string name="unlock_set_unlock_pattern_title">الگو</string>
-    <string name="unlock_set_unlock_pin_summary">باز کردن قفل دستگاه با وارد کردن %d تا %d رقم</string>
+    <string name="unlock_set_unlock_pin_summary" formatted="false">باز کردن قفل دستگاه با وارد کردن %d تا %d رقم</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">یک قفل صفحه تنظیم کنید</string>
     <string name="unlock_setup_wizard_fingerprint_details">‏پس از تنظیم قفل صفحه، همچنین می‌توانید اثر انگشتتان را در «تنظیمات» &gt; «امنیت» تنظیم کنید.</string>
@@ -7031,16 +7031,16 @@ Before using our services, read and agree to our %s."</string>
     <string name="usage_state_app_usage_detail_title">جزئیات مصرف برنامه</string>
     <string name="usage_state_app_usage_list_title">زمان استفاده از صفحه برنامه‌ها</string>
     <string name="usage_state_app_usage_list_week_title">زمان استفاده از صفحه برنامه‌ها</string>
-    <string name="usage_state_app_usage_tip_title">زمان استفاده از صفحه بین %d:۰۰ و %d:۰۰</string>
+    <string name="usage_state_app_usage_tip_title" formatted="false">زمان استفاده از صفحه بین %d:۰۰ و %d:۰۰</string>
     <string name="usage_state_app_use_time">زمان استفاده از صفحه برنامه</string>
     <string name="usage_state_channel_mouth">۳۰ روز اخیر</string>
     <string name="usage_state_channel_week">۷ روز اخیر</string>
     <string name="usage_state_date">d MMM</string>
-    <string name="usage_state_device_noti_today_tip_title">اعلان‌های بین %d:۰۰ و %d:۰۰</string>
-    <string name="usage_state_device_unlock_today_tip_title">دستگاه بین %d:۰۰ و %d:۰۰ گشوده شده است</string>
+    <string name="usage_state_device_noti_today_tip_title" formatted="false">اعلان‌های بین %d:۰۰ و %d:۰۰</string>
+    <string name="usage_state_device_unlock_today_tip_title" formatted="false">دستگاه بین %d:۰۰ و %d:۰۰ گشوده شده است</string>
     <string name="usage_state_friday">جمعه</string>
     <string name="usage_state_go_more">برنامه‌های بیشتر</string>
-    <string name="usage_state_hour_minute">%d ساعت و %d دقیقه</string>
+    <string name="usage_state_hour_minute" formatted="false">%d ساعت و %d دقیقه</string>
     <string name="usage_state_less_one_minute">کمتر از ۱ دقیقه</string>
     <string name="usage_state_monday">دوشنبه</string>
     <string name="usage_state_mourth_day">مدت استفاده از نمایشگر در %s</string>
@@ -7062,11 +7062,11 @@ Before using our services, read and agree to our %s."</string>
     <string name="usage_state_usage_time_remind">هشدار مدت استفاده از نمایشگر</string>
     <string name="usage_state_use_time_remind_title">هشدار مدت استفاده از نمایشگر</string>
     <string name="usage_state_wednesday">چهارشنبه</string>
-    <string name="usage_state_week_day_hour_minute">روزهای هفته: %d ساعت و %d دقیقه</string>
+    <string name="usage_state_week_day_hour_minute" formatted="false">روزهای هفته: %d ساعت و %d دقیقه</string>
     <string name="usage_state_week_total_text">مدت استفاده از نمایشگر (۷ روز اخیر)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">روزهای هفته</string>
-    <string name="usage_state_work_day_hour_minute">روزهای هفته: %d ساعت و %d دقیقه</string>
+    <string name="usage_state_work_day_hour_minute" formatted="false">روزهای هفته: %d ساعت و %d دقیقه</string>
     <string name="usage_stats_label">آمار کاربرد</string>
     <string name="usage_stats_normal_day">روزهای هفته</string>
     <string name="usage_stats_week_day">آخر هفته‌ها</string>
@@ -7104,9 +7104,9 @@ Before using our services, read and agree to our %s."</string>
     <string name="usagestats_app_category_miui_video_etc">موسیقی و ویدئو</string>
     <string name="usagestats_device_notification_des">محدودیت مدت استفاده از نمایشگر امروز: %s</string>
     <string name="usagestats_device_notification_des_over">شما به محدودیت مدت استفاده از نمایشگر امروز رسیدید.</string>
-    <string name="usagestats_device_notification_des_reset">محدودیت امروز: %s | باقی‌مانده %s</string>
+    <string name="usagestats_device_notification_des_reset" formatted="false">محدودیت امروز: %s | باقی‌مانده %s</string>
     <string name="usagestats_device_notification_title">هشدار مدت استفاده از نمایشگر</string>
-    <string name="usagestats_device_timeout_des">امروز به مدت %d ساعت و %d دقیقه از دستگاه استفاده کرده‌اید. کمی استراحت کنید!</string>
+    <string name="usagestats_device_timeout_des" formatted="false">امروز به مدت %d ساعت و %d دقیقه از دستگاه استفاده کرده‌اید. کمی استراحت کنید!</string>
     <string name="usagestats_device_timeout_negative">۱ ساعت دیگر یادآوری شود</string>
     <string name="usagestats_device_timeout_positive">فهمیدم</string>
     <string name="usagestats_device_timeout_title">هشدار مدت استفاده از نمایشگر</string>
@@ -7891,7 +7891,7 @@ Before using our services, read and agree to our %s."</string>
     <string name="wifi_password">گذرواژه</string>
     <string name="wifi_poor_network_detection">اجتناب از اتصالات ضعیف</string>
     <string name="wifi_poor_network_detection_summary">از شبکه Wi-Fi استفاده نشود مگر اینکه اتصال خوبی داشته باشد</string>
-    <string name="wifi_priority_changed">مقدار قبلی %s | مقدار جدید %s</string>
+    <string name="wifi_priority_changed" formatted="false">مقدار قبلی %s | مقدار جدید %s</string>
     <string name="wifi_priority_label">اولویت</string>
     <string name="wifi_priority_settings_label">تنظیمات اولویت</string>
     <string name="wifi_priority_settings_summary">تعیین اولویت مربوط به هر نقطه دسترسی</string>

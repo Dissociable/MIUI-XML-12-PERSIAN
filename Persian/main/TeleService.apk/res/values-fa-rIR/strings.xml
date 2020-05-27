@@ -944,7 +944,7 @@
     <string name="enhanced_4g_lte_mode_summary_o2">‏استفاده از سرویس‌های 4G برای بهبود صدا و سایر ارتباطات (توصیه می‌شود)</string>
     <string name="enhanced_4g_lte_mode_title">حالت LTE 4G ارتقا یافته</string>
     <string name="enter_callbarring_password">Enter call barring password (%d digits)</string>
-    <string name="enter_input">پیام USSD باید بین %d و %d کاراکتر باشد. دوباره تلاش کنید.</string>
+    <string name="enter_input" formatted="false">پیام USSD باید بین %d و %d کاراکتر باشد. دوباره تلاش کنید.</string>
     <string name="enter_pin2_text">PIN۲</string>
     <string name="enter_pin_text">PIN سیم‌کارت:</string>
     <string name="entertainment_news_settings">اخبار سرگرمی</string>
@@ -1215,8 +1215,8 @@
     <string name="messageCFNRc">هنگام در دسترس نبودن شماره</string>
     <string name="messageCFNRy">هنگامی‌که شماره پاسخ نداد</string>
     <string name="messageCFU">همیشه از این شماره استفاده شود</string>
-    <string name="messageCFU_kr">A network service that diverts all incoming calls and text messages to a specified number. You have to subscribe to this service. You will be charged with monthly fee. Contact the customer center (114+[Send]) to subscribe or unsubscribe from this service. Enter %s+[number to forward calls to][Send] to enable, or %s[Send] to disable.</string>
-    <string name="messageCW_kr">A free network service that allows you to answer a second call during a call, placing the first call on hold. Enter %s[Send] to enable, or %s[Send] to disable.</string>
+    <string name="messageCFU_kr" formatted="false">A network service that diverts all incoming calls and text messages to a specified number. You have to subscribe to this service. You will be charged with monthly fee. Contact the customer center (114+[Send]) to subscribe or unsubscribe from this service. Enter %s+[number to forward calls to][Send] to enable, or %s[Send] to disable.</string>
+    <string name="messageCW_kr" formatted="false">A free network service that allows you to answer a second call during a call, placing the first call on hold. Enter %s[Send] to enable, or %s[Send] to disable.</string>
     <string name="messageCallBarring">گذرواژه را وارد کنید</string>
     <string name="message_decode_error">هنگام رمزگشایی پیام خطایی رخ داد.</string>
     <string name="mhh_disable">درمانی، سلامت و بیمارستان خاموش است</string>

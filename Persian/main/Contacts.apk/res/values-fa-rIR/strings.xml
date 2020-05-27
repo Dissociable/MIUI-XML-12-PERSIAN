@@ -1480,9 +1480,9 @@ To add a contact to your list of favorites:
     <string name="t9_search_empty_send_sms">ارسال پیام</string>
     <string name="t9_search_empty_video_call">تماس تصویری</string>
     <string name="t9_search_guide_pinyin_title1">شماره‌ها را وارد کرده تا مخاطبین را بیابید</string>
-    <string name="t9_search_guide_pinyin_title2">برای جستجوی «احمد وحیدی» شماره‌های «%d» و «%d» را وارد کنید</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">برای جستجوی «احمد وحیدی» شماره‌های «%d» و «%d» را وارد کنید</string>
     <string name="t9_search_guide_zhuyin_title1">شماره‌ها را وارد کرده تا مخاطبین را بیابید</string>
-    <string name="t9_search_guide_zhuyin_title2">برای جستجوی «دانیال جهانی» شماره‌های «%d» و «%d» را وارد کنید</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">برای جستجوی «دانیال جهانی» شماره‌های «%d» و «%d» را وارد کنید</string>
     <string name="take_new_photo">گرفتن عکس جدید</string>
     <string name="take_photo">گرفتن عکس</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>

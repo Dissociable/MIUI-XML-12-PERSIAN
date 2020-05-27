@@ -935,7 +935,7 @@ N: no test"</string>
     <string name="verify">Verify</string>
     <string name="verifying">Verifying</string>
     <string name="version">Version</string>
-    <string name="version_fmt">"Software Version: %s
+    <string name="version_fmt" formatted="false">"Software Version: %s
 Hardware Version:%s
 Model:%s
 PRL:%s

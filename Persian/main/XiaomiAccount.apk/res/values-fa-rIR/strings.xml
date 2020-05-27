@@ -97,7 +97,7 @@
     <string name="bind_weibo_description">دوستان خود را به حساب Sina Weibo اضافه کنید</string>
     <string name="bind_weixin">حساب WeChat خود را وصل کنید</string>
     <string name="binded">متصل شد</string>
-    <string name="binded_description">"%s به حساب Mi شما وصل شد.
+    <string name="binded_description" formatted="false">"%s به حساب Mi شما وصل شد.
 حالا می‌توانید با استفاده از %s وارد حساب خود شوید."</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="button_unbind">قطع اتصال</string>
@@ -202,8 +202,8 @@
     <string name="find_device_interrupted">انجام کار قطع شد. یک یا دو دقیقه صبر کرده و دوباره تلاش کنید</string>
     <string name="find_device_io_error">به شبکه متصل نمی‌شود</string>
     <string name="find_device_location">مکان‌یابی</string>
-    <string name="find_device_locked_account_email">%s, نشانی ایمیل مرتبط: %s</string>
-    <string name="find_device_locked_account_phone">%s, شماره تلفن مرتبط: %s</string>
+    <string name="find_device_locked_account_email" formatted="false">%s, نشانی ایمیل مرتبط: %s</string>
+    <string name="find_device_locked_account_phone" formatted="false">%s, شماره تلفن مرتبط: %s</string>
     <string name="find_device_message">دستگاه قفل است. پیامک: %1$s. شماره تماس %2$s.</string>
     <string name="find_device_null_credential_error">نمی‌توان اطلاعات دستگاه را دریافت کرد. با خدمات مشتریان Xiaomi تماس بگیرید</string>
     <string name="find_device_open">روشن</string>

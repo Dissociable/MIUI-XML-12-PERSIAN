@@ -365,7 +365,7 @@
     <string name="webview_network_unavaliable">به شبکه متصل نمی‌شود</string>
     <string name="webview_service_unavailiable">سرویس در دسترس نیست</string>
     <string name="webview_try_again">دوباره تلاش کنید</string>
-    <string name="wifi_recommended_body">استفاده از اینترنت همراه برای دانلود این فایل (%s) مصرف اینترنت همراه شما را افزایش می‌دهد. اگر از حد مصرف طرح اینترنت خود فراتر بروید، ممکن است شرکت مخابراتی‌تان از شما هزینه اضافی دریافت کند. جهت انتظار برای اتصال Wi-Fi برای دانلود این فایل، روی %s ضربه بزنید.</string>
+    <string name="wifi_recommended_body" formatted="false">استفاده از اینترنت همراه برای دانلود این فایل (%s) مصرف اینترنت همراه شما را افزایش می‌دهد. اگر از حد مصرف طرح اینترنت خود فراتر بروید، ممکن است شرکت مخابراتی‌تان از شما هزینه اضافی دریافت کند. جهت انتظار برای اتصال Wi-Fi برای دانلود این فایل، روی %s ضربه بزنید.</string>
     <string name="wifi_recommended_title">هشدار مصرف اینترنت همراه</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

@@ -225,7 +225,7 @@
     <string name="click_to_shuffle">پخش تصادفی‌</string>
     <string name="close_music_time">"زمان باقی‌مانده: "</string>
     <string name="com.crashlytics.android.build_id">97d9263e-9420-490d-bd7e-0612b258574e</string>
-    <string name="comment_format">%s: %s</string>
+    <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">فعال کردن</string>
     <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
     <string name="common_google_play_services_enable_title">‏‫فعال کردن سرویس‌های Google Play</string>
@@ -1244,7 +1244,7 @@ Be Happy"</string>
     <string name="wednesday_short">Wed</string>
     <string name="wednesday_shortest">W</string>
     <string name="widget_small_text_separator">-</string>
-    <string name="wifi_required_body">"به Wi-Fi وصل شده تا این دانلود %s کامل شود.
+    <string name="wifi_required_body" formatted="false">"به Wi-Fi وصل شده تا این دانلود %s کامل شود.
 
 روی %s زده تا در اتصال بعدی شما به شبکه Wi-Fi دانلود آن آغاز شود."</string>
     <string name="wifi_required_title">برای دانلود این فایل باید به Wi-Fi متصل شوید</string>

@@ -238,7 +238,7 @@
     <string name="bugreport_option_full_title">گزارش کامل</string>
     <string name="bugreport_option_interactive_summary">در بیشتر شرایط از این گزینه استفاده کنید. به شما امکان ردیابی پیشرفت گزارش و وارد کردن جزئیات بیشتری درباره مشکل را می‌دهد. ممکن است برخی از بخش‌هایی را که کمتر استفاده شده و باعث افزایش طول زمان گزارش می‌شود حذف کند.</string>
     <string name="bugreport_option_interactive_title">گزارش تعاملی</string>
-    <string name="bugreport_status">%s (%s)</string>
+    <string name="bugreport_status" formatted="false">%s (%s)</string>
     <string name="bugreport_title">گزارش اشکال</string>
     <string name="byteShort">بایت</string>
     <string name="cancel">لغو</string>

@@ -546,7 +546,7 @@ to view open tabs from other devices."</string>
     <string name="expand_button_title">پیشرفته</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="fast_app_card_bottom_text">%s  %s</string>
+    <string name="fast_app_card_bottom_text" formatted="false">%s  %s</string>
     <string name="favorite">Add to favorites</string>
     <string name="feedback_not_interested_response">"You'll see fewer items of this kind"</string>
     <string name="fiction__refresh_header_view__finish">刷新成功</string>
@@ -738,7 +738,7 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_miuichromium_error_page_btn_close">Close</string>
     <string name="mw_miuichromium_error_page_btn_refresh">Refresh</string>
     <string name="mw_miuichromium_error_page_btn_report_issue">Report issue</string>
-    <string name="mw_miuichromium_error_page_description_no_connection">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
+    <string name="mw_miuichromium_error_page_description_no_connection" formatted="false">"Couldn't connect to the network due to weak signal or incorrect network configuration. Check your %s1network settings%s2 and try again."</string>
     <string name="mw_miuichromium_error_page_diagnose">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_banner">Network diagnostics</string>
     <string name="mw_miuichromium_error_page_diagnose_certificate">"Couldn't verify network protocol"</string>
@@ -793,9 +793,9 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="mw_miuichromium_error_page_server_error">Too many devices are trying to connect</string>
     <string name="mw_miuichromium_error_page_suggestion_check_app_proxy">Check the settings of the proxy apps installed on your device.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_connetion">Check your Internet connection.</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy">(Mobile data) Reset your %s1APN settings%s2.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_mobile_proxy" formatted="false">(Mobile data) Reset your %s1APN settings%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_check_url">"Check the URL you've entered."</string>
-    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy">(Wi-Fi) Check your %s1proxy settings%s2.</string>
+    <string name="mw_miuichromium_error_page_suggestion_check_wifi_proxy" formatted="false">(Wi-Fi) Check your %s1proxy settings%s2.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache">Clear cache.</string>
     <string name="mw_miuichromium_error_page_suggestion_clear_cache_and_cookies">Clear cache and cookies (your account info may be lost).</string>
     <string name="mw_miuichromium_error_page_suggestion_connect_and_retry">Reload after connecting to the internet</string>
@@ -1150,7 +1150,7 @@ That's how we use the data we collect:
 Browser needs to connect to the internet to work normally. You must agree to our %2$s and %1$s to be able to use Browser.​"</string>
     <string name="show_security_tip_dialog_title">Privacy Policy</string>
     <string name="sign_and_open">Sign in and turn on</string>
-    <string name="sign_in_to">Sign in to %s1 \"%s2\"</string>
+    <string name="sign_in_to" formatted="false">Sign in to %s1 \"%s2\"</string>
     <string name="skip_button_label">Skip</string>
     <string name="skip_current_version">Skip this version</string>
     <string name="slide_guide">Slide to return</string>
@@ -1192,7 +1192,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="srl_header_secondary">Release To Second Floor</string>
     <string name="srl_header_update">"'Last Update' M-d HH:mm"</string>
     <string name="ssl_bad_clock_date_settings">Set date</string>
-    <string name="ssl_bad_clock_warning">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
+    <string name="ssl_bad_clock_warning" formatted="false">"A private connection to %s1 can't be established because your device's date and time (%s2) are incorrect."</string>
     <string name="ssl_certificate">Security certificate</string>
     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
     <string name="ssl_continue">Continue</string>
@@ -1313,7 +1313,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="store__feed_vip__coupon_redeem">VIP体验券已生效</string>
     <string name="store__feed_vip__coupon_redeem_hint">VIP体验券仅限VIP书库免费阅读，非全书城</string>
     <string name="store__feed_vip__coupon_redeem_ok">我知道了</string>
-    <string name="store__feed_vip__coupon_redeem_prompt">"恭喜获得%s，快去挑书吧
+    <string name="store__feed_vip__coupon_redeem_prompt" formatted="false">"恭喜获得%s，快去挑书吧
 体验时间：%s-%s"</string>
     <string name="store__feed_vip__expire">VIP已过期，续费后可继续使用</string>
     <string name="store__feed_vip__expire_date">%d天后过期</string>
@@ -1325,7 +1325,7 @@ Browser needs to connect to the internet to work normally. You must agree to our
     <string name="store__feed_vip__status">%d天后到期</string>
     <string name="store__feed_vip__subscribe">立即开通</string>
     <string name="store__feed_vip__use">立即使用</string>
-    <string name="store__feed_vip__valid_date">有效期：%s-%s</string>
+    <string name="store__feed_vip__valid_date" formatted="false">有效期：%s-%s</string>
     <string name="store__fiction_boy_ranking_title">男生必读</string>
     <string name="store__fiction_boy_recommend_title">精品推荐</string>
     <string name="store__fiction_chapter_view__buy">立即购买</string>

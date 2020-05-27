@@ -200,8 +200,8 @@
     <string name="gigabyteShort">GB</string>
     <string name="goto_global_search">Searching web for \"%1$s\"</string>
     <string name="guess_like">ممکن است همچنین دوست داشته باشید</string>
-    <string name="h5_net_error">"Couldn't load %s (%s)"</string>
-    <string name="h5_net_error_tip">"Couldn't open URL"</string>
+    <string name="h5_net_error" formatted="false">"Couldn't load %s (%s)"</string>
+    <string name="h5_net_error_tip" formatted="false">"Couldn't open URL"</string>
     <string name="high_speed_channel">Xunlei accelerator (paid):  </string>
     <string name="high_speed_tryout">Download speed is low, become a Xunlei member</string>
     <string name="high_speed_tryout_percent">Speed boosted by %1$s, become a Xunlei member</string>

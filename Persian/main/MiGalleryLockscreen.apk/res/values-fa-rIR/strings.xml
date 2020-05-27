@@ -558,9 +558,9 @@ mm"</string>
     <string name="platform_unavailable_wechatmoment">Install WeChat</string>
     <string name="platform_unavailable_weibo">Install Weibo</string>
     <string name="privacy_setting">Privacy settings</string>
-    <string name="prv_end">&lt;CDATA&gt;"That's all for now."&lt;/CDATA&gt;</string>
-    <string name="prv_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
-    <string name="prv_nodata">&lt;CDATA&gt;No data&lt;/CDATA&gt;</string>
+    <string name="prv_end"><CDATA>"That's all for now."</CDATA></string>
+    <string name="prv_loading"><CDATA>Just a sec…</CDATA></string>
+    <string name="prv_nodata"><CDATA>No data</CDATA></string>
     <string name="psw_hint">گذرواژه</string>
     <string name="psw_sign_in">ورود با استفاده از گذرواژه</string>
     <string name="pull_to_refresh_loading_label">Just a sec…</string>
@@ -589,7 +589,7 @@ mm"</string>
     <string name="restart_phone_bind_message">ممکن است دریافت پیام کوتاه کمی زمان ببرد. در هر صورت از نو آغاز شود؟</string>
     <string name="restart_phone_bind_title">تغییر تلفن بازیابی</string>
     <string name="rv_with_footer_empty">Nothing here yet.</string>
-    <string name="rv_with_footer_loading">&lt;CDATA&gt;Just a sec&amp;#8230;&lt;/CDATA&gt;</string>
+    <string name="rv_with_footer_loading"><CDATA>Just a sec&amp;#8230;</CDATA></string>
     <string name="rv_with_footer_pull_load_more">Pull down to view more</string>
     <string name="same_new_and_old_pwd">با گذرواژه کنونی نمی‌تواند یکی باشد</string>
     <string name="save_hdpicture_in_favor">View HD images in \"Favorites\"</string>

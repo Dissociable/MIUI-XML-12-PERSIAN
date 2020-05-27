@@ -241,11 +241,11 @@
     <string name="app_behavior_monitor_tips_summary">هنگامی که برنامه‌ها در پس‌زمینه صدا را ضبط، به موقعیت شما دسترسی یا اقدامات حساس دیگری انجام می‌دهند می‌توانید اعلان دریافت کنید.</string>
     <string name="app_behavior_no_recorder">نتیجه‌ای یافت نشد</string>
     <string name="app_behavior_notification_audio_now_one">%1s درحال ضبط صداست</string>
-    <string name="app_behavior_notification_audio_now_two">%1s و %2s درحال ضبط صدا هستند</string>
+    <string name="app_behavior_notification_audio_now_two" formatted="false">%1s و %2s درحال ضبط صدا هستند</string>
     <string name="app_behavior_notification_camera_one">%1s درحال عکس برداری است</string>
     <string name="app_behavior_notification_camera_two">%1s و %2s درحال عکس برداری هستند</string>
     <string name="app_behavior_notification_location_one">%1s درحال دسترسی به موقعیت مکانی شماست</string>
-    <string name="app_behavior_notification_location_two">%1s و %2s درحال دسترسی به موقعیت مکانی شما هستند</string>
+    <string name="app_behavior_notification_location_two" formatted="false">%1s و %2s درحال دسترسی به موقعیت مکانی شما هستند</string>
     <string name="app_behavior_notification_title_calllog_read">%1s در پس‌زمینه به تاریخچه تماس دسترسی یافت</string>
     <string name="app_behavior_notification_title_calllog_write">%1s در پس‌زمینه تاریخچه تماس را ویرایش کرد</string>
     <string name="app_behavior_notification_title_clipboard_read">%1s در پس‌زمینه به حافظه موقت دسترسی یافت</string>

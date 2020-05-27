@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">توجه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">متأسفیم، این ویدئو برای پخش جریانی با این دستگاه معتبر نیست.</string>
     <string name="selectTextMode">انتخاب متن</string>
-    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
     <string name="fingerprint_icon_content_description">نماد اثر انگشت</string>
     <string name="paste_as_plain_text">جای‌گذاری به عنوان متن ساده</string>
     <string name="autofill">تکمیل خودکار</string>
@@ -462,7 +461,6 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">کد ویژگی کامل شد.</string>
     <string name="fcError">مشکل در اتصال یا کد ویژگی نامعتبر.</string>
-    <string name="fileSizeSuffix">%1$s ‏%2$s</string>
     <string name="find">یافتن</string>
     <string name="find_next">یافتن بعدی</string>
     <string name="find_on_page">یافتن در صفحه</string>
@@ -664,7 +662,6 @@
     <string name="kg_reordering_delete_drop_target_text">حذف</string>
     <string name="kg_sim_pin_instructions">پین سیم کارت را وارد کنید</string>
     <string name="kg_sim_unlock_progress_dialog_message">بازگشایی قفل سیم کارت...</string>
-    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"گذرواژه خود را %1$d بار اشتباه تایپ کردید. 
 
 پس از %2$d ثانیه دوباره امتحان کنید."</string>
@@ -970,7 +967,6 @@
     <string name="notification_channel_wfc">‏تماس ازطریق Wi-Fi</string>
     <string name="notification_hidden_text">اعلان جدید</string>
     <string name="notification_listener_binding_label">شنونده اعلان</string>
-    <string name="notification_messaging_title_template">%1$s:‏ %2$s</string>
     <string name="notification_ranker_binding_label">سرویس رتبه‌بندی اعلان</string>
     <string name="notification_reply_button_accessibility">پاسخ</string>
     <string name="notification_title">خطای ورود به سیستم برای %1$s</string>
@@ -1748,7 +1744,6 @@
     <string name="zen_mode_feature_name">مزاحم نشوید</string>
     <string name="zen_mode_forever">تا زمانی‌که آن را خاموش کنید</string>
     <string name="zen_mode_forever_dnd">تا زمانی که «مزاحم نشوید» را خاموش کنید</string>
-    <string name="zen_mode_rule_name_combination">%1$s /‏ %2$s</string>
     <string name="zen_mode_until">تا %1$s</string>
     <string name="zen_upgrade_notification_content">برای بررسی موارد مسدودشده ضربه بزنید.</string>
     <string name="zen_upgrade_notification_title">«مزاحم نشوید» تغییر کرده است</string>

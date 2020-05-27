@@ -3987,9 +3987,9 @@
     <string name="miui_sos_contacts_category">مخاطبین اضطراری</string>
     <string name="miui_sos_emergency_contacts">مخاطبین اضطراری</string>
     <string name="miui_sos_emergency_delete">حذف</string>
-    <string name="miui_sos_emergency_delivered_sms">%1s (%2s) پذیرفته است.</string>
+    <string name="miui_sos_emergency_delivered_sms" formatted="false">%1s (%2s) پذیرفته است.</string>
     <string name="miui_sos_emergency_delivered_sms_noname">%1s پذیرفته است</string>
-    <string name="miui_sos_emergency_failed_sms">پیام به %1s (%2s) ارسال نشد.</string>
+    <string name="miui_sos_emergency_failed_sms" formatted="false">پیام به %1s (%2s) ارسال نشد.</string>
     <string name="miui_sos_emergency_failed_sms_noname">پیام به %1s ارسال نشد.</string>
     <string name="miui_sos_enable_switch_summary">دکمه روشن/خاموش را ۵ بار به سرعت فشرده تا یک پیامک SOS همراه با موقعیت شما به مخاطبین اضطراریتان ارسال شود</string>
     <string name="miui_sos_enable_switch_title">‫SOS اضطراری</string>
@@ -4324,7 +4324,7 @@
     <string name="nfc_repair_btn_reboot_later">بعداً</string>
     <string name="nfc_repair_btn_retry">تلاش دوباره</string>
     <string name="nfc_repair_btn_yes">بله</string>
-    <string name="nfc_repair_confirm_desc">"آیا تا کنون این اشکالات را تجربه کرده‌اید؟
+    <string name="nfc_repair_confirm_desc" formatted="false">"آیا تا کنون این اشکالات را تجربه کرده‌اید؟
 %d. کارت NFC را نتوانسته بیافزوده یا شارژ کنید.
 %d. کارت NFC شما کار نکرده است.
 %d. سایر ویژگی‌های NFC بارگذاری نشدند."</string>

@@ -1,241 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="activities_title">
-        <item>Special day</item>
-        <item>Day to remember</item>
-        <item>Vibrant moments</item>
-    </string-array>
-    <string-array name="alphabet_table">
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-        <item>\#</item>
+        <item>روز خاص</item>
+        <item>روزی برای به یاد ماندن</item>
+        <item>لحظات پر جنب و جوش</item>
     </string-array>
     <string-array name="baby_sexy">
-        <item>Boy</item>
-        <item>Girl</item>
+        <item>پسر</item>
+        <item>دختر</item>
     </string-array>
     <string-array name="backup_automatically_key_words">
-        <item>Back up photos</item>
-        <item>Sync photos with the cloud</item>
-    </string-array>
-    <integer-array name="backup_pause_hours">
-        <item>2</item>
-        <item>12</item>
-    </integer-array>
-    <string-array name="card_last_week_day">
-        <item>Last Monday</item>
-        <item>Last Tuesday</item>
-        <item>Last Wednesday</item>
-        <item>Last Thursday</item>
-        <item>Last Friday</item>
-    </string-array>
-    <string-array name="chinese_holiday_last_year">
-        <item>"Last Chinese New Year's Eve"</item>
-        <item>Last Chinese New Year</item>
-        <item>Last Lantern Festival</item>
-        <item>Last Dragon Boat Festival</item>
-        <item>Last Qixi Festival</item>
-        <item>Last Mid-Autumn Festival</item>
-    </string-array>
-    <string-array name="chinese_holiday_past_year">
-        <item>"Chinese New Year's Eve through the years"</item>
-        <item>Chinese New Year through the years</item>
-        <item>Lantern Festival through the years</item>
-        <item>Dragon Boat Festival through the years</item>
-        <item>Qixi Festival through the years</item>
-        <item>Mid-Autumn Festival through the years</item>
-    </string-array>
-    <string-array name="holiday_last_year">
-        <item>"Last New Year's Day"</item>
-        <item>"Last Valentine's Day"</item>
-        <item>Last Labor Day</item>
-        <item>"Last Children's Day"</item>
-        <item>Last National Day</item>
-        <item>Last Christmas</item>
-    </string-array>
-    <string-array name="holiday_past_year">
-        <item>"New Year's Day through the years"</item>
-        <item>"Valentine's Day through the years"</item>
-        <item>Labor Day through the years</item>
-        <item>"Children's Day through the years"</item>
-        <item>National Day through the years</item>
-        <item>Christmas through the years</item>
-    </string-array>
-    <string-array name="last_month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>پشتیبان‌گیری عکس‌ها</item>
+        <item>همگام‌سازی عکس‌ها با فضای ابری</item>
     </string-array>
     <string-array name="last_week_baby_title">
-        <item>Time to play</item>
-        <item>"Kiddo's weekend"</item>
-        <item>The little one</item>
+        <item>وقت بازی کردن</item>
+        <item>آخر هفته‌های نی‌نی</item>
+        <item>کوچولو</item>
     </string-array>
     <string-array name="last_weekend_title">
-        <item>My weekends</item>
-        <item>Bits of life</item>
-        <item>Weekend memories</item>
+        <item>آخر هفته‌های من</item>
+        <item>لحظات زندگی</item>
+        <item>خاطرات آخر هفته</item>
     </string-array>
     <string-array name="last_year_group_people">
-        <item>New friends and old pals</item>
-        <item>"Last year's get-togethers"</item>
+        <item>دوستان جدید و رفقای قدیمی</item>
+        <item>دورهمی‌های پارسال</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>انتقال</item>
+        <item>کپی</item>
+        <item>@string/cancel</item>
     </string-array>
     <string-array name="month">
-        <item>January</item>
-        <item>February</item>
-        <item>March</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
-    </string-array>
-    <string-array name="month_last_year">
-        <item>Last January</item>
-        <item>Last February</item>
-        <item>Last March</item>
-        <item>Last April</item>
-        <item>Last May</item>
-        <item>Last June</item>
-        <item>Last July</item>
-        <item>Last August</item>
-        <item>Last September</item>
-        <item>Last October</item>
-        <item>Last November</item>
-        <item>Last December</item>
+        <item>ژانویه</item>
+        <item>فوریه</item>
+        <item>مارس</item>
+        <item>آپریل</item>
+        <item>می</item>
+        <item>جون</item>
+        <item>جولای</item>
+        <item>آگوست</item>
+        <item>سپتامبر</item>
+        <item>اکتبر</item>
+        <item>نوامبر</item>
+        <item>دسامبر</item>
     </string-array>
     <string-array name="owner_relation">
-        <item>Father</item>
-        <item>Mother</item>
-        <item>Paternal grandfather</item>
-        <item>Paternal grandmother</item>
-        <item>Maternal grandfather</item>
-        <item>Maternal grandmother</item>
+        <item>پدر</item>
+        <item>مادر</item>
+        <item>پدربزرگ پدری</item>
+        <item>مادربزرگ پدری</item>
+        <item>پدربزرگ مادری</item>
+        <item>مادربزرگ مادری</item>
     </string-array>
     <string-array name="parties_title">
-        <item>Together</item>
-        <item>Good times</item>
-        <item>In unison</item>
+        <item>با هم</item>
+        <item>زمان‌های خوب</item>
+        <item>در اتحاد</item>
     </string-array>
     <string-array name="recent_group_people">
-        <item>Together</item>
-        <item>Bonds and ties</item>
+        <item>با هم</item>
+        <item>دست جمعی</item>
     </string-array>
     <string-array name="relation_with_me">
-        <item>Me</item>
-        <item>Child</item>
-        <item>Family</item>
-        <item>Colleagues</item>
-        <item>Classmates</item>
-        <item>Friends</item>
-        <item>Ungrouped</item>
-    </string-array>
-    <string-array name="search_voice_assistant_suggestion">
-        <item>帮我找出身份证的照片</item>
-        <item>我想看在三亚拍的照片</item>
-        <item>找出有小米文字的图片</item>
-        <item>搜索去年春节的照片</item>
-        <item>帮我搜我和妈妈上个月在海边的合影</item>
+        <item>من</item>
+        <item>بچه</item>
+        <item>خانواده</item>
+        <item>همکاران</item>
+        <item>همکلاسی‌ها</item>
+        <item>دوستان</item>
+        <item>گروه‌بندی نشده</item>
     </string-array>
     <string-array name="season">
-        <item>Spring</item>
-        <item>Summer</item>
-        <item>Autumn</item>
-        <item>Winter</item>
-    </string-array>
-    <string-array name="season_last_year">
-        <item>Last spring</item>
-        <item>Last summer</item>
-        <item>Last autumn</item>
-        <item>Last winter</item>
+        <item>بهار</item>
+        <item>تابستان</item>
+        <item>پاییز</item>
+        <item>زمستان</item>
     </string-array>
     <string-array name="sharer_relation_addressive">
-        <item>Father</item>
-        <item>Mother</item>
-        <item>Paternal grandfather</item>
-        <item>Paternal grandmother</item>
-        <item>Maternal grandfather</item>
-        <item>Maternal grandmother</item>
+        <item>پدر</item>
+        <item>مادر</item>
+        <item>پدربزرگ پدری</item>
+        <item>مادربزرگ پدری</item>
+        <item>پدربزرگ مادری</item>
+        <item>مادربزرگ مادری</item>
     </string-array>
     <string-array name="sports_title">
-        <item>Moving forward</item>
-        <item>Full of energy</item>
+        <item>حرکت به جلو</item>
+        <item>پر از انرژی</item>
     </string-array>
     <string-array name="three_month_baby_title">
-        <item>They grow so fast</item>
-        <item>"Kiddo's photos"</item>
-    </string-array>
-    <string-array name="weekend_title">
-        <item>Past weekends</item>
-        <item>Days to remember</item>
-        <item>Daily events</item>
-        <item>Ordinary &amp; Extraordinary</item>
+        <item>خیلی سریع بزرگ می‌شوند</item>
+        <item>عکس‌های نی‌نی</item>
     </string-array>
 </resources>

@@ -27,11 +27,6 @@
         <item>دوستان جدید و رفقای قدیمی</item>
         <item>دورهمی‌های پارسال</item>
     </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>انتقال</item>
-        <item>کپی</item>
-        <item>@string/cancel</item>
-    </string-array>
     <string-array name="month">
         <item>ژانویه</item>
         <item>فوریه</item>

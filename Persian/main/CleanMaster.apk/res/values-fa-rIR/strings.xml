@@ -98,7 +98,7 @@
   <string name="appcleaner_g_video_summary_wechat">Permanently delete WeChat videos</string>
   <string name="appcleaner_g_video_title_qq">QQ video cleaner</string>
   <string name="appcleaner_g_video_title_wechat">WeChat video cleaner</string>
-  <string name="appcleaner_main_cleaning">Cleaning…</string>
+  <string name="appcleaner_main_cleaning">درحال پاکسازی…</string>
   <string name="appcleaner_qq_clean_summary">Delete unnecessary items from QQ</string>
   <string name="appcleaner_qq_clean_title">App cleaner</string>
   <string name="appcleaner_qq_scanning_cache">QQ cache</string>
@@ -427,7 +427,7 @@
   <string name="hints_memory_header_left">حافظه</string>
   <string name="hints_num">0</string>
   <string name="hints_privacy_header_left">Privacy: %d</string>
-  <string name="hints_quick_cleanning">Cleaning…</string>
+  <string name="hints_quick_cleanning">درحال پاکسازی…</string>
   <string name="hints_quick_cleanuping">Optimizing…</string>
   <string name="hints_quick_deep_clean">Clean now</string>
   <string name="hints_quick_deep_scanning">Scanning</string>

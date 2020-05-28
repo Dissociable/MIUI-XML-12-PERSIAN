@@ -25,7 +25,7 @@
     <string name="dialog_btn_wifi">تغییر به Wi-Fi</string>
     <string name="dialog_stop_desc">همچنین میتوانید به طور موقت و یا دائمی توقف ایجاد کنید، انتخاب کنید.</string>
     <string name="dialog_stop_title">توقف بارگیری?</string>
-    <string name="dialog_twrp">Your internal storage is encrypted. After device is rebooted to recovery, please enter your device unlock password to continue.</string>
+    <string name="dialog_twrp">حافظه داخلی شما رمزنگاری شده است. پس از ورود به حالت Recovery، لطفا گذرواژه دستگاه خود را برای ادامه وارد نمایید.</string>
     <string name="download_done">بروزرسانی با موفقیت دانلود شد!</string>
     <string name="download_fail">خطا در دانلود بروزرسانی!</string>
     <string name="download_fail_desc">MD5 همسان نیست…</string>

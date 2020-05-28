@@ -812,8 +812,6 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">هنگام تماس نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">هنگام روشن بودن کنترل‌های والدین نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">هنگام روشن بودن بهینه‌ساز فوق‌العاده باتری نمی‌توان بین فضاها تعویض کرد</string>
-    <string name="keyguard_charged">شارژ شد</string>
-    <string name="keyguard_charging_back_to_lockscreen">بازگشت به صفحه قفل</string>
     <string name="keyguard_charging_battery_level">%s%%</string>
     <string name="keyguard_charging_info_battery_used_time_text">بر روی باتری</string>
     <string name="keyguard_charging_info_drained_power_percent_text">خالی شده</string>

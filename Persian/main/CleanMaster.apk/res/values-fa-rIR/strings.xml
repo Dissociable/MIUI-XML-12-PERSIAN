@@ -764,5 +764,4 @@
   <string name="toast_garbage_cleanup_success">Clean up finished</string>
   <string name="toast_garbage_list_empty">Everything looks good!</string>
   <string name="vungle_ad_name">Vungle广告</string>
-  <string name="yesterday">Yesterday</string>
 </resources>

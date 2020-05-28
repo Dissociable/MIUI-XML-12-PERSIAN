@@ -769,6 +769,8 @@
     <string name="media_route_button_content_description">فرستادن</string>
     <string name="media_route_chooser_extended_settings">تنظیمات</string>
     <string name="media_route_chooser_searching">در حال جستجو برای دستگاه‌ها...</string>
+    <string name="media_route_chooser_title">برقراری ارتباط با دستگاه</string>
+    <string name="media_route_chooser_title_for_remote_display">فرستادن صفحه نمایش به دستگاه</string>
     <string name="media_route_controller_disconnect">قطع ارتباط</string>
     <string name="media_route_status_available">در دسترس</string>
     <string name="media_route_status_connecting">درحال اتصال…</string>

@@ -812,6 +812,10 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">هنگام تماس نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">هنگام روشن بودن کنترل‌های والدین نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">هنگام روشن بودن بهینه‌ساز فوق‌العاده باتری نمی‌توان بین فضاها تعویض کرد</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">لازم است پس از راه‌اندازی دوباره دستگاه وارد فضای نخست شوید</string>
+    <string name="input_password_hint_text">گذرواژه را وارد کنید</string>
+    <string name="input_pattern_hint_text">الگوی باز کردن قفل خود را بکشید</string>
+    <string name="input_pin_code">PIN را وارد کنید</string>
     <string name="input_puk_code">PUK را وارد کنید</string>
     <string name="install_other_apps">نصب برنامه‌های ناشناخته</string>
     <string name="installer_cd_button_title">نصب برنامه انتقال فایل اندروید برای Mac</string>

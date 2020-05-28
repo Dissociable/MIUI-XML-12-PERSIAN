@@ -812,37 +812,6 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">هنگام تماس نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">هنگام روشن بودن کنترل‌های والدین نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">هنگام روشن بودن بهینه‌ساز فوق‌العاده باتری نمی‌توان بین فضاها تعویض کرد</string>
-    <string name="input_puk_code">PUK را وارد کنید</string>
-    <string name="install_other_apps">نصب برنامه‌های ناشناخته</string>
-    <string name="installer_cd_button_title">نصب برنامه انتقال فایل اندروید برای Mac</string>
-    <string name="instant_apps">برنامه‌های فوری</string>
-    <string name="instant_apps_help_url"></string>
-    <string name="instant_apps_message">برنامه‌های فوری لازم به نصب نیستند.</string>
-    <string name="instant_apps_message_with_help">App opened without being installed. Tap to learn more.</string>
-    <string name="instant_apps_title">%1$s running</string>
-    <string name="interruption_level_alarms">فقط هشدارها</string>
-    <string name="interruption_level_alarms_twoline">"فقط
-هشدارها"</string>
-    <string name="interruption_level_none">سکوت کامل</string>
-    <string name="interruption_level_none_twoline">"سکوت
-کامل"</string>
-    <string name="interruption_level_none_with_warning">سکوت کامل. این کار باعث ساکت کردن صفحه خوان نیز می‌شود.</string>
-    <string name="interruption_level_priority">فقط اولویت</string>
-    <string name="interruption_level_priority_twoline">"فقط
-اولویت"</string>
-    <string name="invalid_charger">"شارژر USB مورد پشتیبانی نیست.
-فقط از شارژر داده شده استفاده کنید."</string>
-    <string name="invalid_charger_text">فقط از شارژر داده شده استفاده کنید.</string>
-    <string name="invalid_charger_title">شارژر USB مورد پشتیبانی نیست.</string>
-    <string name="invalid_confirm_pin_hint">PINها با هم مطابقت ندارند</string>
-    <string name="invalid_sim_pin_hint">کد PIN باید بین ۴ تا ۸ رقم باشد</string>
-    <string name="invalid_sim_puk_hint">گذرواژه PUK باید حداقل به طول ۸ رقم باشد</string>
-    <string name="ir_mcc">432</string>
-    <string name="keep_screen_on">بیدار ماندن</string>
-    <string name="keep_screen_on_summary">نمایشگر هرگز هنگام شارژ کردن به خواب نخواهد رفت</string>
-    <string name="keyboard_key">\"</string>
-    <string name="keyboard_key_back">بازگشت</string>
-    <string name="keyboard_key_backspace">پس‌برد</string>
     <string name="keyboard_key_button_template">دکمه %1$s</string>
     <string name="keyboard_key_dpad_center">مرکز</string>
     <string name="keyboard_key_dpad_down">پایین</string>

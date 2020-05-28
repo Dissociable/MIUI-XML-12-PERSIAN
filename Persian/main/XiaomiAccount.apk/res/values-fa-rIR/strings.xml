@@ -606,14 +606,4 @@
     <string name="two_factor_auth_need_code">وارد کردن کد</string>
     <string name="two_factor_auth_need_code_summary">شما یک کد روی سایر دستگاه‌های متصل Mi خواهید دید. این کد را در دستگاه جدید وارد کرده تا وارد حساب شوید.</string>
     <string name="two_factor_auth_summary">هنگامی که می‌خواهید با یک دستگاه جدید و یا در یک منطقه جدید وارد حساب شوید، در سایر دستگاه‌های متصل نیز درباره این موضوع آگاه می‌شوید. لازم است تا شما تأیید کنید که چنین تلاشی برای ورود به حساب توسط شما مجاز است.</string>
-    <string name="update_phone_number_notice_message">پیش از اینکه بتوانید شماره تفلن را به‌روزرسانی کنید لازم است هویت خود را تأیید کنید.</string>
-    <string name="used_cloud_storage_info">فضای ذخیره‌سازی استفاده شده %s</string>
-    <string name="user_avatar_update_title">تغییر عکس نمایه</string>
-    <string name="user_avatar_uploading">چند لحظه صبر کنید…</string>
-    <string name="v7_preference_off">خاموش</string>
-    <string name="v7_preference_on">روشن</string>
-    <string name="vip_account_settings">تنظیمات VIP</string>
-    <string name="vip_settings_info">تنظیمات VIP</string>
-    <string name="weixin">WeChat</string>
-    <string name="xiao_mi_vip">Mi VIP</string>
 </resources>

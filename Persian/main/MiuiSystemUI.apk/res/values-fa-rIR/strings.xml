@@ -812,6 +812,8 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">هنگام تماس نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">هنگام روشن بودن کنترل‌های والدین نمی‌توان بین فضاها تعویض کرد</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">هنگام روشن بودن بهینه‌ساز فوق‌العاده باتری نمی‌توان بین فضاها تعویض کرد</string>
+    <string name="keyboard_key_button_template">دکمه %1$s</string>
+    <string name="keyboard_key_dpad_center">مرکز</string>
     <string name="keyboard_key_dpad_down">پایین</string>
     <string name="keyboard_key_dpad_left">چپ</string>
     <string name="keyboard_key_dpad_right">راست</string>

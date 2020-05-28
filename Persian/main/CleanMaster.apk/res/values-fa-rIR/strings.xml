@@ -725,7 +725,7 @@
   <string name="tips_low_storage_dialog_msg_wechat">WeChat cache size has reached 3GB. This might slow down your device. Clear WeChat cache now?</string>
   <string name="tips_low_storage_dialog_ok">پاک کردن</string>
   <string name="tips_low_storage_dialog_ok_storage">آزاد سازی فضا</string>
-  <string name="tips_low_storage_dialog_title">>فضای حافظه کم است</</string>
+  <string name="tips_low_storage_dialog_title">فضای حافظه کم است</string>
   <string name="tips_of_app_manage">حذف برنامه های کمتر استفاده شده جهت ذخیره حافظه</string>
   <string name="tips_of_auto_launch_manage">جلوگیری از شروع خودکار برنامه هایی که کم از آنها استفاده میکنید</string>
   <string name="tips_of_cloud_service">Sign in with your Mi Account to use more Mi services</string>

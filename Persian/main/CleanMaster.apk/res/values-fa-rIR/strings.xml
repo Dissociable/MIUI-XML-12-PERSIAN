@@ -763,12 +763,7 @@
   <string name="toast_delete_select_image_succeed">Deleted</string>
   <string name="toast_garbage_cleanup_success">Clean up finished</string>
   <string name="toast_garbage_list_empty">Everything looks good!</string>
-  <string name="virus_scan">Virus scan</string>
   <string name="vungle_ad_name">Vungle广告</string>
-  <string name="wechat_chat_data_type_cache">WeChat cache</string>
-  <string name="wechat_chat_data_type_cache_desc">"You'll be able to restore these files after you connect to the internet."</string>
-  <string name="wechat_chat_data_type_chat">Chat history</string>
-  <string name="wechat_chat_data_type_chat_desc">"You won't be able to restore chat history."</string>
   <string name="wechat_chat_data_type_normal">Trash</string>
   <string name="wechat_chat_data_type_normal_clean_tips">"These are technical files. Deleting them won't affect your usage."</string>
   <string name="wechat_chat_data_type_normal_desc">"Deleting them won't affect your usage."</string>

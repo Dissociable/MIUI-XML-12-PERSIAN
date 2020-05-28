@@ -619,6 +619,7 @@
     <string name="face_name_edit">ویرایش</string>
     <string name="face_name_input">نام را وارد کنید</string>
     <string name="face_recommend">پیشنهادات</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">عملیات کامل نشد</string>
     <string name="fail_to_pick_email">نشانی ایمیل نامعتبر</string>
     <string name="fail_to_sync_album">همگام‌سازی آلبوم انجام نشد. اتصال داده‌های خود را بررسی و دوباره تلاش کنید.</string>
@@ -629,6 +630,7 @@
     <string name="feature_guidance_photo_effects">"جلوه‌های جدید عکس
 در دسترس هستند"</string>
     <string name="feature_guidance_video_editor_smart_effects">جلوه‌های جدید در دسترس هستند</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">این مورد چاپ نمی‌شود.</string>
     <string name="file_cannot_screen_throw">این مورد بازتابانده نمی‌شود.</string>
     <string name="file_sending">درحال انتقال فایل‌ها…</string>
@@ -764,6 +766,7 @@
     <string name="gif_tip">فلش</string>
     <string name="gigabyteShort">گیگابایت</string>
     <string name="grant_permission_go_and_set">تنظیم</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"گالری برای کارکرد عادی نیاز به دسترسی به 
 %s
  دارد. روی \"تنظیم\" ضربه زده تا به مجوزها بروید."</string>
@@ -1125,6 +1128,7 @@
     <string name="people_mark_mode_title_no_mark_name">یک نفر را انتخاب کنید</string>
     <string name="people_page_label">افراد</string>
     <string name="people_page_unname">بدون نام</string>
+    <string name="percent_sign">%</string>
     <string name="permission_contacts_desc">برای اختصاص مخاطبین یا افراد در عکس‌ها</string>
     <string name="permission_contacts_name">مخاطبین</string>
     <string name="permission_optional_category">مجوزهای اختیاری</string>
@@ -1383,8 +1387,13 @@
     <string name="screen_doodle_talkback_size">عرض قلم خط‌خطی</string>
     <string name="screen_editor_btn_delete">حذف</string>
     <string name="screen_editor_btn_save">ذخیره</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">این عکس صفحه حذف شود؟</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">انجام شد</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">لغو</string>
     <string name="screen_save_dialog_btn_delete">حذف عکس صفحه</string>
     <string name="screen_save_dialog_btn_save">ذخیره در گالری</string>

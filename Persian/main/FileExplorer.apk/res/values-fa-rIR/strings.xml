@@ -345,7 +345,7 @@
     <string name="phone_storage_doc_title">Docs: </string>
     <string name="phone_storage_free_title">Available: </string>
     <string name="phone_storage_image_title">Images: </string>
-    <string name="phone_storage_info_str">%1$s of %2$s available</string>
+    <string name="phone_storage_info_str">%1$s از %2$s موجود است</string>
     <string name="phone_storage_other_title">Other: </string>
     <string name="phone_storage_size_tip">"File Manager's storage accounting may differ from other apps"</string>
     <string name="phone_storage_video_title">Videos: </string>

@@ -508,7 +508,7 @@
     <string name="sort_by_not_defined">مرتب‌سازی خودکار</string>
     <string name="start_activity_failed">لانچر آغاز نمی‌شود</string>
     <string name="starting_preset_app">در حال آغاز…</string>
-    <string name="status_bar_recent_memory_info1">%1$sB of %2$sB available</string>
+    <string name="status_bar_recent_memory_info1">%1$sB از %2$sB موجود است</string>
     <string name="status_bar_recent_memory_info2"></string>
     <string name="status_downloaded">دانلود شد</string>
     <string name="status_downloading">در حال دانلود</string>

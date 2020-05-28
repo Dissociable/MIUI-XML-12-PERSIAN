@@ -202,7 +202,7 @@ Pull down to refresh or check the network settings"</string>
     <string name="feedback_result_fail_same_type">"Looks like your report isn't different from the current weather. Try again."</string>
     <string name="feedback_result_success">Submitted successfully, thank you for your feedback.</string>
     <string name="feedback_sandy">Sandy</string>
-    <string name="feedback_sunny">پاک</string>
+    <string name="feedback_sunny">صاف</string>
     <string name="first_start_network_title">Internet connection and location access</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="global_not_enable_warning">"Can't use this app. It wasn't installed from the official sources."</string>

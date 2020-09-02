@@ -831,7 +831,6 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="rem_Duration_increase_description">Your REM sleep is too long</string>
     <string name="rem_duration">REM sleep duration</string>
     <string name="rem_duration_decrease_description">Your REM sleep is too short</string>
-    <string name="rem_duration_description">REM refers to the rapid eye movement. Sleep can be divided into rapid eye movement (REM) sleep and non-rapid eye movement (NREM) sleep. Rapid eye movement sleep accounts for about 20 to 25% of the overall sleep duration. When people wake up at this stage, 74 to 95% of them say that they have been dreaming and are able to remember their dreams. Brain is very active and the body is completely relaxed during REM sleep, which makes this sleep phase essential for maintaining cognitive functions.</string>
     <string name="rem_duration_normal_description">REM sleep duration is normal</string>
     <string name="remind">یادآوری</string>
     <string name="remind_goto_sleep">دیر وقت است. زمان رفتن به رخت خواب شده است.</string>
